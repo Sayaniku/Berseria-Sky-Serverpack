@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "BCB",
+    "ABA"
+  ],
+  "key": {
+    "C": {
+      "item": "thermal:energy_cell"
+    },
+    "A": {
+      "tag": "appliedenergistics2:crystals/certus"
+    },
+    "B": {
+      "tag": "appliedenergistics2:dusts/fluix"
+    }
+  },
+  "result": {
+    "item": "appliedenergistics2:energy_cell"
+  }
+}

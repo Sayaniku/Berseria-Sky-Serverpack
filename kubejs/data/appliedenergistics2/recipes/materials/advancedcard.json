@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AB ",
+    "CDB",
+    "AB "
+  ],
+  "key": {
+    "B": {
+      "tag": "forge:ingots/fairy"
+    },
+    "C": {
+      "tag": "forge:ingots/redstone"
+    },
+    "A": {
+      "item": "appliedenergistics2:basic_card"
+    },
+    "D": {
+      "item": "appliedenergistics2:calculation_processor"
+    }
+  },
+  "result": {
+    "item": "appliedenergistics2:advanced_card",
+    "count": 2
+  }
+}

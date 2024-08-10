@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ICI",
+    "CGC",
+    "YXY"
+  ],
+  "key": {
+    "C": {
+      "item": "thermal:rf_coil"
+    },
+    "I": {
+      "tag": "forge:storage_blocks/ardite"
+    },
+    "G": {
+      "item": "thermal:coal_coke_block"
+    },
+    "X": {
+      "item": "createaddition:alternator"
+    },
+    "Y": {
+      "tag": "forge:gears/signalum"
+    }
+  },
+  "result": {
+    "item": "thermal:dynamo_stirling"
+  }
+}

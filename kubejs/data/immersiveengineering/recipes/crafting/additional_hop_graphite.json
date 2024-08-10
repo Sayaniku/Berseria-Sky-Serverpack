@@ -1,0 +1,16 @@
+{
+    "type": "betterendforge:alloying",
+    "ingredients": [
+      {
+        "item": "immersiveengineering:dust_hop_graphite"
+      },
+      {
+        "item": "immersiveengineering:dust_hop_graphite"
+      }
+    ],
+    "result": {
+      "item": "immersiveengineering:ingot_hop_graphite",
+      "count": 3
+    },
+    "experience": 2.1
+  }

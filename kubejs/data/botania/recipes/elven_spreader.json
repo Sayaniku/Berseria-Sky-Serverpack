@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "botania:spreader",
+  "pattern": [
+    "WWW",
+    "EMP",
+    "WWW"
+  ],
+  "key": {
+    "P": {
+      "tag": "botania:petals"
+    },
+    "E": {
+      "tag": "forge:storage_blocks/elementium"
+    },
+    "W": {
+      "item": "botania:dreamwood"
+    },
+    "M": {
+      "item": "botania:mana_spreader"
+    }
+  },
+  "result": {
+    "item": "botania:elven_spreader"
+  }
+}

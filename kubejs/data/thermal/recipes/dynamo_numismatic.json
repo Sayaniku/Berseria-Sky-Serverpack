@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ICI",
+    "CGC",
+    "EXE"
+  ],
+  "key": {
+    "C": {
+      "item": "thermal:rf_coil"
+    },
+    "I": {
+      "item": "thermal:lumium_block"
+    },
+    "G": {
+      "item": "thermal:enderium_coin"
+    },
+    "X": {
+      "item": "thermal:dynamo_stirling"
+    },
+    "E": {
+      "item": "kubejs:hop_graphite_gear"
+    }
+  },
+  "result": {
+    "item": "thermal:dynamo_numismatic"
+  }
+}

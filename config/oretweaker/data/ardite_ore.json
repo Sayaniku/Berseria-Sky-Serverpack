@@ -1,0 +1,14 @@
+{
+    "oreConfig": [
+      {
+        "ore": "kubejs:ardite_ore",
+        "filler": "minecraft:netherrack",
+        "minY": 10,
+        "maxY": 35,
+        "maxVeinSize": 5,
+        "spawnRate": 5.0,
+        "biomeBlacklist": [],
+        "biomeWhitelist": ["NETHER"]
+      }
+    ]
+  }

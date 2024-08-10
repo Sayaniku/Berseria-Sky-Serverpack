@@ -1,0 +1,15 @@
+{
+    "type": "tconstruct:material_melting",
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "tconstruct"
+      }
+    ],
+    "input": "tinkers_reforged:blazing_copper",
+    "temperature": 950,
+    "result": {
+      "fluid": "tinkers_reforged:molten_blazing_copper",
+      "amount": 144
+    }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SXS",
+    "XZX",
+    "YYY"
+  ],
+  "key": {
+    "X": {
+      "type": "forge:nbt",
+      "item": "tconstruct:tough_handle",
+      "nbt": "{Material:\"tconstruct:manyullyn\"}"
+    },
+    "Y": {
+      "tag": "forge:plates/manyullyn"
+    },
+    "Z": {
+      "tag": "forge:storage_blocks/manyullyn"
+    },
+    "S": {
+      "item": "miniutilities:diamond_spikes"
+    }
+  },
+  "result": {
+    "item": "miniutilities:netherite_spikes"
+  }
+}

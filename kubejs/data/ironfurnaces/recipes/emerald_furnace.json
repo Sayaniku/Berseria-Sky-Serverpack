@@ -1,0 +1,14 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "EGE",
+    "GXG",
+    "EGE"
+  ],
+  "key": {
+    "E": {"tag": "forge:storage_blocks/lumium"},
+    "X": {"tag": "forge:furnaces/diamond"},
+    "G": {"item": "tconstruct:clear_glass"}
+  },
+  "result": {"item": "ironfurnaces:emerald_furnace"}
+}

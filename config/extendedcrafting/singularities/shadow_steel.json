@@ -1,0 +1,11 @@
+{
+    "name": "Shadow Steel",
+    "colors": [
+      "2e2742",
+      "605e6b"
+    ],
+    "ingredient": {
+      "item": "create:shadow_steel"
+    },
+    "inUltimateSingularity": false
+}

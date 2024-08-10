@@ -1,0 +1,13 @@
+{
+    "name": "Falsite",
+    "type": "resource",
+    "tier": "mysticalagriculture:4",
+    "ingredient": {
+      "item": "minecraft:air"
+    },
+    "textures": {
+      "flower": "mysticalagriculture:block/flower_falsite",
+      "essence": "mysticalagriculture:item/falsite_essence",
+      "seeds": "mysticalagriculture:item/falsite_seeds"
+    }
+  }

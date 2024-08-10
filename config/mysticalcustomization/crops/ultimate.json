@@ -1,0 +1,14 @@
+{
+    "name": "Ultimate",
+    "type": "resource",
+    "tier": "mysticalcustomization:10",
+    "ingredient": {
+      "item": "minecraft:air"
+    },
+    "textures": {
+      "flower": "mysticalagriculture:block/ultimate_flower",
+      "essence": "mysticalagriculture:item/ultimate_essence",
+      "seeds": "mysticalagriculture:item/ultimate_seed"
+    },
+    "crux":"kubejs:ultimate_crux"
+} 

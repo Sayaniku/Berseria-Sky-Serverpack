@@ -1,0 +1,65 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "compactcrafting:base"
+  },
+  "transitionalItem": {
+    "item": "compactmachines:machine_wall_break"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "compactmachines:machine_wall_break"
+        },
+        {
+          "item": "compactcrafting:projector_dish"
+        }
+      ],
+      "results": [
+        {
+          "item": "compactmachines:machine_wall_break"
+        }
+      ]
+    },
+    {
+    "type": "create:deploying",
+    "ingredients": [
+      {
+        "item": "compactmachines:machine_wall_break"
+      },
+      {
+        "item": "berseria_sky:manyerium_gear"
+      }
+    ],
+    "results": [
+      {
+        "item": "compactmachines:machine_wall_break"
+      }
+    ]
+    },
+    {
+      "type": "create:cutting",
+      "ingredients": [
+        {
+          "item": "compactmachines:machine_wall_break"
+        }
+      ],
+      "results": [
+        {
+          "item": "compactmachines:machine_wall_break"
+        }
+      ],
+      "processingTime": 100
+    }
+    
+  ],
+  "results": [
+    {
+      "item": "compactcrafting:field_projector",
+      "count": 1
+    }
+  ],
+  "loops": 1
+}

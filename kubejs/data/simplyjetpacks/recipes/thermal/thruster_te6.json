@@ -1,0 +1,35 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "IPI",
+        "PDP",
+        "UTU"
+    ],
+    "key": {
+        "I": {
+            "tag": "forge:plates/manronium_steel"
+        },
+        "P": {
+            "item": "simplyjetpacks:armorplating_te5_enderium"
+        },
+        "U": {
+            "item": "simplyjetpacks:unit_glowstone"
+        },
+        "T": {
+            "item": "simplyjetpacks:thruster_te5"
+        },
+        "D": {
+            "item": "berseria_sky:manronium_steel_core"
+        }
+    },
+    "result": {
+        "item": "simplyjetpacks:thruster_te6",
+        "count": 1
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "thermal"
+        }
+    ]
+}

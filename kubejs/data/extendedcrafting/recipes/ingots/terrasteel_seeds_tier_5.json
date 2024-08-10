@@ -1,0 +1,36 @@
+{
+    "type": "extendedcrafting:combination",
+    "powerCost": 2000000,
+    "input": {
+      "item": "kubejs:supremium_seed"
+    },
+    "ingredients": [
+      {
+        "item": "mysticalagriculture:supremium_block"
+      },
+      {
+        "item": "mysticalagriculture:supremium_block"
+      },
+      {
+        "item": "mysticalagriculture:supremium_block"
+      },
+      {
+        "item": "mysticalagriculture:supremium_block"
+      },
+      {
+        "item": "botania:terrasteel_block"
+      },
+      {
+        "item": "botania:terrasteel_block"
+      },
+      {
+        "item": "botania:terrasteel_block"
+      },
+      {
+        "item": "botania:terrasteel_block"
+      }
+    ],
+    "result": {
+      "item": "mysticalagriculture:terrasteel_seeds"
+    }
+  }

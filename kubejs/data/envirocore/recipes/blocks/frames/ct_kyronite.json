@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " C ",
+        "AFA",
+        " B "
+    ],
+    "key": {
+        "C": {
+            "item": "envirocore:kyronite_interconnect"
+        },
+        "F": {
+            "item": "envirocore:erodium_frame"
+        },
+        "A": {
+            "item": "appliedenergistics2:fluix_block"
+        },
+        "B": {
+            "item": "kubejs:diamond_block"
+        }
+    },
+    "result": {
+        "item": "envirocore:kyronite_frame",
+        "count": 1
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Gausum",
+    "colors": [
+      "8efaff",
+      "62a7b2"
+    ],
+    "ingredient": {
+      "item": "tinkers_reforged:gausum_ingot"
+    },
+    "inUltimateSingularity": false
+}

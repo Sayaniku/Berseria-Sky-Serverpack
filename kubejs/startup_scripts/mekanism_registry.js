@@ -1,0 +1,20 @@
+let $EventBuses = java('me.shedaniel.architectury.platform.forge.EventBuses')
+const $GasDeferredRegister = java('mekanism.common.registration.impl.GasDeferredRegister')
+const $InfuseTypeDeferredRegister = java('mekanism.common.registration.impl.InfuseTypeDeferredRegister')
+const $SlurryDeferredRegister = java('mekanism.common.registration.impl.SlurryDeferredRegister')
+const GASES = new $GasDeferredRegister('berseria_sky')
+const SLURRY = new $SlurryDeferredRegister('berseria_sky')
+const INFUSETYPE = new $InfuseTypeDeferredRegister('berseria_sky')
+
+GASES.register('creative', 0x8829A8)
+SLURRY.register('crystaltine', builder => builder.color(0xCDFFFF))
+INFUSETYPE.register('manyullyn', 0x9060CA)
+INFUSETYPE.register('manyerium', 0x885C73)
+INFUSETYPE.register('insanium', 0x742F94)
+INFUSETYPE.register('manronium_steel', 0x877679)
+INFUSETYPE.register('infinity', 0xEFF5F6)
+
+GASES.register($EventBuses.getModEventBus('kubejs').get())
+INFUSETYPE.register($EventBuses.getModEventBus('kubejs').get())
+SLURRY.register($EventBuses.getModEventBus('kubejs').get())
+

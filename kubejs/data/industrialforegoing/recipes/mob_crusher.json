@@ -1,0 +1,49 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "values": [
+            {
+              "item": "industrialforegoing:mob_crusher",
+              "type": "forge:item_exists"
+            }
+          ],
+          "type": "forge:and"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+          "PSP",
+          "BMB",
+          "GRG"
+        ],
+        "key": {
+          "P": {
+            "tag": "forge:plastic"
+          },
+          "S": {
+            "item": "minecraft:netherite_sword"
+          },
+          "B": {
+            "item": "compressium:gold_3"
+          },
+          "M": {
+            "tag": "industrialforegoing:machine_frame/advanced"
+          },
+          "R": {
+            "item": "compressium:redstone_3"
+          },
+          "G": {
+            "tag": "forge:gears/gold"
+          }
+        },
+        "result": {
+          "item": "industrialforegoing:mob_crusher"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "ooo",
+        "obo",
+        "ooo"
+    ],
+    "key":{
+        "o":{"item":"tconstruct:hepatizon_ingot"},
+        "b":{"tag":"forge:barrels/diamond"}
+    },
+    "result":{"item":"metalbarrels:obsidian_barrel"}
+}

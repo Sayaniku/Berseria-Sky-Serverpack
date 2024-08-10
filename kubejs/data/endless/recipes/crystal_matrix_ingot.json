@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "xyx",
+    "xyx"
+  ],
+  "key": {
+    "x": {
+      "item": "endless:diamond_lattice"
+    },
+    "y": {
+      "item": "extendedcrafting:ender_star"
+    },
+    "C": {
+      "item": "extendedcrafting:crystaltine_ingot"
+    }
+  },
+  "result": {
+    "item": "endless:crystal_matrix_ingot"
+  }
+}

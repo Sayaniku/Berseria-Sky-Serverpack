@@ -1,0 +1,34 @@
+{
+  "type": "thermal:smelter",
+  "ingredients": [
+    {
+      "value": [
+        {
+          "tag": "forge:ingots/iron"
+        } 
+      ],
+      "count": 3
+    },
+    {
+      "value": [
+        {
+          "tag": "forge:gems/quartz"
+        } 
+      ],
+      "count": 1
+    }
+  ],
+  "result": [
+    {
+      "item": "refinedstorage:quartz_enriched_iron",
+      "count": 4
+    }
+  ],
+  "energy": 10000,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "refinedstorage"
+    }
+  ]
+}

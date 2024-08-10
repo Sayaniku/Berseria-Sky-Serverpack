@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IBI",
+    "IJI",
+    "TMT"
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:storage_blocks/queens_steel"
+    },
+    "B": {
+      "item": "thermal:energy_cell"
+    },
+    "J": {
+      "item": "simplyjetpacks:jetpack_te2"
+    },
+    "T": {
+      "item": "simplyjetpacks:thruster_te3"
+    },
+    "M": {
+      "item": "berseria_sky:queens_steel_glass"
+    }
+  },
+  "result": {
+    "item": "simplyjetpacks:jetpack_te3",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "thermal"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+    "type": "cucumber:shaped_transfer_damage",
+    "pattern": [
+      " G ",
+      "IPI",
+      " G "
+    ],
+    "key": {
+      "G": {
+        "item": "kubejs:ornium_gemstone"
+      },
+      "I": {
+        "item": "kubejs:ornium_ingot"
+      },
+      "P": {
+        "item": "mysticaladaptations:insanium_helmet"
+      }
+    },
+    "result": {
+        "nbt": "{Enchantments:[{lvl:6s,id:\"minecraft:protection\"}]}",
+        "item": "kubejs:ornium_helmet",
+        "type": "minecraft:item_nbt"
+	  
+      
+      
+      
+    }
+  }

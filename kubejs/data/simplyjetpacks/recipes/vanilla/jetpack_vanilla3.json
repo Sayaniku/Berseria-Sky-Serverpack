@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DRD",
+    "DJD",
+    "TST"
+  ],
+  "key": {
+    "D": {
+      "tag": "forge:storage_blocks/slimesteel"
+    },
+    "R": {
+      "item": "extendedcrafting:redstone_ingot_block"
+    },
+    "J": {
+      "item": "simplyjetpacks:jetpack_vanilla2"
+    },
+    "T": {
+      "item": "simplyjetpacks:thruster_vanilla3"
+    },
+    "S": {
+      "item": "kubejs:slimesteel_gear"
+    }
+  },
+  "result": {
+    "item": "simplyjetpacks:jetpack_vanilla3",
+    "count": 1
+  }
+}

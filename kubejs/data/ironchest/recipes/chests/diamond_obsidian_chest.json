@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MMM",
+    "MSM",
+    "MMM"
+  ],
+  "key": {
+    "M": {"item": "tconstruct:hepatizon_ingot"},
+    "S": {"item": "ironchest:diamond_chest"}
+  },
+  "result": {
+    "item": "ironchest:obsidian_chest"
+  }
+}

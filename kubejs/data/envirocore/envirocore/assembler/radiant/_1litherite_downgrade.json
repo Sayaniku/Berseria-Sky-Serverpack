@@ -1,0 +1,16 @@
+{
+  "duration": {
+    "raw:int": 100
+  },
+  "top": {
+    "raw:item": "envirocore:litherite_interconnect"
+  },
+  "center": {
+    "raw:item": "envirocore:radiant_modifier"
+  },
+  "output": {
+    "raw:itemstack": "envirocore:radiant_modifier",
+    "nbt": "{tier:1,attributes:{\"envirocore:radiant\":0.2}}"
+  },
+  "merge_center_nbt": true
+}

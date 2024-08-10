@@ -1,0 +1,185 @@
+{
+    "type": "extendedcrafting:shaped_table",
+    "tier": 4,
+    "pattern": [
+      "AA     AA",
+      "AA     AA",
+      "AABCDEFAA",
+      "AAGHIJKAA",
+      "AALMNOPAA",
+      "AAQRSRTAA",
+      "AAUVWXYAA",
+      "AAZR1R2AA",
+      "AA34567AA"
+    ],
+    "key": {
+      "A": {
+        "item": "endless:infinity_block"
+      },
+      "B": {
+        "type": "forge:nbt",
+        "item": "mysticalagriculture:inferium_boots",
+        "count": 1,
+        "nbt": "{Damage:0}"
+      },
+      "C": {
+        "type": "forge:nbt",
+        "item": "mysticalagriculture:prudentium_boots",
+        "count": 1,
+        "nbt": "{Damage:0}"
+      },
+      "D": {
+        "type": "forge:nbt",
+        "item": "mysticalagriculture:tertium_boots",
+        "count": 1,
+        "nbt": "{Damage:0}"
+      },
+      "E": {
+        "type": "forge:nbt",
+        "item": "mysticalagriculture:imperium_boots",
+        "count": 1,
+        "nbt": "{Damage:0}"
+      },
+      "F": {
+        "type": "forge:nbt",
+        "item": "mysticalagriculture:supremium_boots",
+        "count": 1,
+        "nbt": "{Damage:0}"
+      },
+      "G": {
+        "type": "forge:nbt",
+        "item": "mysticaladaptations:insanium_boots",
+        "count": 1,
+        "nbt": "{Damage:0}"
+      },
+      "H": {
+        "item": "kubejs:ornium_boots"
+      },
+      "I": {
+        "item": "kubejs:lightium_boots"
+      },
+      "J": {
+        "item": "kubejs:tornium_boots"
+      },
+      "K": {
+        "item": "kubejs:ouranium_boots"
+      },
+      "L": {
+        "type": "forge:nbt",
+        "item": "minecraft:netherite_boots",
+        "count": 1,
+        "nbt": "{Damage:0}"
+      },
+      "M": {
+        "item": "projecte:dm_boots"
+      },
+      "N": {
+        "item": "projecte:rm_boots"
+      },
+      "O": {
+        "item": "projecte:gem_boots"
+      },
+      "P": {
+        "type": "forge:nbt",
+        "item": "betterendforge:terminite_boots",
+        "count": 1,
+        "nbt": "{Damage:0}"
+      },
+      "Q": {
+        "item": "miniutilities:infused_boots"
+      },
+      "R": {
+        "item": "endless:infinity_catalyst"
+      },
+      "S": {
+        "type": "forge:nbt",
+        "item": "botania:terrasteel_boots",
+        "count": 1,
+        "nbt": "{Damage:0}"
+      },
+      "T": {
+        "item": "miniutilities:unstable_boots"
+      },
+      "U": {
+        "type": "forge:nbt",
+        "item": "mekanismtools:refined_obsidian_boots",
+        "count": 1,
+        "nbt": "{Damage:0}"
+      },
+      "V": {
+        "type": "forge:nbt",
+        "item": "botania:elementium_boots",
+        "count": 1,
+        "nbt": "{Damage:0}"
+      },
+      "W": {
+        "type": "forge:nbt",
+        "item": "mythicbotany:alfsteel_boots",
+        "count": 1,
+        "nbt": "{Damage:0}"
+      },
+      "X": {
+        "type": "forge:nbt",
+        "item": "blue_skies:pyrope_boots",
+        "count": 1,
+        "nbt": "{Damage:0}"
+      },
+      "Y": {
+        "type": "forge:nbt",
+        "item": "mekanismtools:refined_glowstone_boots",
+        "count": 1,
+        "nbt": "{Damage:0}"
+      },
+      "Z": {
+        "type": "forge:nbt",
+        "item": "botania:manasteel_boots",
+        "count": 1,
+        "nbt": "{Damage:0}"
+      },
+      "1": {
+        "type": "forge:nbt",
+        "item": "mekanism:mekasuit_boots",
+        "count": 1,
+        "nbt": "{HideFlags:2}"
+      },
+      "2": {
+        "type": "forge:nbt",
+        "item": "blue_skies:aquite_boots",
+        "count": 1,
+        "nbt": "{Damage:0}"
+      },
+      "3": {
+        "type": "forge:nbt",
+        "item": "blue_skies:diopside_boots",
+        "count": 1,
+        "nbt": "{Damage:0}"
+      },
+      "4": {
+        "type": "forge:nbt",
+        "item": "blue_skies:charoite_boots",
+        "count": 1,
+        "nbt": "{Damage:0}"
+      },
+      "5": {
+        "type": "forge:nbt",
+        "item": "blue_skies:horizonite_boots",
+        "count": 1,
+        "nbt": "{Damage:0}"
+      },
+      "6": {
+        "type": "forge:nbt",
+        "item": "endless:crystal_matrix_boots",
+        "count": 1,
+        "nbt": "{Damage:0}"
+      },
+      "7": {
+        "type": "forge:nbt",
+        "item": "endless:neutronium_boots",
+        "count": 1,
+        "nbt": "{Damage:0}"
+      }
+    },
+    "result": {
+      "item": "endless:infinity_boots"
+    }
+  }

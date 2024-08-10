@@ -1,0 +1,27 @@
+{
+  "duration": {
+    "raw:int": 100
+  },
+  "top": {
+    "raw:item_tag": "forge:storage_blocks/redstone"
+  },
+  "bottom": {
+    "raw:item": "envirocore:pladium_interconnect"
+  },
+  "left": {
+    "raw:item": "envirocore:lonsdaleite_crystal"
+  },
+  "right": {
+    "raw:item": "envirocore:lonsdaleite_crystal"
+  },
+  "center": {
+    "raw:itemstack": "envirocore:fe_input",
+    "nbt": "{tier:3,energy:{capacity:65536}}"
+  },
+  "output": {
+    "raw:itemstack": "envirocore:fe_input",
+    "nbt": "{tier:4,energy:{capacity:524288}}"
+  },
+  "merge_center_nbt": true,
+  "override": "replace"
+}

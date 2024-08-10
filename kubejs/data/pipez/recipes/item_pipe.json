@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "DRD",
+    "III"
+  ],
+  "key": {
+    "D": {
+      "item": "speedyhoppers:speedyhopper_mk1"
+    },
+    "I": {
+      "item": "kubejs:ender_plate"
+    },
+    "R": {
+      "tag": "forge:ingots/redstone"
+    }
+  },
+  "result": {
+    "item": "pipez:item_pipe",
+    "count": 8
+  }
+}

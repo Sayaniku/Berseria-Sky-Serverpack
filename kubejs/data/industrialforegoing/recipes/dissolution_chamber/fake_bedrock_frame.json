@@ -1,0 +1,35 @@
+{
+  "input": [
+    {
+      "tag": "forge:plastic"
+    },
+    {
+      "item": "rftoolsbase:machine_frame"
+    },
+    {
+      "tag": "forge:plastic"
+    },
+    {
+      "item": "kubejs:lightium_ingot_block"
+    },
+    {
+      "item": "kubejs:lightium_ingot_block"
+    },
+    {
+      "item": "draconicevolution:chaos_shard"
+    },
+    {
+      "item": "powah:nitro_crystal_block"
+    },
+    {
+      "tag": "forge:ingots/antimatter"
+    }
+  ],
+  "inputFluid": "{FluidName:\"kubejs:mana\",Amount:10000}",
+  "processingTime": 1200,
+  "output": {
+    "item": "kubejs:bedrock",
+    "count": 1
+  },
+  "type": "industrialforegoing:dissolution_chamber"
+}

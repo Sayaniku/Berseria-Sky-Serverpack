@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " xi",
+    " -x",
+    "-  "
+  ],
+  "key": {
+    "x": {
+      "item": "minecraft:diamond"
+    },
+    "-": {
+      "item": "minecraft:stick"
+    },
+    "i": {
+      "item":"exnihilosequentia:hammer_iron"
+    }
+    
+  },
+  "result": {
+    "item": "exnihilosequentia:hammer_diamond"
+  }
+}

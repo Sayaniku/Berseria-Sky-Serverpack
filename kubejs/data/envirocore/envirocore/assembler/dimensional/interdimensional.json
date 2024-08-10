@@ -1,0 +1,25 @@
+{
+  "duration": {
+    "raw:int": 100
+  },
+  "top": {
+    "raw:item": "envirocore:xerothium_frame"
+  },
+  "bottom": {
+    "raw:item": "envirocore:xerothium_frame"
+  },
+  "left": {
+    "raw:item": "envirocore:dimensional_modifier"
+  },
+  "right": {
+    "raw:item": "envirocore:dimensional_modifier"
+  },
+  "center": {
+    "raw:item": "envirocore:null_modifier"
+  },
+  "output": {
+    "raw:itemstack": "envirocore:interdimensional_modifier",
+    "nbt": "{attributes:{\"envirocore:energy_cost_multiplier\":10.0,\"envirocore:interdimensional\":true}}"
+  },
+  "merge_center_nbt": true
+}

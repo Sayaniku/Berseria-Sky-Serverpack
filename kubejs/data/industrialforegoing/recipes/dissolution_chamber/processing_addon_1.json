@@ -1,0 +1,36 @@
+{
+  "input": [
+    {
+      "item": "kubejs:redstone_gear"
+    },
+    {
+      "item": "berseria_sky:empty_addon"
+    },
+    {
+      "item": "kubejs:redstone_gear"
+    },
+    {
+      "item": "minecraft:glass_pane"
+    },
+    {
+      "item": "minecraft:glass_pane"
+    },
+    {
+      "tag": "forge:gears/electrum"
+    },
+    {
+      "item": "ironfurnaces:gold_furnace"
+    },
+    {
+      "tag": "forge:gears/electrum"
+    }
+  ],
+  "inputFluid": "{FluidName:\"industrialforegoing:latex\",Amount:1000}",
+  "processingTime": 400,
+  "output": {
+    "item": "industrialforegoing:processing_addon_1",
+    "count": 1,
+    "nbt": "{TitaniumAugment:{Processing:2.0f}}"
+  },
+  "type": "industrialforegoing:dissolution_chamber"
+}

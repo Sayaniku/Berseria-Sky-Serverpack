@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "fluxnetworks",
+  "pattern": [
+    "BCB",
+    "FHF",
+    "BBB"
+  ],
+  "key": {
+    "C": {
+      "item": "fluxnetworks:flux_core"
+    },
+    "B": {
+      "item": "fluxnetworks:flux_block"
+    },
+    "F": {
+      "item": "fluxnetworks:flux_dust"
+    },
+    "H": {
+      "item": "ironfurnaces:heater"
+    }
+  },
+  "result": {
+    "item": "fluxnetworks:flux_controller"
+  }
+}

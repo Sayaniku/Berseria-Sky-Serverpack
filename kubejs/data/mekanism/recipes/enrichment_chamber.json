@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "result": {
+        "item": "mekanism:enrichment_chamber"
+    },
+    "pattern": [
+        "ACA",
+        "IXI",
+        "ACA"
+    ],
+    "key": {
+        "I": {
+            "item": "kubejs:enhanced_ender_gear"
+        },
+        "C": {
+            "tag": "forge:circuits/basic"
+        },
+        "A": {
+            "tag": "forge:ingots/dragon_bronze"
+        },
+        "X": {
+            "item": "mekanism:steel_casing"
+        }
+    }
+}

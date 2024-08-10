@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PLP",
+    "LGL",
+    "PLP"
+  ],
+  "key": {
+    "P": {
+      "item": "modularrouters:blank_module"
+    },
+    "L": {
+      "item": "modularrouters:blank_upgrade"
+    },
+    "G": {
+      "tag": "forge:ingots/bronze"
+    }
+  },
+  "result": {
+    "item": "modularrouters:augment_core",
+    "count": 2
+  }
+}

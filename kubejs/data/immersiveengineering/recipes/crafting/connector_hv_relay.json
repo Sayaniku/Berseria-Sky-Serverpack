@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "HIH",
+        "CIC",
+        "CIC"
+    ],
+    "key": {
+        "I": {
+            "tag": "forge:ingots/aluminum"
+        },
+        "C": {
+            "item": "immersiveengineering:insulating_glass"
+        },
+        "H": {
+            "item": "immersiveengineering:connector_hv"
+        }
+    },
+    "result": {
+        "item": "immersiveengineering:connector_hv_relay",
+        "count": 2
+    }
+}

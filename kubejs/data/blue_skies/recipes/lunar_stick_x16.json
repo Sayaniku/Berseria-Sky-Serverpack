@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "sticks",
+    "pattern": [
+      "#",
+      "#"
+    ],
+    "key": {
+      "#": {
+        "tag": "blue_skies:logs/lunar"
+      }
+    },
+    "result": {
+      "item": "blue_skies:lunar_stick",
+      "count": 16
+    }
+}

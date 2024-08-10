@@ -1,0 +1,93 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "compactmachines:wall"
+  },
+  "transitionalItem": {
+    "item": "compactmachines:machine_wall_break"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "compactmachines:machine_wall_break"
+        },
+        {
+          "item": "connectedglass:clear_glass"
+        }
+      ],
+      "results": [
+        {
+          "item": "compactmachines:machine_wall_break"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "compactmachines:machine_wall_break"
+        },
+        {
+          "item": "kubejs:manyullyn_plate"
+        }
+      ],
+      "results": [
+        {
+          "item": "compactmachines:machine_wall_break"
+        }
+      ]
+    },
+  
+  {
+    "type": "create:deploying",
+    "ingredients": [
+      {
+        "item": "compactmachines:machine_wall_break"
+      },
+      {
+        "item": "minecraft:ender_eye"
+      }
+    ],
+    "results": [
+      {
+        "item": "compactmachines:machine_wall_break"
+      }
+    ]
+    },
+    {
+      "type": "create:cutting",
+      "ingredients": [
+        {
+          "item": "compactmachines:machine_wall_break"
+        }
+      ],
+      "results": [
+        {
+          "item": "compactmachines:machine_wall_break"
+        }
+      ],
+      "processingTime": 100
+    }
+    
+  ],
+  "results": [
+    {
+      "item": "compactcrafting:projector_dish",
+      "count": 1,
+      "chance": 6.0
+    },
+    {
+      "item": "connectedglass:clear_glass",
+      "chance": 2.0
+    },
+    {
+      "item": "mekanism:nugget_steel"
+    },
+    {
+      "item": "tconstruct:manyullyn_nugget"
+    }
+  ],
+  "loops": 4
+}

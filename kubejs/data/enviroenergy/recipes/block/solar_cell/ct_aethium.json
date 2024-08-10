@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "www",
+    "cSc"
+  ],
+  "key": {
+    "c": {
+      "item": "envirocore:aethium_interconnect"
+    },
+    "w": {
+      "item": "envirocore:aethium_wafer"
+    },
+    "S": {
+      "item": "enviroenergy:ionite_solar_cell"
+    }
+  },
+  "result": {
+    "item": "enviroenergy:aethium_solar_cell",
+    "count": 1
+  }
+}

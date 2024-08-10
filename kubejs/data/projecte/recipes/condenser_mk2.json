@@ -1,0 +1,47 @@
+{
+    "type": "extendedcrafting:shaped_table",
+    "tier": 4,
+    "pattern": [
+        "ABBBBBBBA",
+        "BCDDDDDCB",
+        "BDEFFFEDB",
+        "BDFGHGFDB",
+        "BDFHIHFDB",
+        "BDFGHGFDB",
+        "BDEFFFEDB",
+        "BCDDDDDCB",
+        "ABBBBBBBA"
+    ],
+    "key": {
+        "A": {
+            "item": "projecte:alchemical_chest"
+        },
+        "B": {
+            "item": "extendedcrafting:black_iron_block"
+        },
+        "C": {
+            "item": "projectex:compressed_refined_link"
+        },
+        "D": {
+            "item": "projectex:orange_matter"
+        },
+        "E": {
+            "item": "projecte:klein_star_omega"
+        },
+        "F": {
+            "item": "projectex:white_matter"
+        },
+        "G": {
+            "item": "mekanism:block_antimatter"
+        },
+        "H": {
+            "item": "draconicevolution:chaotic_core"
+        },
+        "I": {
+            "item": "projecte:condenser_mk1"
+        }
+    },
+    "result": {
+        "item": "projecte:condenser_mk2"
+    }
+}

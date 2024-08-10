@@ -1,0 +1,13 @@
+{
+    "name": "Duralumin",
+    "type": "resource",
+    "tier": "mysticalagriculture:5",
+    "ingredient": {
+      "item": "minecraft:air"
+    },
+    "textures": {
+      "flower": "mysticalagriculture:block/flower_duralumin",
+      "essence": "mysticalagriculture:item/duralumin_essence",
+      "seeds": "mysticalagriculture:item/duralumin_seeds"
+    }
+}

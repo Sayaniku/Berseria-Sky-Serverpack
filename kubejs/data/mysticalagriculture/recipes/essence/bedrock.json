@@ -1,0 +1,17 @@
+{
+    "type": "cucumber:shaped_no_mirror",
+    "pattern": [
+      "EEE",
+      "EEE",
+      "EEE"
+    ],
+    "key": {
+      "E": {
+        "item": "mysticalagriculture:bedrock_essence"
+      }
+    },
+    "result": {
+      "item": "kubejs:bedrock",
+      "count": 1
+    }
+  }

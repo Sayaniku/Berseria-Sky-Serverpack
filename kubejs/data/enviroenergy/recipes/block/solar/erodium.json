@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "cCc",
+    "CLC",
+    "cCc"
+  ],
+  "key": {
+    "c": {
+      "item": "envirocore:erodium"
+    },
+    "C": {
+      "item": "enviroenergy:erodium_solar_cell"
+    },
+    "L": {
+      "item": "enviroenergy:litherite_solar_ccu"
+    }
+  },
+  "result": {
+    "item": "enviroenergy:erodium_solar_ccu",
+    "count": 1
+  }
+}

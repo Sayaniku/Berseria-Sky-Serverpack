@@ -1,0 +1,292 @@
+[
+    {
+        "type": "block",
+        "key": "berseria_sky:elinvonze_block",
+        "rarity": "rare",
+        "create": 200,
+        "maintain": 200,
+        "ticks": 100,
+        "worldgen": true,
+        "dimlet": true
+    },
+    {
+        "type": "block",
+        "key": "kubejs:aquamarine_block",
+        "rarity": "uncommon",
+        "create": 200,
+        "maintain": 200,
+        "ticks": 100,
+        "worldgen": true,
+        "dimlet": true
+    },
+    {
+        "type": "block",
+        "key": "kubejs:ardite_block",
+        "rarity": "common",
+        "create": 200,
+        "maintain": 200,
+        "ticks": 100,
+        "worldgen": true,
+        "dimlet": true
+    },
+    {
+        "type": "block",
+        "key": "kubejs:ardite_ore",
+        "rarity": "uncommon",
+        "create": 200,
+        "maintain": 200,
+        "ticks": 100,
+        "worldgen": true,
+        "dimlet": true
+    },
+    {
+        "type": "block",
+        "key": "kubejs:platinum_block",
+        "rarity": "rare",
+        "create": 200,
+        "maintain": 200,
+        "ticks": 100,
+        "worldgen": true,
+        "dimlet": true
+    },
+    {
+        "type": "block",
+        "key": "kubejs:hop_graphite_block",
+        "rarity": "common",
+        "create": 200,
+        "maintain": 200,
+        "ticks": 100,
+        "worldgen": true,
+        "dimlet": true
+    },
+    {
+        "type": "block",
+        "key": "berseria_sky:manronium_steel_block",
+        "rarity": "legendary",
+        "create": 600,
+        "maintain": 600,
+        "ticks": 300,
+        "worldgen": true,
+        "dimlet": true
+    },
+    {
+        "type": "block",
+        "key": "kubejs:sun_block",
+        "rarity": "legendary",
+        "create": 600,
+        "maintain": 600,
+        "ticks": 300,
+        "worldgen": true,
+        "dimlet": true
+    },
+    {
+        "type": "block",
+        "key": "kubejs:moon_block",
+        "rarity": "legendary",
+        "create": 600,
+        "maintain": 600,
+        "ticks": 300,
+        "worldgen": true,
+        "dimlet": true
+    },
+    {
+        "type": "block",
+        "key": "berseria_sky:manyerium_block",
+        "rarity": "legendary",
+        "create": 600,
+        "maintain": 600,
+        "ticks": 300,
+        "worldgen": true,
+        "dimlet": true
+    },
+    {
+        "type": "block",
+        "key": "berseria_sky:fayronium_block",
+        "rarity": "legendary",
+        "create": 600,
+        "maintain": 600,
+        "ticks": 300,
+        "worldgen": true,
+        "dimlet": true
+    },
+    {
+        "type": "block",
+        "key": "berseria_sky:queens_steel_block",
+        "rarity": "legendary",
+        "create": 600,
+        "maintain": 600,
+        "ticks": 300,
+        "worldgen": true,
+        "dimlet": true
+    },
+    {
+        "type": "block",
+        "key": "kubejs:ornium_block",
+        "rarity": "legendary",
+        "create": 600,
+        "maintain": 600,
+        "ticks": 300,
+        "worldgen": true,
+        "dimlet": true
+    },
+    {
+        "type": "block",
+        "key": "kubejs:ornium_ingot_block",
+        "rarity": "legendary",
+        "create": 600,
+        "maintain": 600,
+        "ticks": 300,
+        "worldgen": true,
+        "dimlet": true
+    },
+    {
+        "type": "block",
+        "key": "kubejs:ornium_gemstone_block",
+        "rarity": "legendary",
+        "create": 600,
+        "maintain": 600,
+        "ticks": 300,
+        "worldgen": true,
+        "dimlet": true
+    },
+    {
+        "type": "block",
+        "key": "kubejs:ornium_coal_block",
+        "rarity": "legendary",
+        "create": 600,
+        "maintain": 600,
+        "ticks": 300,
+        "worldgen": true,
+        "dimlet": true
+    },
+    {
+        "type": "block",
+        "key": "kubejs:lightium_block",
+        "rarity": "legendary",
+        "create": 600,
+        "maintain": 600,
+        "ticks": 300,
+        "worldgen": true,
+        "dimlet": true
+    },
+    {
+        "type": "block",
+        "key": "kubejs:lightium_ingot_block",
+        "rarity": "legendary",
+        "create": 600,
+        "maintain": 600,
+        "ticks": 300,
+        "worldgen": true,
+        "dimlet": true
+    },
+    {
+        "type": "block",
+        "key": "kubejs:lightium_gemstone_block",
+        "rarity": "legendary",
+        "create": 600,
+        "maintain": 600,
+        "ticks": 300,
+        "worldgen": true,
+        "dimlet": true
+    },
+    {
+        "type": "block",
+        "key": "kubejs:lightium_coal_block",
+        "rarity": "legendary",
+        "create": 600,
+        "maintain": 600,
+        "ticks": 300,
+        "worldgen": true,
+        "dimlet": true
+    },
+    {
+        "type": "block",
+        "key": "kubejs:tornium_block",
+        "rarity": "legendary",
+        "create": 600,
+        "maintain": 600,
+        "ticks": 300,
+        "worldgen": true,
+        "dimlet": true
+    },
+    {
+        "type": "block",
+        "key": "kubejs:tornium_ingot_block",
+        "rarity": "legendary",
+        "create": 600,
+        "maintain": 600,
+        "ticks": 300,
+        "worldgen": true,
+        "dimlet": true
+    },
+    {
+        "type": "block",
+        "key": "kubejs:tornium_coal_block",
+        "rarity": "legendary",
+        "create": 600,
+        "maintain": 600,
+        "ticks": 300,
+        "worldgen": true,
+        "dimlet": true
+    },
+    {
+        "type": "block",
+        "key": "kubejs:tornium_gemstone_block",
+        "rarity": "legendary",
+        "create": 600,
+        "maintain": 600,
+        "ticks": 300,
+        "worldgen": true,
+        "dimlet": true
+    },
+    {
+        "type": "block",
+        "key": "kubejs:ouranium_block",
+        "rarity": "legendary",
+        "create": 600,
+        "maintain": 600,
+        "ticks": 300,
+        "worldgen": true,
+        "dimlet": true
+    },
+    {
+        "type": "block",
+        "key": "kubejs:ouranium_ingot_block",
+        "rarity": "legendary",
+        "create": 600,
+        "maintain": 600,
+        "ticks": 300,
+        "worldgen": true,
+        "dimlet": true
+    },
+    {
+        "type": "block",
+        "key": "kubejs:ouranium_gemstone_block",
+        "rarity": "legendary",
+        "create": 600,
+        "maintain": 600,
+        "ticks": 300,
+        "worldgen": true,
+        "dimlet": true
+    },
+    {
+        "type": "block",
+        "key": "kubejs:ouranium_coal_block",
+        "rarity": "legendary",
+        "create": 600,
+        "maintain": 600,
+        "ticks": 300,
+        "worldgen": true,
+        "dimlet": true
+    },
+    {
+        "type": "block",
+        "key": "betterendforge:terminite_block",
+        "rarity": "legendary",
+        "create": 400,
+        "maintain": 400,
+        "ticks": 300,
+        "worldgen": true,
+        "dimlet": true
+    }
+]

@@ -1,0 +1,27 @@
+{
+  "type": "excompressum:compressed_hammer",
+  "input": {
+    "item": "excompressum:compressed_cobblestone"
+  },
+  "lootTable": {
+    "type": "minecraft:block",
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "excompressum:compressed_gravel",
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "conditions": []
+      }
+    ]
+  }
+}

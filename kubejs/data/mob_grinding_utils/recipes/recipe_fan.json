@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SIS",
+    "IRI",
+    "SIS"
+  ],
+  "key": {
+    "S": {
+      "item": "compressium:stone_2"
+    },
+    "I": {
+      "tag": "forge:plates/ardite"
+    },
+    "R": {
+      "item": "create:encased_fan"
+    }
+  },
+  "result": {
+    "item": "mob_grinding_utils:fan"
+  }
+}

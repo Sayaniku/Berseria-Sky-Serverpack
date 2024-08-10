@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "CDA",
+    "ABA"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:sticky_piston"
+    },
+    "A": {
+      "tag": "forge:ingots/terrasteel"
+    },
+    "C": {
+      "item": "appliedenergistics2:fluix_pearl"
+    },
+    "D": {
+      "item": "berseria_sky:controller_casing"
+    }
+  },
+  "result": {
+    "item": "appliedenergistics2:inscriber"
+  }
+}

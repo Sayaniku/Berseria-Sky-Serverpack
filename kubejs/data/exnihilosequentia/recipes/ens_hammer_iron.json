@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " xi",
+    " -x",
+    "-  "
+  ],
+  "key": {
+    "x": {
+      "item": "minecraft:iron_ingot"
+    },
+    "-": {
+      "item": "minecraft:stick"
+    },
+    "i": {
+      "item":"exnihilosequentia:hammer_stone"
+    }
+  },
+  "result": {
+    "item": "exnihilosequentia:hammer_iron"
+  }
+} 

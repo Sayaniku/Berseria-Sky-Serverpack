@@ -1,0 +1,14 @@
+{
+    "name": "§6Manronium Steel",
+    "type": "resource",
+    "tier": "mysticalcustomization:9",
+    "ingredient": {
+      "item": "minecraft:air"
+    },
+    "textures": {
+      "flower": "mysticalagriculture:block/flower_manronium_steel",
+      "essence": "mysticalagriculture:item/manronium_steel_essence",
+      "seeds": "mysticalagriculture:item/manronium_steel_seeds"
+    }
+    
+  }

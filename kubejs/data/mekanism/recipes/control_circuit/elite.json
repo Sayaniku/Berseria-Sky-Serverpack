@@ -1,0 +1,7 @@
+{
+    "type":"mekanism:metallurgic_infusing",
+    "itemInput":{
+        "ingredient":{"tag":"forge:circuits/advanced"}},
+        "infusionInput":{"amount":60,"infuse_type":"berseria_sky:insanium"},
+        "output":{"item":"mekanism:elite_control_circuit"
+}}

@@ -1,0 +1,25 @@
+{
+  "type": "botania:mana_upgrade",
+  "pattern": [
+    "ITI",
+    "ILI",
+    " M "
+  ],
+  "key": {
+    "T": {
+      "item": "botania:mana_tablet"
+    },
+    "I": {
+      "tag": "forge:ingots/terrasteel"
+    },
+    "L": {
+      "item": "botania:livingwood_twig"
+    },
+    "M": {
+      "item": "botania:elementium_pickaxe"
+    }
+  },
+  "result": {
+    "item": "botania:terra_pick"
+  }
+}

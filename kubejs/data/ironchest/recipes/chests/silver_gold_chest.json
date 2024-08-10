@@ -1,0 +1,16 @@
+{
+  
+      "type": "minecraft:crafting_shaped",
+      "pattern": [
+          "MMM",
+          "MSM",
+          "MMM"
+        ],
+        "key": {
+          "M": {"tag":"forge:ingots/electrum"},
+          "S": {"item":"ironchest:silver_chest"}
+        },
+        "result": {"item": "ironchest:gold_chest"}
+      }
+    
+  

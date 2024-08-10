@@ -1,0 +1,5 @@
+{
+    "type":"botanypots:soil",
+    "input":{"item":"mysticalagradditions:awakened_draconium_crux"},
+    "display":{"block":"mysticalagradditions:awakened_draconium_crux"},
+    "categories":["awakened_crux"],"growthModifier":0}

@@ -1,0 +1,23 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "excompressum:compressed_end_stone"
+      },
+      {
+        "item": "tconstruct:hepatizon_block"
+      },
+      {
+        "fluid": "tconstruct:molten_enderium",
+        "nbt": {},
+        "amount": 1000
+      }
+    ],
+    "results": [
+      {
+        "fluid": "kubejs:molten_end",
+        "amount": 1000
+      }
+    ],
+    "heatRequirement": "superheated"
+  }

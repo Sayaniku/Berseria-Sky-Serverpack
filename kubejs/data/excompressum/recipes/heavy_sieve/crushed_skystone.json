@@ -1,0 +1,13 @@
+{
+  "type": "excompressum:heavy_sieve_generated",
+  "input": {
+    "item": "kubejs:compressed_crushed_sky_stone"
+  },
+  "source": "exnihilosequentia:crushed_skystone",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "exnihilosequentia"
+    }
+  ]
+}

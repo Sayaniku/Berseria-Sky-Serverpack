@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " G ",
+    "GFG",
+    "GBG"
+  ],
+  "key": {
+    "G": {
+      "item": "kubejs:slimesteel_plate"
+    },
+    "F": {
+      "item": "simplyjetpacks:thruster_vanilla2"
+    },
+    "B": {
+      "item": "botania:blaze_block"
+    }
+  },
+  "result": {
+    "item": "simplyjetpacks:thruster_vanilla3",
+    "count": 1
+  }
+}

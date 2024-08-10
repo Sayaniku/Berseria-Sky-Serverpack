@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["GAG","ASA", "RBR"],
+  "key": {
+    "A": {"item": "appliedenergistics2:fluix_pearl"
+    },
+    "B": {"item": "appliedenergistics2:wireless_receiver"
+    },
+    "R": {"item": "createaddition:overcharged_alloy"
+    },
+    "S": {"item": "appliedenergistics2:singularity"
+    },
+    "G": {"item": "tinkers_reforged:gausum_ingot"
+    }
+  },
+
+    "result": {
+      "item": "ae2wtlib:infinity_booster_card"
+    }
+  
+}

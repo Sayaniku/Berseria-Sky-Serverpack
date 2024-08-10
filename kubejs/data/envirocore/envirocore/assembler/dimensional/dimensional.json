@@ -1,0 +1,25 @@
+{
+  "duration": {
+    "raw:int": 100
+  },
+  "top": {
+    "raw:item": "envirocore:ionite_frame"
+  },
+  "bottom": {
+    "raw:item": "envirocore:ionite_frame"
+  },
+  "left": {
+    "raw:item": "envirocore:amplification_modifier"
+  },
+  "right": {
+    "raw:item": "envirocore:bandwidth_modifier"
+  },
+  "center": {
+    "raw:item": "envirocore:null_modifier"
+  },
+  "output": {
+    "raw:itemstack": "envirocore:dimensional_modifier",
+    "nbt": "{attributes:{\"envirocore:energy_cost_multiplier\":5.0,\"envirocore:dimensional\":true}}"
+  },
+  "merge_center_nbt": true
+}

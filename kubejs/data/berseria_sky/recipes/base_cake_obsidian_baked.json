@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+      "item": "berseria_sky:base_obsidian_cake"
+    },
+    "result": "berseria_sky:baked_obsidian_cake",
+    "experience": 0.0,
+    "cookingtime": 100
+  }

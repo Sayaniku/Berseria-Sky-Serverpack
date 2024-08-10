@@ -1,0 +1,13 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "SSS",
+        "SIS",
+        "SSS"
+    ],
+    "key":{
+        "S":{"tag":"forge:ingots/steel"},
+        "I":{"item":"metalbarrels:copper_to_iron"}
+    },
+    "result":{"item":"metalbarrels:iron_to_silver"}
+}

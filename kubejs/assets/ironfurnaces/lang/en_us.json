@@ -1,0 +1,22 @@
+{
+    "block.ironfurnaces.iron_furnace": "Ardite Furnace",
+    "container.ironfurnaces.iron_furnace": "Ardite Furnace",
+
+    "block.ironfurnaces.silver_furnace": "Steel Furnace",
+    "container.ironfurnaces.silver_furnace": "Steel Furnace",
+
+    "block.ironfurnaces.gold_furnace": "Electrum Furnace",
+    "container.ironfurnaces.gold_furnace": "Electrum Furnace",
+
+    "block.ironfurnaces.diamond_furnace": "Invar Furnace",
+    "container.ironfurnaces.diamond_furnace": "Invar Furnace",
+
+    "block.ironfurnaces.emerald_furnace": "Lumium Furnace",
+    "container.ironfurnaces.emerald_furnace": "Lumium Furnace",
+
+    "block.ironfurnaces.obsidian_furnace": "Hepatizon Furnace",
+    "container.ironfurnaces.obsidian_furnace": "Hepatizon Furnace",
+
+    "block.ironfurnaces.netherite_furnace": "Manyullyn Furnace",
+    "container.ironfurnaces.netherite_furnace": "Manyullyn Furnace"
+}

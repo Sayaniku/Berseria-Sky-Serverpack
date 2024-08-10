@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "EHE",
+    "GTG"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_bars"
+    },
+    "E": {
+      "item": "minecraft:ender_eye"
+    },
+    "H": {
+      "item": "goldenhopper:golden_hopper"
+    },
+    "T": {
+      "item": "mob_grinding_utils:tank"
+    },
+    "G": {
+      "item": "connectedglass:clear_glass"
+    }
+  },
+  "result": {
+    "item": "mob_grinding_utils:tank_sink"
+  }
+}

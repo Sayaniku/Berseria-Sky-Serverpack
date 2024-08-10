@@ -1,0 +1,23 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "excompressum:compressed_dirt"
+      },
+      {
+        "item": "mysticalagriculture:earth_agglomeratio"
+      },
+      {
+        "fluid": "tconstruct:molten_queens_slime",
+        "nbt": {},
+        "amount": 1000
+      }
+    ],
+    "results": [
+      {
+        "fluid": "kubejs:molten_overworld",
+        "amount": 1000
+      }
+    ],
+    "heatRequirement": "superheated"
+  }

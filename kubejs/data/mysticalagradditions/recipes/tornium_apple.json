@@ -1,0 +1,18 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+      " E ",
+      "EAE",
+      " E "
+    ],
+    "key": {
+      "A": {
+        "item": "kubejs:lightium_apple"
+      },
+      "E": {
+        "item": "kubejs:tornium_essence"
+      }
+    },
+    "result": {
+      "item": "kubejs:tornium_apple"
+}}

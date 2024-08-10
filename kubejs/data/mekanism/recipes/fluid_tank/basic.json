@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "AIA",
+        "IDI",
+        "AIA"
+    ],
+    "key": {
+        "I": {
+            "tag": "forge:ingots/manyullyn"
+        },
+        "A": {
+            "tag": "forge:plates/redstone"
+        },
+        "D": {
+            "item": "miniutilities:stone_drum"
+        }
+    },
+    "result": {
+        "item": "mekanism:basic_fluid_tank"
+    }
+}

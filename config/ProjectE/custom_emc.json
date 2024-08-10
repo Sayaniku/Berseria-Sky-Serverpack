@@ -1,0 +1,36 @@
+{
+  "entries": [
+    {
+      "item": "tconstruct:cobalt_ingot",
+      "emc": 2000
+    },
+    {
+      "item": "projecte:transmutation_table",
+      "emc": 0
+    },
+    {
+      "item": "extendedcrafting:ultimate_singularity",
+      "emc": 0
+    },
+    {
+      "item": "kubejs:emerald_ingot",
+      "emc": 65536
+    },
+    {
+      "item": "kubejs:diamond_ingot",
+      "emc": 32768
+    },
+    {
+      "item": "projecte:collector_mk1",
+      "emc": 20000
+    },
+    {
+      "item": "mysticalagriculture:inferium_essence",
+      "emc": 200000
+    },
+    {
+      "item": "extendedcrafting:redstone_ingot",
+      "emc": 768
+    }
+  ]
+}

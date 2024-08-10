@@ -1,0 +1,63 @@
+{
+      "type": "extendedcrafting:shaped_table",
+      "tier": 4,
+      "pattern": [
+        "ABCDEDCBA",
+        "FGHIJIHGK",
+        "LHMNONMHP",
+        "DINQRQNID",
+        "SJORTROJS",
+        "DINQRQNID",
+        "UHMNONMHV",
+        "WGHIJIHGX",
+        "ABCDEDCBA"
+      ],
+      "key": {
+        "A": {"item": "berseria_sky:coks_ingot"},
+        "B": {"item": "endless:star_fuel"},
+        "C": {"item": "kubejs:stabilized_antimatter_bucket"},
+        "D": {"item": "berseria_sky:infinite_control_circuit"},
+        "E": {"item": "immersiveengineering:capacitor_creative"},
+        "F": {"item": "powah:energy_cell_creative"},
+        "G": {"item": "mekanism:hydrofluoric_acid_bucket"},
+        "H": {"item": "berseria_sky:enriched_infinity"},
+        "I": {"item": "mekanism:advanced_chemical_tank"},
+        "J": {"item": "mekanism:ethene_bucket"},
+        "K": {"item": "create:creative_motor"},
+        "L": {"type": "forge:nbt",
+          "item": "tconstruct:creative_slot",
+          "count": 1, "nbt": "{slot:\"souls\"}"},
+        "M": {"item": "mekanism:oxygen_bucket"},
+        "N": {"item": "berseria_sky:alloy_infinity"},
+        "O": {"item": "mekanismgenerators:deuterium_bucket"},
+        "P": {"type": "forge:nbt",
+          "item": "tconstruct:creative_slot",
+          "count": 1, "nbt": "{slot:\"defense\"}"
+        },
+        "Q": {"item": "mekanismgenerators:fusion_fuel_bucket"},
+        "R": {"item": "mekanism:ultimate_chemical_tank"},
+        "S": {"item": "kubejs:creative_crux"},
+        "T": {"item": "berseria_sky:ball_of_hakai"},
+        "U": {
+          "type": "forge:nbt",
+          "item": "tconstruct:creative_slot",
+          "count": 1,
+          "nbt": "{slot:\"abilities\"}"
+        },
+        "V": {
+          "type": "forge:nbt",
+          "item": "tconstruct:creative_slot",
+          "count": 1,
+          "nbt": "{slot:\"upgrades\"}"
+        },
+        "W": {
+          "item": "simplyjetpacks:jetpack_creative_armored"
+        },
+        "X": {
+          "item": "draconicevolution:creative_capacitor"
+        }
+      },
+      "result": {
+        "item": "mekanism:creative_chemical_tank"
+      }
+    }

@@ -1,0 +1,33 @@
+{
+    "type": "extendedcrafting:shaped_table",
+    "tier":4,
+    "pattern": [
+      "ABBCCCBBA",
+      "DEFGGGFEO",
+      "HIJKKKJIH",
+      "CGKLLLKGC",
+      "CGKLMLKGC",
+      "CGKLLLKGC",
+      "NIJKKKJIN",
+      "DEFGGGFEO",
+      "ABBCCCBBA"
+    ],
+    "key": {
+      "A": {"item": "berseria_sky:clauclau_ingot"},
+      "B": {"item": "kubejs:creative_plate"},
+      "C": {"item": "powah:energy_cell_blazing"},
+      "D": {"item": "cagedmobs:creative_upgrade"},
+      "E": {"item": "powah:charged_snowball"},
+      "F": {"item": "thermal:rf_coil_creative_augment"},
+      "G": {"item": "powah:energy_cell_niotic"},
+      "H": {"item": "immersiveengineering:capacitor_creative"},
+      "I": {"item": "thermal:machine_efficiency_creative_augment"},
+      "J": {"item": "powah:ender_core"},
+      "K": {"item": "powah:energy_cell_spirited"},
+      "L": {"item": "powah:energy_cell_nitro"},
+      "M": {"item": "berseria_sky:ball_of_hakai"},
+      "N": {"item": "create:creative_motor"},
+      "O": {"item": "draconicevolution:creative_capacitor"}
+    },
+    "result": {"item": "powah:energy_cell_creative"}
+  }

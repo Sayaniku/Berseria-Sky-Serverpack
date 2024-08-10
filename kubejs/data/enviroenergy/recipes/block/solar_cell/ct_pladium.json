@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "www",
+    "cSc"
+  ],
+  "key": {
+    "c": {
+      "item": "envirocore:pladium_interconnect"
+    },
+    "w": {
+      "item": "envirocore:pladium_wafer"
+    },
+    "S": {
+      "item": "enviroenergy:kyronite_solar_cell"
+    }
+  },
+  "result": {
+    "item": "enviroenergy:pladium_solar_cell",
+    "count": 1
+  }
+}

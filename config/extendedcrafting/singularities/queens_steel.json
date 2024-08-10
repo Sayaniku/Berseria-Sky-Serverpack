@@ -1,0 +1,11 @@
+{
+    "name": "Queen's Steel",
+    "colors": [
+      "529a82",
+      "529a82"
+    ],
+    "ingredient": {
+      "tag": "forge:ingots/queens_steel"
+    },
+    "inUltimateSingularity": true
+  }

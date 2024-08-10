@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "gcg",
+    "clc",
+    "gcg"
+  ],
+  "key": {
+    "g": {
+      "tag": "forge:storage_blocks/elinvonze"
+    },
+    "c": {
+      "item": "minecraft:comparator"
+    },
+    "l": {
+      "item": "envirocore:flash_memory"
+    }
+  },
+  "result": {
+    "item": "envirocore:cpu",
+    "count": 1
+  }
+}

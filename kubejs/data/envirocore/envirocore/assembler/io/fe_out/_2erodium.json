@@ -1,0 +1,27 @@
+{
+  "duration": {
+    "raw:int": 100
+  },
+  "top": {
+    "raw:item": "envirocore:erodium_interconnect"
+  },
+  "bottom": {
+    "raw:item_tag": "forge:storage_blocks/redstone"
+  },
+  "left": {
+    "raw:item_tag": "forge:ingots/iron"
+  },
+  "right": {
+    "raw:item_tag": "forge:ingots/iron"
+  },
+  "center": {
+    "raw:itemstack": "envirocore:fe_output",
+    "nbt": "{tier:1,energy:{capacity:1024}}"
+  },
+  "output": {
+    "raw:itemstack": "envirocore:fe_output",
+    "nbt": "{tier:2,energy:{capacity:8192}}"
+  },
+  "merge_center_nbt": true,
+  "override": "replace"
+}

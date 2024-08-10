@@ -1,0 +1,14 @@
+{
+    "type": "tconstruct:material_melting",
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "tconstruct"
+      }
+    ],
+    "input": "berseria_sky:tornium",
+    "temperature": 2400,
+    "result": {
+      "fluid": "kubejs:molten_tornium",
+      "amount": 144
+}} 

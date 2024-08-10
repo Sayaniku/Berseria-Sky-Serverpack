@@ -1,0 +1,23 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "ESE",
+    "SDS",
+    "ESE"
+  ],
+  "key": {
+    "E": {
+      "item": "mysticalagriculture:imperium_essence"
+    },
+    "S": {
+      "item": "mysticalagriculture:tertium_growth_accelerator"
+    },
+    "D": {
+      "item": "mysticalagriculture:imperium_gemstone"
+    }
+  },
+  "result": {
+    "item": "mysticalagriculture:imperium_growth_accelerator",
+    "count": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "www",
+    "cSc"
+  ],
+  "key": {
+    "c": {
+      "item": "envirocore:xerothium_interconnect"
+    },
+    "w": {
+      "item": "envirocore:xerothium_wafer"
+    },
+    "S": {
+      "item": "enviroenergy:nanorite_solar_cell"
+    }
+  },
+  "result": {
+    "item": "enviroenergy:xerothium_solar_cell",
+    "count": 1
+  }
+}

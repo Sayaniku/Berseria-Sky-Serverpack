@@ -1,0 +1,11 @@
+{
+    "name": "Blazing Copper",
+    "colors": [
+      "ec751b",
+      "ba3e1b"
+    ],
+    "ingredient": {
+      "item": "tinkers_reforged:blazing_copper_ingot"
+    },
+    "inUltimateSingularity": false
+}

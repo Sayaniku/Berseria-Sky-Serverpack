@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SMS",
+    "SSS",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "tag": "forge:ingots/elementium"
+    },
+    "M": {
+      "item": "botania:manasteel_chestplate"
+    }
+  },
+  "result": {
+    "item": "botania:elementium_chestplate"
+  }
+}

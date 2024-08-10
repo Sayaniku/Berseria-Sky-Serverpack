@@ -1,0 +1,24 @@
+{
+  "override": "replace",
+  "duration": {
+    "raw:int": 100
+  },
+  "top": {
+    "raw:item": "extendedcrafting:redstone_ingot"
+  },
+  "bottom": {
+    "raw:item": "extendedcrafting:redstone_ingot"
+  },
+  "left": {
+    "raw:item": "extendedcrafting:redstone_ingot"
+  },
+  "right": {
+    "raw:item": "extendedcrafting:redstone_ingot"
+  },
+  "center": {
+    "raw:item": "envirocore:obsidian_plate"
+  },
+  "output": {
+    "raw:item": "envirocore:redstone_imbued_obsidian_plate"
+  }
+}

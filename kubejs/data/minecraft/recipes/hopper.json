@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ICI",
+    "IHI",
+    " I "
+  ],
+  "key": {
+    "C": {
+      "item": "ironchest:copper_chest"
+    },
+    "I": {
+      "item": "immersiveengineering:plate_steel"
+    },
+    "H": {
+      "item": "create:chute"
+    }
+  },
+  
+  "result": {
+    "item": "minecraft:hopper"
+  }
+}

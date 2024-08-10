@@ -1,0 +1,7 @@
+{
+    "type":"mekanism:metallurgic_infusing",
+    "itemInput":{
+        "ingredient":{"tag":"forge:circuits/basic"}},
+        "infusionInput":{"amount":40,"infuse_type":"berseria_sky:manyerium"},
+        "output":{"item":"mekanism:advanced_control_circuit"
+        }}

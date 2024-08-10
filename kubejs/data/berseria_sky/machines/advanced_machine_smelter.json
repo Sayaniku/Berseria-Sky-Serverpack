@@ -1,0 +1,245 @@
+{
+    "name": "Advanced Induction Smelter",
+    "appearance": {
+      "block": "berseria_sky:machine/advanced_smelter_idle_model",
+      "item": "berseria_sky:machine/advanced_smelter_idle_model",
+      "sound": "minecraft:iron_block",
+      "lightlevel": 0,
+      "color": 16777215,
+      "hardness": 3.5,
+      "resistance": 3.5,
+      "tool": "pickaxe",
+      "mininglevel": 1,
+      "shape": [[0, 0, 0, 1, 1, 1]],
+      "running": {
+        "block": "berseria_sky:machine/advanced_smelter_active_model",
+        "light": 10
+      },
+      "idle": {
+        "block": "berseria_sky:machine/advanced_smelter_idle_model"
+      }   
+   },
+  "components": [
+      {
+        "type": "custommachinery:energy",
+        "capacity": 1000000,
+        "maxInput": 1000000,
+        "maxOutput":1000000
+      },
+      {
+        "mode": "input",
+        "id": "input1",
+        "type": "custommachinery:item"
+      },
+      {
+        "mode": "input",
+        "id": "input2",
+        "type": "custommachinery:item"
+      },
+      {
+        "mode": "input",
+        "id": "input3",
+        "type": "custommachinery:item"
+      },
+      {
+        "mode": "output",
+        "id": "output1",
+        "type": "custommachinery:item"
+      },
+      {
+        "mode": "output",
+        "id": "output2",
+        "type": "custommachinery:item"
+      },
+      {
+        "mode": "output",
+        "id": "output3",
+        "type": "custommachinery:item"
+      },
+      {
+        "mode": "output",
+        "id": "output4",
+        "type": "custommachinery:item"
+      },
+      { 
+        "mode": "input",
+        "id": "upgrade",
+        "type": "custommachinery:item",
+        "variant": "custommachinery:upgrade",
+        "filter": ["thermal:machine_speed_augment", "thermal_extra:advanced_machine_speed_augment"],
+        "whitelist": true,
+        "capacity": 4
+      },
+      { 
+        "mode": "input",
+        "id": "upgrade1",
+        "type": "custommachinery:item",
+        "variant": "custommachinery:upgrade",
+        "filter": ["thermal:upgrade_augment_1", "thermal:upgrade_augment_2","thermal:upgrade_augment_3","thermal_extra:dragon_integral_component"],
+        "whitelist": true,
+        "capacity": 1
+      }
+    ],
+  "gui": [
+      {
+        "texture": "berseria_sky:textures/gui/advanced_smelter.png",
+        "type": "custommachinery:texture",
+        "x": 0,
+        "y": 0  
+      },
+      {
+        "type": "custommachinery:player_inventory",
+        "x": 7,
+        "y": 83
+        
+      },
+      {
+        "type": "custommachinery:energy",
+        "emptytexture":"berseria_sky:textures/gui/base_energy_storage_empty.png",
+        "filledtexture":"berseria_sky:textures/gui/base_energy_storage_filled.png",
+        "x": 9,
+        "y": 34 
+      },
+      {
+        "type": "custommachinery:slot",
+        "id": "input1",
+        "x": 50,
+        "y": 34 
+      },
+      {
+        "type": "custommachinery:slot",
+        "id": "input2",
+        "x": 68,
+        "y": 34  
+      },
+      {
+        "type": "custommachinery:slot",
+        "id": "input3",
+        "x": 86,
+        "y": 34  
+      },
+      {
+        "type": "custommachinery:slot",
+        "id": "output1",
+        "x": 130,
+        "y": 25 
+      },
+      {
+        "type": "custommachinery:slot",
+        "id": "output2",
+        "x": 148,
+        "y": 25
+      },
+      {
+        "type": "custommachinery:slot",
+        "id": "output3",
+        "x": 130,
+        "y": 43 
+      },
+      {
+        "type": "custommachinery:slot",
+        "id": "output4",
+        "x": 148,
+        "y": 43 
+      },
+      {
+        "type": "custommachinery:slot",
+        "id": "upgrade",
+        "texture": "berseria_sky:textures/gui/base_upgrade_slot.png",
+        "x": 28,
+        "y": 34
+      },
+      {
+        "type": "custommachinery:slot",
+        "id": "upgrade1",
+        "texture": "berseria_sky:textures/gui/base_upgrade_slot.png",
+        "x": 28,
+        "y": 52
+      },
+      {
+        "type": "custommachinery:progress",
+        "x": 105,
+        "y": 35 
+      },
+      {
+        "type": "custommachinery:status",
+        "x": 8,
+        "y": 18 
+      },
+      {
+        "text": "Advanced Induction Smelter",
+        "x": 15,
+        "y": 5,
+        "type": "custommachinery:text"
+      }
+    ],
+  "jei": [
+        {
+          "type": "custommachinery:energy",
+          "emptytexture":"berseria_sky:textures/gui/base_energy_storage_empty.png",
+          "filledtexture":"berseria_sky:textures/gui/base_energy_storage_filled.png",
+          "x": 50,
+          "y": 30 
+        },
+        {
+          "x": 91,
+          "y": 42,
+          "type": "custommachinery:slot",
+          "id": "input1"
+        },
+        {
+          "x": 109,
+          "y": 42,
+          "type": "custommachinery:slot",
+          "id": "input2"
+        },
+        {
+          "x": 127,
+          "y": 42,
+          "type": "custommachinery:slot",
+          "id": "input3"
+        },
+        {
+          "id": "output1",
+          "x": 171,
+          "y": 32,
+          "type": "custommachinery:slot"
+        },
+        {
+          "id": "output2",
+          "x": 189,
+          "y": 32,
+          "type": "custommachinery:slot"
+        },
+        {
+          "id": "output3",
+          "x": 171,
+          "y": 50,
+          "type": "custommachinery:slot"
+        },
+        {
+          "id": "output4",
+          "x": 189,
+          "y": 50,
+          "type": "custommachinery:slot"
+        },
+        {
+          "type": "custommachinery:progress",
+          "x": 145,
+          "y": 43 
+        },
+        {
+          "type": "custommachinery:status",
+          "x": 49,
+          "y": 15  
+        },
+        {
+          "text": "Advanced Induction Smelter",
+          "x": 55,
+          "y": 5,
+          "type": "custommachinery:text"
+        }
+    ],
+    "catalysts": ["thermal:machine_smelter"]
+    
+  }

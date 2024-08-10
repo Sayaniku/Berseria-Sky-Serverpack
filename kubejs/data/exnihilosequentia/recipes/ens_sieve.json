@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "P P",
+    "PLP",
+    "S S"
+  ],
+  "key": {
+    "P": {
+      "tag": "forge:planks"
+    },
+    "L": {
+      "tag": "forge:slabs"
+    },
+    "S": {
+      "item": "quark:stick_block"
+    }
+  },
+  "result": {
+    "item": "exnihilosequentia:sieve"
+  }
+}

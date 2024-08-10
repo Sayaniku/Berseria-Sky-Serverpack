@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " G ",
+    "GFG",
+    "GBG"
+  ],
+  "key": {
+    "G": {
+      "tag": "forge:plates/rose_gold"
+    },
+    "F": {
+      "item": "simplyjetpacks:thruster_vanilla1"
+    },
+    "B": {
+      "item": "botania:blaze_block"
+    }
+  },
+  "result": {
+    "item": "simplyjetpacks:thruster_vanilla2",
+    "count": 1
+  }
+}

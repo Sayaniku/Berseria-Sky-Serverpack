@@ -1,0 +1,27 @@
+{
+  "duration": {
+    "raw:int": 100
+  },
+  "top": {
+    "raw:item": "envirocore:erodium_interconnect"
+  },
+  "bottom": {
+    "raw:item": "envirocore:lonsdaleite_crystal"
+  },
+  "left": {
+    "raw:item": "envirocore:mica"
+  },
+  "right": {
+    "raw:item": "envirocore:mica"
+  },
+  "center": {
+    "raw:itemstack": "envirocore:amplification_modifier",
+    "nbt": "{tier:1,attributes:{\"envirocore:energy_cost_multiplier\":1.0,\"envirocore:amplification\":0.2}}"
+  },
+  "output": {
+    "raw:itemstack": "envirocore:amplification_modifier",
+    "nbt": "{tier:2,attributes:{\"envirocore:energy_cost_multiplier\":1.1,\"envirocore:amplification\":0.4}}"
+  },
+  "merge_center_nbt": true,
+  "override": "replace"
+}

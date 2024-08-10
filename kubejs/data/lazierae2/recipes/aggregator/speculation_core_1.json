@@ -1,0 +1,19 @@
+{
+  "type": "lazierae2:aggregator",
+  "process_time": 60,
+  "energy_cost": 600,
+  "output": {
+    "item": "lazierae2:speculation_core_1"
+  },
+  "input": [
+    {
+      "item": "appliedenergistics2:smooth_sky_stone_block"
+    },
+    {
+      "item": "appliedenergistics2:matter_ball"
+    },
+    {
+      "tag": "forge:dusts/carbonic_fluix"
+    }
+  ]
+}

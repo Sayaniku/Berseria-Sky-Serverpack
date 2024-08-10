@@ -1,0 +1,11 @@
+{
+    "name": "Basalz",
+    "colors": [
+      "554b45",
+      "554b45"
+    ],
+    "ingredient": {
+      "item": "thermal:basalz_rod"
+    },
+    "inUltimateSingularity": false
+}

@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XBX",
+    "IAI",
+    "XBX"
+  ],
+  "key": {
+    "B": {
+      "tag": "forge:gears/bronze"
+    },
+    "I": {
+      "tag": "forge:plates/invar"
+    },
+    "X": {
+      "item": "thermal:redstone_servo"
+    },
+    "A": {
+      "item": "thermal_extra:augment_base"
+    }
+  },
+  "result": {
+    "item": "thermal:machine_output_augment"
+  },
+  "conditions": [
+    {
+      "flag": "machine_augments",
+      "type": "thermal:flag"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Antimatter",
+    "type": "resource",
+    "tier": "mysticalcustomization:9",
+    "ingredient": {
+        "item": "minecraft:air"
+    },
+    "textures": {
+        "flower": "mysticalagriculture:block/flower_antimatter",
+        "essence": "mysticalagriculture:item/antimatter_essence",
+        "seeds": "mysticalagriculture:item/antimatter_seeds"
+    },
+    "crux": "kubejs:antimatter_crux"
+}

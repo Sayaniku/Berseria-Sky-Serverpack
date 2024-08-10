@@ -1,0 +1,37 @@
+{
+    "type": "extendedcrafting:combination",
+    "powerCost": 2000000,
+    "input": {
+      "item": "kubejs:supremium_seed"
+    },
+    "ingredients": [
+      {
+        "item": "mysticalagriculture:supremium_block"
+      },
+      {
+        "item": "mysticalagriculture:supremium_block"
+      },
+      {
+        "item": "mysticalagriculture:supremium_block"
+      },
+      {
+        "item": "mysticalagriculture:supremium_block"
+      },
+      {
+        "item": "draconicevolution:draconium_block"
+      },
+      {
+        "item": "draconicevolution:draconium_block"
+      },
+      {
+        "item": "draconicevolution:draconium_block"
+      },
+      {
+        "item": "draconicevolution:draconium_block"
+      }
+    ],
+    "result": {
+      "item": "mysticalagriculture:draconium_seeds"
+    }
+  }
+  

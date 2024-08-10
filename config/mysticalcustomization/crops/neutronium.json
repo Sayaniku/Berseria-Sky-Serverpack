@@ -1,0 +1,14 @@
+{
+    "name": "Neutronium",
+    "type": "resource",
+    "tier": "mysticalcustomization:10",
+    "ingredient": {
+        "item": "minecraft:air"
+    },
+    "textures": {
+        "flower": "mysticalagriculture:block/neutronium_flower",
+        "essence": "mysticalagriculture:item/neutronium_essence",
+        "seeds": "mysticalagriculture:item/neutronium_seeds"
+    },
+    "crux": "kubejs:neutronium_crux"
+}

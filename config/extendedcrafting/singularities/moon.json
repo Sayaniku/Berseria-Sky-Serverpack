@@ -1,0 +1,11 @@
+{
+    "name": "Moon",
+    "colors": [
+      "9097a5",
+      "dce4f2"
+    ],
+    "ingredient": {
+      "item": "kubejs:moon_ingot"
+    },
+    "inUltimateSingularity": true
+  }

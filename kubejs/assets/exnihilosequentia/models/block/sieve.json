@@ -1,0 +1,7 @@
+{
+  "parent": "exnihilosequentia:block/sieve_base",
+  "textures": {
+    "texture":"exnihilosequentia:block/oak_sieve",
+    "particle": "minecraft:block/oak_planks"
+  }
+}

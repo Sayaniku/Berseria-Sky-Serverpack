@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "iri",
+    "ili",
+    "iri"
+  ],
+  "key": {
+    "i": {
+      "item": "extendedcrafting:black_iron_block"
+    },
+    "r": {
+      "item": "minecraft:repeater"
+    },
+    "l": {
+      "item": "envirocore:litherite"
+    }
+  },
+  "result": {
+    "item": "envirocore:volatile_memory",
+    "count": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Supremium",
+    "colors": [
+      "850000",
+      "c00606"
+    ],
+    "ingredient": {
+      "item": "mysticalagriculture:supremium_ingot"
+    },
+    "inUltimateSingularity": true
+  }

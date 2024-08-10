@@ -1,0 +1,309 @@
+{
+  "type": "extendedcrafting:shapeless_table",
+  "tier": 4,
+  "ingredients": [
+    {
+      "item": "create:creative_crate"
+    },
+    {
+      "item": "simplyjetpacks:jetpack_creative_armored"
+    },
+    {
+      "type": "forge:nbt",
+      "item": "endless:infinity_pickaxe",
+      "count": 1,
+      "nbt": "{Damage:0,Unbreakable:1b}"
+    },
+    {
+      "type": "forge:nbt",
+      "item": "endless:infinity_axe",
+      "count": 1,
+      "nbt": "{Damage:0,Unbreakable:1b}"
+    },
+    {
+      "type": "forge:nbt",
+      "item": "endless:infinity_shovel",
+      "count": 1,
+      "nbt": "{Damage:0,Unbreakable:1b}"
+    },
+    {
+      "type": "forge:nbt",
+      "item": "endless:infinity_hoe",
+      "count": 1,
+      "nbt": "{Damage:0,Unbreakable:1b}"
+    },
+    {
+      "type": "forge:nbt",
+      "item": "endless:infinity_sword",
+      "count": 1,
+      "nbt": "{Damage:0,Unbreakable:1b}"
+    },
+    {
+      "item": "createaddition:creative_energy"
+    },
+    {
+      "item": "create:creative_crate"
+    },
+    {
+      "item": "create:creative_blaze_cake"
+    },
+    {
+      "item": "draconicevolution:creative_capacitor"
+    },
+    {
+      "item": "kubejs:creative_crux"
+    },
+    {
+      "item": "endless:infinity_catalyst"
+    },
+    {
+      "item": "create:creative_fluid_tank"
+    },
+    {
+      "item": "endless:infinity_catalyst"
+    },
+    {
+      "item": "compressium:lapis_9"
+    },
+    {
+      "item": "draconicevolution:creative_capacitor"
+    },
+    {
+      "item": "create:creative_blaze_cake"
+    },
+    {
+      "item": "extendedcrafting:compressor"
+    },
+    {
+      "type": "forge:nbt",
+      "item": "extendedcrafting:singularity",
+      "count": 1,
+      "nbt": "{Id:\"extendedcrafting:creative\"}"
+    },
+    {
+      "item": "immersiveengineering:capacitor_creative"
+    },
+    {
+      "item": "thermal:rf_coil_creative_augment"
+    },
+    {
+      "type": "forge:nbt",
+      "item": "tconstruct:creative_slot",
+      "count": 1,
+      "nbt": "{slot:\"defense\"}"
+    },
+    {
+      "item": "thermal:rf_coil_creative_augment"
+    },
+    {
+      "item": "compressium:quartz_9"
+    },
+    {
+      "type": "forge:nbt",
+      "item": "extendedcrafting:singularity",
+      "count": 1,
+      "nbt": "{Id:\"extendedcrafting:creative\"}"
+    },
+    {
+      "item": "compressium:diorite_9"
+    },
+    {
+      "item": "berseria_sky:god_block"
+    },
+    {
+      "type": "forge:nbt",
+      "item": "tconstruct:creative_slot",
+      "count": 1,
+      "nbt": "{slot:\"sensor\"}"
+    },
+    {
+      "item": "thermal:machine_efficiency_creative_augment"
+    },
+    {
+      "item": "compressium:cobblestone_9"
+    },
+    {
+      "item": "projectex:final_star"
+    },
+    {
+      "item": "endless:infinity_chest"
+    },
+    {
+      "item": "thermal:machine_efficiency_creative_augment"
+    },
+    {
+      "item": "pipez:infinity_upgrade"
+    },
+    {
+      "item": "berseria_sky:god_block"
+    },
+    {
+      "item": "botania:creative_pool"
+    },
+    {
+      "item": "compressium:granite_9"
+    },
+    {
+      "type": "forge:nbt",
+      "item": "tconstruct:creative_slot",
+      "count": 1,
+      "nbt": "{slot:\"abilities\"}"
+    },
+    {
+      "item": "storagedrawers:creative_storage_upgrade"
+    },
+    {
+      "item": "storagedrawers:creative_vending_upgrade"
+    },
+    {
+      "item": "storagedrawers:creative_storage_upgrade"
+    },
+    {
+      "type": "forge:nbt",
+      "item": "tconstruct:creative_slot",
+      "count": 1,
+      "nbt": "{slot:\"souls\"}"
+    },
+    {
+      "item": "compressium:granite_9"
+    },
+    {
+      "item": "botania:creative_pool"
+    },
+    {
+      "item": "compressium:redstone_9"
+    },
+    {
+      "item": "solarflux:sp_custom_infinity"
+    },
+    {
+      "item": "thermal:machine_catalyst_creative_augment"
+    },
+    {
+      "item": "projectex:final_compressed_collector"
+    },
+    {
+      "item": "projectex:final_star"
+    },
+    {
+      "item": "compressium:diamond_9"
+    },
+    {
+      "item": "thermal:machine_catalyst_creative_augment"
+    },
+    {
+      "item": "solarflux:sp_custom_infinity"
+    },
+    {
+      "item": "compressium:redstone_9"
+    },
+    {
+      "item": "berseria_sky:god_block"
+    },
+    {
+      "type": "forge:nbt",
+      "item": "extendedcrafting:singularity",
+      "count": 1,
+      "nbt": "{Id:\"extendedcrafting:creative\"}"
+    },
+    {
+      "item": "immersiveengineering:capacitor_creative"
+    },
+    {
+      "item": "thermal:fluid_tank_creative_augment"
+    },
+    {
+      "type": "forge:nbt",
+      "item": "tconstruct:creative_slot",
+      "count": 1,
+      "nbt": "{slot:\"upgrades\"}"
+    },
+    {
+      "item": "thermal:fluid_tank_creative_augment"
+    },
+    {
+      "item": "compressium:clay_9"
+    },
+    {
+      "type": "forge:nbt",
+      "item": "extendedcrafting:singularity",
+      "count": 1,
+      "nbt": "{Id:\"extendedcrafting:creative\"}"
+    },
+    {
+      "item": "berseria_sky:god_block"
+    },
+    {
+      "item": "powah:energy_cell_creative"
+    },
+    {
+      "type": "forge:nbt",
+      "item": "botania:mana_tablet",
+      "count": 1,
+      "nbt": "{mana:500000,creative:1b}"
+    },
+    {
+      "item": "mekanism:creative_chemical_tank"
+    },
+    {
+      "item": "endless:infinity_catalyst"
+    },
+    {
+      "item": "create:creative_fluid_tank"
+    },
+    {
+      "item": "endless:infinity_catalyst"
+    },
+    {
+      "item": "mekanism:creative_fluid_tank"
+    },
+    {
+      "item": "compressium:dirt_9"
+    },
+    {
+      "item": "powah:energy_cell_creative"
+    },
+    {
+      "item": "create:creative_crate"
+    },
+    {
+      "item": "draconicevolution:creative_op_capacitor"
+    },
+    {
+      "type": "forge:nbt",
+      "item": "endless:infinity_helmet",
+      "count": 1,
+      "nbt": "{Damage:0,Unbreakable:1b}"
+    },
+    {
+      "type": "forge:nbt",
+      "item": "endless:infinity_chestplate",
+      "count": 1,
+      "nbt": "{Damage:0,Unbreakable:1b}"
+    },
+    {
+      "type": "forge:nbt",
+      "item": "endless:infinity_leggings",
+      "count": 1,
+      "nbt": "{Damage:0,Unbreakable:1b}"
+    },
+    {
+      "type": "forge:nbt",
+      "item": "endless:infinity_boots",
+      "count": 1,
+      "nbt": "{Damage:0,Unbreakable:1b}"
+    },
+    {
+      "item": "endless:infinity_chest"
+    },
+    {
+      "item": "draconicevolution:creative_op_capacitor"
+    },
+    {
+      "item": "create:creative_crate"
+    }
+    ],
+    "result": {
+      "item": "modularrouters:creative_module"
+    }
+  }

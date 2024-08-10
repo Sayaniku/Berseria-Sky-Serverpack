@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "STS",
+    "TBT",
+    "STS"
+  ],
+  "key": {
+    "T": {
+      "tag": "forge:plates/cobalt"
+    },
+    "S": {
+      "tag": "forge:gears/signalum"
+    },
+    "B": {
+      "item": "thermal_extra:augment_base"
+    }
+  },
+  "result": {
+    "item": "thermal:item_filter_augment"
+  },
+  "conditions": [
+    {
+      "flag": "filter_augments",
+      "type": "thermal:flag"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+    "type": "industrialforegoing:dissolution_chamber",
+    "input": [
+      {
+        "item": "thermal:iron_plate"
+      },
+      {
+        "item": "thermal:iron_plate"
+      },
+      {
+        "item": "thermal:iron_plate"
+      },
+      {
+        "item": "minecraft:white_stained_glass_pane"
+      },
+      {
+        "item": "minecraft:white_stained_glass_pane"
+      },
+      {
+        "item": "immersiveengineering:plate_steel"
+      },
+      {
+        "item": "minecraft:iron_block"
+      },
+      {
+        "item": "immersiveengineering:plate_steel"
+      }
+    ],
+    "inputFluid": "{FluidName:\"industrialforegoing:latex\",Amount:1000}",
+    "processingTime": 500,
+    "output": {
+      "item": "berseria_sky:empty_addon",
+      "count": 1
+    }
+    
+  }

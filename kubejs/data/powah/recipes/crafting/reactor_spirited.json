@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"ULU",
+		"LCL",
+		"ULU"
+	],
+	"key": {
+		"L": {
+			"item": "powah:spirited_crystal_block"
+		},
+		"C": {
+			"item": "powah:capacitor_spirited"
+		},
+		"U": {
+			"item": "powah:reactor_niotic"
+		}
+	},
+	"result": {
+		"item": "powah:reactor_spirited",
+		"count": 4
+	}
+}

@@ -1,0 +1,49 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "values": [
+            {
+              "item": "industrialforegoing:dissolution_chamber",
+              "type": "forge:item_exists"
+            }
+          ],
+          "type": "forge:and"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+          "PCP",
+          "BMB",
+          "GDG"
+        ],
+        "key": {
+          "P": {
+            "tag": "forge:plastic"
+          },
+          "C": {
+            "item": "ironchest:iron_chest"
+          },
+          "B": {
+            "item": "miniutilities:iron_drum"
+          },
+          "M": {
+            "tag": "industrialforegoing:machine_frame/pity"
+          },
+          "G": {
+            "item": "minecraft:amethyst_block"
+          },
+          "D": {
+            "tag": "forge:gears/netherite"
+          }
+        },
+        "result": {
+          "item": "industrialforegoing:dissolution_chamber"
+        }
+      }
+    }
+  ]
+}

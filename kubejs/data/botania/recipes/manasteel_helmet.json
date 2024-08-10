@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "SMS"
+  ],
+  "key": {
+    "S": {
+      "tag": "forge:ingots/manasteel"
+    }, 
+    "M":{ 
+    "item": "botania:manaweave_helmet"
+  }
+  },
+  "result": {
+    "item": "botania:manasteel_helmet"
+  }
+}

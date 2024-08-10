@@ -1,0 +1,11 @@
+{
+  "name": "Bronze",
+  "colors": [
+    "a87544",
+    "a87544"
+  ],
+  "ingredient": {
+    "item": "thermal:bronze_ingot"
+  },
+  "inUltimateSingularity": true
+}

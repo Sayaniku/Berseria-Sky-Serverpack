@@ -1,0 +1,11 @@
+{
+    "name": "Terminite",
+    "colors": [
+      "71f3e8",
+      "71f3e8"
+    ],
+    "ingredient": {
+      "item": "betterendforge:terminite_ingot"
+    },
+    "inUltimateSingularity": true
+}

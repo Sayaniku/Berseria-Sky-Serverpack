@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "www",
+    "cSc"
+  ],
+  "key": {
+    "c": {
+      "item": "envirocore:litherite_interconnect"
+    },
+    "w": {
+      "item": "envirocore:litherite_wafer"
+    },
+    "S": {
+      "tag": "envirocore:structure/panels"
+    }
+  },
+  "result": {
+    "item": "enviroenergy:litherite_solar_cell",
+    "count": 1
+  }
+}

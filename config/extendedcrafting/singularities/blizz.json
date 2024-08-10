@@ -1,0 +1,11 @@
+{
+    "name": "Blizz",
+    "colors": [
+      "3ad7ec",
+      "3ad7ec"
+    ],
+    "ingredient": {
+      "item": "thermal:blizz_rod"
+    },
+    "inUltimateSingularity": false
+}

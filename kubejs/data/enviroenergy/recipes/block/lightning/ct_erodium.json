@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "cRc",
+    "cCc",
+    "ccc"
+  ],
+  "key": {
+    "R": {
+      "item": "enviroenergy:insulated_lightning_rod"
+    },
+    "C": {
+      "item": "enviroenergy:litherite_lightning_ccu"
+    },
+    "c": {
+      "item": "envirocore:erodium"
+    }
+  },
+  "result": {
+    "item": "enviroenergy:erodium_lightning_ccu",
+    "count": 1
+  }
+}

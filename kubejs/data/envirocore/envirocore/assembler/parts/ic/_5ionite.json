@@ -1,0 +1,24 @@
+{
+  "duration": {
+    "raw:int": 100
+  },
+  "top": {
+    "raw:item": "envirocore:ionite_crystal"
+  },
+  "bottom": {
+    "raw:item": "envirocore:ionite_crystal"
+  },
+  "left": {
+    "raw:item": "envirocore:ionite_crystal"
+  },
+  "right": {
+    "raw:item": "envirocore:ionite_crystal"
+  },
+  "center": {
+    "raw:item": "envirocore:pladium_interconnect"
+  },
+  "output": {
+    "raw:itemstack": "envirocore:ionite_interconnect"
+  },
+  "override": "replace"
+}

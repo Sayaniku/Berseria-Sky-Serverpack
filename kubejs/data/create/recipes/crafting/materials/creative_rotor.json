@@ -1,0 +1,32 @@
+{
+	"type": "create:mechanical_crafting",
+	"pattern": [
+		"AA     AA",
+		"AABKIKBAA",
+		" BDLHLDB ",
+		" JLFFFLJ ",
+		" IHFGFHI ",
+		" JLFFFLJ ",
+		" CDLHLDC ",
+		"AACEIECAA",
+        "AA     AA"
+	],
+	"key": {
+		"A": {"item": "compressium:stone_3"},
+		"B": {"item": "thermal:rf_coil_creative_augment"},
+		"C": {"item": "thermal:machine_efficiency_creative_augment"},
+        "D": {"item": "berseria_sky:drimoz_ingot"},
+        "E": {"item": "cagedmobs:creative_upgrade"},
+        "F": {"item": "extendedcrafting:black_iron_block"},
+        "G": {"item": "immersiveengineering:capacitor_creative"},
+        "H": {"item": "createaddition:electric_motor"},
+        "I": {"item": "createaddition:alternator"},
+        "J": {"item": "endless:cosmic_meatballs"},
+        "K": {"type": "forge:nbt",
+              "item": "tconstruct:creative_slot","count": 1,
+              "nbt": "{slot:\"upgrades\"}"},
+        "L": {"item": "kubejs:creative_plate"}   
+	},
+	"result": {"item": "create:creative_motor","count": 1},
+	"acceptMirrored": false
+}

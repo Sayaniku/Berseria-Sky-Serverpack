@@ -1,0 +1,27 @@
+{
+  "duration": {
+    "raw:int": 100
+  },
+  "top": {
+    "raw:item": "envirocore:xerothium_interconnect"
+  },
+  "bottom": {
+    "raw:item": "envirocore:lonsdaleite_crystal"
+  },
+  "left": {
+    "raw:item": "envirocore:mica"
+  },
+  "right": {
+    "raw:item": "envirocore:mica"
+  },
+  "center": {
+    "raw:itemstack": "envirocore:amplification_modifier",
+    "nbt": "{tier:7,attributes:{\"envirocore:energy_cost_multiplier\":1.6,\"envirocore:amplification\":1.4}}"
+  },
+  "output": {
+    "raw:itemstack": "envirocore:amplification_modifier",
+    "nbt": "{tier:8,attributes:{\"envirocore:energy_cost_multiplier\":1.7,\"envirocore:amplification\":1.6}}"
+  },
+  "merge_center_nbt": true,
+  "override": "replace"
+}

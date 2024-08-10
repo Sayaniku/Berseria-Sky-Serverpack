@@ -1,0 +1,13 @@
+{
+    "name": "§cArdite",
+    "type": "resource",
+    "tier": "mysticalagriculture:4",
+    "ingredient": {
+      "item": "minecraft:air"
+    },
+    "textures": {
+      "flower": "mysticalagriculture:block/flower_ardite",
+      "essence": "mysticalagriculture:item/ardite_essence",
+      "seeds": "mysticalagriculture:item/ardite_seeds"
+    }
+  }

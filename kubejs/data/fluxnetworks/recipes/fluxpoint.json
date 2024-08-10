@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "fluxnetworks",
+  "pattern": [
+    "AcA",
+    "cbc",
+    "AcA"
+  ],
+  "key": {
+    "c": {
+      "item": "fluxnetworks:flux_core"
+    },
+    "b": {
+      "item": "extendedcrafting:redstone_ingot_block"
+    },
+    "A": {
+      "item": "kubejs:insanium_plate"
+    }
+  },
+  "result": {
+    "item": "fluxnetworks:flux_point"
+  }
+}

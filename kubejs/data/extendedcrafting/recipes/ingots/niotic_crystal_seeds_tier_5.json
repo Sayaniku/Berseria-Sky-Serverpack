@@ -1,0 +1,36 @@
+{
+    "type": "extendedcrafting:combination",
+    "powerCost": 2000000,
+    "input": {
+      "item": "kubejs:supremium_seed"
+    },
+    "ingredients": [
+      {
+        "item": "mysticalagriculture:supremium_block"
+      },
+      {
+        "item": "mysticalagriculture:supremium_block"
+      },
+      {
+        "item": "mysticalagriculture:supremium_block"
+      },
+      {
+        "item": "mysticalagriculture:supremium_block"
+      },
+      {
+        "item": "powah:niotic_crystal_block"
+      },
+      {
+        "item": "powah:niotic_crystal_block"
+      },
+      {
+        "item": "powah:niotic_crystal_block"
+      },
+      {
+        "item": "powah:niotic_crystal_block"
+      }
+    ],
+    "result": {
+      "item": "mysticalagriculture:niotic_crystal_seeds"
+    }
+  }

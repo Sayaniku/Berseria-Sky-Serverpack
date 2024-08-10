@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+	"oio",
+	"ici",
+	"oio"
+  ],
+  "key": {
+	"c": {
+	  "item": "powah:ender_cell_starter"
+	},
+	"i": {
+	  "item": "minecraft:netherite_ingot"
+	},
+	"o": {
+	  "item": "tconstruct:hepatizon_block"
+	}
+  },
+  "result": {
+	"item": "powah:ender_cell_basic"
+  }
+}

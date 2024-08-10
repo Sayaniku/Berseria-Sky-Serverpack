@@ -1,0 +1,36 @@
+{
+  "input": [
+    {
+      "item": "kubejs:redstone_plate"
+    },
+    {
+      "item": "industrialforegoing:range_addon3"
+    },
+    {
+      "item": "kubejs:redstone_plate"
+    },
+    {
+      "item": "minecraft:glass_pane"
+    },
+    {
+      "item": "minecraft:glass_pane"
+    },
+    {
+      "item": "botania:blaze_block"
+    },
+    {
+      "item": "botania:blaze_block"
+    },
+    {
+      "item": "botania:blaze_block"
+    }
+  ],
+  "inputFluid": "{FluidName:\"industrialforegoing:latex\",Amount:1000}",
+  "processingTime": 200,
+  "output": {
+    "item": "industrialforegoing:range_addon4",
+    "count": 1,
+    "nbt": "{TitaniumAugment:{Range:4.0f}}"
+  },
+  "type": "industrialforegoing:dissolution_chamber"
+}

@@ -1,0 +1,15 @@
+{
+    "type": "tconstruct:material_melting",
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "tconstruct"
+      }
+    ],
+    "input": "berseria_sky:ornium",
+    "temperature": 1300,
+    "result": {
+      "fluid": "kubejs:molten_ornium",
+      "amount": 144
+    }
+  }

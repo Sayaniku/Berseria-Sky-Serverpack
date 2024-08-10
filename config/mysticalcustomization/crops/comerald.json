@@ -1,0 +1,14 @@
+{
+    "name": "Comerald",
+    "type": "resource",
+    "tier": "mysticalcustomization:7",
+    "ingredient": {
+        "item": "minecraft:air"
+    },
+    "textures": {
+        "flower": "mysticalagriculture:block/flower_comerald",
+        "essence": "mysticalagriculture:item/comerald_essence",
+        "seeds": "mysticalagriculture:item/comerald_seeds"
+    },
+    "crux": "berseria_sky:comerald_crux"
+}

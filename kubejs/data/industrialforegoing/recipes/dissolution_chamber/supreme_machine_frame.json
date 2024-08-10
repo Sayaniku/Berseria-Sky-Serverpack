@@ -1,0 +1,35 @@
+{
+  "input": [
+    {
+      "tag": "forge:plastic"
+    },
+    {
+      "item": "mekanism:steel_casing"
+    },
+    {
+      "tag": "forge:plastic"
+    },
+    {
+      "item": "thermal_extra:zauvium_plate"
+    },
+    {
+      "item": "kubejs:alfsteel_gear"
+    },
+    {
+      "tag": "forge:gears/dragon_bronze"
+    },
+    {
+      "item": "tinkers_reforged:gausum_ingot"
+    },
+    {
+      "item": "kubejs:moon_plate"
+    }
+  ],
+  "inputFluid": "{FluidName:\"industrialforegoing:ether_gas\",Amount:2000}",
+  "processingTime": 700,
+  "output": {
+    "item": "industrialforegoing:machine_frame_supreme",
+    "count": 1
+  },
+  "type": "industrialforegoing:dissolution_chamber"
+}

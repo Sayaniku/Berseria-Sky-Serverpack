@@ -1,0 +1,38 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:prudentium_block"
+    },
+    {
+      "item": "mysticalagriculture:prudentium_block"
+    },
+    {
+      "item": "mysticalagriculture:prudentium_block"
+    },
+    {
+      "item": "mysticalagriculture:prudentium_block"
+    },
+    {
+      "item": "kubejs:prudentium_seed"
+    },
+    {
+      "tag": "botania:mystical_flowers"
+    },
+    {
+      "tag": "botania:mystical_flowers"
+    },
+    {
+      "tag": "botania:mystical_flowers"
+    },
+    {
+      "tag": "botania:mystical_flowers"
+    }
+  ],
+  "results": [
+    {
+      "item": "mysticalagriculture:mystical_flower_seeds"
+    }
+  ],
+  "heatRequirement": "heated"
+}

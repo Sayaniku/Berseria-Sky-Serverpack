@@ -1,0 +1,11 @@
+{
+  "name": "Electrum",
+  "colors": [
+    "a79135",
+    "a79135"
+  ],
+  "ingredient": {
+    "item": "thermal:electrum_ingot"
+  },
+  "inUltimateSingularity": true
+}

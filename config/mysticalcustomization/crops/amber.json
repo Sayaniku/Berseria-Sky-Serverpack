@@ -1,0 +1,14 @@
+{
+    "name": "Amber",
+    "type": "resource",
+    "tier": "mysticalagriculture:5",
+    "ingredient": {
+      "item": "minecraft:air"
+    },
+    "textures": {
+      "flower": "mysticalagriculture:block/flower_amber",
+      "essence": "mysticalagriculture:item/amber_essence",
+      "seeds": "mysticalagriculture:item/amber_seeds"
+    }
+    
+  }

@@ -1,0 +1,84 @@
+{
+	id: "491CA45216E7709D"
+	group: ""
+	order_index: 0
+	filename: "welcome_to_beseria_sky"
+	title: "Welcome to Beseria Sky"
+	icon: "minecraft:shulker_box"
+	default_quest_shape: "circle"
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			icon: "kubejs:inferium_seed"
+			x: 0.0d
+			y: 0.0d
+			shape: "hexagon"
+			description: [
+				"Welcome to Beseria Sky my frist Modpack"
+				"Tips : Automated are the Key!"
+				"Based on Mystical and Botany Pot!"
+			]
+			size: 2.0d
+			id: "26E6F4A78214AB88"
+			tasks: [{
+				id: "4DA17242BD6BCA5C"
+				type: "checkmark"
+				title: "Beseria Sky"
+				icon: "minecraft:stone"
+			}]
+		}
+		{
+			x: -1.0d
+			y: 1.5d
+			shape: "hexagon"
+			description: [
+				"If you are in a single player, you just need to know this command :"
+				""
+				"/skyblock spawn"
+				"Teleport you back to the spawn."
+				""
+				"Now if you are on a server you need to know more commands:"
+				""
+				"/skyblock create <name>"
+				"Create your Island with a name."
+				""
+				"/skyblock team <new name>"
+				"Rename your team, created at the same time as your island."
+				""
+				"/skyblock home"
+				"Teleport you back to your spawn Island (not the server Spawn)"
+				""
+				"/skyblock join <team>"
+				"Join a team."
+				""
+				"/skyblock leave"
+				"Leave you team (so your Island)"
+				""
+				"/skyblock visit <team>"
+				"Visit an Island."
+			]
+			dependencies: ["26E6F4A78214AB88"]
+			id: "6FC8A217525F6066"
+			tasks: [{
+				id: "15639C90625A2437"
+				type: "checkmark"
+				title: "FTB command"
+				icon: "minecraft:command_block"
+			}]
+		}
+		{
+			x: 1.0d
+			y: 1.5d
+			shape: "hexagon"
+			description: ["Semi-expert"]
+			dependencies: ["26E6F4A78214AB88"]
+			id: "25738C61B82EC48C"
+			tasks: [{
+				id: "3BA677F6FA9F9D1A"
+				type: "checkmark"
+				title: "difficulty"
+				icon: "minecraft:purple_wool"
+			}]
+		}
+	]
+}

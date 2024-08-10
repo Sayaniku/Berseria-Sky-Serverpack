@@ -1,0 +1,11 @@
+{
+    "name": "Blitz",
+    "colors": [
+      "ecfc30",
+      "ecfc30"
+    ],
+    "ingredient": {
+      "item": "thermal:blitz_rod"
+    },
+    "inUltimateSingularity": false
+}

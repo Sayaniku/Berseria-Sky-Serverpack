@@ -1,0 +1,18 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+      " E ",
+      "EAE",
+      " E "
+    ],
+    "key": {
+      "A": {
+        "item": "kubejs:tornium_apple"
+      },
+      "E": {
+        "item": "kubejs:ouranium_essence"
+      }
+    },
+    "result": {
+      "item": "kubejs:ouranium_apple"
+}}

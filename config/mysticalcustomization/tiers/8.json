@@ -1,0 +1,8 @@
+{
+    "name": "§38",
+    "value": 8,
+    "farmland": "mysticalagradditions:insanium_farmland",
+    "essence": "kubejs:lightium_essence",
+    "fertilizable": false,
+    "secondarySeedDrop": false
+  }

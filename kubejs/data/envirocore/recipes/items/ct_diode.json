@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "GGG",
+        "GRG",
+        "CCC"
+    ],
+    "key": {
+        "G": {
+            "tag": "forge:glass"
+        },
+        "R": {
+            "item": "extendedcrafting:redstone_ingot_block"
+        },
+        "C": {
+            "item": "kubejs:refined_glowstone_plate"
+        }
+    },
+    "result": {
+        "item": "envirocore:laser_diode",
+        "count": 1
+    }
+}

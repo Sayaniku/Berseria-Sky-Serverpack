@@ -1,0 +1,14 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+      " P ",
+      "PXP",
+      " P "
+    ],
+    "key": {
+      "P": {"item": "kubejs:ornium_essence"},
+      "X": {"item": "mysticalagradditions:insanium_ingot"}
+      
+    },
+    "result": {"item": "kubejs:ornium_ingot"}
+  }

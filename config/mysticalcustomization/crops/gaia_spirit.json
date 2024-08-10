@@ -1,0 +1,14 @@
+{
+    "name": "Gaia Spirit",
+    "type": "resource",
+    "tier": "mysticalagradditions:6",
+    "ingredient": {
+      "item": "minecraft:air"
+    },
+    "textures": {
+      "flower": "mysticalagriculture:block/gaia_spirit_flower",
+      "essence": "mysticalagriculture:item/gaia_spirit_essence",
+      "seeds": "mysticalagriculture:item/gaia_spirit_seeds"
+    },
+    "crux":"kubejs:gaia_spirit_crux"
+}

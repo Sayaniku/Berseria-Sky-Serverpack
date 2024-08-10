@@ -1,0 +1,14 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " P ",
+    "PXP",
+    " P "
+  ],
+  "key": {
+    "P": {"item": "mysticalagradditions:insanium_essence"},
+    "X": {"item": "mysticalagradditions:supremium_coal"}
+    
+  },
+  "result": {"item": "mysticalagradditions:insanium_coal"}
+}

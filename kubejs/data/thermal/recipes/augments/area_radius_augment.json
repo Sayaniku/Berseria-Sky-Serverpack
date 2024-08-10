@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AGA",
+    "IXI",
+    "AGA"
+  ],
+  "key": {
+    "G": {
+      "tag": "forge:gears/ardite"
+    },
+    "I": {
+      "tag": "forge:plates/tin"
+    },
+    "X": {
+      "item": "thermal_extra:augment_base"
+    },
+    "A": {
+      "item": "thermal:redstone_servo"
+    }
+  },
+  "result": {
+    "item": "thermal:area_radius_augment"
+  },
+  "conditions": [
+    {
+      "flag": "area_augments",
+      "type": "thermal:flag"
+    }
+  ]
+}

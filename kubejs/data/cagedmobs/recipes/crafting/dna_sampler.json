@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X  ",
+    " # ",
+    "  ."
+  ],
+  "key": {
+    "#": {
+      "tag": "forge:glass/gray"
+    },
+    "X": {
+      "tag": "forge:ingots/invar"
+    },
+    ".": {
+      "tag": "forge:storage_blocks/invar"
+    }
+  },
+  "result": {
+    "item": "cagedmobs:dna_sampler"
+  }
+}

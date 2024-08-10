@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " B ",
+    "BAB",
+    " B "
+  ],
+  "key": {
+    "A": {
+      "item": "appliedenergistics2:quartz_fiber"
+    },
+    "B": {
+      "item": "appliedenergistics2:fluix_crystal"
+    }
+  },
+  "result": {
+    "item": "appliedenergistics2:fluix_glass_cable",
+    "count": 4
+  }
+}

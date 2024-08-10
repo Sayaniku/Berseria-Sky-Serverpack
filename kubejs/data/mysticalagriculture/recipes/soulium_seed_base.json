@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "IPI",
+    "PXP",
+    "GPG"
+  ],
+  "key": {
+    "P": {"item": "mysticalagriculture:soulium_dust"},
+    "X": {"item": "mysticalagriculture:prosperity_seed_base"},
+    "I": {"item": "mysticalagriculture:soulium_ingot"},
+    "G": {"item": "mysticalagriculture:soulium_gemstone"}
+  },
+  "result": {"item": "mysticalagriculture:soulium_seed_base"}
+}

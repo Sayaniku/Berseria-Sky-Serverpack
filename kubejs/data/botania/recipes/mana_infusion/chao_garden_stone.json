@@ -1,0 +1,10 @@
+{
+    "type": "botania:mana_infusion",
+    "input": {
+      "item": "sonicraft:chaostone"
+    },
+    "output": {
+      "item": "sonicraft:chao_garden_stone"
+    },
+    "mana": 1000000
+  }

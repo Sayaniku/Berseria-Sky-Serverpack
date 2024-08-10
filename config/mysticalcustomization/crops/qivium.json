@@ -1,0 +1,13 @@
+{
+    "name": "Qivium",
+    "type": "resource",
+    "tier": "mysticalagriculture:5",
+    "ingredient": {
+      "item": "minecraft:air"
+    },
+    "textures": {
+      "flower": "mysticalagriculture:block/flower_qivium",
+      "essence": "mysticalagriculture:item/qivium_essence",
+      "seeds": "mysticalagriculture:item/qivium_seeds"
+    }
+}

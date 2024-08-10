@@ -1,0 +1,14 @@
+{
+    "name": "Tornium Ingot",
+    "type": "resource",
+    "tier": "mysticalcustomization:9",
+    "ingredient": {
+        "item": "minecraft:air"
+    },
+    "textures": {
+        "flower": "mysticalagriculture:block/flower_tornium_ingot",
+        "essence": "mysticalagriculture:item/tornium_ingot_essence",
+        "seeds": "mysticalagriculture:item/tornium_ingot_seeds"
+    },
+    "crux": "kubejs:tornium_crux"
+}

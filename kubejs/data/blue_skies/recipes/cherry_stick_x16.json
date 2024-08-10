@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "sticks",
+    "pattern": [
+      "#",
+      "#"
+    ],
+    "key": {
+      "#": {
+        "tag": "blue_skies:logs/cherry"
+      }
+    },
+    "result": {
+      "item": "blue_skies:cherry_stick",
+      "count": 16
+    }
+}

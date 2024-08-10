@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CIC",
+    "IBI",
+    "CIC"
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:plates/iron"
+    },
+    "C": {
+      "item": "minecraft:cactus"
+    },
+    "B": {
+      "item": "thermal_extra:augment_base"
+    }
+  },
+  "result": {
+    "item": "thermal:machine_null_augment"
+  },
+  "conditions": [
+    {
+      "flag": "machine_augments",
+      "type": "thermal:flag"
+    }
+  ]
+}

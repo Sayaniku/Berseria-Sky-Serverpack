@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ICI",
+    "CGC",
+    "EXE"
+  ],
+  "key": {
+    "C": {
+      "item": "thermal:rf_coil"
+    },
+    "I": {
+      "tag": "forge:storage_blocks/silicon_bronze"
+    },
+    "G": {
+      "item": "quark:golden_apple_crate"
+    },
+    "X": {
+      "item": "thermal:dynamo_stirling"
+    },
+    "E": {
+      "item": "kubejs:hop_graphite_gear"
+    }
+  },
+  "result": {
+    "item": "thermal:dynamo_gourmand"
+  }
+}

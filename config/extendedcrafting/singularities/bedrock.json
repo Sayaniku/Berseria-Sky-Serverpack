@@ -1,0 +1,11 @@
+{
+    "name": "Bedrock",
+    "colors": [
+      "222222",
+      "979797"
+    ],
+    "ingredient": {
+      "item": "kubejs:bedrock"
+    },
+    "inUltimateSingularity": true
+  }

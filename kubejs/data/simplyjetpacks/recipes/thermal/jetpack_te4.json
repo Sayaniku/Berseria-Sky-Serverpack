@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IBI",
+    "IJI",
+    "TQT"
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:storage_blocks/fayronium"
+    },
+    "B": {
+      "item": "thermal:energy_cell"
+    },
+    "J": {
+      "item": "simplyjetpacks:jetpack_te3"
+    },
+    "T": {
+      "item": "simplyjetpacks:thruster_te4"
+    },
+    "Q": {
+      "item": "berseria_sky:fayronium_glass"
+    }
+  },
+  "result": {
+    "item": "simplyjetpacks:jetpack_te4",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "thermal"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SMS",
+    "SSS",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "tag": "forge:ingots/manasteel"
+    }, 
+    "M":{ 
+    "item": "botania:manaweave_chestplate"
+  }
+  },
+  "result": {
+    "item": "botania:manasteel_chestplate"
+  }
+}

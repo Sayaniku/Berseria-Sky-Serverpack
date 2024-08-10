@@ -1,0 +1,22 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "tag": "forge:eggs"
+      },
+      {
+        "item": "minecraft:sugar"
+      },
+      {
+        "item": "minecraft:sugar"
+      },
+      {
+        "item": "berseria_sky:soulsand_dough"
+      }
+    ],
+    "results": [
+      {
+        "item":"berseria_sky:base_soulsand_cake"
+      }
+    ]
+  }

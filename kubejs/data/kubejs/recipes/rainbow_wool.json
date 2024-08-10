@@ -1,0 +1,22 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+      "ROY",
+      "GBL",
+      "IUM"
+    ],
+    "key": {
+      "R": {"item": "minecraft:red_wool"},
+      "O": {"item": "minecraft:orange_wool"},
+      "Y": {"item": "minecraft:yellow_wool"},
+      "G": {"item": "minecraft:lime_wool"},
+      "B": {"item": "minecraft:blue_wool"},
+      "L": {"item": "minecraft:purple_wool"},
+      "I": {"item": "minecraft:white_wool"},
+      "U": {"item": "minecraft:black_wool"},
+      "M": {"item": "minecraft:magenta_wool"}
+},
+    "result": {
+        "item": "kubejs:rainbow_wool"
+	}
+  }

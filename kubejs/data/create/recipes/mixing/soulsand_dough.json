@@ -1,0 +1,17 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "create:dough"
+      },
+      {
+        "item": "excompressum:compressed_soul_sand"
+      }
+    ],
+    "results": [
+      {
+        "item": "berseria_sky:soulsand_dough"
+      }
+    ],
+    "heatRequirement": "heated"
+  }

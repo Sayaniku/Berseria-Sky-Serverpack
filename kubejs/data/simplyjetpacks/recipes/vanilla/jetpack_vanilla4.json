@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NRN",
+    "NJN",
+    "TST"
+  ],
+  "key": {
+    "N": {
+      "tag": "forge:storage_blocks/elinvonze"
+    },
+    "R": {
+      "item": "extendedcrafting:redstone_ingot_block"
+    },
+    "J": {
+      "item": "simplyjetpacks:jetpack_vanilla3"
+    },
+    "T": {
+      "item": "simplyjetpacks:thruster_vanilla4"
+    },
+    "S": {
+      "tag": "forge:gears/elinvonze"
+    }
+  },
+  "result": {
+    "item": "simplyjetpacks:jetpack_vanilla4",
+    "count": 1
+  }
+}

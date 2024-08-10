@@ -1,0 +1,16 @@
+{
+  "type": "powah:energizing",
+  "ingredients": [
+	{"tag": "forge:ingots/manyerium"},
+  {"tag": "forge:ingots/slimesteel"},
+  {"tag": "forge:ingots/ardite"},
+  {"tag": "forge:ingots/manronium_steel"},
+  {"item": "berseria_sky:comerald_ingot"},
+  {"item": "cagedmobs:star_infused_netherite_ingot"}
+  
+  ],
+  "energy": 20000000,
+  "result": {
+	"item": "extendedcrafting:black_iron_ingot"
+  }
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Lavium",
+    "colors": [
+      "38b58f",
+      "13563f"
+    ],
+    "ingredient": {
+      "item": "tinkers_reforged:lavium_ingot"
+    },
+    "inUltimateSingularity": false
+}

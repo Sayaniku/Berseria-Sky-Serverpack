@@ -1,0 +1,11 @@
+{
+    "name": "Electrical Copper",
+    "colors": [
+      "b5874f",
+      "663e1d"
+    ],
+    "ingredient": {
+      "item": "tinkers_reforged:electrical_copper_ingot"
+    },
+    "inUltimateSingularity": false
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GRG",
+    "GJG",
+    "TAT"
+  ],
+  "key": {
+    "G": {
+      "tag": "forge:storage_blocks/rose_gold"
+    },
+    "R": {
+      "item": "extendedcrafting:redstone_ingot_block"
+    },
+    "J": {
+      "item": "simplyjetpacks:jetpack_vanilla1"
+    },
+    "T": {
+      "item": "simplyjetpacks:thruster_vanilla2"
+    },
+    "A": {
+      "tag": "forge:gears/rose_gold"
+    }
+  },
+  "result": {
+    "item": "simplyjetpacks:jetpack_vanilla2",
+    "count": 1
+  }
+}

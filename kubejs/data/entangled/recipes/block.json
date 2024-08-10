@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#O#",
+    "OCO",
+    "#O#"
+  ],
+  "key": {
+    "#": {
+      "item": "kubejs:ender_gear"
+    },
+    "O": {
+      "item": "kubejs:prosperity_plate"
+    },
+    "C": {
+      "item": "industrialforegoing:machine_frame_advanced"
+    }
+  },
+  "result": {
+    "item": "entangled:block"
+  }
+}

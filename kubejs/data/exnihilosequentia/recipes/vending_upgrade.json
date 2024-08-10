@@ -1,0 +1,316 @@
+{
+  "type": "extendedcrafting:shapeless_table",
+  "tier": 4,
+  "ingredients": [
+    {
+      "item": "berseria_sky:reps_ingot"
+    },
+    {
+      "item": "create:creative_motor"
+    },
+    {
+      "type": "forge:nbt",
+      "item": "tconstruct:creative_slot",
+      "count": 1,
+      "nbt": "{slot:\"defense\"}"
+    },
+    {
+      "type": "forge:nbt",
+      "item": "tconstruct:creative_slot",
+      "count": 1,
+      "nbt": "{slot:\"souls\"}"
+    },
+    {
+      "item": "thermal:rf_coil_creative_augment"
+    },
+    {
+      "type": "forge:nbt",
+      "item": "tconstruct:creative_slot",
+      "count": 1,
+      "nbt": "{slot:\"souls\"}"
+    },
+    {
+      "type": "forge:nbt",
+      "item": "tconstruct:creative_slot",
+      "count": 1,
+      "nbt": "{slot:\"defense\"}"
+    },
+    {
+      "item": "create:creative_motor"
+    },
+    {
+      "item": "berseria_sky:reps_ingot"
+    },
+    {
+      "item": "cagedmobs:creative_upgrade"
+    },
+    {
+      "item": "draconicevolution:creative_capacitor"
+    },
+    {
+      "item": "thermal:fluid_tank_creative_augment"
+    },
+    {
+      "item": "create:creative_crate"
+    },
+    {
+      "item": "simplyjetpacks:jetpack_creative_armored"
+    },
+    {
+      "item": "create:creative_crate"
+    },
+    {
+      "item": "thermal:fluid_tank_creative_augment"
+    },
+    {
+      "item": "draconicevolution:creative_capacitor"
+    },
+    {
+      "item": "cagedmobs:creative_upgrade"
+    },
+    {
+      "item": "appliedenergistics2:creative_energy_cell"
+    },
+    {
+      "type": "forge:nbt",
+      "item": "tconstruct:creative_slot",
+      "count": 1,
+      "nbt": "{slot:\"upgrades\"}"
+    },
+    {
+      "type": "forge:nbt",
+      "item": "extendedcrafting:singularity",
+      "count": 1,
+      "nbt": "{Id:\"extendedcrafting:creative\"}"
+    },
+    {
+      "item": "kubejs:creative_crux"
+    },
+    {
+      "type": "forge:nbt",
+      "item": "tconstruct:creative_slot",
+      "count": 1,
+      "nbt": "{slot:\"sensor\"}"
+    },
+    {
+      "type": "forge:nbt",
+      "item": "extendedcrafting:singularity",
+      "count": 1,
+      "nbt": "{Id:\"extendedcrafting:creative\"}"
+    },
+    {
+      "item": "kubejs:creative_crux"
+    },
+    {
+      "type": "forge:nbt",
+      "item": "tconstruct:creative_slot",
+      "count": 1,
+      "nbt": "{slot:\"upgrades\"}"
+    },
+    {
+      "item": "appliedenergistics2:creative_energy_cell"
+    },
+    {
+      "item": "berseria_sky:god_block"
+    },
+    {
+      "item": "thermal:machine_catalyst_creative_augment"
+    },
+    {
+      "item": "powah:energy_cell_creative"
+    },
+    {
+      "item": "mekanism:creative_fluid_tank"
+    },
+    {
+      "item": "projecte:evertide_amulet"
+    },
+    {
+      "item": "mekanism:creative_fluid_tank"
+    },
+    {
+      "item": "botania:creative_pool"
+    },
+    {
+      "item": "thermal:machine_catalyst_creative_augment"
+    },
+    {
+      "item": "berseria_sky:god_block"
+    },
+    {
+      "item": "draconicevolution:chaotic_shield_control_module"
+    },
+    {
+      "item": "draconicevolution:creative_op_capacitor"
+    },
+    {
+      "item": "mekanism:creative_chemical_tank"
+    },
+    {
+      "item": "solarflux:sp_custom_infinity"
+    },
+    {
+      "item": "storagedrawers:creative_storage_upgrade"
+    },
+    {
+      "item": "projecte:volcanite_amulet"
+    },
+    {
+      "item": "mekanism:creative_chemical_tank"
+    },
+    {
+      "item": "draconicevolution:creative_op_capacitor"
+    },
+    {
+      "item": "draconicevolution:chaotic_speed_module"
+    },
+    {
+      "item": "draconicevolution:chaotic_core"
+    },
+    {
+      "item": "thermal:machine_catalyst_creative_augment"
+    },
+    {
+      "type": "forge:nbt",
+      "item": "extendedcrafting:singularity",
+      "count": 1,
+      "nbt": "{Id:\"extendedcrafting:creative\"}"
+    },
+    {
+      "item": "appliedenergistics2:creative_energy_cell"
+    },
+    {
+      "item": "projectex:final_star"
+    },
+    {
+      "type": "forge:nbt",
+      "item": "extendedcrafting:singularity",
+      "count": 1,
+      "nbt": "{Id:\"extendedcrafting:creative\"}"
+    },
+    {
+      "type": "forge:nbt",
+      "item": "botania:mana_tablet",
+      "count": 1,
+      "nbt": "{mana:500000,creative:1b}"
+    },
+    {
+      "item": "thermal:machine_catalyst_creative_augment"
+    },
+    {
+      "item": "draconicevolution:chaotic_core"
+    },
+    {
+      "item": "draconicevolution:chaotic_crafting_injector"
+    },
+    {
+      "type": "forge:nbt",
+      "item": "tconstruct:creative_slot",
+      "count": 1,
+      "nbt": "{slot:\"upgrades\"}"
+    },
+    {
+      "type": "forge:nbt",
+      "item": "endless:infinity_helmet",
+      "count": 1,
+      "nbt": "{Damage:0,Unbreakable:1b}"
+    },
+    {
+      "type": "forge:nbt",
+      "item": "endless:infinity_chestplate",
+      "count": 1,
+      "nbt": "{Damage:0,Unbreakable:1b}"
+    },
+    {
+      "type": "forge:nbt",
+      "item": "endless:infinity_leggings",
+      "count": 1,
+      "nbt": "{Damage:0,Unbreakable:1b}"
+    },
+    {
+      "type": "forge:nbt",
+      "item": "endless:infinity_chestplate",
+      "count": 1,
+      "nbt": "{Damage:0,Unbreakable:1b}"
+    },
+    {
+      "item": "endless:infinity_catalyst"
+    },
+    {
+      "type": "forge:nbt",
+      "item": "tconstruct:creative_slot",
+      "count": 1,
+      "nbt": "{slot:\"upgrades\"}"
+    },
+    {
+      "item": "draconicevolution:chaotic_crafting_injector"
+    },
+    {
+      "item": "berseria_sky:god_block"
+    },
+    {
+      "item": "immersiveengineering:capacitor_creative"
+    },
+    {
+      "item": "thermal:machine_efficiency_creative_augment"
+    },
+    {
+      "item": "create:creative_crate"
+    },
+    {
+      "item": "simplyjetpacks:jetpack_creative_armored"
+    },
+    {
+      "item": "create:creative_crate"
+    },
+    {
+      "item": "thermal:machine_efficiency_creative_augment"
+    },
+    {
+      "item": "immersiveengineering:capacitor_creative"
+    },
+    {
+      "item": "berseria_sky:god_block"
+    },
+    {
+      "item": "berseria_sky:reps_ingot"
+    },
+    {
+      "item": "pipez:infinity_upgrade"
+    },
+    {
+      "type": "forge:nbt",
+      "item": "tconstruct:creative_slot",
+      "count": 1,
+      "nbt": "{slot:\"abilities\"}"
+    },
+    {
+      "type": "forge:nbt",
+      "item": "tconstruct:creative_slot",
+      "count": 1,
+      "nbt": "{slot:\"souls\"}"
+    },
+    {
+      "item": "thermal:rf_coil_creative_augment"
+    },
+    {
+      "type": "forge:nbt",
+      "item": "tconstruct:creative_slot",
+      "count": 1,
+      "nbt": "{slot:\"souls\"}"
+    },
+    {
+      "type": "forge:nbt",
+      "item": "tconstruct:creative_slot",
+      "count": 1,
+      "nbt": "{slot:\"abilities\"}"
+    },
+    {
+      "item": "pipez:infinity_upgrade"
+    },
+    {
+      "item": "berseria_sky:reps_ingot"
+    }
+    ],
+    "result": {"item": "storagedrawers:creative_vending_upgrade"}
+  }

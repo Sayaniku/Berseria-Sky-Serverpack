@@ -1,0 +1,36 @@
+{
+  "input": [
+    {
+      "item": "kubejs:redstone_plate"
+    },
+    {
+      "item": "berseria_sky:empty_addon"
+    },
+    {
+      "item": "kubejs:redstone_plate"
+    },
+    {
+      "item": "minecraft:yellow_stained_glass_pane"
+    },
+    {
+      "item": "minecraft:yellow_stained_glass_pane"
+    },
+    {
+      "tag": "forge:gears/electrum"
+    },
+    {
+      "item": "botania:blaze_block"
+    },
+    {
+      "tag": "forge:gears/electrum"
+    }
+  ],
+  "inputFluid": "{FluidName:\"industrialforegoing:latex\",Amount:1000}",
+  "processingTime": 600,
+  "output": {
+    "item": "industrialforegoing:efficiency_addon_1",
+    "count": 1,
+    "nbt": "{TitaniumAugment:{Efficiency:0.9f}}"
+  },
+  "type": "industrialforegoing:dissolution_chamber"
+}

@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AXB",
+    "YCY",
+    "IPH"
+  ],
+  "key": {
+    "C": {
+      "item": "thermal:machine_frame"
+    },
+    "I": {
+      "tag": "forge:gears/manyullyn"
+    },
+    "P": {
+      "item": "thermal:rf_coil"
+    },
+    "X": {
+      "item": "ironfurnaces:netherite_furnace"
+    },
+    "Y": {
+      "item": "tconstruct:clear_glass"
+    },
+    "A": {
+      "tag": "forge:gears/ardite"
+    },
+    "B": {
+      "tag": "forge:gears/enderium"
+    },
+    "H": {
+      "item": "kubejs:hepatizon_gear"
+    }
+  },
+  "result": {
+    "item": "thermal:machine_smelter"
+  }
+}

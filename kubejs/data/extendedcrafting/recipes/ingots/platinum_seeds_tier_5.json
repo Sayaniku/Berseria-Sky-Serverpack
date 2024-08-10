@@ -1,0 +1,36 @@
+{
+    "type": "extendedcrafting:combination",
+    "powerCost": 2000000,
+    "input": {
+      "item": "kubejs:supremium_seed"
+    },
+    "ingredients": [
+      {
+        "item": "mysticalagriculture:supremium_block"
+      },
+      {
+        "item": "mysticalagriculture:supremium_block"
+      },
+      {
+        "item": "mysticalagriculture:supremium_block"
+      },
+      {
+        "item": "mysticalagriculture:supremium_block"
+      },
+      {
+        "item": "kubejs:platinum_block"
+      },
+      {
+        "item": "kubejs:platinum_block"
+      },
+      {
+        "item": "kubejs:platinum_block"
+      },
+      {
+        "item": "kubejs:platinum_block"
+      }
+    ],
+    "result": {
+      "item": "mysticalagriculture:platinum_seeds"
+    }
+  }

@@ -1,0 +1,11 @@
+{
+  "name": "Fertilized Essence",
+  "colors": [
+    "e2badc",
+    "e263d1"
+  ],
+  "ingredient": {
+    "item": "kubejs:fertilized_block"
+  },
+  "inUltimateSingularity": true
+}

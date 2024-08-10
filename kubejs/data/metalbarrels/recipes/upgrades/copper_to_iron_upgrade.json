@@ -1,0 +1,13 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "III",
+        "ICI",
+        "III"
+    ],
+    "key":{
+        "I":{"tag":"forge:ingots/ardite"},
+        "C":{"item":"metalbarrels:wood_to_copper"}
+    },
+    "result":{"item":"metalbarrels:copper_to_iron"}
+}

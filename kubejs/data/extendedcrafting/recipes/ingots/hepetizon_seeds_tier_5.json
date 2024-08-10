@@ -1,0 +1,37 @@
+{
+    "type": "extendedcrafting:combination",
+    "powerCost": 2000000,
+    "input": {
+      "item": "kubejs:supremium_seed"
+    },
+    "ingredients": [
+      {
+        "item": "mysticalagriculture:supremium_block"
+      },
+      {
+        "item": "mysticalagriculture:supremium_block"
+      },
+      {
+        "item": "mysticalagriculture:supremium_block"
+      },
+      {
+        "item": "mysticalagriculture:supremium_block"
+      },
+      {
+        "item": "tconstruct:hepatizon_block"
+      },
+      {
+        "item": "tconstruct:hepatizon_block"
+      },
+      {
+        "item": "tconstruct:hepatizon_block"
+      },
+      {
+        "item": "tconstruct:hepatizon_block"
+      }
+    ],
+    "result": {
+      "item": "mysticalagriculture:hepatizon_seeds"
+    }
+  }
+  

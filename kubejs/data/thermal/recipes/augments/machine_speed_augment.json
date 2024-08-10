@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XLX",
+    "EBE",
+    "XLX"
+  ],
+  "key": {
+    "E": {
+      "tag": "forge:plates/electrum"
+    },
+    "L": {
+      "tag": "forge:gears/lead"
+    },
+    "X": {
+      "item": "thermal:rf_coil"
+    },
+    "B": {
+      "item": "thermal_extra:augment_base"
+    }
+  },
+  "result": {
+    "item": "thermal:machine_speed_augment"
+  },
+  "conditions": [
+    {
+      "flag": "machine_augments",
+      "type": "thermal:flag"
+    }
+  ]
+}

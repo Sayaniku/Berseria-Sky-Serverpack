@@ -1,0 +1,17 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "create:dough"
+      },
+      {
+        "item": "blue_skies:turquoise_dirt"
+      }
+    ],
+    "results": [
+      {
+        "item": "berseria_sky:blue_dirt_dough"
+      }
+    ],
+    "heatRequirement": "heated"
+  }

@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "envirocore:nanorite_boule"
+        }
+    ],
+    "result": {
+        "item": "envirocore:nanorite_wafer",
+        "count": 3
+    }
+}

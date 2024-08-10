@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "tag": "forge:ingots/manronium_steel"
+    },
+    "d": {
+      "item": "appliedenergistics2:logic_processor"
+    },
+    "c": {
+      "item": "appliedenergistics2:fluix_glass_cable"
+    },
+    "b": {
+      "item": "appliedenergistics2:calculation_processor"
+    }
+  },
+  "result": {
+    "item": "appliedenergistics2:crafting_unit"
+  }
+}

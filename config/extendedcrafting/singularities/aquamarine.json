@@ -1,0 +1,11 @@
+{
+    "name": "Aquamarine",
+    "colors": [
+      "004fd8",
+      "00fdff"
+    ],
+    "ingredient": {
+      "item": "astralsorcery:aquamarine"
+    },
+    "inUltimateSingularity": true
+  }

@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NGN",
+    "DID",
+    "NGN"
+  ],
+  "key": {
+    "N": {
+      "tag": "forge:plates/manronium_steel"
+    },
+    "D": {
+      "item": "kubejs:emerald_block"
+    },
+    "I": {
+      "item": "simplyjetpacks:unit_cryotheum"
+    },
+    "G": {
+      "item": "simplyjetpacks:armorplating_te5"
+    }
+  },
+  "result": {
+    "item": "simplyjetpacks:armorplating_te5_enderium",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "thermal"
+    },
+    {
+      "type": "forge:not",
+      "value": {
+        "type": "forge:mod_loaded",
+        "modid": "redstonerepository"
+      }
+    }
+  ]
+}

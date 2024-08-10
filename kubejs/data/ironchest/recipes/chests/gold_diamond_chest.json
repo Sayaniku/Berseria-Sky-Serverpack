@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MMM",
+    "MSM",
+    "MMM"
+  ],
+  "key": {
+    "M": {"tag":"forge:ingots/invar"},
+    "S": {"item":"ironchest:gold_chest"}
+  },
+  "result": {"item": "ironchest:diamond_chest"}
+
+}

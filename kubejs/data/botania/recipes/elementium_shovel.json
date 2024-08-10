@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "S",
+    "T",
+    "M"
+  ],
+  "key": {
+    "S": {
+      "tag": "forge:ingots/elementium"
+    },
+    "T": {
+      "item": "botania:dreamwood_twig"
+    },
+    "M": {
+      "item": "botania:manasteel_shovel"
+    }
+  },
+  "result": {
+    "item": "botania:elementium_shovel"
+  }
+}

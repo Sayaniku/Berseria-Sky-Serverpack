@@ -1,0 +1,11 @@
+{
+    "name": "Gaia Ingot",
+    "colors": [
+      "a1b6d7",
+      "bed7a1"
+    ],
+    "ingredient": {
+      "item": "botania:gaia_ingot"
+    },
+    "inUltimateSingularity": false
+}

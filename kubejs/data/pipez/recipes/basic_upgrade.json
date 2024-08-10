@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "INI",
+    "NRN",
+    "INI"
+  ],
+  "key": {
+    "N": {
+      "tag": "forge:ingots/steel"
+    },
+    "I": {
+      "item": "kubejs:hop_graphite_plate"
+    },
+    "R": {
+      "tag": "forge:gears/redstone"
+    }
+  },
+  "result": {
+    "item": "pipez:basic_upgrade",
+    "count": 1
+  }
+}

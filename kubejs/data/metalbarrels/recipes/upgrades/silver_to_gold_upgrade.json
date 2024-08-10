@@ -1,0 +1,13 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "AAA",
+        "ASA",
+        "AAA"
+    ],
+    "key":{
+        "A":{"tag":"forge:ingots/electrum"},
+        "S":{"item":"metalbarrels:iron_to_silver"}
+    },
+    "result":{"item":"metalbarrels:silver_to_gold"}
+}

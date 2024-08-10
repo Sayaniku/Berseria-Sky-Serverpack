@@ -1,0 +1,6 @@
+{
+    "type":"botanypots:soil",
+    "input":{"item":"kubejs:alfsteel_crux"},
+    "display":{"block":"kubejs:alfsteel_crux"},
+    "categories":["alfsteel_crux"],"growthModifier":0
+}

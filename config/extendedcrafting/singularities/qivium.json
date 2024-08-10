@@ -1,0 +1,11 @@
+{
+    "name": "Qivium",
+    "colors": [
+      "e85a7b",
+      "9b294e"
+    ],
+    "ingredient": {
+      "item": "tinkers_reforged:qivium_ingot"
+    },
+    "inUltimateSingularity": false
+}

@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ncn",
+        "aFa",
+        "nsn"
+    ],
+    "key": {
+        "n": {
+            "tag": "forge:storage_blocks/fayronium"
+        },
+        "c": {
+            "item": "envirocore:nanorite_interconnect"
+        },
+        "F": {
+            "item": "envirocore:aethium_frame"
+        },
+        "a": {
+            "item": "envirocore:aethium"
+        },
+        "s": {
+            "tag": "cagedmobs:storage_blocks/star_infused_netherite"
+        }
+    },
+    "result": {
+        "item": "envirocore:nanorite_frame",
+        "count": 1
+    }
+}

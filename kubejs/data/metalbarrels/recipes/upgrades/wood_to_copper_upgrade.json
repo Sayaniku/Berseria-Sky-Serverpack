@@ -1,0 +1,14 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "III",
+        "PLP",
+        "III"
+    ],
+    "key":{
+        "I":{"tag":"forge:ingots/copper"},
+        "L":{"tag":"forge:log"},
+        "P":{"tag":"forge:planks"}
+    },
+    "result":{"item":"metalbarrels:wood_to_copper"}
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "www",
+    "cSc"
+  ],
+  "key": {
+    "c": {
+      "item": "envirocore:erodium_interconnect"
+    },
+    "w": {
+      "item": "envirocore:erodium_wafer"
+    },
+    "S": {
+      "item": "enviroenergy:litherite_solar_cell"
+    }
+  },
+  "result": {
+    "item": "enviroenergy:erodium_solar_cell",
+    "count": 1
+  }
+}

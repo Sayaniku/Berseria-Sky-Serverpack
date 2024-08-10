@@ -1,0 +1,35 @@
+{
+	"type": "create:mechanical_crafting",
+	"pattern": [
+	"  G  ",
+	" GCG ",
+    "EMMME",
+    "CMRMC",
+    "EMMME",
+    " GCG ",
+    "  G  "
+		
+	],
+	"key": {
+		"M": {
+			"item": "create:refined_radiance_casing"
+		},
+		"E": {
+			"item": "mysticalagriculture:prudentium_ingot_block"
+		},
+		"R": {
+			"item": "berseria_sky:prosperity_crystal"
+		},
+		"C": {
+			"item": "berseria_sky:comerald_block"
+		},
+		"G": {
+			"item": "minecraft:green_stained_glass"
+		}
+	},
+	"result": {
+		"item": "matc:prudentium_crystal",
+		"count": 1
+	},
+	"acceptMirrored": false
+}

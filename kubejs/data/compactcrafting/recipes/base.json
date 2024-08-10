@@ -1,0 +1,75 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "compactmachines:wall"
+  },
+  "transitionalItem": {
+    "item": "compactmachines:machine_wall_break"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "compactmachines:machine_wall_break"
+        },
+        {
+          "item": "kubejs:diamond_block"
+        }
+      ],
+      "results": [
+        {
+          "item": "compactmachines:machine_wall_break"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "compactmachines:machine_wall_break"
+        },
+        {
+          "item": "immersiveengineering:plate_steel"
+        }
+      ],
+      "results": [
+        {
+          "item": "compactmachines:machine_wall_break"
+        }
+      ]
+    },
+    {
+      "type": "create:cutting",
+      "ingredients": [
+        {
+          "item": "compactmachines:machine_wall_break"
+        }
+      ],
+      "results": [
+        {
+          "item": "compactmachines:machine_wall_break"
+        }
+      ],
+      "processingTime": 100
+    }
+  ],
+  "results": [
+    {
+      "item": "compactcrafting:base",
+      "count": 1,
+      "chance": 6.0
+    },
+    {
+      "item": "create:andesite_alloy",
+      "chance": 2.0
+    },
+    {
+      "item": "mekanism:nugget_steel"
+    },
+    {
+      "item": "kubes:diamond_nugget"
+    }
+  ],
+  "loops": 4
+}

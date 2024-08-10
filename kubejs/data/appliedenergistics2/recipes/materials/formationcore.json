@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CAC",
+    "ABA",
+    "CAC"
+  ],
+  "key": {
+    "A": {
+      "tag": "forge:ingots/manyullyn"
+    },
+    "B": {
+      "item": "appliedenergistics2:logic_processor"
+    },
+    "C": {
+      "item": "appliedenergistics2:purified_fluix_crystal"
+    }
+  },
+  "result": {
+    "item": "appliedenergistics2:formation_core",
+    "count": 2
+  }
+}

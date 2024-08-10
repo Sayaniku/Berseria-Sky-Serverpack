@@ -1,0 +1,27 @@
+{
+  "duration": {
+    "raw:int": 100
+  },
+  "top": {
+    "raw:item": "envirocore:pladium_interconnect"
+  },
+  "bottom": {
+    "raw:item": "envirocore:lonsdaleite_crystal"
+  },
+  "left": {
+    "raw:item": "envirocore:mica"
+  },
+  "right": {
+    "raw:item": "envirocore:mica"
+  },
+  "center": {
+    "raw:itemstack": "envirocore:radiant_modifier",
+    "nbt": "{tier:3,attributes:{\"envirocore:radiant\":0.6}}"
+  },
+  "output": {
+    "raw:itemstack": "envirocore:radiant_modifier",
+    "nbt": "{tier:4,attributes:{\"envirocore:radiant\":0.8}}"
+  },
+  "merge_center_nbt": true,
+  "override": "replace"
+}

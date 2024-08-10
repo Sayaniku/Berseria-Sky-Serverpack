@@ -1,0 +1,24 @@
+{
+  "duration": {
+    "raw:int": 100
+  },
+  "top": {
+    "raw:item": "envirocore:nanorite"
+  },
+  "bottom": {
+    "raw:item": "envirocore:nanorite"
+  },
+  "left": {
+    "raw:item": "envirocore:nanorite"
+  },
+  "right": {
+    "raw:item": "envirocore:nanorite"
+  },
+  "center": {
+    "raw:item": "envirocore:aethium_interconnect"
+  },
+  "output": {
+    "raw:itemstack": "envirocore:nanorite_interconnect"
+  },
+  "override": "replace"
+}

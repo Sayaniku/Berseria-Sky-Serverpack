@@ -1,0 +1,144 @@
+{
+    "name": "Auto Smithing Table",
+    "appearance": {
+      "block": "berseria_sky:machine/auto_smithing_table_idle",
+      "item": "berseria_sky:machine/auto_smithing_table_idle",
+      "sound": "minecraft:iron_block",
+      "lightlevel": 0,
+      "color": 16777215,
+      "hardness": 3.5,
+      "resistance": 3.5,
+      "tool_type": "axe",
+      "mininglevel": 1,
+      "shape": [[0, 0, 0, 1, 1, 1]],
+      "running": {
+        "block": "berseria_sky:machine/auto_smithing_table_active",
+        "light": 5
+      },
+      "idle": {
+        "block": "berseria_sky:machine/auto_smithing_table_idle"
+      }     
+},
+
+"components": [
+    {
+      "type": "custommachinery:energy",
+      "capacity": 500000,
+      "maxInput": 500000,
+      "maxOutput":500000
+    },
+    {
+      "mode": "input",
+      "id": "input1",
+      "type": "custommachinery:item"
+    },
+    {
+      "mode": "input",
+      "id": "input2",
+      "type": "custommachinery:item"
+    },
+    {
+      "mode": "output",
+      "id": "result",
+      "type": "custommachinery:item"
+    }
+],
+"gui": [
+    {
+      "texture": "berseria_sky:textures/gui/auto_smithing_table.png",
+      "type": "custommachinery:texture",
+      "x": 0,
+      "y": 0  
+    },
+    {
+      "type": "custommachinery:player_inventory",
+      "x": 7,
+      "y": 83
+      
+    },
+    {
+      "type": "custommachinery:energy",
+      "emptytexture":"berseria_sky:textures/gui/base_energy_storage_empty.png",
+      "filledtexture":"berseria_sky:textures/gui/base_energy_storage_filled.png",
+      "x": 156,
+      "y": 22
+    },
+    {
+      "type": "custommachinery:slot",
+      "id": "input1",
+      "x": 26,
+      "y": 46
+    },
+    {
+      "type": "custommachinery:slot",
+      "item": "minecraft:netherite_ingot",
+      "id": "input2",
+      "x": 75,
+      "y": 46   
+    },
+    {
+      "type": "custommachinery:slot",
+      "id": "result",
+      "x": 133,
+      "y": 46   
+    },
+    {
+      "type": "custommachinery:progress",
+      "x": 102,
+      "y": 48 
+    },
+    {
+      "type": "custommachinery:status",
+      "x": 155,
+      "y": 6  
+    },
+    {
+      "type": "custommachinery:text",
+      "text": "Auto Upgrade Gear",
+      "x": 53,
+      "y": 18
+    }
+    ],
+    "jei": [
+        {
+          "type": "custommachinery:energy",
+          "filledtexture": "berseria_sky:textures/gui/base_energy_jei.png",
+          "height": 24,
+          "width": 14,
+          "x": 156,
+          "y": 46
+        },
+        {
+          "type": "custommachinery:slot",
+          "id": "input1",
+          "x": 26,
+          "y": 46
+        },
+        {
+          "type": "custommachinery:slot",
+          "id": "input2",
+          "x": 75,
+          "y": 46   
+        },
+        {
+          "type": "custommachinery:slot",
+          "id": "result",
+          "x": 133,
+          "y": 46   
+        },
+        {
+          "type": "custommachinery:progress",
+          "x": 102,
+          "y": 48 
+        },
+        {
+          "type": "custommachinery:progress",
+          "emptyTexture": "berseria_sky:textures/gui/plus.png",
+          "filledTexture": "berseria_sky:textures/gui/plus.png",
+          "x": 53,
+          "y": 48 
+        }
+           
+    ],
+    "catalysts": ["minecraft:smithing_table"]
+}

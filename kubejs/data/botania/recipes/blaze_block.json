@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "III",
+      "III",
+      "III"
+    ],
+    "key": {
+      "I": {
+        "item": "minecraft:blaze_rod"
+      }
+    },
+    "result": {
+      "item": "botania:blaze_block"
+    }
+}

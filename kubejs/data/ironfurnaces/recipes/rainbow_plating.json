@@ -1,0 +1,23 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "IGD",
+    "E O",
+    "ASC"
+  ],
+
+   "key": {
+      "I":{"item": "ironfurnaces:iron_furnace"},
+      "G":{"item": "ironfurnaces:gold_furnace"},
+      "D":{"item": "ironfurnaces:diamond_furnace"},
+      "E":{"item": "ironfurnaces:emerald_furnace"},
+      "O":{"item": "ironfurnaces:obsidian_furnace"},
+      "A":{"item": "ironfurnaces:netherite_furnace"},
+      "S":{"item": "ironfurnaces:silver_furnace"},
+      "C":{"item": "ironfurnaces:copper_furnace"}
+},
+  "result": {
+    "item": "ironfurnaces:rainbow_plating",
+    "count": 8
+  }
+}

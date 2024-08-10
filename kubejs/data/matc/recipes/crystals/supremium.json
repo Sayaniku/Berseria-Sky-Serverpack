@@ -1,0 +1,36 @@
+{
+  "type": "extendedcrafting:combination",
+  "powerCost": 2000000,
+  "input": {
+    "item": "berseria_sky:prosperity_crystal"
+  },
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:supremium_ingot_block"
+    },
+    {
+      "item": "mysticalagriculture:supremium_ingot_block"
+    },
+    {
+      "item": "mysticalagriculture:supremium_ingot_block"
+    },
+    {
+      "item": "mysticalagriculture:supremium_ingot_block"
+    },
+    {
+      "item": "mythicbotany:alfsteel_block"
+    },
+    {
+      "item": "mythicbotany:alfsteel_block"
+    },
+    {
+      "item": "mythicbotany:alfsteel_block"
+    },
+    {
+      "item": "mythicbotany:alfsteel_block"
+    }
+  ],
+  "result": {
+    "item": "matc:supremium_crystal"
+  }
+}

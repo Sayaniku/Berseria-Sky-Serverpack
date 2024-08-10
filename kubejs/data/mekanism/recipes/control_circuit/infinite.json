@@ -1,0 +1,7 @@
+{
+    "type":"mekanism:metallurgic_infusing",
+    "itemInput":{
+        "ingredient":{"tag":"forge:circuits/ultimate"}},
+        "infusionInput":{"amount":1000,"infuse_type":"berseria_sky:infinity"},
+        "output":{"item":"berseria_sky:infinite_control_circuit"
+        }}

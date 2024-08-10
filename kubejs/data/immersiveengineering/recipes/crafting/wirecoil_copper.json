@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " W ",
+        "WSW",
+        " W "
+    ],
+    "key": {
+        "W": {
+            "tag": "forge:wires/copper"
+        },
+        "S": {
+            "tag": "forge:rods/wooden"
+        }
+    },
+    "result": {
+        "item": "immersiveengineering:wirecoil_copper",
+        "count": 4
+    }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NRN",
+    "RUR",
+    "NRN"
+  ],
+  "key": {
+    "N": {
+      "tag": "forge:plates/zauvium"
+    },
+    "R": {
+      "tag": "forge:storage_blocks/netherite"
+    },
+    "U": {
+      "item": "pipez:advanced_upgrade"
+    }
+  },
+  "result": {
+    "item": "pipez:ultimate_upgrade",
+    "count": 1
+  }
+}

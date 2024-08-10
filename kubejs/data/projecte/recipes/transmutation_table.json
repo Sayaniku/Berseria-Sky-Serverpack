@@ -1,0 +1,14 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "OSO",
+        "SPS",
+        "OSO"],
+        
+    "key":{
+        "O":{"item":"extendedcrafting:the_ultimate_block"},
+        "S":{"item":"projectex:white_collector"},
+        "P":{"item":"projecte:philosophers_stone"}
+    },
+        "result":{"item":"projecte:transmutation_table"}
+}

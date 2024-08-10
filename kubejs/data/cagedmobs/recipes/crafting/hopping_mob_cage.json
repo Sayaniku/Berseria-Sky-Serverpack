@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "r#r",
+    " . "
+  ],
+  "key": {
+    "#": {
+      "item": "cagedmobs:mob_cage"
+    },
+    ".": {
+      "item": "speedyhoppers:speedyhopper_mk3"
+    },
+    "r": {
+      "item": "extendedcrafting:redstone_ingot_block"
+    }
+  },
+  "result": {
+    "item": "cagedmobs:hopping_mob_cage"
+  }
+}

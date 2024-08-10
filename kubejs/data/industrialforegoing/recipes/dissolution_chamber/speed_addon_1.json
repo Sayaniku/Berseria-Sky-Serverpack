@@ -1,0 +1,37 @@
+{
+  "type": "industrialforegoing:dissolution_chamber",
+  "input": [
+    {
+      "item": "kubejs:redstone_plate"
+    },
+    {
+      "item": "berseria_sky:empty_addon"
+    },
+    {
+      "item": "kubejs:redstone_plate"
+    },
+    {
+      "item": "minecraft:glass_pane"
+    },
+    {
+      "item": "minecraft:glass_pane"
+    },
+    {
+      "item": "thermal:constantan_block"
+    },
+    {
+      "item": "thermal:constantan_block"
+    },
+    {
+      "item": "thermal:constantan_block"
+    }
+  ],
+  "inputFluid": "{FluidName:\"industrialforegoing:latex\",Amount:1000}",
+  "processingTime": 200,
+  "output": {
+    "item": "industrialforegoing:speed_addon_1",
+    "count": 1,
+    "nbt": "{TitaniumAugment:{Speed:2.0f}}"
+  }
+  
+}

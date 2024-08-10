@@ -1,0 +1,11 @@
+{
+    "name": "Elinvonze",
+    "colors": [
+        "c3a968",
+        "c3a968"
+    ],
+    "ingredient": {
+        "item": "berseria_sky:elinvonze_ingot"
+    },
+    "inUltimateSingularity": true
+}

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "CTD",
+    "ABA"
+  ],
+  "key": {
+    "D": {
+      "item": "appliedenergistics2:formation_core"
+    },
+    "B": {
+      "tag": "forge:dyes/green"
+    },
+    "A": {
+      "tag": "forge:plates/vukaium"
+    },
+    "C": {
+      "item": "appliedenergistics2:annihilation_core"
+    },
+    "T": {
+      "item": "thermal:fluid_cell"
+    }
+  },
+  "result": {
+    "item": "appliedenergistics2:fluid_interface"
+  }
+}

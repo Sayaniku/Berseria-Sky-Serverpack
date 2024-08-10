@@ -1,0 +1,14 @@
+{
+    "name": "Sun",
+    "type": "resource",
+    "tier": "mysticalcustomization:7",
+    "ingredient": {
+      "item": "minecraft:air"
+    },
+    "textures": {
+      "flower": "mysticalagriculture:block/flower_sun",
+      "essence": "mysticalagriculture:item/sun_essence",
+      "seeds": "mysticalagriculture:item/sun_seeds"
+    },
+    "crux":"kubejs:sun_crux"
+  }

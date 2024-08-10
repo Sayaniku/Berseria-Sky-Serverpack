@@ -1,0 +1,14 @@
+{
+  "name": "§eInferium Ingot",
+  "type": "resource",
+  "tier": "mysticalagriculture:1",
+  "ingredient": {
+    "item": "minecraft:air"
+  },
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_inferium",
+    "essence": "mysticalagriculture:item/inferium_ingot_essence",
+    "seeds": "mysticalagriculture:item/inferium_ingot_seeds"
+  }
+  
+}

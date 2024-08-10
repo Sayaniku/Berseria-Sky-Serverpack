@@ -1,0 +1,11 @@
+{
+    "name": "Infused Enderpearl",
+    "colors": [
+      "105e51",
+      "bcf2f0"
+    ],
+    "ingredient": {
+      "item": "rftoolsbase:infused_enderpearl"
+    },
+    "inUltimateSingularity": false
+}

@@ -1,0 +1,24 @@
+{
+  "duration": {
+    "raw:int": 100
+  },
+  "top": {
+    "raw:item": "envirocore:aethium"
+  },
+  "bottom": {
+    "raw:item": "envirocore:aethium"
+  },
+  "left": {
+    "raw:item": "envirocore:aethium"
+  },
+  "right": {
+    "raw:item": "envirocore:aethium"
+  },
+  "center": {
+    "raw:item": "envirocore:ionite_interconnect"
+  },
+  "output": {
+    "raw:itemstack": "envirocore:aethium_interconnect"
+  },
+  "override": "replace"
+}

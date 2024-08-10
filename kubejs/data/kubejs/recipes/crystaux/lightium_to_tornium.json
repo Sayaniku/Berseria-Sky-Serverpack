@@ -1,0 +1,24 @@
+{
+  
+    "type": "crafting_shaped",
+    "pattern": [
+      " I ",
+      "IMI",
+      " I "
+    ],
+    "key": {
+      "M": {
+        "item": "mysticalagriculture:master_infusion_crystal"   
+    },
+      "I": {
+          "item": "kubejs:lightium_essence"
+        }
+    },
+
+    "result": {
+      "item": "kubejs:tornium_essence"
+    }
+    
+    
+
+}

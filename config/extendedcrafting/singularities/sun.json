@@ -1,0 +1,11 @@
+{
+    "name": "Sun",
+    "colors": [
+      "916e00",
+      "f9f581"
+    ],
+    "ingredient": {
+      "item": "kubejs:sun_ingot"
+    },
+    "inUltimateSingularity": true
+  }

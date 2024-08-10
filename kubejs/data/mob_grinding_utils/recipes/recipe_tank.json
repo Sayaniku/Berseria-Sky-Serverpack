@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IGI",
+    "HGH",
+    "IGI"
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:ingots/ardite"
+    },
+    "G": {
+      "item": "connectedglass:clear_glass"
+    },
+    "H": {
+      "item": "miniutilities:stone_drum"
+    }
+  },
+  "result": {
+    "item": "mob_grinding_utils:tank"
+  }
+}

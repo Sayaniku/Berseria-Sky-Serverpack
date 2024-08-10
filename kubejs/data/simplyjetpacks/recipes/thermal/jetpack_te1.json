@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IBI",
+    "IJI",
+    "TLT"
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:storage_blocks/lumium"
+    },
+    "B": {
+      "item": "thermal:energy_cell"
+    },
+    "J": {
+      "item": "simplyjetpacks:leather_strap"
+    },
+    "T": {
+      "item": "simplyjetpacks:thruster_te1"
+    },
+    "L": {
+      "item": "thermal:lumium_glass"
+    }
+  },
+  "result": {
+    "item": "simplyjetpacks:jetpack_te1",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "thermal"
+    }
+  ]
+}

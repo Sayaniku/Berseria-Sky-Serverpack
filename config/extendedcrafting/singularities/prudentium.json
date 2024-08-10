@@ -1,0 +1,11 @@
+{
+    "name": "Prudentium",
+    "colors": [
+      "004900",
+      "06851b"
+    ],
+    "ingredient": {
+      "item": "mysticalagriculture:prudentium_ingot"
+    },
+    "inUltimateSingularity": true
+  }

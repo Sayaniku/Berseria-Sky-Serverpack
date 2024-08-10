@@ -1,0 +1,35 @@
+{
+  "type": "mysticalagriculture:infusion",
+  "input": {
+    "item": "kubejs:inferium_seed"
+  },
+  "ingredients": [
+    {
+      "item": "excompressum:compressed_dirt"
+    },
+    {
+      "item": "mysticalagriculture:inferium_block"
+    },
+    {
+      "item": "excompressum:compressed_dirt"
+    },
+    {
+      "item": "mysticalagriculture:inferium_block"
+    },
+    {
+      "item": "excompressum:compressed_dirt"
+    },
+    {
+      "item": "mysticalagriculture:inferium_block"
+    },
+    {
+      "item": "excompressum:compressed_dirt"
+    },
+    {
+      "item": "mysticalagriculture:inferium_block"
+    }
+  ],
+  "result": {
+    "item": "mysticalagriculture:dirt_seeds"
+  }
+}

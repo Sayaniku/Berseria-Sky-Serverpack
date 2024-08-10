@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " C ",
+        "AFA",
+        " B "
+    ],
+    "key": {
+        "C": {
+            "item": "envirocore:aethium_interconnect"
+        },
+        "F": {
+            "item": "envirocore:ionite_frame"
+        },
+        "A": {
+            "tag": "forge:storage_blocks/manyerium"
+        },
+        "B": {
+            "item": "thermal_extra:zauvium_block"
+        }
+    },
+    "result": {
+        "item": "envirocore:aethium_frame",
+        "count": 1
+    }
+}

@@ -1,0 +1,24 @@
+{
+  "result": {
+    "item": "appliedenergistics2:cell_workbench"
+  },
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["ABA", "EDE", "CEC"],
+  "key": {
+    "C": {
+      "tag": "forge:gears/emerald"
+    },
+    "A": {
+      "tag": "appliedenergistics2:wool"
+    },
+    "D": {
+      "item": "ironchest:silver_chest"
+    },
+    "E": {
+      "item": "ironchest:silver_chest"
+    },
+    "B": {
+      "item": "appliedenergistics2:calculation_processor"
+    }
+  }
+}

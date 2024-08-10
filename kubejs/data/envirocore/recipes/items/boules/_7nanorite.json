@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "c",
+        "c",
+        "c"
+    ],
+    "key": {
+        "c": {
+            "item": "envirocore:nanorite"
+        }
+    },
+    "result": {
+        "item": "envirocore:nanorite_boule",
+        "count": 8
+    }
+}

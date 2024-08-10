@@ -1,0 +1,13 @@
+{
+    "name": "Gausum",
+    "type": "resource",
+    "tier": "mysticalagriculture:5",
+    "ingredient": {
+      "item": "minecraft:air"
+    },
+    "textures": {
+      "flower": "mysticalagriculture:block/flower_gausum",
+      "essence": "mysticalagriculture:item/gausum_essence",
+      "seeds": "mysticalagriculture:item/gausum_seeds"
+    }
+}

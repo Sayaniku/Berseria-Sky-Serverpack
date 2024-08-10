@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GAG",
+    "GHG",
+    " G "
+  ],
+  "key": {
+    "G": {"tag": "forge:plates/signalum"},
+    "H": {"item": "speedyhoppers:speedyhopper_mk1"},
+    "A": {"item": "minecraft:comparator"}
+  },
+  "result": {
+    "item": "speedyhoppers:speedyhopper_mk2"
+  }
+}

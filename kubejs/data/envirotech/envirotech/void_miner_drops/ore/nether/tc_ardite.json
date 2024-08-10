@@ -1,0 +1,21 @@
+{
+	"programs": ["envirotech:ore", "envirotech:metallic_ore"],
+	"item": {
+		"raw:item": "kubejs:ardite_ore", "count":1
+	},
+	"config": [
+		{
+			"weight": 163,
+			"dimensions": [
+				"minecraft:the_nether"
+			]
+		},
+		{
+			"focus": "envirotech:orange",
+			"weight": 1952,
+			"dimensions": [
+				"minecraft:the_nether"
+			]
+		}
+	]
+}

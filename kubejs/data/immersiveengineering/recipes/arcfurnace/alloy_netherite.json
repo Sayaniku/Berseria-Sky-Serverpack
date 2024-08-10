@@ -1,0 +1,28 @@
+{
+    "type": "immersiveengineering:arc_furnace",
+    "additives": [
+        {
+            "count": 4,
+            "base_ingredient": {
+                "tag": "forge:ingots/netherite_scrap"
+            }
+        }
+        
+    ],
+    "input": {
+        "count": 4,
+        "base_ingredient": {
+            "tag": "forge:ingots/electrum"
+        }
+    },
+    "results": [
+        {
+            "count": 1,
+            "base_ingredient": {
+                "tag": "forge:ingots/netherite"
+            }
+        }
+    ],
+    "time": 200,
+    "energy": 100000
+}

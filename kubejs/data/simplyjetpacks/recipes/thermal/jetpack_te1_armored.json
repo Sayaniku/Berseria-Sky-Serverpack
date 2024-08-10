@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IAI",
+    "III",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "simplyjetpacks:armorplating_te1"
+    },
+    "A": {
+      "item": "simplyjetpacks:jetpack_te1"
+    }
+  },
+  "result": {
+    "item": "simplyjetpacks:jetpack_te1_armored",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "thermal"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+    "type": "astralsorcery:altar",
+    "altar_type": 3,
+    "duration": 600,
+    "starlight": 7000,
+    "pattern": [
+      "A___A",
+      "NECEI",
+      "DCSCD",
+      "_ECE_",
+      "A___A"
+    ],
+    "key": {
+      "A": {"item": "astralsorcery:resonating_gem"},
+      "E": {"item": "powah:energized_steel_block"},
+      "N": {"item": "mysticalagriculture:iron_seeds"},
+      "I": {"item": "mysticalagriculture:gold_seeds"},
+      "C": {"item": "mysticalagriculture:imperium_block"},
+      "S": {"item": "kubejs:imperium_seed"},
+      "D": {"item": "astralsorcery:starmetal"}
+    },
+    "output": [
+      {"item": "mysticalagriculture:energized_steel_seeds","count": 1}
+    ],
+    "relay_inputs": [
+      {"item": "astralsorcery:aquamarine"},
+      {"item": "astralsorcery:aquamarine"},
+      {"item": "astralsorcery:aquamarine"},
+      {"item": "astralsorcery:aquamarine"},
+      {"item": "astralsorcery:aquamarine"}
+    ],
+    "focus_constellation": "astralsorcery:horologium",
+    "effects": [
+      "astralsorcery:built_in_effect_constellation_finish",
+      "astralsorcery:built_in_effect_trait_relay_highlight",
+      "astralsorcery:built_in_effect_discovery_central_beam",
+      "astralsorcery:built_in_effect_trait_focus_circle",
+      "astralsorcery:altar_default_sparkle",
+      "astralsorcery:built_in_effect_constellation_lines",
+      "astralsorcery:built_in_effect_attunement_sparkle"
+    ]
+  }

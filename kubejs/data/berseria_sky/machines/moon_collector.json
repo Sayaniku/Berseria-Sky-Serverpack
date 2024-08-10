@@ -1,0 +1,91 @@
+{
+    "name": "Moon Collector",
+    "appearance": {
+      "block": "berseria_sky:machine/moon_collector_idle",
+      "item": "berseria_sky:machine/moon_collector_idle",
+      "sound": "minecraft:netherite_block",
+      "lightlevel": 0,
+      "color": 16777215,
+      "hardness": 3.5,
+      "resistance": 9,
+      "tool_type": "pickaxe",
+      "mininglevel": 4,
+      "shape": [[0, 0, 0, 1, 1, 1]],
+      "running": {
+        "block": "berseria_sky:machine/moon_collector_active",
+        "light": 10
+      },
+      "idle": {
+        "block": "berseria_sky:machine/moon_collector_idle"
+      }    
+   },
+"components": [ 
+    {
+    "type": "custommachinery:fluid",
+    "mode": "output",
+    "capacity": 10000,
+    "id": "moon",
+    "maxInput": 1000,
+    "maxOutput":1000,
+    "filter": ["kubejs:molten_moon"],
+    "whitelist" : true
+    }
+     ],
+   "gui": [
+       {
+        "texture": "berseria_sky:textures/gui/moon_collector.png",
+        "type": "custommachinery:texture",
+        "x": 0,
+        "y": 0  
+       },
+       {
+        "type": "custommachinery:player_inventory",
+        "x": 7,
+        "y": 83
+       },
+       {
+        "type": "custommachinery:fluid",
+        "texture": "berseria_sky:textures/gui/base_fluid_storage.png",
+        "id": "moon",
+        "x": 79,
+        "y": 30  
+       },
+       {
+         "type": "custommachinery:progress",
+         "emptyTexture": "berseria_sky:textures/gui/sc_progress_empty.png",
+         "filledTexture": "berseria_sky:textures/gui/sc_progress_full.png",
+         "x": 70,
+         "y": 39 
+       },
+       {
+         "type": "custommachinery:status",
+         "idleTexture": "custommachinery:textures/gui/base_status_idle.png",
+         "runningTexture":"berseria_sky:textures/gui/base_status_moon_on.png",
+         "x": 156,
+         "y": 3
+       },
+       {
+        "type": "custommachinery:text",
+        "text": "Moon Collector",
+        "x": 53,
+        "y": 5
+      }
+    ],
+    "jei": [
+        {
+          "texture": "berseria_sky:textures/gui/base_fluid_storage_jei.png",
+          "type": "custommachinery:fluid",
+          "id": "moon",
+          "x": 79,
+          "y": 38  
+        },
+        {
+          "type": "custommachinery:progress",
+          "emptyTexture": "berseria_sky:textures/gui/sc_progress_empty.png",
+          "filledTexture": "berseria_sky:textures/gui/sc_progress_full.png",
+          "x": 52,
+          "y": 39 
+        }
+     ]
+
+}

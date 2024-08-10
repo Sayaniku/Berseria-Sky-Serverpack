@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IGI",
+    "RXR",
+    "IGI"
+  ],
+  "key": {
+    "G": {
+      "item": "thermal_extra:dragon_breath_plating"
+    },
+    "I": {
+      "tag": "forge:storage_blocks/manronium_steel"
+    },
+    "R": {
+      "tag": "forge:gears/vukaium"
+    },
+    "X": {
+      "item": "thermal:upgrade_augment_3"
+    }
+  },
+  "result": {
+    "item": "thermal_extra:dragon_integral_component"
+  },
+  "conditions": [
+    {
+      "flag": "upgrade_augments",
+      "type": "thermal:flag"
+    }
+  ]
+}

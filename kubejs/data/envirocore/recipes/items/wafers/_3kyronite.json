@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "envirocore:kyronite_boule"
+        }
+    ],
+    "result": {
+        "item": "envirocore:kyronite_wafer",
+        "count": 3
+    }
+}

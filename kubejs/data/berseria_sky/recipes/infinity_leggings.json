@@ -1,0 +1,185 @@
+{
+  "type": "extendedcrafting:shaped_table",
+  "tier": 4,
+  "pattern": [
+    "         ",
+    "AAAAAAAAA",
+    "AABCDEFAA",
+    "AAGHIJKAA",
+    "AALMNOPAA",
+    "AAQRSRTAA",
+    "AAUVWXYAA",
+    "AAZR1R2AA",
+    "AA34567AA"
+  ],
+  "key": {
+    "A": {
+      "item": "endless:infinity_block"
+    },
+    "B": {
+      "type": "forge:nbt",
+      "item": "mysticalagriculture:inferium_leggings",
+      "count": 1,
+      "nbt": "{Damage:0}"
+    },
+    "C": {
+      "type": "forge:nbt",
+      "item": "mysticalagriculture:prudentium_leggings",
+      "count": 1,
+      "nbt": "{Damage:0}"
+    },
+    "D": {
+      "type": "forge:nbt",
+      "item": "mysticalagriculture:tertium_leggings",
+      "count": 1,
+      "nbt": "{Damage:0}"
+    },
+    "E": {
+      "type": "forge:nbt",
+      "item": "mysticalagriculture:imperium_leggings",
+      "count": 1,
+      "nbt": "{Damage:0}"
+    },
+    "F": {
+      "type": "forge:nbt",
+      "item": "mysticalagriculture:supremium_leggings",
+      "count": 1,
+      "nbt": "{Damage:0}"
+    },
+    "G": {
+      "type": "forge:nbt",
+      "item": "mysticaladaptations:insanium_leggings",
+      "count": 1,
+      "nbt": "{Damage:0}"
+    },
+    "H": {
+      "item": "kubejs:ornium_leggings"
+    },
+    "I": {
+      "item": "kubejs:lightium_leggings"
+    },
+    "J": {
+      "item": "kubejs:tornium_leggings"
+    },
+    "K": {
+      "item": "kubejs:ouranium_leggings"
+    },
+    "L": {
+      "type": "forge:nbt",
+      "item": "minecraft:netherite_leggings",
+      "count": 1,
+      "nbt": "{Damage:0}"
+    },
+    "M": {
+      "item": "projecte:dm_leggings"
+    },
+    "N": {
+      "item": "projecte:rm_leggings"
+    },
+    "O": {
+      "item": "projecte:gem_leggings"
+    },
+    "P": {
+      "type": "forge:nbt",
+      "item": "betterendforge:terminite_leggings",
+      "count": 1,
+      "nbt": "{Damage:0}"
+    },
+    "Q": {
+      "item": "miniutilities:infused_leggings"
+    },
+    "R": {
+      "item": "endless:infinity_catalyst"
+    },
+    "S": {
+      "type": "forge:nbt",
+      "item": "botania:terrasteel_leggings",
+      "count": 1,
+      "nbt": "{Damage:0}"
+    },
+    "T": {
+      "item": "miniutilities:unstable_leggings"
+    },
+    "U": {
+      "type": "forge:nbt",
+      "item": "mekanismtools:refined_obsidian_leggings",
+      "count": 1,
+      "nbt": "{Damage:0}"
+    },
+    "V": {
+      "type": "forge:nbt",
+      "item": "botania:elementium_leggings",
+      "count": 1,
+      "nbt": "{Damage:0}"
+    },
+    "W": {
+      "type": "forge:nbt",
+      "item": "mythicbotany:alfsteel_leggings",
+      "count": 1,
+      "nbt": "{Damage:0}"
+    },
+    "X": {
+      "type": "forge:nbt",
+      "item": "blue_skies:pyrope_leggings",
+      "count": 1,
+      "nbt": "{Damage:0}"
+    },
+    "Y": {
+      "type": "forge:nbt",
+      "item": "mekanismtools:bronze_leggings",
+      "count": 1,
+      "nbt": "{Damage:0}"
+    },
+    "Z": {
+      "type": "forge:nbt",
+      "item": "botania:manasteel_leggings",
+      "count": 1,
+      "nbt": "{Damage:0}"
+    },
+    "1": {
+      "type": "forge:nbt",
+      "item": "mekanism:mekasuit_pants",
+      "count": 1,
+      "nbt": "{HideFlags:2}"
+    },
+    "2": {
+      "type": "forge:nbt",
+      "item": "blue_skies:aquite_leggings",
+      "count": 1,
+      "nbt": "{Damage:0}"
+    },
+    "3": {
+      "type": "forge:nbt",
+      "item": "blue_skies:diopside_leggings",
+      "count": 1,
+      "nbt": "{Damage:0}"
+    },
+    "4": {
+      "type": "forge:nbt",
+      "item": "blue_skies:charoite_leggings",
+      "count": 1,
+      "nbt": "{Damage:0}"
+    },
+    "5": {
+      "type": "forge:nbt",
+      "item": "blue_skies:horizonite_leggings",
+      "count": 1,
+      "nbt": "{Damage:0}"
+    },
+    "6": {
+      "type": "forge:nbt",
+      "item": "endless:crystal_matrix_leggings",
+      "count": 1,
+      "nbt": "{Damage:0}"
+    },
+    "7": {
+      "type": "forge:nbt",
+      "item": "endless:neutronium_leggings",
+      "count": 1,
+      "nbt": "{Damage:0}"
+    }
+  },
+  "result": {
+    "item": "endless:infinity_leggings"
+  }
+}

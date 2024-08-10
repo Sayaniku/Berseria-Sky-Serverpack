@@ -1,0 +1,16 @@
+{
+    "default": [
+      {
+        "name": "mysticalagradditions:prosperous",
+        "level": 20
+      },
+      {
+        "name": "tconstruct:insatiable",
+        "level": 20
+      },
+      {
+        "name": "tconstruct:momentum",
+        "level": 20
+      }
+    ]
+}

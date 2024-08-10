@@ -1,0 +1,14 @@
+{
+    "name": "Ornium Ingot",
+    "type": "resource",
+    "tier": "mysticalcustomization:7",
+    "ingredient": {
+        "item": "minecraft:air"
+    },
+    "textures": {
+        "flower": "mysticalagriculture:block/flower_ornium_ingot",
+        "essence": "mysticalagriculture:item/ornium_ingot_essence",
+        "seeds": "mysticalagriculture:item/ornium_ingot_seeds"
+    },
+    "crux": "kubejs:ornium_crux"
+}

@@ -1,0 +1,22 @@
+{ 
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ESE",
+    "SGS",
+    "ESE"  
+  ],
+  "key": {
+    "S":  {
+        "item": "mysticalagriculture:prosperity_block"
+      },
+    "E": {
+        "item": "mysticalagriculture:inferium_block"
+    },
+    "G": {
+        "item": "berseria_sky:prosperity_crystal"
+    }
+  },
+  "result": {
+    "item": "matc:inferium_crystal"
+  }
+}

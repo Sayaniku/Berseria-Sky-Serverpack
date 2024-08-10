@@ -1,0 +1,49 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "values": [
+            {
+              "item": "industrialforegoing:laser_drill",
+              "type": "forge:item_exists"
+            }
+          ],
+          "type": "forge:and"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+          "PFP",
+          "BMB",
+          "GRG"
+        ],
+        "key": {
+          "P": {
+            "tag": "forge:plastic"
+          },
+          "F": {
+            "tag": "forge:gears/elinvonze"
+          },
+          "B": {
+            "item": "minecraft:piston"
+          },
+          "M": {
+            "tag": "industrialforegoing:machine_frame/simple"
+          },
+          "G": {
+            "item": "kubejs:ender_gear"
+          },
+          "R": {
+            "item": "kubejs:tertium_gear"
+          }
+        },
+        "result": {
+          "item": "industrialforegoing:laser_drill"
+        }
+      }
+    }
+  ]
+}

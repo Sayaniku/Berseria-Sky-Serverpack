@@ -1,0 +1,16 @@
+{
+    "type": "astralsorcery:block_transmutation",
+    "input": [
+      {
+        "tag": "blue_skies:stone"
+      }
+    ],
+    "output": {
+      "block": "blue_skies:everbright_moonstone_ore"
+    },
+    "display": {
+      "item": "blue_skies:everbright_moonstone_ore",
+      "count": 1
+    },
+    "starlight": 100.0
+  }

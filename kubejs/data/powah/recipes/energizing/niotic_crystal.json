@@ -1,0 +1,16 @@
+{
+  "type": "powah:energizing",
+  "ingredients": [
+    {
+      "item": "kubejs:diamond_block"
+    },
+    {
+      "item": "powah:blazing_crystal_block"
+    }
+  ],
+  "energy": 600000,
+  "result": {
+    "item": "powah:crystal_niotic",
+    "count" : 4
+  }
+}

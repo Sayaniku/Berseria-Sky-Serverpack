@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "cCc",
+    "CLC",
+    "cCc"
+  ],
+  "key": {
+    "c": {
+      "item": "envirocore:kyronite"
+    },
+    "C": {
+      "item": "enviroenergy:kyronite_solar_cell"
+    },
+    "L": {
+      "item": "enviroenergy:erodium_solar_ccu"
+    }
+  },
+  "result": {
+    "item": "enviroenergy:kyronite_solar_ccu",
+    "count": 1
+  }
+}

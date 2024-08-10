@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " P ",
+    "PXP",
+    " P "
+  ],
+  "key": {
+    "P": {
+      "item": "mysticalagriculture:imperium_essence"
+    },
+    "X": {
+      "item": "mysticalagriculture:tertium_farmland"
+    }
+  },
+  "result": {
+    "item": "mysticalagriculture:imperium_farmland"
+  }
+}

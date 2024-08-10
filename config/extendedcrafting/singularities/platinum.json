@@ -1,0 +1,11 @@
+{
+  "name": "Platinum",
+  "colors": [
+    "6feaef",
+    "6feaef"
+  ],
+  "ingredient": {
+    "item": "kubejs:platinum_ingot"
+  },
+  "inUltimateSingularity": true
+}

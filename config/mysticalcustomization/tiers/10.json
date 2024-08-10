@@ -1,0 +1,8 @@
+{
+    "name": "§210",
+    "value": 10,
+    "farmland": "mysticalagradditions:insanium_farmland",
+    "essence": "kubejs:ouranium_essence",
+    "fertilizable": false,
+    "secondarySeedDrop": false
+  }

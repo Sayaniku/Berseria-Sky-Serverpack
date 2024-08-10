@@ -1,0 +1,11 @@
+{
+    "name": "Comerald",
+    "colors": [
+      "5aa629",
+      "5aa629"
+    ],
+    "ingredient": {
+      "item": "berseria_sky:comerald_ingot"
+    },
+    "inUltimateSingularity": true
+  }

@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "GEG",
+        "GHG",
+        "WCW"
+    ],
+    "key": {
+        "G": {
+            "tag": "forge:glass"
+        },
+        "W": {
+            "tag": "forge:treated_wood"
+        },
+        "E": {
+            "item": "immersiveengineering:electron_tube"
+        },
+        "C": {
+            "item": "immersiveengineering:component_steel"
+        },
+        "H": {
+            "item": "botanypotstiers:ultra_hopper_botany_pot"
+        }
+    },
+    "result": {
+        "item": "immersiveengineering:cloche"
+    }
+}

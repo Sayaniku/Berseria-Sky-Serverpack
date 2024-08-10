@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CIC",
+    "IBI",
+    "CIC"
+  ],
+  "key": {
+    "i": {
+      "tag": "forge:gears/gold"
+    },
+    "C": {
+      "item": "thermal:xp_crystal"
+    },
+    "B": {
+      "item": "thermal_extra:augment_base"
+    }
+  },
+  "result": {
+    "item": "thermal:xp_storage_augment"
+  },
+  "conditions": [
+    {
+      "flag": "xp_storage_augment",
+      "type": "thermal:flag"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "IPI",
+    "PXP",
+    "GPG"
+  ],
+  "key": {
+    "P": {"item": "mysticalagriculture:prosperity_shard"},
+    "X": {"item": "minecraft:wheat_seeds"},
+    "I": {"item": "mysticalagriculture:prosperity_ingot"},
+    "G": {"item": "mysticalagriculture:prosperity_gemstone"}
+  },
+  "result": {"item": "mysticalagriculture:prosperity_seed_base"}
+}

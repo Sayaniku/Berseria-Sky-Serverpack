@@ -1,0 +1,11 @@
+{
+    "name": "Nitro Crystal",
+    "colors": [
+      "630300",
+      "bd1c22"
+    ],
+    "ingredient": {
+      "item": "powah:crystal_nitro"
+    },
+    "inUltimateSingularity": true
+  }

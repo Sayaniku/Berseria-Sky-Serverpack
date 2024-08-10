@@ -1,0 +1,14 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "DGD",
+    "GFG",
+    "DGD"
+  ],
+  "key": {
+    "D": {"tag": "forge:storage_blocks/invar"},
+    "F": {"tag": "forge:furnaces/gold"},
+    "G": {"item": "tconstruct:clear_glass"}
+  },
+  "result": {"item": "ironfurnaces:diamond_furnace"}
+}

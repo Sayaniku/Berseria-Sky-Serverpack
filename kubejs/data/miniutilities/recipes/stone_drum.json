@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XYX",
+    "XZX",
+    "XYX"
+  ],
+  "key": {
+    "X": {
+      "item": "compressium:stone_1"
+    },
+    "Y": {
+      "item": "minecraft:stone_slab"
+    },
+    "Z": {
+      "item": "tconstruct:seared_fuel_tank"
+    }
+  },
+  "result": {
+    "item": "miniutilities:stone_drum"
+  }
+}

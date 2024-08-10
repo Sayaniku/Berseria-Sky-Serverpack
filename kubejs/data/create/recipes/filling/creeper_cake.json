@@ -1,0 +1,18 @@
+{
+    "type": "create:filling",
+    "ingredients": [
+      {
+        "item": "create:blaze_cake_base"
+      },
+      {
+        "fluid": "tconstruct:earth_slime",
+        "nbt": {},
+        "amount": 250
+      }
+    ],
+    "results": [
+      {
+        "item": "berseria_sky:creeper_cake"
+      }
+    ]
+  }

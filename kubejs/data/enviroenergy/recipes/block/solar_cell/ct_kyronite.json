@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "www",
+    "cSc"
+  ],
+  "key": {
+    "c": {
+      "item": "envirocore:kyronite_interconnect"
+    },
+    "w": {
+      "item": "envirocore:kyronite_wafer"
+    },
+    "S": {
+      "item": "enviroenergy:erodium_solar_cell"
+    }
+  },
+  "result": {
+    "item": "enviroenergy:kyronite_solar_cell",
+    "count": 1
+  }
+}

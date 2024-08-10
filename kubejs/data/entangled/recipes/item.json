@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " AC",
+    " BA",
+    "B  "
+  ],
+  "key": {
+    "A": {
+      "item": "kubejs:ender_plate"
+    },
+    "B": {
+      "item": "immersiveposts:stick_electrum"
+    },
+    "C": {
+      "item": "thermal:diamond_gear"
+    }
+  },
+  "result": {
+    "item": "entangled:item"
+  }
+}

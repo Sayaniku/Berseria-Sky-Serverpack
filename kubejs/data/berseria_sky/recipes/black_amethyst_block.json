@@ -1,0 +1,5 @@
+{
+    "type":"mekanism:combining",
+    "mainInput":{"ingredient":{"item":"minecraft:amethyst_block"}},
+    "extraInput":{"ingredient":{"item":"extendedcrafting:black_iron_block"}},
+    "output":{"item":"berseria_sky:black_amethyst_block"}}

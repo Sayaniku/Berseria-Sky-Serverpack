@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " C ",
+        "AFA",
+        " B "
+    ],
+    "key": {
+        "C": {
+            "item": "envirocore:litherite_interconnect"
+        },
+        "F": {
+            "tag": "envirocore:structure/panels"
+        },
+        "A": {
+            "tag": "forge:storage_blocks/lapis"
+        },
+        "B": {
+            "item": "kubejs:hop_graphite_block"
+        }
+    },
+    "result": {
+        "item": "envirocore:litherite_frame",
+        "count": 1
+    }
+}

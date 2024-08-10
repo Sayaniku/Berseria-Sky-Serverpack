@@ -1,0 +1,19 @@
+{
+    "type": "thermal:press",
+    "ingredients": [
+        {
+            "item": "appliedenergistics2:silicon",
+            "count": 1
+        },
+        {
+            "item": "appliedenergistics2:silicon_press"
+        }
+    ],
+    "result": [
+        {
+            "item": "appliedenergistics2:printed_silicon",
+            "count": 1
+        }
+    ],
+    "energy": 6000
+}

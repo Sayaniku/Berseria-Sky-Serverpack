@@ -1,0 +1,25 @@
+{
+  "type": "powah:energizing",
+  "ingredients": [
+    {
+      "item": "powah:blazing_crystal_block"
+    },
+    {
+      "item": "powah:niotic_crystal_block"
+    },
+    {
+      "item": "powah:spirited_crystal_block"
+    },
+    {
+      "item": "extendedcrafting:redstone_ingot_block"
+    },
+    {
+      "item": "cagedmobs:star_infused_netherite_block"
+    }
+  ],
+  "energy": 20000000,
+  "result": {
+    "item": "powah:crystal_nitro",
+    "count": 4
+  }
+}

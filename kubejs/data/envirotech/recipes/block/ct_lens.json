@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " G ",
+        "GGG",
+        " G "
+    ],
+    "key": {
+        "G": {
+            "tag": "forge:glass"
+        }
+    },
+    "result": {
+        "item": "envirocore:lens",
+        "count": 1
+    }
+}

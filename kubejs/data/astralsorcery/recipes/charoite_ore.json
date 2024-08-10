@@ -1,0 +1,16 @@
+{
+    "type": "astralsorcery:block_transmutation",
+    "input": [
+      {
+        "block": "blue_skies:chiseled_turquoise_stonebrick"
+      }
+    ],
+    "output": {
+      "block": "blue_skies:everbright_charoite_ore"
+    },
+    "display": {
+      "item": "blue_skies:everbright_charoite_ore",
+      "count": 1
+    },
+    "starlight": 100.0
+  }

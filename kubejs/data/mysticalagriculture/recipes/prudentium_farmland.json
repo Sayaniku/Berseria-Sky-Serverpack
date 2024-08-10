@@ -1,0 +1,14 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " P ",
+    "PXP",
+    " P "
+  ],
+  "key": {
+    "P": {"item": "mysticalagriculture:prudentium_essence"},
+    "X": {"item": "mysticalagriculture:inferium_farmland"}
+    
+  },
+  "result": {"item": "mysticalagriculture:prudentium_farmland"}
+}

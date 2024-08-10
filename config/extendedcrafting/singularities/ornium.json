@@ -1,0 +1,11 @@
+{
+  "name": "Ornium",
+  "colors": [
+    "560072",
+    "5a2070"
+  ],
+  "ingredient": {
+    "item": "kubejs:ornium_ingot"
+  },
+  "inUltimateSingularity": true
+}

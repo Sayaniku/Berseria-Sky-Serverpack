@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XSX",
+    "SBS",
+    "XGX"
+  ],
+  "key": {
+    "G": {
+      "tag": "forge:plates/gold"
+    },
+    "S": {
+      "tag": "forge:plates/silver"
+    },
+    "X": {
+      "item": "thermal:rf_coil"
+    },
+    "B": {
+      "item": "thermal:rf_coil_storage_augment"
+    }
+  },
+  "result": {
+    "item": "thermal:rf_coil_xfer_augment"
+  },
+  "conditions": [
+    {
+      "flag": "storage_augments",
+      "type": "thermal:flag"
+    }
+  ]
+}

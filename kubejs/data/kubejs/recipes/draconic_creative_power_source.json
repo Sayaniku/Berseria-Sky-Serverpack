@@ -1,0 +1,193 @@
+{
+    "type": "extendedcrafting:shapeless_table",
+    "tier": 4,
+    "ingredients": [
+      {"item": "berseria_sky:myraft_ingot"
+      },
+      {"item": "create:creative_blaze_cake"
+      },
+      {"type": "forge:nbt",
+       "item": "tconstruct:creative_slot","count": 1,
+       "nbt": "{slot:\"upgrades\"}"
+      },
+      {"item": "mekanism:creative_fluid_tank"
+      },
+      {"item": "thermal:rf_coil_creative_augment"
+      },
+      {"item": "mekanism:creative_fluid_tank"
+      },
+      {"type": "forge:nbt",
+       "item": "tconstruct:creative_slot","count": 1,
+       "nbt": "{slot:\"upgrades\"}"
+      },
+      {"item": "create:creative_blaze_cake"
+      },
+      {"item": "berseria_sky:myraft_ingot"
+      },
+      {"type": "forge:nbt",
+        "item": "tconstruct:creative_slot","count": 1,
+        "nbt": "{slot:\"abilities\"}"
+      },
+      {"item": "draconicevolution:creative_capacitor"
+      },
+      {"item": "thermal:fluid_tank_creative_augment"
+      },
+      {"item": "appliedenergistics2:creative_energy_cell"
+      },
+      {"item": "thermal:machine_efficiency_creative_augment"
+      },
+      {"item": "appliedenergistics2:creative_energy_cell"
+      },
+      {"item": "thermal:fluid_tank_creative_augment"
+      },
+      {"item": "draconicevolution:creative_capacitor"
+      },
+      {"type": "forge:nbt",
+        "item": "tconstruct:creative_slot","count": 1,
+        "nbt": "{slot:\"defense\"}"
+      },
+      {"item": "immersiveengineering:capacitor_creative"
+      },
+      {"item": "cagedmobs:creative_upgrade"
+      },
+      {"item": "powah:energy_cell_creative"
+      },
+      {"item": "pipez:infinity_upgrade"
+      },
+      {"item": "projectex:final_star"
+      },
+      {"item": "pipez:infinity_upgrade"
+      },
+      {"item": "powah:energy_cell_creative"
+      },
+      {"item": "cagedmobs:creative_upgrade"
+      },
+      {"item": "immersiveengineering:capacitor_creative"
+      },
+      {"type": "forge:nbt",
+       "item": "extendedcrafting:singularity","count": 1,
+       "nbt": "{Id:\"extendedcrafting:creative\"}"
+      },
+      {"item": "simplyjetpacks:jetpack_creative_armored"
+      },
+      {"item": "create:creative_motor"
+      },
+      {"item": "berseria_sky:ball_of_hakai"
+      },
+      {"item": "ae2wtlib:infinity_booster_card"
+      },
+      {"item": "berseria_sky:ball_of_hakai"
+      },
+      {"item": "create:creative_motor"
+      },
+      {"item": "simplyjetpacks:jetpack_creative_armored"
+      },
+      {"type": "forge:nbt",
+        "item": "extendedcrafting:singularity","count": 1,
+        "nbt": "{Id:\"extendedcrafting:creative\"}"
+      },
+      {"item": "thermal:rf_coil_creative_augment"
+      },
+      {"item": "thermal:machine_efficiency_creative_augment"
+      },
+      {"item": "projectex:final_star"
+      },
+      {"item": "ae2wtlib:infinity_booster_card"
+      },
+      {"item": "storagedrawers:creative_storage_upgrade"
+      },
+      {"item": "ae2wtlib:infinity_booster_card"
+      },
+      {"item": "projectex:final_star"
+      },
+      {"item": "thermal:machine_efficiency_creative_augment"
+      },
+      {"item": "thermal:rf_coil_creative_augment"
+      },
+      {"type": "forge:nbt",
+       "item": "extendedcrafting:singularity","count": 1,
+       "nbt": "{Id:\"extendedcrafting:creative\"}"
+      },
+      {"item": "simplyjetpacks:jetpack_creative_armored"
+      },
+      {"item": "create:creative_motor"
+      },
+      {"item": "berseria_sky:ball_of_hakai"
+      },
+      {"item": "ae2wtlib:infinity_booster_card"
+      },
+      {"item": "berseria_sky:ball_of_hakai"
+      },
+      {"item": "create:creative_motor"
+      },
+      {"item": "simplyjetpacks:jetpack_creative_armored"
+      },
+      {"type": "forge:nbt",
+       "item": "extendedcrafting:singularity","count": 1,
+       "nbt": "{Id:\"extendedcrafting:creative\"}"
+      },
+      {"item": "immersiveengineering:capacitor_creative"
+      },
+      {"item": "cagedmobs:creative_upgrade"
+      },
+      {"item": "powah:energy_cell_creative"
+      },
+      {"item": "pipez:infinity_upgrade"
+      },
+      {"item": "projectex:final_star"
+      },
+      {"item": "pipez:infinity_upgrade"
+      },
+      {"item": "powah:energy_cell_creative"
+      },
+      {"item": "cagedmobs:creative_upgrade"
+      },
+      {"item": "immersiveengineering:capacitor_creative"
+      },
+      {"type": "forge:nbt",
+       "item": "tconstruct:creative_slot","count": 1,
+       "nbt": "{slot:\"abilities\"}"
+      },
+      {"item": "draconicevolution:creative_capacitor"
+      },
+      {"item": "thermal:fluid_tank_creative_augment"
+      },
+      {"item": "appliedenergistics2:creative_energy_cell"
+      },
+      {"item": "thermal:machine_efficiency_creative_augment"
+      },
+      {"item": "appliedenergistics2:creative_energy_cell"
+      },
+      {"item": "thermal:fluid_tank_creative_augment"
+      },
+      {"item": "draconicevolution:creative_capacitor"
+      },
+      {"type": "forge:nbt",
+       "item": "tconstruct:creative_slot","count": 1,
+       "nbt": "{slot:\"defense\"}"
+      },
+      {"item": "berseria_sky:myraft_ingot"
+      },
+      {"item": "create:creative_blaze_cake"
+      },
+      {"type": "forge:nbt",
+       "item": "tconstruct:creative_slot","count": 1,
+       "nbt": "{slot:\"souls\"}"
+      },
+      {"item": "mekanism:creative_chemical_tank"
+      },
+      {"item": "thermal:rf_coil_creative_augment"
+      },
+      {"item": "mekanism:creative_chemical_tank"
+      },
+      {"type": "forge:nbt",
+       "item": "tconstruct:creative_slot","count": 1,
+       "nbt": "{slot:\"souls\"}"
+      },
+      {"item": "create:creative_blaze_cake"
+      },
+      {"item": "berseria_sky:myraft_ingot"
+      }
+    ],
+    "result": {"item": "draconicevolution:creative_op_capacitor"}
+  }

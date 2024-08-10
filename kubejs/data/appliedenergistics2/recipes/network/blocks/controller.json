@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "c": {
+      "item": "berseria_sky:controller_casing"
+    },
+    "b": {
+      "item": "appliedenergistics2:fluix_block"
+    },
+    "a": {
+      "item": "tconstruct:hepatizon_block"
+    }
+  },
+  "result": {
+    "item": "appliedenergistics2:controller"
+  }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Electrical Copper",
+    "type": "resource",
+    "tier": "mysticalagriculture:5",
+    "ingredient": {
+      "item": "minecraft:air"
+    },
+    "textures": {
+      "flower": "mysticalagriculture:block/flower_electrical_copper",
+      "essence": "mysticalagriculture:item/electrical_copper_essence",
+      "seeds": "mysticalagriculture:item/electrical_copper_seeds"
+    }
+}

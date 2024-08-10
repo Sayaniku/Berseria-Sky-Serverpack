@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " C ",
+        "AFA",
+        " B "
+    ],
+    "key": {
+        "C": {
+            "item": "envirocore:pladium_interconnect"
+        },
+        "F": {
+            "item": "envirocore:kyronite_frame"
+        },
+        "A": {
+            "tag": "forge:storage_blocks/fairy"
+        },
+        "B": {
+            "item": "kubejs:emerald_block"
+        }
+    },
+    "result": {
+        "item": "envirocore:pladium_frame",
+        "count": 1
+    }
+}

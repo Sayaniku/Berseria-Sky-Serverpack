@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+      "item": "metalbarrels:diamond_to_obsidian"
+    },
+    "addition": {
+      "tag": "forge:storage_ingots/manyullyn"
+    },
+    "result": {
+      "item": "metalbarrels:obsidian_to_netherite"
+    }
+  }

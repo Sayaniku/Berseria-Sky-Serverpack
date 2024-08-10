@@ -1,0 +1,22 @@
+{
+  "type": "excompressum:compressed_hammer",
+  "input": {
+    "item": "kubejs:compressed_sky_stone"
+  },
+  "lootTable": {
+    "type": "minecraft:block",
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "kubejs:compressed_crushed_sky_stone",
+            "functions": []
+          }
+        ],
+        "conditions": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "input": [
+    {
+      "item": "kubejs:redstone_plate"
+    },
+    {
+      "item": "industrialforegoing:speed_addon_1"
+    },
+    {
+      "item": "kubejs:redstone_plate"
+    },
+    {
+      "item": "minecraft:glass_pane"
+    },
+    {
+      "item": "minecraft:glass_pane"
+    },
+    {
+      "item": "kubejs:diamond_block"
+    },
+    {
+      "item": "kubejs:diamond_block"
+    },
+    {
+      "item": "kubejs:diamond_block"
+    }
+  ],
+  "inputFluid": "{FluidName:\"industrialforegoing:latex\",Amount:1000}",
+  "processingTime": 200,
+  "output": {
+    "item": "industrialforegoing:speed_addon_2",
+    "count": 1,
+    "nbt": "{TitaniumAugment:{Speed:3.0f}}"
+  },
+  "type": "industrialforegoing:dissolution_chamber"
+}

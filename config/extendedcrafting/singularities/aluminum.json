@@ -1,0 +1,11 @@
+{
+  "name": "Aluminum",
+  "colors": [
+    "caccda",
+    "caccda"
+  ],
+  "ingredient": {
+    "item": "immersiveengineering:ingot_aluminum"
+  },
+  "inUltimateSingularity": true
+}

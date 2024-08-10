@@ -1,0 +1,17 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "create:dough"
+      },
+      {
+        "item": "compressium:obsidian_1"
+      }
+    ],
+    "results": [
+      {
+        "item": "berseria_sky:obsidian_dough"
+      }
+    ],
+    "heatRequirement": "heated"
+  }

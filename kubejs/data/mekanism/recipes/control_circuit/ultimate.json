@@ -1,0 +1,7 @@
+{
+    "type":"mekanism:metallurgic_infusing",
+    "itemInput":{
+        "ingredient":{"tag":"forge:circuits/elite"}},
+        "infusionInput":{"amount":80,"infuse_type":"berseria_sky:manronium_steel"},
+        "output":{"item":"mekanism:ultimate_control_circuit"
+        }}

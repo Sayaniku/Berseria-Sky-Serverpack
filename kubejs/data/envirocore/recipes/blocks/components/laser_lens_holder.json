@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " C ",
+        "I I",
+        " C "
+    ],
+    "key": {
+        "I": {
+            "item": "mysticalagriculture:inferium_ingot_block"
+        },
+        "C": {
+            "item": "envirocore:laser_core"
+        }
+
+    },
+    "result": {
+        "item": "envirocore:laser_lens_holder",
+        "count": 1
+    }
+}

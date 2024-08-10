@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " p ",
+    "plp",
+    " p "
+  ],
+  "key": {
+    "p": {
+      "tag": "forge:glass_panes"
+    },
+    "l": {
+      "item": "enviroenergy:lightning_rod"
+    }
+  },
+  "result": {
+    "item": "enviroenergy:insulated_lightning_rod",
+    "count": 1
+  }
+}

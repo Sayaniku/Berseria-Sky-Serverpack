@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" IP",
+		"IRI",
+		"PI "
+	],
+	"key": {
+		"P": {
+			"item": "powah:dielectric_paste"
+		},
+		"I": {
+			"item": "tinkers_reforged:electrical_copper_ingot"
+		},
+		"R": {
+			"item": "extendedcrafting:redstone_ingot_block"
+		}
+	},
+	"result": {
+		"item": "powah:capacitor_basic",
+		"count": 4
+	}
+}

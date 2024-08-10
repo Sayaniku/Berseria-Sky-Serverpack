@@ -1,0 +1,52 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "values": [
+            {
+              "item": "industrialforegoing:material_stonework_factory",
+              "type": "forge:item_exists"
+            }
+          ],
+          "type": "forge:and"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+          "pcp",
+          "gmf",
+          "aba"
+        ],
+        "key": {
+          "p": {
+            "tag": "forge:plastic"
+          },
+          "c": {
+            "item": "extendedcrafting:redstone_ingot_block"
+          },
+          "g": {
+            "item": "minecraft:diamond_pickaxe"
+          },
+          "m": {
+            "tag": "industrialforegoing:machine_frame/advanced"
+          },
+          "f": {
+            "item": "ironfurnaces:netherite_furnace"
+          },
+          "a": {
+            "tag": "forge:gears/manronium_steel"
+          },
+          "b": {
+            "item": "industrialforegoing:pink_slime_ingot"
+          }
+        },
+        "result": {
+          "item": "industrialforegoing:material_stonework_factory"
+        }
+      }
+    }
+  ]
+}

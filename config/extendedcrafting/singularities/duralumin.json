@@ -1,0 +1,11 @@
+{
+    "name": "Duralumin",
+    "colors": [
+      "a2dc8f",
+      "488641"
+    ],
+    "ingredient": {
+      "item": "tinkers_reforged:duralumin_ingot"
+    },
+    "inUltimateSingularity": false
+}

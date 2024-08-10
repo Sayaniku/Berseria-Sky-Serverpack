@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aba",
+    "cde",
+    "aba"
+  ],
+  "key": {
+    "e": {
+      "item": "appliedenergistics2:formation_core"
+    },
+    "b": {
+      "item": "appliedenergistics2:quartz_glass"
+    },
+    "d": {
+      "tag": "appliedenergistics2:workbench"
+    },
+    "a": {
+      "tag": "forge:ingots/enderium"
+    },
+    "c": {
+      "item": "appliedenergistics2:annihilation_core"
+    }
+  },
+  "result": {
+    "item": "appliedenergistics2:molecular_assembler"
+  }
+}

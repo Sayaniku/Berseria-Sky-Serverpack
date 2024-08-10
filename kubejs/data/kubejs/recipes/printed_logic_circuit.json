@@ -1,0 +1,18 @@
+{
+    "type": "thermal:press",
+    "ingredients": [
+        {
+            "item": "berseria_sky:elinvonze_ingot"  
+        },
+        {
+            "item": "appliedenergistics2:logic_processor_press"
+        }
+    ],
+    "result": [
+        {
+            "item": "appliedenergistics2:printed_logic_processor",
+            "count": 1
+        }
+    ],
+    "energy": 6000
+}

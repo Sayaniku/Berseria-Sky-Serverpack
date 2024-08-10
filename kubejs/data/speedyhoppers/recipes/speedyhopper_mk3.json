@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DAD",
+    "DHD",
+    " D "
+  ],
+  "key": {
+    "D": {"tag": "forge:plates/enderium"},
+    "H": {"item": "speedyhoppers:speedyhopper_mk2"},
+    "A": {"item": "minecraft:comparator"}
+  },
+  "result": {
+    "item": "speedyhoppers:speedyhopper_mk3"
+  }
+}

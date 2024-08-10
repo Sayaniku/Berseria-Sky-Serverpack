@@ -1,0 +1,36 @@
+{
+  "input": [
+    {
+      "item": "kubejs:redstone_gear"
+    },
+    {
+      "item": "industrialforegoing:processing_addon_1"
+    },
+    {
+      "item": "kubejs:redstone_gear"
+    },
+    {
+      "item": "minecraft:glass_pane"
+    },
+    {
+      "item": "minecraft:glass_pane"
+    },
+    {
+      "tag": "forge:gears/diamond"
+    },
+    {
+      "item": "ironfurnaces:netherite_furnace"
+    },
+    {
+      "tag": "forge:gears/diamond"
+    }
+  ],
+  "inputFluid": "{FluidName:\"industrialforegoing:latex\",Amount:1000}",
+  "processingTime": 600,
+  "output": {
+    "item": "industrialforegoing:processing_addon_2",
+    "count": 1,
+    "nbt": "{TitaniumAugment:{Processing:3.0f}}"
+  },
+  "type": "industrialforegoing:dissolution_chamber"
+}

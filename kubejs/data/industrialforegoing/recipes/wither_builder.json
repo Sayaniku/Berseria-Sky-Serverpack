@@ -1,0 +1,46 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "values": [
+            {
+              "item": "industrialforegoing:wither_builder",
+              "type": "forge:item_exists"
+            }
+          ],
+          "type": "forge:and"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+          "PNP",
+          "WCW",
+          "SSS"
+        ],
+        "key": {
+          "P": {
+            "tag": "forge:plastic"
+          },
+          "N": {
+            "item": "cagedmobs:star_infused_netherite_block"
+          },
+          "W": {
+            "item": "kubejs:wither_skeleton_ingot_block"
+          },
+          "C": {
+            "tag": "industrialforegoing:machine_frame/supreme"
+          },
+          "S": {
+            "item": "compressium:soulsand_2"
+          }
+        },
+        "result": {
+          "item": "industrialforegoing:wither_builder"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+events.listen('fluid.registry', e => {
+
+    e.create('stabilized_antimatter').textureThick(0xf3c1ff).displayName('Stabilized Antimatter').bucketColor(0xf3c1ff)
+    e.create('molten_ardite').textureThick(0xc44b0f).displayName('Molten Ardite').bucketColor(0xc44b0f)
+    e.create('molten_sunny').textureThick(0xffd54a).displayName('Molten Sunny').bucketColor(0xffd54a)
+    e.create('molten_moon').textureThick(0x9097a5).displayName('Molten Moon').bucketColor(0x9097a5)
+    e.create('molten_insanium').textureThick(0x630097).displayName('Molten Insanium').bucketColor(0x630097)
+    e.create('molten_ornium').textureThick(0x560072).displayName('Molten Ornium').bucketColor(0x560072)
+    e.create('molten_lightium').textureThick(0x77aacf).displayName('Molten Lightium').bucketColor(0x77aacf)
+    e.create('molten_tornium').textureThick(0x4a4a4a).displayName('Molten Tornium').bucketColor(0x4a4a4a)
+    e.create('molten_ouranium').textureThick(0x4b737a).displayName('Molten Ouranium').bucketColor(0x4b737a)
+    e.create('molten_elinvonze').textureThick(0xc3a968).displayName('Molten Elinvonze').bucketColor(0xc3a968)
+    e.create('molten_manyerium').textureThick(0x885c73).displayName('Molten Manyerium').bucketColor(0x885c73)
+    e.create('molten_queens_steel').textureThick(0x529a82).displayName('Molten Queens Steel').bucketColor(0x529a82)
+    e.create('molten_fayronium').textureThick(0xbc6d77).displayName('Molten Fayronium').bucketColor(0xbc6d77)
+    e.create('molten_manronium_steel').textureThick(0x877679).displayName('Molten Manronium Steel').bucketColor(0xb877679)
+    e.create('blue_lava').textureThick(0x0b4b7a).displayName('Blue Lava').bucketColor(0x0b4b7a)
+    e.create('molten_end').textureThick(0xf3f7bb).displayName('Molten End').bucketColor(0xf3f7bb)
+    e.create('molten_overworld').textureThick(0x99d96f).displayName('Molten Overworld').bucketColor(0x99d96f)
+    e.create('molten_nether').textureThick(0xbb3033).displayName('Molten Nether').bucketColor(0xbb3033)
+    e.create('berseria_sky:molten_comerald').textureThick(0x5aa629).displayName('Molten Comerald').bucketColor(0x5aa629)
+    
+
+    e.create('petrotheum').displayName('Tectonic Petrotheum').textureStill("kubejs:fluid/petrotheum_still").textureFlowing("kubejs:fluid/petrotheum_flow").bucketColor(0x8f6b59)
+    e.create('cryotheum').displayName('Gelid Cryotheum').textureStill("kubejs:fluid/cryotheum_still").textureFlowing("kubejs:fluid/cryotheum_flow").bucketColor(0x23c5fa)
+    e.create('pyrotheum').displayName('Blazing Pyrotheum').textureStill("kubejs:fluid/pyrotheum_still").textureFlowing("kubejs:fluid/pyrotheum_flow").bucketColor(0xffe330)
+    e.create('aerotheum').displayName('Zephyrean Aerotheum').textureStill("kubejs:fluid/aerotheum_still").textureFlowing("kubejs:fluid/aerotheum_flow").bucketColor(0xaea97c)
+    e.create('mana').displayName('Primal Mana').textureStill("kubejs:fluid/mana_still").textureFlowing("kubejs:fluid/mana_flow").bucketColor(0x0090e3)
+    
+})

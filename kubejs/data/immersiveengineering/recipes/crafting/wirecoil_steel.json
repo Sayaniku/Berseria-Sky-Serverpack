@@ -1,0 +1,27 @@
+{
+    "type": "immersiveengineering:turn_and_copy",
+    "pattern": [
+        "MWM",
+        "ASA",
+        "MWM"
+    ],
+    "key": {
+        "W": {
+            "tag": "forge:wires/steel"
+        },
+        "A": {
+            "tag": "forge:wires/aluminum"
+        },
+        "S": {
+            "tag": "forge:rods/wooden"
+        },
+        "M": {
+            "item": "immersiveengineering:wirecoil_electrum"
+        }
+    },
+    "result": {
+        "item": "immersiveengineering:wirecoil_steel",
+        "count": 4
+    },
+    "quarter_turn": true
+}

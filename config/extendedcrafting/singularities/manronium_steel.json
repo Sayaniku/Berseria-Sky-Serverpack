@@ -1,0 +1,11 @@
+{
+    "name": "Manronium Steel",
+    "colors": [
+      "877679",
+      "877679"
+    ],
+    "ingredient": {
+      "tag": "forge:ingots/manronium_steel"
+    },
+    "inUltimateSingularity": true
+  }

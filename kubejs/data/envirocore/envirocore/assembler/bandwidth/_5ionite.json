@@ -1,0 +1,26 @@
+{
+  "duration": {
+    "raw:int": 100
+  },
+  "top": {
+    "raw:item": "envirocore:ionite_interconnect"
+  },
+  "bottom": {
+    "raw:item": "envirocore:lonsdaleite_crystal"
+  },
+  "left": {
+    "raw:item_tag": "forge:storage_blocks/lapis"
+  },
+  "right": {
+    "raw:item_tag": "forge:storage_blocks/lapis"
+  },
+  "center": {
+    "raw:item": "envirocore:null_modifier"
+  },
+  "output": {
+    "raw:itemstack": "envirocore:bandwidth_modifier",
+    "nbt": "{tier:5,attributes:{\"envirocore:energy_cost_multiplier\":1.0,\"envirocore:bandwidth\":1}}"
+  },
+  "merge_center_nbt": true,
+  "override": "replace"
+}

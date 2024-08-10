@@ -1,0 +1,23 @@
+{
+    "type": "cucumber:shaped_transfer_damage",
+    "pattern": [
+      " G ",
+      "IPI",
+      " G "
+    ],
+    "key": {
+      "G": {
+        "item": "kubejs:ouranium_gemstone"
+      },
+      "I": {
+        "item": "kubejs:ouranium_ingot"
+      },
+      "P": {
+        "item": "kubejs:tornium_sword"
+      }
+    },
+    "result": {
+        "nbt": "{Enchantments:[{lvl:20s,id:\"minecraft:looting\"}]}",
+        "item": "kubejs:ouranium_sword",
+        "type": "minecraft:item_nbt"
+}}

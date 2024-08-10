@@ -1,0 +1,49 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "values": [
+            {
+              "item": "industrialforegoing:mob_duplicator",
+              "type": "forge:item_exists"
+            }
+          ],
+          "type": "forge:and"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+          "PWP",
+          "CMC",
+          "ERE"
+        ],
+        "key": {
+          "P": {
+            "item": "berseria_sky:plastic_block"
+          },
+          "W": {
+            "item": "minecraft:nether_wart_block"
+          },
+          "C": {
+            "item": "minecraft:magma_block"
+          },
+          "M": {
+            "tag": "industrialforegoing:machine_frame/supreme"
+          },
+          "E": {
+            "item": "berseria_sky:comerald_ingot"
+          },
+          "R": {
+            "item": "compressium:redstone_3"
+          }
+        },
+        "result": {
+          "item": "industrialforegoing:mob_duplicator"
+        }
+      }
+    }
+  ]
+}

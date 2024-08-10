@@ -1,0 +1,20 @@
+{
+  "block.metalbarrels.copper_barrel": "Copper Barrel",
+  "block.metalbarrels.iron_barrel": "Ardite Barrel",
+  "block.metalbarrels.silver_barrel": "Steel Barrel",
+  "block.metalbarrels.gold_barrel": "Electrum Barrel",
+  "block.metalbarrels.diamond_barrel": "Invar Barrel",
+  "block.metalbarrels.obsidian_barrel": "Hepatizon Barrel",
+  "block.metalbarrels.netherite_barrel": "Manyullyn Barrel",
+
+  "item.metalbarrels.wood_to_copper": "Barrel to Copper Barrel Upgrade",
+  "item.metalbarrels.copper_to_iron": "Copper to Ardite Barrel Upgrade",
+  "item.metalbarrels.iron_to_silver": "Ardite to Steel Barrel Upgrade",
+  "item.metalbarrels.silver_to_gold": "Steel to Electrum Barrel Upgrade",
+  "item.metalbarrels.gold_to_diamond": "Electrum to Invar Barrel Upgrade",
+
+  "item.metalbarrels.diamond_to_obsidian": "Invar to Hepatizon Barrel Upgrade",
+  "item.metalbarrels.diamond_to_crystal": "Invar to Crystal Barrel Upgrade",
+  "item.metalbarrels.obsidian_to_netherite": "Hepatizon to Manyullyn Barrel Upgrade"
+
+}

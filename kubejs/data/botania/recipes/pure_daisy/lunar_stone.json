@@ -1,0 +1,10 @@
+{
+    "type": "botania:pure_daisy",
+    "input": {
+      "type": "block",
+      "block": "botania:metamorphic_mountain_stone"
+    },
+    "output": {
+      "name": "blue_skies:lunar_stone"
+    }
+  }

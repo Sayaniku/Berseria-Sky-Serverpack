@@ -1,0 +1,27 @@
+{
+  "duration": {
+    "raw:int": 100
+  },
+  "top": {
+    "raw:item": "envirocore:ionite_interconnect"
+  },
+  "bottom": {
+    "raw:item": "envirocore:lonsdaleite_crystal"
+  },
+  "left": {
+    "raw:item": "envirocore:mica"
+  },
+  "right": {
+    "raw:item": "envirocore:mica"
+  },
+  "center": {
+    "raw:itemstack": "envirocore:piezo_modifier",
+    "nbt": "{tier:4,attributes:{\"envirocore:piezo\":0.8}}"
+  },
+  "output": {
+    "raw:itemstack": "envirocore:piezo_modifier",
+    "nbt": "{tier:5,attributes:{\"envirocore:piezo\":1.0}}"
+  },
+  "merge_center_nbt": true,
+  "override": "replace"
+}

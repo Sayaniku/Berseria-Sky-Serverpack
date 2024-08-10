@@ -1,0 +1,35 @@
+{
+  "input": [
+    {
+      "tag": "forge:plastic"
+    },
+    {
+      "item": "industrialforegoing:machine_frame_advanced"
+    },
+    {
+      "tag": "forge:plastic"
+    },
+    {
+      "item": "thermal_extra:dragon_enderium_plate"
+    },
+    {
+      "item": "thermal_extra:polarium_plate"
+    },
+    {
+      "item": "thermal_extra:nectium_plate"
+    },
+    {
+      "item": "kubejs:yellorium_gear"
+    },
+    {
+      "item": "thermal_extra:dragon_bronze_plate"
+    }
+  ],
+  "inputFluid": "{FluidName:\"mysticalagradditions:molten_supremium\",Amount:1296}",
+  "processingTime": 800,
+  "output": {
+    "item": "mekanism:steel_casing",
+    "count": 1
+  },
+  "type": "industrialforegoing:dissolution_chamber"
+}

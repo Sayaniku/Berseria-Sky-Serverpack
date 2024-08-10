@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "i i",
+        "iPi",
+        "ici"
+    ],
+    "key": {
+        "i": {
+            "item": "kubejs:tertium_plate"
+        },
+        "P": {
+            "item": "minecraft:piston"
+        },
+        "c": {
+            "item": "envirocore:cpu"
+        }
+    },
+    "result": {
+        "item": "envirocore:lens_grinder",
+        "count": 1
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "III",
+        "ELE",
+        "WRW"
+    ],
+    "key": {
+        "I": {
+            "tag": "forge:plates/bronze"
+        },
+        "L": {
+            "item": "immersiveengineering:capacitor_lv"
+        },
+        "E": {
+            "tag": "forge:gears/electrum"
+        },
+        "W": {
+            "tag": "forge:treated_wood"
+        },
+        "R": {
+            "item": "extendedcrafting:redstone_ingot_block"
+        }
+    },
+    "result": {
+        "item": "immersiveengineering:capacitor_mv"
+    }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Nickel",
+  "colors": [
+    "beb482",
+    "beb482"
+  ],
+  "ingredient": {
+    "item": "thermal:nickel_ingot"
+  },
+  "inUltimateSingularity": true
+}

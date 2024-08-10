@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SSS",
+        "ALA",
+        "WRW"
+    ],
+    "key": {
+        "S": {
+            "item": "berseria_sky:comerald_plate"
+        },
+        "A": {
+            "tag": "forge:gears/enderium"
+        },
+        "L": {
+            "item": "immersiveengineering:capacitor_mv"
+        },
+        "W": {
+            "tag": "forge:treated_wood"
+        },
+        "R": {
+            "item": "extendedcrafting:redstone_ingot_block"
+        }
+    },
+    "result": {
+        "item": "immersiveengineering:capacitor_hv"
+    }
+}

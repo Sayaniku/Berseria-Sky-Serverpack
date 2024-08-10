@@ -1,0 +1,11 @@
+{
+  "type": "thermal:bottler",
+  "ingredients": [
+    {"item": "mysticalagradditions:insanium_block"},
+    {"fluid": "kubejs:stabilized_antimatter",
+      "amount": 1296}
+  ],
+  "result": [
+    {"item": "mekanism:block_antimatter"}
+  ]
+}

@@ -1,0 +1,23 @@
+{
+    "type": "cucumber:shaped_transfer_damage",
+    "pattern": [
+      " G ",
+      "IPI",
+      " G "
+    ],
+    "key": {
+      "G": {
+        "item": "kubejs:lightium_gemstone"
+      },
+      "I": {
+        "item": "kubejs:lightium_ingot"
+      },
+      "P": {
+        "item": "kubejs:ornium_hoe"
+      }
+    },
+    "result": {
+        "nbt": "{Enchantments:[{lvl:7s,id:\"minecraft:fortune\"}]}",
+        "item": "kubejs:lightium_hoe",
+        "type": "minecraft:item_nbt"
+}}

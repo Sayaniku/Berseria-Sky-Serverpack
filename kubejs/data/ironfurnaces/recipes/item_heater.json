@@ -1,0 +1,22 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "#R#",
+    "RXR",
+    "#R#"
+  ],
+  "key": {
+    "#": {
+      "item": "compressium:stone_2"
+    },
+    "R": {
+      "tag": "forge:ingots/lumium"
+    },
+    "X": {
+      "item": "minecraft:comparator"
+    }
+  },
+  "result": {
+    "item": "ironfurnaces:item_heater"
+  }
+}

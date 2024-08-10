@@ -1,0 +1,11 @@
+{
+    "name": "HOP Graphite",
+    "colors": [
+      "212121",
+      "595959"
+    ],
+    "ingredient": {
+      "item": "immersiveengineering:ingot_hop_graphite"
+    },
+    "inUltimateSingularity": true
+  }

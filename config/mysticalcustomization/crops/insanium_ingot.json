@@ -1,0 +1,13 @@
+{
+    "name": "§5Insanium Ingot",
+    "type": "resource",
+    "tier": "mysticalagradditions:6",
+    "ingredient": {
+      "item": "minecraft:air"
+    },
+    "textures": {
+      "flower": "mysticalagriculture:block/flower_insanium",
+      "essence": "mysticalagriculture:item/insanium_ingot_essence",
+      "seeds": "mysticalagriculture:item/insanium_ingot_seeds"
+    }
+}

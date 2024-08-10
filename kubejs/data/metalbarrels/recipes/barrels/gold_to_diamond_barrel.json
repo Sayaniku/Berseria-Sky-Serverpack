@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+        "DDD",
+        "DAD",
+        "DDD"
+  
+  ],
+  "key": {
+   "A":{"tag": "forge:barrels/gold"},
+   "D":{"tag": "forge:ingots/invar"}
+  },
+  "result": {"item": "metalbarrels:diamond_barrel"}
+  }

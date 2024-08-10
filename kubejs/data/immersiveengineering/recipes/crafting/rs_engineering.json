@@ -1,0 +1,16 @@
+{
+ "type":"immersiveengineering:turn_and_copy",
+"pattern":[
+    "IRI",
+    "RCR",
+    "IRI"],
+    
+    "key":{
+        "I":{"tag":"forge:sheetmetals/iron"},
+        "C":{"tag":"forge:storage_blocks/constantan"},
+        "R":{"item":"kubejs:redstone_plate"}},
+        
+        
+        "result":{"item":"immersiveengineering:rs_engineering","count":1},
+        
+        "quarter_turn":true}

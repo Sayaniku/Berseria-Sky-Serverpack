@@ -1,0 +1,7 @@
+{
+    "type":"mekanism:metallurgic_infusing",
+    "itemInput":{
+        "ingredient":{"tag":"forge:ingots/osmium"}},
+        "infusionInput":{"amount":20,"infuse_type":"berseria_sky:manyullyn"},
+        "output":{"item":"mekanism:basic_control_circuit"
+        }}

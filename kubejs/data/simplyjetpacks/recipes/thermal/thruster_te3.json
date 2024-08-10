@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ICI",
+    "CDC",
+    "IRI"
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:plates/queens_steel"
+    },
+    "C": {
+      "item": "thermal:rf_coil"
+    },
+    "D": {
+      "item": "berseria_sky:queens_steel_core"
+    },
+    "R": {
+      "item": "simplyjetpacks:thruster_te2"
+    }
+  },
+  "result": {
+    "item": "simplyjetpacks:thruster_te3",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "thermal"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "type": "exnihilosequentia:hammer",
+  "results": [
+    {
+      "chance": 1.0,
+      "item": "exnihilosequentia:crushed_skystone",
+      "count": 1
+    }
+  ],
+  "input": {
+    "item": "appliedenergistics2:sky_stone_block"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "values": [
+            {
+              "item": "industrialforegoing:ore_laser_base",
+              "type": "forge:item_exists"
+            }
+          ],
+          "type": "forge:and"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+          "pfp",
+          "bmb",
+          "grg"
+        ],
+        "key": {
+          "p": {
+            "tag": "forge:plastic"
+          },
+          "f": {
+            "item": "minecraft:netherite_pickaxe"
+          },
+          "b": {
+            "tag": "forge:storage_blocks/manyullyn"
+          },
+          "m": {
+            "tag": "industrialforegoing:machine_frame/advanced"
+          },
+          "g": {
+            "item": "berseria_sky:comerald_gear"
+          },
+          "r": {
+            "item": "compressium:redstone_3"
+          }
+        },
+        "result": {
+          "item": "industrialforegoing:ore_laser_base"
+        }
+      }
+    }
+  ]
+}

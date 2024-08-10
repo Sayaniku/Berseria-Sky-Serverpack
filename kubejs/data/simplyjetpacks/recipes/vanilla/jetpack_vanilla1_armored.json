@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IAI",
+    "III",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:plates/ardite"
+    },
+    "A": {
+      "item": "simplyjetpacks:jetpack_vanilla1"
+    }
+  },
+  "result": {
+    "item": "simplyjetpacks:jetpack_vanilla1_armored",
+    "count": 1
+  }
+}

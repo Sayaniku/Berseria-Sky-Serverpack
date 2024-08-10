@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "botania:spreader",
+  "pattern": [
+    "WWW",
+    "EME",
+    "WWW"
+  ],
+  "key": {
+    "E": {
+      "item": "botania:gaia_ingot"
+    },
+    "W": {
+      "item": "botania:shimmerrock"
+    },
+    "M": {
+      "item": "botania:elven_spreader"
+    }
+  },
+  "result": {
+    "item": "botania:gaia_spreader"
+  }
+}

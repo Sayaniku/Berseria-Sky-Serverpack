@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "c",
+        "c",
+        "c"
+    ],
+    "key": {
+        "c": {
+            "item": "envirocore:aethium"
+        }
+    },
+    "result": {
+        "item": "envirocore:aethium_boule",
+        "count": 8
+    }
+}

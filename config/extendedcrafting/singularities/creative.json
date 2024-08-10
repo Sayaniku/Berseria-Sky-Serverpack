@@ -1,0 +1,11 @@
+{
+    "name": "Creative",
+    "colors": [
+      "8829a8",
+      "8829a8"
+    ],
+    "ingredient": {
+      "item": "kubejs:creative_ingot"
+    },
+    "inUltimateSingularity": false
+  }

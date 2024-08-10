@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ici",
+    "ueu",
+    "iai"
+  ],
+  "key": {
+    "i": { "item": "kubejs:refined_glowstone_plate" },
+    "c": { "tag": "forge:circuits/advanced" },
+    "u": { "item": "mekanism:advanced_universal_cable" },
+    "e": { "item": "mekanism:advanced_energy_cube" },
+    "a": { "item": "simplyjetpacks:thruster_mek1" }
+  },
+  "result": {
+    "item": "simplyjetpacks:thruster_mek2",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "mekanism"
+    }
+  ]
+}

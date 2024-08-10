@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "cRc",
+    "cCc",
+    "ccc"
+  ],
+  "key": {
+    "R": {
+      "item": "enviroenergy:insulated_lightning_rod"
+    },
+    "C": {
+      "item": "enviroenergy:aethium_lightning_ccu"
+    },
+    "c": {
+      "item": "envirocore:nanorite"
+    }
+  },
+  "result": {
+    "item": "enviroenergy:nanorite_lightning_ccu",
+    "count": 1
+  }
+}

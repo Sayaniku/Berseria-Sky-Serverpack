@@ -1,0 +1,286 @@
+{
+    "type": "extendedcrafting:shapeless_table",
+    "tier": 4,
+    "ingredients": [
+      {
+        "type": "forge:nbt",
+        "item": "extendedcrafting:singularity",
+        "count": 1,
+        "nbt": "{Id:\"extendedcrafting:creative\"}"
+      },
+      {
+        "item": "thermal:rf_coil_creative_augment"
+      },
+      {
+        "item": "mekanism:creative_chemical_tank"
+      },
+      {
+        "item": "create:creative_motor"
+      },
+      {
+        "item": "draconicevolution:creative_capacitor"
+      },
+      {
+        "item": "create:creative_motor"
+      },
+      {
+        "item": "mekanism:creative_chemical_tank"
+      },
+      {
+        "item": "thermal:rf_coil_creative_augment"
+      },
+      {
+        "type": "forge:nbt",
+        "item": "extendedcrafting:singularity",
+        "count": 1,
+        "nbt": "{Id:\"extendedcrafting:creative\"}"
+      },
+      {
+        "item": "thermal:fluid_tank_creative_augment"
+      },
+      {
+        "item": "powah:energy_cell_creative"
+      },
+      {
+        "item": "create:creative_blaze_cake"
+      },
+      {
+        "item": "compressium:ardite_block_3"
+      },
+      {
+        "item": "compressium:diamond_9"
+      },
+      {
+        "item": "compressium:ardite_block_3"
+      },
+      {
+        "item": "create:creative_blaze_cake"
+      },
+      {
+        "item": "powah:energy_cell_creative"
+      },
+      {
+        "item": "thermal:fluid_tank_creative_augment"
+      },
+      {
+        "type": "forge:nbt",
+        "item": "tconstruct:creative_slot",
+        "count": 1,
+        "nbt": "{slot:\"upgrades\"}"
+      },
+      {
+        "item": "immersiveengineering:capacitor_creative"
+      },
+      {
+        "item": "draconicevolution:creative_op_capacitor"
+      },
+      {
+        "item": "berseria_sky:manyerium_block_5"
+      },
+      {
+        "item": "compressium:obsidian_9"
+      },
+      {
+        "item": "berseria_sky:manyerium_block_5"
+      },
+      {
+        "item": "draconicevolution:creative_op_capacitor"
+      },
+      {
+        "item": "immersiveengineering:capacitor_creative"
+      },
+      {
+        "type": "forge:nbt",
+        "item": "tconstruct:creative_slot",
+        "count": 1,
+        "nbt": "{slot:\"upgrades\"}"
+      },
+      {
+        "type": "forge:nbt",
+        "item": "tconstruct:creative_slot",
+        "count": 1,
+        "nbt": "{slot:\"defense\"}"
+      },
+      {
+        "item": "berseria_sky:fayronium_block_5"
+      },
+      {
+        "item": "projectex:final_star"
+      },
+      {
+        "item": "endless:endest_pearl"
+      },
+      {
+        "item": "endless:infinity_chest"
+      },
+      {
+        "item": "endless:endest_pearl"
+      },
+      {
+        "item": "projectex:final_star"
+      },
+      {
+        "item": "berseria_sky:fayronium_block_5"
+      },
+      {
+        "type": "forge:nbt",
+        "item": "tconstruct:creative_slot",
+        "count": 1,
+        "nbt": "{slot:\"defense\"}"
+      },
+      {
+        "item": "draconicevolution:creative_capacitor"
+      },
+      {
+        "item": "compressium:emerald_9"
+      },
+      {
+        "item": "endless:cosmic_meatballs"
+      },
+      {
+        "item": "endless:ultimate_stew"
+      },
+      {
+        "item": "endless:infinity_catalyst"
+      },
+      {
+        "item": "endless:ultimate_stew"
+      },
+      {
+        "item": "endless:cosmic_meatballs"
+      },
+      {
+        "item": "compressium:emerald_9"
+      },
+      {
+        "item": "draconicevolution:creative_capacitor"
+      },
+      {
+        "type": "forge:nbt",
+        "item": "tconstruct:creative_slot",
+        "count": 1,
+        "nbt": "{slot:\"abilities\"}"
+      },
+      {
+        "item": "compressium:obsidian_9"
+      },
+      {
+        "item": "projectex:final_star"
+      },
+      {
+        "item": "endless:endest_pearl"
+      },
+      {
+        "item": "endless:infinity_chest"
+      },
+      {
+        "item": "endless:endest_pearl"
+      },
+      {
+        "item": "projectex:final_star"
+      },
+      {
+        "item": "compressium:obsidian_9"
+      },
+      {
+        "type": "forge:nbt",
+        "item": "tconstruct:creative_slot",
+        "count": 1,
+        "nbt": "{slot:\"abilities\"}"
+      },
+      {
+        "type": "forge:nbt",
+        "item": "tconstruct:creative_slot",
+        "count": 1,
+        "nbt": "{slot:\"souls\"}"
+      },
+      {
+        "item": "immersiveengineering:capacitor_creative"
+      },
+      {
+        "item": "draconicevolution:creative_op_capacitor"
+      },
+      {
+        "item": "berseria_sky:elinvonze_block_5"
+      },
+      {
+        "item": "compressium:obsidian_9"
+      },
+      {
+        "item": "berseria_sky:elinvonze_block_5"
+      },
+      {
+        "item": "draconicevolution:creative_op_capacitor"
+      },
+      {
+        "item": "immersiveengineering:capacitor_creative"
+      },
+      {
+        "type": "forge:nbt",
+        "item": "tconstruct:creative_slot",
+        "count": 1,
+        "nbt": "{slot:\"souls\"}"
+      },
+      {
+        "item": "thermal:fluid_tank_creative_augment"
+      },
+      {
+        "item": "powah:energy_cell_creative"
+      },
+      {
+        "item": "create:creative_blaze_cake"
+      },
+      {
+        "item": "berseria_sky:manronium_steel_block_5"
+      },
+      {
+        "item": "compressium:diamond_9"
+      },
+      {
+        "item": "berseria_sky:manronium_steel_block_5"
+      },
+      {
+        "item": "create:creative_blaze_cake"
+      },
+      {
+        "item": "powah:energy_cell_creative"
+      },
+      {
+        "item": "thermal:fluid_tank_creative_augment"
+      },
+      {
+        "type": "forge:nbt",
+        "item": "extendedcrafting:singularity",
+        "count": 1,
+        "nbt": "{Id:\"extendedcrafting:creative\"}"
+      },
+      {
+        "item": "thermal:rf_coil_creative_augment"
+      },
+      {
+        "item": "mekanism:creative_fluid_tank"
+      },
+      {
+        "item": "create:creative_motor"
+      },
+      {
+        "item": "draconicevolution:creative_capacitor"
+      },
+      {
+        "item": "create:creative_motor"
+      },
+      {
+        "item": "mekanism:creative_fluid_tank"
+      },
+      {
+        "item": "thermal:rf_coil_creative_augment"
+      },
+      {
+        "type": "forge:nbt",
+        "item": "extendedcrafting:singularity",
+        "count": 1,
+        "nbt": "{Id:\"extendedcrafting:creative\"}"
+      }
+    ],
+    "result": {"item": "create:creative_crate"}
+  }

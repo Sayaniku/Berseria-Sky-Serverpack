@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "LIL",
+        "CIC",
+        "CIC"
+    ],
+    "key": {
+        "I": {
+            "tag": "forge:ingots/electrum"
+        },
+        "C": {
+            "item": "minecraft:terracotta"
+        },
+        "L": {
+            "item": "immersiveengineering:connector_lv"
+        }
+    },
+    "result": {
+        "item": "immersiveengineering:connector_mv",
+        "count": 2
+    }
+}

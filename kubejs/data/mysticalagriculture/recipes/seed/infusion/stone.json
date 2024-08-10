@@ -1,0 +1,35 @@
+{
+  "type": "mysticalagriculture:infusion",
+  "input": {
+    "item": "kubejs:inferium_seed"
+  },
+  "ingredients": [
+    {
+      "item": "compressium:stone_1"
+    },
+    {
+      "item": "mysticalagriculture:inferium_block"
+    },
+    {
+      "item": "compressium:stone_1"
+    },
+    {
+      "item": "mysticalagriculture:inferium_block"
+    },
+    {
+      "item": "compressium:stone_1"
+    },
+    {
+      "item": "mysticalagriculture:inferium_block"
+    },
+    {
+      "item": "compressium:stone_1"
+    },
+    {
+      "item": "mysticalagriculture:inferium_block"
+    }
+  ],
+  "result": {
+    "item": "mysticalagriculture:stone_seeds"
+  }
+}

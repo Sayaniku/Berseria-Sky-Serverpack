@@ -1,0 +1,36 @@
+{
+  "input": [
+    {
+      "item": "kubejs:redstone_plate"
+    },
+    {
+      "item": "industrialforegoing:range_addon9"
+    },
+    {
+      "item": "kubejs:redstone_plate"
+    },
+    {
+      "item": "minecraft:glass_pane"
+    },
+    {
+      "item": "minecraft:glass_pane"
+    },
+    {
+      "tag": "forge:storage_blocks/queens_steel"
+    },
+    {
+      "tag": "forge:storage_blocks/queens_steel"
+    },
+    {
+      "tag": "forge:storage_blocks/queens_steel"
+    }
+  ],
+  "inputFluid": "{FluidName:\"industrialforegoing:latex\",Amount:1000}",
+  "processingTime": 200,
+  "output": {
+    "item": "industrialforegoing:range_addon10",
+    "count": 1,
+    "nbt": "{TitaniumAugment:{Range:10.0f}}"
+  },
+  "type": "industrialforegoing:dissolution_chamber"
+}

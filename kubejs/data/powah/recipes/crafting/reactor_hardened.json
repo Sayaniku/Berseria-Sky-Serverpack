@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"ULU",
+		"LCL",
+		"ULU"
+	],
+	"key": {
+		"L": {
+			"item": "powah:energized_steel_block"
+		},
+		"C": {
+			"item": "powah:capacitor_hardened"
+		},
+		"U": {
+			"item": "powah:reactor_basic"
+		}
+	},
+	"result": {
+		"item": "powah:reactor_hardened",
+		"count": 4
+	}
+}

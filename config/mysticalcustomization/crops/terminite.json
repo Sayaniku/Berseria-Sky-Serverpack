@@ -1,0 +1,13 @@
+{
+    "name": "Terminite",
+    "type": "resource",
+    "tier": "mysticalagriculture:5",
+    "ingredient": {
+      "item": "minecraft:air"
+    },
+    "textures": {
+      "flower": "mysticalagriculture:block/flower_terminite",
+      "essence": "mysticalagriculture:item/terminite_essence",
+      "seeds": "mysticalagriculture:item/terminite_seeds"
+    }
+  }

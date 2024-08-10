@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IGI",
+    "IHI",
+    " I "
+  ],
+  "key": {
+    "I": {"tag": "forge:plates/invar"},
+    "H": {"item": "goldenhopper:golden_hopper"},
+    "G": {"item": "minecraft:comparator"}
+  },
+  "result": {
+    "item": "speedyhoppers:speedyhopper_mk1"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "BRB",
+    "III"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:bucket"
+    },
+    "I": {
+      "tag": "forge:plates/ardite"
+    },
+    "R": {
+      "tag": "forge:ingots/redstone"
+    }
+  },
+  "result": {
+    "item": "pipez:fluid_pipe",
+    "count": 8
+  }
+}

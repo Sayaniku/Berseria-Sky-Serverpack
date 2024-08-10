@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP",
+    "CJC",
+    "MGM"
+  ],
+  "key": {
+    "P": {
+      "item": "simplyjetpacks:armorplating_te5_enderium"
+    },
+    "J": {
+      "item": "simplyjetpacks:jetpack_te5"
+    },
+    "M": {
+      "item": "simplyjetpacks:thruster_te6"
+    },
+    "C": {
+      "item": "simplyjetpacks:unit_cryotheum"
+    },
+    "G": {
+      "item": "kubejs:platinum_block"
+    }
+  },
+  "result": {
+    "item": "simplyjetpacks:jetpack_te5_enderium",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "thermal"
+    },
+    {
+      "type": "forge:not",
+      "value": {
+        "type": "forge:mod_loaded",
+        "modid": "redstonerepository"
+      }
+    }
+  ]
+}

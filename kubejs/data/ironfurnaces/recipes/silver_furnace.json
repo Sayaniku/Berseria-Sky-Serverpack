@@ -1,0 +1,14 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "SGS",
+    "GXG",
+    "SGS"
+  ],
+  "key": {
+    "S": {"tag": "forge:storage_blocks/steel"},
+    "X": {"tag": "forge:furnaces/iron"},
+    "G": {"item": "tconstruct:clear_glass"}
+  },
+  "result": {"item": "ironfurnaces:silver_furnace"}
+}

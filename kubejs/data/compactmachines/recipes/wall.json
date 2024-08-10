@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RRR",
+    "RIR",
+    "RRR"
+  ],
+  "key": {
+    "R": {
+      "tag": "forge:ingots/redstone"
+    },
+    "I": {
+      "tag": "forge:storage_blocks/manyerium"
+    }
+  },
+  "result": {
+    "item": "compactmachines:wall",
+    "count": 8
+  }
+}

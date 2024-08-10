@@ -1,0 +1,36 @@
+{
+  "type": "extendedcrafting:combination",
+  "powerCost": 2000000,
+  "input": {
+    "item": "kubejs:supremium_seed"
+  },
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:supremium_block"
+    },
+    {
+      "item": "mysticalagriculture:supremium_block"
+    },
+    {
+      "item": "mysticalagriculture:supremium_block"
+    },
+    {
+      "item": "mysticalagriculture:supremium_block"
+    },
+    {
+      "item": "minecraft:emerald_block"
+    },
+    {
+      "item": "minecraft:emerald_block"
+    },
+    {
+      "item": "minecraft:emerald_block"
+    },
+    {
+      "item": "minecraft:emerald_block"
+    }
+  ],
+  "result": {
+    "item": "mysticalagriculture:emerald_seeds"
+  }
+}

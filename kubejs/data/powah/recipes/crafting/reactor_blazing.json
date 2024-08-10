@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"ULU",
+		"LCL",
+		"ULU"
+	],
+	"key": {
+		"L": {
+			"item": "powah:blazing_crystal_block"
+		},
+		"C": {
+			"item": "powah:capacitor_blazing"
+		},
+		"U": {
+			"item": "powah:reactor_hardened"
+		}
+	},
+	"result": {
+		"item": "powah:reactor_blazing",
+		"count": 4
+	}
+}

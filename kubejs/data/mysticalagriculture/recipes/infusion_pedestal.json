@@ -1,0 +1,19 @@
+{
+	"type": "create:mechanical_crafting",
+	"pattern": [
+		"MEREM",
+		"MEREM",
+		"MEREM",
+		"MEREM",
+		"MEREM",
+		"MEREM",
+		"MEREM"
+	],
+	"key": {
+		"M": {"item": "compressium:stone_3"},
+		"E": {"item": "berseria_sky:elinvonze_block"},
+		"R": {"item": "extendedcrafting:redstone_ingot_block"}
+	},
+	"result": {"item": "mysticalagriculture:infusion_pedestal","count": 2},
+	"acceptMirrored": false
+}

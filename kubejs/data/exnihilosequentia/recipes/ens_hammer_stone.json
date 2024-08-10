@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " xi",
+    " -x",
+    "-  "
+  ],
+  "key": {
+    "x": {
+      "tag": "forge:cobblestone"
+    },
+    "-": {
+      "item": "minecraft:stick"
+    },
+    "i": {
+      "item":"exnihilosequentia:hammer_wood"
+    }
+
+  },
+  "result": {
+    "item": "exnihilosequentia:hammer_stone"
+  }
+}

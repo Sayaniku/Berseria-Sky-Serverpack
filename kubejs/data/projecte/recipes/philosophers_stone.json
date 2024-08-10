@@ -1,0 +1,47 @@
+{
+    "type": "extendedcrafting:shaped_table",
+    "tier": 4,
+    "pattern": [
+        "ABBBBBBBA",
+        "BCDDDDDCB",
+        "BDEFFFEDB",
+        "BDFGHGFDB",
+        "BDFHIHFDB",
+        "BDFGHGFDB",
+        "BDEFFFEDB",
+        "BCDDDDDCB",
+        "ABBBBBBBA"
+    ],
+    "key": {
+        "A": {
+            "item": "mysticaladaptations:insanium_furnace"
+        },
+        "B": {
+            "item": "extendedcrafting:luminessence_block"
+        },
+        "C": {
+            "item": "ironfurnaces:million_furnace"
+        },
+        "D": {
+            "item": "projecte:aeternalis_fuel_block"
+        },
+        "E": {
+            "item": "projecte:collector_mk3"
+        },
+        "F": {
+            "item": "extendedcrafting:crystaltine_block"
+        },
+        "G": {
+            "item": "projecte:relay_mk3"
+        },
+        "H": {
+            "item": "projecte:rm_furnace"
+        },
+        "I": {
+            "item": "kubejs:ouranium_coal_block"
+        }
+    },
+    "result": {
+        "item": "projecte:philosophers_stone"
+    }
+}

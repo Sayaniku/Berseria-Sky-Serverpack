@@ -1,0 +1,11 @@
+{
+    "name": "Fayronium",
+    "colors": [
+      "bc6d77",
+      "fca829"
+    ],
+    "ingredient": {
+      "item": "berseria_sky:fayronium_ingot"
+    },
+    "inUltimateSingularity": true
+  }

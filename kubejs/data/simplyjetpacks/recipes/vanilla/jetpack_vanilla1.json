@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ICI",
+    "ISI",
+    "TAT"
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:storage_blocks/ardite"
+    },
+    "C": {
+      "item": "minecraft:comparator"
+    },
+    "S": {
+      "item": "simplyjetpacks:leather_strap"
+    },
+    "T": {
+      "item": "simplyjetpacks:thruster_vanilla1"
+    },
+    "A": {
+      "tag": "forge:gears/ardite"
+    }
+  },
+  "result": {
+    "item": "simplyjetpacks:jetpack_vanilla1",
+    "count": 1
+  }
+}

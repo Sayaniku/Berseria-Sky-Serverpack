@@ -1,0 +1,108 @@
+{
+    "type": "compactcrafting:miniaturization",
+    "recipeSize": 4,
+    "layers": [
+        {
+            "type": "compactcrafting:mixed",
+            "pattern": [
+                ["H","H","H","H","H","H","H"],
+                ["H","H","B","B","B","H","H"],
+                ["H","B","O","O","O","B","H"],
+                ["H","B","B","O","O","B","H"],
+                ["H","B","O","B","O","B","H"],
+                ["H","H","B","B","B","H","H"],
+                ["H","H","H","H","H","H","H"]]
+        },
+        {
+            "type": "compactcrafting:mixed",
+            "pattern": [
+                ["H","H","B","B","B","H","H"],
+                ["H","H","B","B","B","H","H"],
+                ["B","B","B","B","B","B","B"],
+                ["B","B","B","B","B","B","B"],
+                ["B","B","B","B","B","B","B"],
+                ["H","H","B","B","B","H","H"],
+                ["H","H","B","B","B","H","H"]]
+        },
+        {
+            "type": "compactcrafting:mixed",
+            "pattern": [
+                ["H","B","O","O","O","B","H"],
+                ["B","H","B","B","B","H","B"],
+                ["O","B","B","B","B","B","O"],
+                ["O","B","B","B","B","B","O"],
+                ["O","B","B","B","B","B","O"],
+                ["B","H","B","B","B","H","B"],
+                ["H","B","O","O","O","B","H"]]
+        },
+        {
+            "type": "compactcrafting:mixed",
+            "pattern": [
+                ["H","B","B","O","O","B","H"],
+                ["B","H","B","B","B","H","B"],
+                ["O","B","B","B","B","B","B"],
+                ["O","B","B","B","B","B","O"],
+                ["B","B","B","B","B","B","O"],
+                ["B","H","B","B","B","H","B"],
+                ["H","B","O","O","B","B","H"]]
+        },
+        {
+            "type": "compactcrafting:mixed",
+            "pattern": [
+                ["H","B","O","B","O","B","H"],
+                ["B","H","B","B","B","H","B"],
+                ["O","B","B","B","B","B","O"],
+                ["B","B","B","B","B","B","B"],
+                ["O","B","B","B","B","B","O"],
+                ["B","H","B","B","B","H","B"],
+                ["H","B","O","B","O","B","H"]]
+        },
+        {
+            "type": "compactcrafting:mixed",
+            "pattern": [
+                ["H","H","B","B","B","H","H"],
+                ["H","H","B","B","B","H","H"],
+                ["B","B","B","B","B","B","B"],
+                ["B","B","B","B","B","B","B"],
+                ["B","B","B","B","B","B","B"],
+                ["H","H","B","B","B","H","H"],
+                ["H","H","B","B","B","H","H"]
+            ]
+        },
+        {
+            "type": "compactcrafting:mixed",
+            "pattern": [
+                ["H","H","H","H","H","H","H"],
+                ["H","H","B","B","B","H","H"],
+                ["H","B","O","O","O","B","H"],
+                ["H","B","O","O","B","B","H"],
+                ["H","B","O","B","O","B","H"],
+                ["H","H","B","B","B","H","H"],
+                ["H","H","H","H","H","H","H"]
+            ]
+        }
+    ],
+    "catalyst": {
+        "id": "minecraft:ender_pearl","Count": 1},
+    "components": {
+        "H": {
+            "type": "compactcrafting:block",
+            "block": "tconstruct:hepatizon_block"
+        },
+        "B": {
+            "type": "compactcrafting:block",
+            "block": "betternether:blue_obsidian"
+        },
+        "O": {
+            "type": "compactcrafting:block",
+            "block": "compressium:obsidian_1",
+            "nbt": "*"
+        }
+    },
+    "outputs": [
+        {
+            "id": "jamd:mine_portal_block",
+            "Count": 1
+        }
+    ]
+}

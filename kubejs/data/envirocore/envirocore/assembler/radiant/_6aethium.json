@@ -1,0 +1,27 @@
+{
+  "duration": {
+    "raw:int": 100
+  },
+  "top": {
+    "raw:item": "envirocore:aethium_interconnect"
+  },
+  "bottom": {
+    "raw:item": "envirocore:lonsdaleite_crystal"
+  },
+  "left": {
+    "raw:item": "envirocore:mica"
+  },
+  "right": {
+    "raw:item": "envirocore:mica"
+  },
+  "center": {
+    "raw:itemstack": "envirocore:radiant_modifier",
+    "nbt": "{tier:5,attributes:{\"envirocore:radiant\":1.0}}"
+  },
+  "output": {
+    "raw:itemstack": "envirocore:radiant_modifier",
+    "nbt": "{tier:6,attributes:{\"envirocore:radiant\":1.2}}"
+  },
+  "merge_center_nbt": true,
+  "override": "replace"
+}

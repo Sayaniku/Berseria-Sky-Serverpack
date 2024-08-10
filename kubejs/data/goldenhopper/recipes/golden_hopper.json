@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "IRI",
+        "ICI",
+        " I "
+    ],
+    "key": {
+        "C": {
+            "item": "minecraft:hopper"
+        },
+        "I": {
+            "item": "thermal:electrum_plate"
+        },
+        "R": {
+            "item": "minecraft:comparator"
+        }
+    },
+    "result": {
+        "item": "goldenhopper:golden_hopper"
+    }
+}

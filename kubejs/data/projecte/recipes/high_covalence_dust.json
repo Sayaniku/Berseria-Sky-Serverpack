@@ -1,0 +1,27 @@
+{
+    "type": "create:mechanical_crafting",
+    "pattern": [
+        "    I    ",
+        "   III   ",
+        "  IIIII  ",
+        " IIIIIII ",
+        "IIIIRIIII",
+        " IIIIIII ",
+        "  IIIII  ",
+        "   III   ",
+        "    I    "
+    ],
+    "key": {
+        "I": {
+            "item": "kubejs:lightium_coal"
+        },
+        "R": {
+            "item": "kubejs:diamond_block"
+        }
+    },
+    "result": {
+        "item": "projecte:high_covalence_dust",
+        "count": 40
+    },
+    "acceptMirrored": false
+}

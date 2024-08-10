@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XYX",
+    "XZX",
+    "XYX"
+  ],
+  "key": {
+    "X": {
+      "tag": "forge:storage_blocks/unstable"
+    },
+    "Y": {
+      "tag": "forge:storage_blocks/netherite"
+    },
+    "Z": {
+      "item": "miniutilities:netherite_reinforced_drum"
+    }
+  },
+  "result": {
+    "item": "miniutilities:unstable_drum"
+  }
+}

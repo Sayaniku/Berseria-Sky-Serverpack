@@ -1,0 +1,13 @@
+{
+    "name": "Lavium",
+    "type": "resource",
+    "tier": "mysticalagriculture:5",
+    "ingredient": {
+      "item": "minecraft:air"
+    },
+    "textures": {
+      "flower": "mysticalagriculture:block/flower_lavium",
+      "essence": "mysticalagriculture:item/lavium_essence",
+      "seeds": "mysticalagriculture:item/lavium_seeds"
+    }
+}

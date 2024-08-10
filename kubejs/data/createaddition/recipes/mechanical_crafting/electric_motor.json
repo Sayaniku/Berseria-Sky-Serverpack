@@ -1,0 +1,29 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    "  A  ",
+    " BSB ",
+    "BSRSB",
+    " BCB "
+  ],
+  "key": {
+    "A": {
+      "item": "create:andesite_alloy"
+    },
+    "C": {
+      "item": "create:electron_tube"
+    },
+    "B": {
+      "tag": "forge:plates/manyullyn"
+    },
+    "R": {
+      "item": "create:rotation_speed_controller"
+    },
+    "S": {
+      "item": "createaddition:copper_spool"
+    }
+  },
+  "result": {
+    "item": "createaddition:electric_motor"
+  }
+}

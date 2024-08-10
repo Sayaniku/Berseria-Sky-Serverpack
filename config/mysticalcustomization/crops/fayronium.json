@@ -1,0 +1,14 @@
+{
+    "name": "§4Fayronium",
+    "type": "resource",
+    "tier": "mysticalcustomization:8",
+    "ingredient": {
+      "item": "minecraft:air"
+    },
+    "textures": {
+      "flower": "mysticalagriculture:block/flower_fayronium",
+      "essence": "mysticalagriculture:item/fayronium_essence",
+      "seeds": "mysticalagriculture:item/fayronium_seeds"
+    }
+    
+  }

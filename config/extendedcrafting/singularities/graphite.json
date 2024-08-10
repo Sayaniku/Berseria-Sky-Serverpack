@@ -1,0 +1,11 @@
+{
+  "name": "Graphite",
+  "colors": [
+    "303032",
+    "303032"
+  ],
+  "ingredient": {
+    "item": "bigreactors:graphite_ingot"
+  },
+  "inUltimateSingularity": true
+}

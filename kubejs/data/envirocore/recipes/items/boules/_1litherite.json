@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "c",
+        "c",
+        "c"
+    ],
+    "key": {
+        "c": {
+            "item": "envirocore:litherite"
+        }
+    },
+    "result": {
+        "item": "envirocore:litherite_boule",
+        "count": 8
+    }
+}

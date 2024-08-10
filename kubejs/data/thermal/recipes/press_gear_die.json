@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " P ",
+    "PXP",
+    " P "
+  ],
+  "key": {
+    "P": {
+      "tag": "forge:plates/manyullyn"
+    },
+    "X": {
+      "tag": "forge:gears/emerald"
+    }
+  },
+  "result": {
+    "item": "thermal:press_gear_die"
+  }
+}

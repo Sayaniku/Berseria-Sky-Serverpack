@@ -1,0 +1,15 @@
+{
+    "active": {
+        "minecraft:smithing": {"hammerlib:gears/netherite": false},
+        "minecraft:crafting": {
+            "hammerlib:gears/wooden": false,
+            "hammerlib:gears/iron": false,
+            "hammerlib:gears/diamond": false,
+            "hammerlib:wrench": false,
+            "hammerlib:gears/stone": false,
+            "hammerlib:gears/gold": false
+        }
+    },
+    "unregistered": {},
+    "version": 2
+}

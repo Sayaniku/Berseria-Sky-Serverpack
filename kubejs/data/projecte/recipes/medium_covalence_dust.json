@@ -1,0 +1,27 @@
+{
+    "type": "create:mechanical_crafting",
+    "pattern": [
+        "    I    ",
+        "   III   ",
+        "  IIIII  ",
+        " IIIIIII ",
+        "IIIIRIIII",
+        " IIIIIII ",
+        "  IIIII  ",
+        "   III   ",
+        "    I    "
+    ],
+    "key": {
+        "I": {
+            "item": "mysticalagradditions:imperium_coal"
+        },
+        "R": {
+            "item": "extendedcrafting:redstone_ingot_block"
+        }
+    },
+    "result": {
+        "item": "projecte:medium_covalence_dust",
+        "count": 40
+    },
+    "acceptMirrored": false
+}

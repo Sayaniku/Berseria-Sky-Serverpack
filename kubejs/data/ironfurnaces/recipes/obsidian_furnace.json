@@ -1,0 +1,14 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "OBO",
+    "BEB",
+    "OBO"
+  ],
+  "key": {
+    "O": {"item": "tconstruct:hepatizon_block"},
+    "E": {"tag": "forge:furnaces/emerald"},
+    "B": {"item": "botania:blaze_block"}
+  },
+  "result": {"item": "ironfurnaces:obsidian_furnace"}
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IRI",
+    "lBl",
+    "lll"
+  ],
+  "key": {
+    "I": {
+      "tag": "envirocore:structure/panels"
+    },
+    "R": {
+      "item": "enviroenergy:insulated_lightning_rod"
+    },
+    "l": {
+      "item": "envirocore:litherite"
+    },
+    "B": {
+      "tag": "forge:storage_blocks/manyerium"
+    }
+  },
+  "result": {
+    "item": "enviroenergy:litherite_lightning_ccu",
+    "count": 1
+  }
+}

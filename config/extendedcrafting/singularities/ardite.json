@@ -1,0 +1,11 @@
+{
+    "name": "Ardite",
+    "colors": [
+      "ab3c00",
+      "ff9d50"
+    ],
+    "ingredient": {
+      "item": "kubejs:ardite_ingot"
+    },
+    "inUltimateSingularity": true
+  }

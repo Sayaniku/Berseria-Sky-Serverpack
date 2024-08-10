@@ -1,0 +1,29 @@
+{
+  "type": "thermal:smelter",
+  "ingredients": [
+    {
+      "value": [
+        {
+          "tag": "forge:ingots/copper"
+        } 
+      ],
+      "count": 3
+    },
+    {
+      "value": [
+        {
+          "tag": "forge:ingots/tin"
+        }
+      ],
+      
+      "count": 1
+    }
+  ],
+  "result": [
+    {
+      "item": "thermal:bronze_ingot",
+      "count": 4
+    }
+  ],
+  "energy": 6400
+}

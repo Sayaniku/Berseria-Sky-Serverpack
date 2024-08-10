@@ -1,0 +1,40 @@
+{ 
+    "type": "astralsorcery:altar",
+    "altar_type": 1,
+    "duration": 600,
+    "starlight": 1500,
+    "pattern": [
+      "A___A",
+      "_BCB_",
+      "_DFD_",
+      "_BCB_",
+      "A___A"
+    ],
+    "key": {
+      "A": {
+        "item": "mysticalagriculture:imperium_ingot_block"
+      },
+      "B": {
+        "item": "astralsorcery:illumination_powder"
+      },
+      "C": {
+        "tag": "astralsorcery:starmetal"
+      },
+      "D": {
+        "item": "astralsorcery:black_marble_runed"
+      },
+      "F": {
+        "item": "berseria_sky:prosperity_crystal"  
+      }
+    },
+    "output": [
+      {
+        "item": "matc:imperium_crystal",
+        "count": 1
+      }
+    ],
+    "effects": [
+      "astralsorcery:built_in_effect_discovery_central_beam",
+      "astralsorcery:built_in_effect_attunement_sparkle"
+    ]
+  }

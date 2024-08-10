@@ -1,0 +1,35 @@
+{
+  "input": [
+    {
+      "tag": "forge:plastic"
+    },
+    {
+      "item": "industrialforegoing:machine_frame_simple"
+    },
+    {
+      "tag": "forge:plastic"
+    },
+    {
+      "tag": "forge:ingots/blazing_copper"
+    },
+    {
+      "item": "kubejs:terrasteel_gear"
+    },
+    {
+      "tag": "forge:plates/constantan"
+    },
+    {
+      "tag": "forge:gears/bronze"
+    },
+    {
+      "tag": "forge:plates/manyullyn"
+    }
+  ],
+  "inputFluid": "{FluidName:\"exnihilosequentia:sea_water\",Amount:1000}",
+  "processingTime": 500,
+  "output": {
+    "item": "thermal:machine_frame",
+    "count": 1
+  },
+  "type": "industrialforegoing:dissolution_chamber"
+}

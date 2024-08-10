@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IAI",
+    "III",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "kubejs:slimesteel_plate"
+    },
+    "A": {
+      "item": "simplyjetpacks:jetpack_vanilla3"
+    }
+  },
+  "result": {
+    "item": "simplyjetpacks:jetpack_vanilla3_armored",
+    "count": 1
+  }
+}

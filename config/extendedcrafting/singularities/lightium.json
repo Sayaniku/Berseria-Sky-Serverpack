@@ -1,0 +1,11 @@
+{
+  "name": "Lightium",
+  "colors": [
+    "77aacf",
+    "689bc1"
+  ],
+  "ingredient": {
+    "item": "kubejs:lightium_ingot"
+  },
+  "inUltimateSingularity": true
+}

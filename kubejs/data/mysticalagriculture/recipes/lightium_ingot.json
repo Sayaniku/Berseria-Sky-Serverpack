@@ -1,0 +1,14 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+      " P ",
+      "PXP",
+      " P "
+    ],
+    "key": {
+      "P": {"item": "kubejs:lightium_essence"},
+      "X": {"item": "kubejs:ornium_ingot"}
+      
+    },
+    "result": {"item": "kubejs:lightium_ingot"}
+  }

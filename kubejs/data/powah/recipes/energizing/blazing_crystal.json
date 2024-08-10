@@ -1,0 +1,16 @@
+{
+  "type": "powah:energizing",
+  "ingredients": [
+    {
+      "item": "powah:energized_steel_block"
+    },
+    {
+      "item": "botania:blaze_block"
+    }
+  ],
+  "energy": 300000,
+  "result": {
+    "item": "powah:crystal_blazing",
+    "count": 4
+  }
+}

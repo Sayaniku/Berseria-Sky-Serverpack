@@ -1,0 +1,12 @@
+#List of curio slot type settings
+[[curiosSettings]]
+identifier = "head"
+size = 2
+priority = 0
+
+[[curiosSettings]]
+identifier = "terminal"
+icon = "curios:slot/empty_terminal"
+size = 1
+priority = 1
+

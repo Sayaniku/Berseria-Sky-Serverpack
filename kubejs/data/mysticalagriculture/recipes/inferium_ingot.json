@@ -1,0 +1,14 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "PPP",
+    "PXP",
+    "PPP"
+  ],
+  "key": {
+    "P": {"item": "mysticalagriculture:inferium_essence"},
+    "X": {"item": "mysticalagriculture:prosperity_ingot"}
+    
+  },
+  "result": {"item": "mysticalagriculture:inferium_ingot"}
+}

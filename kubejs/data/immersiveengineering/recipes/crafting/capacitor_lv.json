@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "III",
+        "CLC",
+        "WRW"
+    ],
+    "key": {
+        "I": {
+            "tag": "forge:plates/ardite"
+        },
+        "L": {
+            "item": "immersiveengineering:watermill"
+        },
+        "C": {
+            "tag": "forge:ingots/copper"
+        },
+        "W": {
+            "tag": "forge:treated_wood"
+        },
+        "R": {
+            "tag": "forge:ingots/redstone"
+        }
+    },
+    "result": {
+        "item": "immersiveengineering:capacitor_lv"
+    }
+}

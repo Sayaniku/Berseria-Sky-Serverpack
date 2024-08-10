@@ -1,0 +1,8 @@
+{
+    "name": "§79",
+    "value": 9,
+    "farmland": "mysticalagradditions:insanium_farmland",
+    "essence": "kubejs:tornium_essence",
+    "fertilizable": false,
+    "secondarySeedDrop": false
+  }

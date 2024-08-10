@@ -1,0 +1,19 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern": [
+        "MMM",
+        "GSG",
+        "MMM"
+
+      ],
+      "key": {
+          "M": {"tag":"forge:ingots/copper"},
+          "S": {"tag":"forge:chests/wooden"},
+          "G": {"tag":"forge:glass"}
+      },
+        
+      "result": {"item": "ironchest:copper_chest"}
+      }
+      
+    
+  

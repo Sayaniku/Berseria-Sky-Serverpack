@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "c",
+        "c",
+        "c"
+    ],
+    "key": {
+        "c": {
+            "item": "envirocore:erodium"
+        }
+    },
+    "result": {
+        "item": "envirocore:erodium_boule",
+        "count": 8
+    }
+}

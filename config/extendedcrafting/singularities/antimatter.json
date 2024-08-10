@@ -1,0 +1,11 @@
+{
+    "name": "Antimatter",
+    "colors": [
+        "e264ff",
+        "f3c1ff"
+    ],
+    "ingredient": {
+        "item": "mekanism:ingot_antimatter"
+    },
+    "inUltimateSingularity": true
+}

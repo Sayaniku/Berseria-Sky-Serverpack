@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RUR",
+    "XFC",
+    "RUR"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:enchanting_table"
+    },
+    "X": {
+      "item": "minecraft:comparator"
+    },
+    "U": {
+      "item": "rftoolsdim:empty_dimlet"
+    },
+    "R": {
+      "item": "berseria_sky:elinvonze_plate"
+    },
+    "F": {
+      "item": "kubejs:bedrock"
+    }
+  },
+  "result": {
+    "item": "rftoolsdim:researcher"
+  }
+}

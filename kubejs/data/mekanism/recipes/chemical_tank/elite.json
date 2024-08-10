@@ -1,0 +1,22 @@
+{
+    "type": "mekanism:mek_data",
+    "result": {
+        "item": "mekanism:elite_chemical_tank"
+    },
+    "pattern": [
+        "AOA",
+        "OPO",
+        "AOA"
+    ],
+    "key": {
+        "P": {
+            "item": "mekanism:advanced_chemical_tank"
+        },
+        "O": {
+            "item": "mysticalagriculture:imperium_ingot"
+        },
+        "A": {
+            "tag": "mekanism:alloys/reinforced"
+        }
+    }
+}

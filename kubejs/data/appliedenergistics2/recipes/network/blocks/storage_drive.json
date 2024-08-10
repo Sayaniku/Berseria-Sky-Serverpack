@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "CDC",
+    "ABA"
+  ],
+  "key": {
+    "B": {
+      "item": "appliedenergistics2:engineering_processor"
+    },
+    "A": {
+      "tag": "forge:ingots/dragon_enderium"
+    },
+    "C": {
+      "item": "appliedenergistics2:fluix_glass_cable"
+    },
+    "D": {
+      "item": "berseria_sky:controller_casing"
+    }
+  },
+  "result": {
+    "item": "appliedenergistics2:drive"
+  }
+}

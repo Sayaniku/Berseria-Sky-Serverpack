@@ -1,0 +1,23 @@
+{
+    "type": "cucumber:shaped_transfer_damage",
+    "pattern": [
+      " G ",
+      "IPI",
+      " G "
+    ],
+    "key": {
+      "G": {
+        "item": "kubejs:tornium_gemstone"
+      },
+      "I": {
+        "item": "kubejs:tornium_ingot"
+      },
+      "P": {
+        "item": "kubejs:lightium_helmet"
+      }
+    },
+    "result": {
+        "nbt": "{Enchantments:[{lvl:9s,id:\"minecraft:protection\"}]}",
+        "item": "kubejs:tornium_helmet",
+        "type": "minecraft:item_nbt"
+}}

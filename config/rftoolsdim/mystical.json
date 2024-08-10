@@ -1,0 +1,62 @@
+[
+    {
+        "type": "block",
+        "key": "mysticalagriculture:inferium_block",
+        "rarity": "uncommon",
+        "create": 600,
+        "maintain": 600,
+        "ticks": 300,
+        "worldgen": true,
+        "dimlet": true
+    },
+    {
+        "type": "block",
+        "key": "mysticalagriculture:prudentium_block",
+        "rarity": "legendary",
+        "create": 600,
+        "maintain": 600,
+        "ticks": 300,
+        "worldgen": true,
+        "dimlet": true
+    },
+    {
+        "type": "block",
+        "key": "mysticalagriculture:tertium_block",
+        "rarity": "legendary",
+        "create": 600,
+        "maintain": 600,
+        "ticks": 300,
+        "worldgen": true,
+        "dimlet": true
+    },
+    {
+        "type": "block",
+        "key": "mysticalagriculture:imperium_block",
+        "rarity": "legendary",
+        "create": 600,
+        "maintain": 600,
+        "ticks": 300,
+        "worldgen": true,
+        "dimlet": true
+    },
+    {
+        "type": "block",
+        "key": "mysticalagriculture:supremium_block",
+        "rarity": "legendary",
+        "create": 600,
+        "maintain": 600,
+        "ticks": 300,
+        "worldgen": true,
+        "dimlet": true
+    },
+    {
+        "type": "block",
+        "key": "mysticalagradditions:insanium_block",
+        "rarity": "legendary",
+        "create": 6000,
+        "maintain": 6000,
+        "ticks": 600,
+        "worldgen": true,
+        "dimlet": true
+    }
+]

@@ -1,0 +1,13 @@
+{
+    "name": "Fluix Steel Ingot",
+    "type": "resource",
+    "tier": "mysticalagriculture:5",
+    "ingredient": {
+      "item": "minecraft:air"
+    },
+    "textures": {
+      "flower": "mysticalagriculture:block/fluix_steel_ingot_flower",
+      "essence": "mysticalagriculture:item/fluix_steel_ingot_essence",
+      "seeds": "mysticalagriculture:item/fluix_steel_ingot_seeds"
+    }
+  }

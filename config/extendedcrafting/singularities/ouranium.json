@@ -1,0 +1,11 @@
+{
+    "name": "Ouranium",
+    "colors": [
+      "4b737a",
+      "285057"
+    ],
+    "ingredient": {
+        "item": "kubejs:ouranium_ingot"
+    },
+    "inUltimateSingularity": true
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "TTT",
+    "CRC",
+    "CCC"
+  ],
+  "key": {
+    "R": {
+      "item": "extendedcrafting:redstone_ingot"
+    },
+    "C": {
+      "item": "excompressum:compressed_cobblestone"
+    },
+    "T": {
+      "tag": "forge:planks"
+    }
+    
+  },
+  "result": {
+    "item": "minecraft:piston"
+  }
+}

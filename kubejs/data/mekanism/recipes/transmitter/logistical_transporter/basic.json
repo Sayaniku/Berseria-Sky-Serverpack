@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "result": {
+        "item": "mekanism:basic_logistical_transporter",
+        "count": 8
+    },
+    "pattern": [
+        "SSS",
+        "S#S",
+        "SSS"
+    ],
+    "key": {
+        "S": {
+            "item": "pipez:item_pipe"
+        },
+        "#": {
+            "tag": "forge:circuits/basic"
+        }
+    }
+}

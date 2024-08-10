@@ -1,0 +1,46 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "values": [
+            {
+              "item": "industrialforegoing:common_black_hole_tank",
+              "type": "forge:item_exists"
+            }
+          ],
+          "type": "forge:and"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+          "PPP",
+          "EME",
+          "ACA"
+        ],
+        "key": {
+          "P": {
+          "tag": "forge:ingots/invar"
+          },
+          "E": {
+            "tag": "forge:gears/gold"
+          },
+          "A": {
+            "tag": "forge:ingots/ardite"
+          },
+          "C": {
+            "item": "miniutilities:stone_drum"
+          },
+          "M": {
+            "tag": "industrialforegoing:machine_frame/pity"
+          }
+        },
+        "result": {
+          "item": "industrialforegoing:common_black_hole_tank"
+        }
+      }
+    }
+  ]
+}

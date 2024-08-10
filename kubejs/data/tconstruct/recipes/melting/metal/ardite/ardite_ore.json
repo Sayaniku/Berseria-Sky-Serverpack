@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:ores/ardite",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:ores/ardite"
+  },
+  "result": {
+    "fluid": "kubejs:molten_ardite",
+    "amount": 288
+  },
+  "temperature": 1000,
+  "time": 60
+}

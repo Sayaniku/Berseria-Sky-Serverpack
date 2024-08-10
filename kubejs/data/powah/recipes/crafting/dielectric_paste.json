@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "mysticalagradditions:imperium_coal"
+		},
+		{
+			"item": "mysticalagradditions:imperium_coal"
+		},
+		{
+			"item": "mysticalagradditions:imperium_coal"
+		},
+		{
+			"item": "minecraft:clay_ball"
+		},
+		{
+			"item": "minecraft:clay_ball"
+		},
+		{
+			"item": "minecraft:clay_ball"
+		}
+	],
+	"result": {
+		"item": "powah:dielectric_paste",
+		"count": 24
+	}
+}

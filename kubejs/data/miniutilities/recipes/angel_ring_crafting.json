@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "YMY",
+    "TPJ",
+    "YVY"
+  ],
+  "key": {
+    "M": {
+      "item": "simplyjetpacks:jetpack_mek4_armored"
+    },
+    "Y": {
+      "item": "miniutilities:unstable_ingot"
+    },
+    "V": {
+      "item": "simplyjetpacks:jetpack_vanilla4_armored"
+    },
+    "T": {
+      "item": "simplyjetpacks:jetpack_te5_enderium"
+    },
+    "P": {
+      "item": "simplyjetpacks:jetpack_potato"
+    },
+    "J": {
+      "item": "mekanism:jetpack_armored"
+    }
+  },
+  "result": {
+    "item": "miniutilities:angel_ring"
+  }
+}

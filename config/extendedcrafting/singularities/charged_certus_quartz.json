@@ -1,0 +1,11 @@
+{
+    "name": "Charged Certus Quartz",
+    "colors": [
+      "98b8d9",
+      "b8e3f5"
+    ],
+    "ingredient": {
+      "item": "appliedenergistics2:charged_certus_quartz_crystal"
+    },
+    "inUltimateSingularity": true
+  }

@@ -1,0 +1,13 @@
+{
+  "name": "Supremium Ingot",
+  "type": "resource",
+  "tier": "mysticalagriculture:5",
+  "ingredient": {
+    "item": "minecraft:air"
+  },
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_supremium",
+    "essence": "mysticalagriculture:item/supremium_ingot_essence",
+    "seeds": "mysticalagriculture:item/supremium_ingot_seeds"
+  }
+}

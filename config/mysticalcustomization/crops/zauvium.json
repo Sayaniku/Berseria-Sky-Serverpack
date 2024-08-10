@@ -1,0 +1,13 @@
+{
+    "name": "Zauvium",
+    "type": "resource",
+    "tier": "mysticalagradditions:6",
+    "ingredient": {
+      "item": "minecraft:air"
+    },
+    "textures": {
+      "flower": "mysticalagriculture:block/zauvium_flower",
+      "essence": "mysticalagriculture:item/zauvium_essence",
+      "seeds": "mysticalagriculture:item/zauvium_seeds"
+    }
+}

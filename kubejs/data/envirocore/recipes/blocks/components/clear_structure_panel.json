@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "GPG",
+        "PQP",
+        "GPG"
+    ],
+    "key": {
+        "G": {
+            "item": "appliedenergistics2:quartz_vibrant_glass"
+        },
+        "P": {
+            "tag": "forge:plates/obsidian"
+        },
+        "Q": {
+            "tag": "forge:gems/quartz"
+        }
+    },
+    "result": {
+        "item": "envirocore:clear_structure_panel",
+        "count": 1
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Queen's Steel",
+    "type": "resource",
+    "tier": "mysticalcustomization:8",
+    "ingredient": {
+      "item": "minecraft:air"
+    },
+    "textures": {
+      "flower": "mysticalagriculture:block/flower_queens_steel",
+      "essence": "mysticalagriculture:item/queens_steel_essence",
+      "seeds": "mysticalagriculture:item/queens_steel_seeds"
+    }
+    
+  }

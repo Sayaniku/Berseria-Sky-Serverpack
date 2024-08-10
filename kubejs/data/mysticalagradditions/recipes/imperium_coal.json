@@ -1,0 +1,14 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " P ",
+    "PXP",
+    " P "
+  ],
+  "key": {
+    "P": {"item": "mysticalagriculture:imperium_essence"},
+    "X": {"item": "mysticalagradditions:tertium_coal"}
+    
+  },
+  "result": {"item": "mysticalagradditions:imperium_coal"}
+}

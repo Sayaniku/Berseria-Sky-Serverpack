@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "C D",
+    "ABA"
+  ],
+  "key": {
+    "D": {
+      "item": "appliedenergistics2:formation_core"
+    },
+    "B": {
+      "tag": "appliedenergistics2:glass"
+    },
+    "A": {
+      "item": "kubejs:fairy_plate"
+    },
+    "C": {
+      "item": "appliedenergistics2:annihilation_core"
+    }
+  },
+  "result": {
+    "item": "appliedenergistics2:interface"
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+      "appliedenergistics2:wireless_terminal",
+      "ae2wtlib:wireless_crafting_terminal",
+      "ae2wtlib:wireless_pattern_terminal",
+      "ae2wtlib:wireless_interface_terminal"
+    ]
+  }

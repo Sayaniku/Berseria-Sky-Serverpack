@@ -1,0 +1,36 @@
+{
+  "type": "extendedcrafting:combination",
+  "powerCost": 2000000,
+  "input": {
+    "item": "mysticalagriculture:soulium_seed_base"
+  },
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:supremium_block"
+    },
+    {
+      "item": "mysticalagriculture:supremium_block"
+    },
+    {
+      "item": "mysticalagriculture:supremium_block"
+    },
+    {
+      "item": "mysticalagriculture:supremium_block"
+    },
+    {
+      "item": "minecraft:wither_skeleton_skull"
+    },
+    {
+      "item": "minecraft:wither_skeleton_skull"
+    },
+    {
+      "item": "minecraft:wither_skeleton_skull"
+    },
+    {
+      "item": "minecraft:wither_skeleton_skull"
+    }
+  ],
+  "result": {
+    "item": "mysticalagriculture:wither_skeleton_seeds"
+  }
+}

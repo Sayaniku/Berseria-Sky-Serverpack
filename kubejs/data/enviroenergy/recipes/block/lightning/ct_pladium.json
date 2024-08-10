@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "cRc",
+    "cCc",
+    "ccc"
+  ],
+  "key": {
+    "R": {
+      "item": "enviroenergy:insulated_lightning_rod"
+    },
+    "C": {
+      "item": "enviroenergy:kyronite_lightning_ccu"
+    },
+    "c": {
+      "item": "envirocore:pladium"
+    }
+  },
+  "result": {
+    "item": "enviroenergy:pladium_lightning_ccu",
+    "count": 1
+  }
+}

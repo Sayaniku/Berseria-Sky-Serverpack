@@ -1,0 +1,1283 @@
+{
+  "groupOverrides": {
+    "BiomesOPlenty Flowers": {
+      "enabled": true,
+      "payment": {
+        "item": "minecraft:emerald",
+        "count": 1
+      }
+    },
+    "Vanilla Flowers": {
+      "enabled": true,
+      "payment": {
+        "item": "minecraft:emerald",
+        "count": 1
+      }
+    },
+    "Vanilla Mushrooms": {
+      "enabled": true,
+      "payment": {
+        "item": "minecraft:emerald",
+        "count": 1
+      }
+    },
+    "Vanilla Saplings": {
+        "payment": {
+        "item": "minecraft:emerald",
+        "count": 1
+        }
+    },
+    "Vanilla Seeds": {
+        "payment": {
+        "item": "minecraft:emerald",
+        "count": 1
+        }
+    },
+    "Bone Meal": {
+        "enabled": false
+    },
+    "Pam's HarvestCraft 2 Trees Saplings": {
+        "payment": {
+        "item": "minecraft:emerald",
+        "count": 3
+        }
+    },
+    "BiomesOPlenty Saplings": {
+        "payment": {
+        "item": "minecraft:emerald",
+        "count": 3
+        }
+    },
+    "Pam's HarvestCraft 2 Crops Seeds": {
+        "payment": {
+        "item": "minecraft:emerald",
+        "count": 3
+        }
+    }
+},
+    "customCategories": {
+      "spawn_egg": {
+        "name": "Spawn Egg",
+        "icon": {
+          "item": "minecraft:egg"
+        }
+      }
+    },
+    "customEntries": [
+      {
+        "output": {
+          "item": "minecraft:bee_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:golden_egg"
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "minecraft:cat_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:golden_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "minecraft:chicken_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:golden_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "minecraft:cod_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:golden_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "minecraft:cow_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:golden_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "minecraft:dolphin_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:golden_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "minecraft:donkey_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:golden_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "minecraft:fox_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:golden_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "minecraft:horse_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:golden_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "minecraft:llama_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:golden_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "minecraft:mooshroom_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:golden_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "minecraft:mule_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:golden_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "minecraft:ocelot_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:golden_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "minecraft:panda_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:golden_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "minecraft:parrot_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:golden_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "minecraft:pig_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:golden_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "minecraft:polar_bear_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:golden_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "minecraft:pufferfish_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:golden_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "minecraft:rabbit_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:golden_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "minecraft:salmon_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:golden_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "minecraft:sheep_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:golden_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "minecraft:squid_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:golden_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "minecraft:strider_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:golden_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "minecraft:tropical_fish_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:golden_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "minecraft:turtle_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:golden_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "minecraft:wolf_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:golden_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "betterendforge:spawn_egg_cubozoa"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:golden_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "betterendforge:spawn_egg_end_fish"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:golden_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "betterendforge:spawn_egg_silk_moth"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:golden_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "sonicraft:chao_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:golden_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "sonicraft:amy_rose_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:golden_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "sonicraft:amy_rose_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:golden_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "sonicraft:shadow_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:golden_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "sonicraft:sonic_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:golden_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "sonicraft:tails_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:golden_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "sonicraft:tikal_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:golden_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "quark:crab_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:golden_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "quark:frog_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:golden_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "quark:shiba_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:golden_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "quark:stoneling_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:golden_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "minecraft:blaze_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:rotten_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "minecraft:cave_spider_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:rotten_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "minecraft:creeper_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:rotten_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "minecraft:drowned_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:rotten_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "minecraft:elder_guardian_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:rotten_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "minecraft:enderman_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:rotten_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "minecraft:endermite_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:rotten_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "minecraft:evoker_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:rotten_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "minecraft:ghast_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:rotten_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "minecraft:guardian_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:rotten_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "minecraft:hoglin_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:rotten_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "minecraft:husk_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:rotten_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "minecraft:magma_cube_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:rotten_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "minecraft:phantom_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:rotten_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "minecraft:piglin_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:rotten_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "minecraft:piglin_brute_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:rotten_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "minecraft:pillager_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:rotten_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "minecraft:ravager_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:rotten_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "minecraft:shulker_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:rotten_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "minecraft:silverfish_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:rotten_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "minecraft:skeleton_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:rotten_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "minecraft:skeleton_horse_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:rotten_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "minecraft:slime_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:rotten_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "minecraft:spider_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:rotten_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "minecraft:stray_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:rotten_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "minecraft:vex_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:rotten_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "minecraft:vindicator_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:rotten_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      }
+      ,
+      {
+        "output": {
+          "item": "minecraft:witch_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:rotten_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      }
+      ,
+      {
+        "output": {
+          "item": "minecraft:wither_skeleton_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:rotten_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "minecraft:zoglin_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:rotten_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "minecraft:zombie_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:rotten_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "minecraft:zombie_horse_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:rotten_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "betterendforge:spawn_egg_cubozoa"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:rotten_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "betterendforge:spawn_egg_shadow_walker"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:rotten_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "sonicraft:death_egg_robot_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:rotten_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "sonicraft:metal_sonic_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:rotten_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },  
+      {
+        "output": {
+          "item": "tconstruct:ender_slime_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:rotten_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "tconstruct:sky_slime_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:rotten_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "outvoted:glutton_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:rotten_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "outvoted:wildfire_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:rotten_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "thermal:blizz_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:rotten_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "thermal:blitz_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:rotten_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "thermal:basalz_spawn_egg"
+        },
+        "payment": {
+          "item": "mob_grinding_utils:rotten_egg",
+          "count": 1
+        },
+        "category": "spawn_egg"
+      },
+      {
+        "output": {
+          "item": "betternether:willow_sapling"
+        },
+        "payment": {
+          "item": "kubejs:emerald_ingot",
+          "count": 1
+        },
+        "category": "farmingforblockheads:saplings"
+      },
+      {
+        "output": {
+          "item": "betternether:rubeus_sapling"
+        },
+        "payment": {
+          "item": "kubejs:emerald_ingot",
+          "count": 1
+        },
+        "category": "farmingforblockheads:saplings"
+      },
+      {
+        "output": {
+          "item": "betternether:giant_mold_sapling"
+        },
+        "payment": {
+          "item": "kubejs:emerald_ingot",
+          "count": 1
+        },
+        "category": "farmingforblockheads:saplings"
+      },
+      {
+        "output": {
+          "item": "betternether:mushroom_fir_sapling"
+        },
+        "payment": {
+          "item": "kubejs:emerald_ingot",
+          "count": 1
+        },
+        "category": "farmingforblockheads:saplings"
+      },
+      {
+        "output": {
+          "item": "betternether:anchor_tree_sapling"
+        },
+        "payment": {
+          "item": "kubejs:emerald_ingot",
+          "count": 1
+        },
+        "category": "farmingforblockheads:saplings"
+      },
+      {
+        "output": {
+          "item": "betternether:nether_sakura_sapling"
+        },
+        "payment": {
+          "item": "kubejs:emerald_ingot",
+          "count": 1
+        },
+        "category": "farmingforblockheads:saplings"
+      },
+      {
+        "output": {
+          "item": "betterendforge:mossy_glowshroom_sapling"
+        },
+        "payment": {
+          "item": "kubejs:emerald_ingot",
+          "count": 1
+        },
+        "category": "farmingforblockheads:saplings"
+      },
+      {
+        "output": {
+          "item": "betterendforge:lacugrove_sapling"
+        },
+        "payment": {
+          "item": "kubejs:emerald_ingot",
+          "count": 1
+        },
+        "category": "farmingforblockheads:saplings"
+      },
+      {
+        "output": {
+          "item": "betterendforge:pythadendron_sapling"
+        },
+        "payment": {
+          "item": "kubejs:emerald_ingot",
+          "count": 1
+        },
+        "category": "farmingforblockheads:saplings"
+      },
+      {
+        "output": {
+          "item": "betterendforge:dragon_tree_sapling"
+        },
+        "payment": {
+          "item": "kubejs:emerald_ingot",
+          "count": 1
+        },
+        "category": "farmingforblockheads:saplings"
+      },
+      {
+        "output": {
+          "item": "betterendforge:tenanea_sapling"
+        },
+        "payment": {
+          "item": "kubejs:emerald_ingot",
+          "count": 1
+        },
+        "category": "farmingforblockheads:saplings"
+      },
+      {
+        "output": {
+          "item": "betterendforge:helix_tree_sapling"
+        },
+        "payment": {
+          "item": "kubejs:emerald_ingot",
+          "count": 1
+        },
+        "category": "farmingforblockheads:saplings"
+      },
+      {
+        "output": {
+          "item": "betterendforge:umbrella_tree_sapling"
+        },
+        "payment": {
+          "item": "kubejs:emerald_ingot",
+          "count": 1
+        },
+        "category": "farmingforblockheads:saplings"
+      },
+      {
+        "output": {
+          "item": "betterendforge:lucernia_sapling"
+        },
+        "payment": {
+          "item": "kubejs:emerald_ingot",
+          "count": 1
+        },
+        "category": "farmingforblockheads:saplings"
+      },
+      {
+        "output": {
+          "item": "integrateddynamics:menril_sapling"
+        },
+        "payment": {
+          "item": "kubejs:emerald_ingot",
+          "count": 1
+        },
+        "category": "farmingforblockheads:saplings"
+      },
+      {
+        "output": {
+          "item": "sonicraft:green_hill_palm_sapling"
+        },
+        "payment": {
+          "item": "sonicraft:gold_ring",
+          "count": 5
+        },
+        "category": "farmingforblockheads:saplings"
+      },
+      {
+        "output": {
+          "item": "tconstruct:earth_slime_sapling"
+        },
+        "payment": {
+          "item": "kubejs:emerald_ingot",
+          "count": 1
+        },
+        "category": "farmingforblockheads:saplings"
+      },
+      {
+        "output": {
+          "item": "tconstruct:sky_slime_sapling"
+        },
+        "payment": {
+          "item": "kubejs:emerald_ingot",
+          "count": 1
+        },
+        "category": "farmingforblockheads:saplings"
+      },
+      {
+        "output": {
+          "item": "tconstruct:ender_slime_sapling"
+        },
+        "payment": {
+          "item": "kubejs:emerald_ingot",
+          "count": 1
+        },
+        "category": "farmingforblockheads:saplings"
+      },
+      {
+        "output": {
+          "item": "tconstruct:blood_slime_sapling"
+        },
+        "payment": {
+          "item": "kubejs:emerald_ingot",
+          "count": 1
+        },
+        "category": "farmingforblockheads:saplings"
+      },
+      {
+        "output": {
+          "item": "outvoted:palm_sapling"
+        },
+        "payment": {
+          "item": "kubejs:emerald_ingot",
+          "count": 1
+        },
+        "category": "farmingforblockheads:saplings"
+      },
+      {
+        "output": {
+          "item": "outvoted:baobab_sapling"
+        },
+        "payment": {
+          "item": "kubejs:emerald_ingot",
+          "count": 1
+        },
+        "category": "farmingforblockheads:saplings"
+      },
+      {
+        "output": {
+          "item": "quark:yellow_blossom_sapling"
+        },
+        "payment": {
+          "item": "kubejs:emerald_ingot",
+          "count": 1
+        },
+        "category": "farmingforblockheads:saplings"
+      },
+      {
+        "output": {
+          "item": "quark:lavender_blossom_sapling"
+        },
+        "payment": {
+          "item": "kubejs:emerald_ingot",
+          "count": 1
+        },
+        "category": "farmingforblockheads:saplings"
+      },
+      {
+        "output": {
+          "item": "quark:red_blossom_sapling"
+        },
+        "payment": {
+          "item": "kubejs:emerald_ingot",
+          "count": 1
+        },
+        "category": "farmingforblockheads:saplings"
+      },
+      {
+        "output": {
+          "item": "quark:blue_blossom_sapling"
+        },
+        "payment": {
+          "item": "kubejs:emerald_ingot",
+          "count": 1
+        },
+        "category": "farmingforblockheads:saplings"
+      },
+      {
+        "output": {
+          "item": "quark:orange_blossom_sapling"
+        },
+        "payment": {
+          "item": "kubejs:emerald_ingot",
+          "count": 1
+        },
+        "category": "farmingforblockheads:saplings"
+      },
+      {
+        "output": {
+          "item": "quark:pink_blossom_sapling"
+        },
+        "payment": {
+          "item": "kubejs:emerald_ingot",
+          "count": 1
+        },
+        "category": "farmingforblockheads:saplings"
+      },
+      {
+        "output": {
+          "item": "quark:red_crystal_cluster"
+        },
+        "payment": {
+          "item": "minecraft:diamond",
+          "count": 3
+        },
+        "category": "farmingforblockheads:other"
+      },
+      {
+        "output": {
+          "item": "quark:orange_crystal_cluster"
+        },
+        "payment": {
+          "item": "minecraft:diamond",
+          "count": 3
+        },
+        "category": "farmingforblockheads:other"
+      },
+      {
+        "output": {
+          "item": "quark:yellow_crystal_cluster"
+        },
+        "payment": {
+          "item": "minecraft:diamond",
+          "count": 3
+        },
+        "category": "farmingforblockheads:other"
+      },
+      {
+        "output": {
+          "item": "quark:green_crystal_cluster"
+        },
+        "payment": {
+          "item": "minecraft:diamond",
+          "count": 3
+        },
+        "category": "farmingforblockheads:other"
+      },
+      {
+        "output": {
+          "item": "quark:blue_crystal_cluster"
+        },
+        "payment": {
+          "item": "minecraft:diamond",
+          "count": 3
+        },
+        "category": "farmingforblockheads:other"
+      },
+      {
+        "output": {
+          "item": "quark:indigo_crystal_cluster"
+        },
+        "payment": {
+          "item": "minecraft:diamond",
+          "count": 3
+        },
+        "category": "farmingforblockheads:other"
+      },
+      {
+        "output": {
+          "item": "quark:violet_crystal_cluster"
+        },
+        "payment": {
+          "item": "minecraft:diamond",
+          "count": 3
+        },
+        "category": "farmingforblockheads:other"
+      },
+      {
+        "output": {
+          "item": "quark:white_crystal_cluster"
+        },
+        "payment": {
+          "item": "minecraft:diamond",
+          "count": 3
+        },
+        "category": "farmingforblockheads:other"
+      },
+      {
+        "output": {
+          "item": "quark:black_crystal_cluster"
+        },
+        "payment": {
+          "item": "minecraft:diamond",
+          "count": 3
+        },
+        "category": "farmingforblockheads:other"
+      }
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+
+    ]
+  }

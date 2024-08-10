@@ -1,0 +1,14 @@
+{
+    "name": "Elinvonze",
+    "type": "resource",
+    "tier": "mysticalcustomization:8",
+    "ingredient": {
+        "item": "minecraft:air"
+    },
+    "textures": {
+        "flower": "mysticalagriculture:block/flower_elinvonze",
+        "essence": "mysticalagriculture:item/elinvonze_essence",
+        "seeds": "mysticalagriculture:item/elinvonze_seeds"
+    },
+    "crux": "kubejs:elinvonze_crux"
+}

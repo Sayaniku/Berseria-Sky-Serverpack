@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "PIP",
+        "ICI",
+        "PIP"
+    ],
+    "key": {
+        "I": {
+            "item": "kubejs:fairy_plate"
+        },
+        "P": {
+            "tag": "forge:plates/obsidian"
+        },
+        "C": {
+            "item": "minecraft:crying_obsidian"
+        }
+
+    },
+    "result": {
+        "item": "envirocore:laser_core",
+        "count": 1
+    }
+}

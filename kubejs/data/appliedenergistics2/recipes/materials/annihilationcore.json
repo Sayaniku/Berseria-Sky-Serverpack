@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ACA",
+    "CBC",
+    "ACA"
+  ],
+  "key": {
+    "A": {
+      "item": "appliedenergistics2:purified_nether_quartz_crystal"
+    },
+    "B": {
+      "item": "appliedenergistics2:logic_processor"
+    },
+    "C": {
+      "item": "thermal_extra:drownium_ingot"
+    }
+  },
+  "result": {
+    "item": "appliedenergistics2:annihilation_core",
+    "count": 2
+  }
+}

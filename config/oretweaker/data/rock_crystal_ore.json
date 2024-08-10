@@ -1,0 +1,14 @@
+{
+    "oreConfig": [
+      {
+        "ore": "astralsorcery:rock_crystal_ore",
+        "filler": "minecraft:stone",
+        "minY": 1,
+        "maxY": 15,
+        "maxVeinSize": 3,
+        "spawnRate": 5.0,
+        "biomeBlacklist": [],
+        "biomeWhitelist": ["jamd:mining", "OVERWORLD"]
+      }
+    ]
+  }

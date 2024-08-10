@@ -1,0 +1,19 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+      " E ",
+      "EAE",
+      " E "
+    ],
+    "key": {
+      "A": {
+        "item": "mysticalagradditions:insanium_apple"
+      },
+      "E": {
+        "item": "kubejs:ornium_essence"
+      }
+    },
+    "result": {
+      "item": "kubejs:ornium_apple"
+    }
+  }

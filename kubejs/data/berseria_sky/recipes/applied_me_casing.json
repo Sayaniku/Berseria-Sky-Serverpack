@@ -1,0 +1,35 @@
+{
+    "type": "industrialforegoing:dissolution_chamber",
+    "input": [
+      {
+        "tag": "forge:plastic"
+      },
+      {
+        "item": "thermal:machine_frame"
+      },
+      {
+        "tag": "forge:plastic"
+      },
+      {
+        "item": "kubejs:inferium_plate"
+      },
+      {
+        "item": "kubejs:inferium_plate"
+      },
+      {
+        "item": "thermal:dust_pyrotheum"
+      },
+      {
+        "item": "kubejs:cobalt_plate"
+      },
+      {
+        "item": "thermal:dust_pyrotheum"
+      }
+    ],
+    "inputFluid": "{FluidName:\"kubejs:blue_lava\",Amount:1000}",
+    "processingTime": 1000,
+    "output": {
+      "item": "berseria_sky:controller_casing",
+      "count": 1
+    }
+  }

@@ -1,0 +1,16 @@
+{
+    "type": "mysticalagriculture:farmland_till",
+    "group": "mysticalagriculture:farmland_till",
+    "ingredients": [
+      {
+        "type": "mysticalagriculture:all_hoes"
+      },
+      {
+        "item": "blue_skies:lunar_dirt"
+      }
+    ],
+    "result": {
+      "item": "blue_skies:lunar_farmland",
+      "count": 1
+    }
+  }

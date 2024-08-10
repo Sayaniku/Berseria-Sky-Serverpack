@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "#G#",
+    "GXG",
+    "#G#"
+  ],
+  "key": {
+    "#": {"tag": "forge:storage_blocks/copper"},
+    "X": {"item": "minecraft:furnace"},
+    "G": {"item": "tconstruct:clear_glass"}
+  },
+  "result": {"item": "ironfurnaces:copper_furnace"}
+}
+  

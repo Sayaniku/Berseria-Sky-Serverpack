@@ -1,0 +1,11 @@
+{
+  "name": "Fluix Steel Ingot",
+  "colors": [
+    "5f4681",
+    "322951"
+  ],
+  "ingredient": {
+    "item": "lazierae2:fluix_steel_ingot"
+  },
+  "inUltimateSingularity": true
+}

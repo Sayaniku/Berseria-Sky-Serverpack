@@ -1,0 +1,14 @@
+{
+    "oreConfig": [
+      {
+        "ore": "berseria_sky:heat_sand",
+        "filler": "minecraft:netherrack",
+        "minY": 1,
+        "maxY": 32,
+        "maxVeinSize": 3,
+        "spawnRate": 10.0,
+        "biomeBlacklist": [],
+        "biomeWhitelist": []
+      }
+    ]
+  }

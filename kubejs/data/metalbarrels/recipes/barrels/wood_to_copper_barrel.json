@@ -1,0 +1,14 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "CCC",
+        "GBG",
+        "CCC"
+    ],
+    "key":{
+        "C":{"tag":"forge:ingots/copper"},
+        "B":{"tag":"forge:barrels/wooden"},
+        "G":{"tag":"forge:glass"}
+    },
+    "result":{"item":"metalbarrels:copper_barrel"}
+}

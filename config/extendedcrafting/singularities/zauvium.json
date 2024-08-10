@@ -1,0 +1,11 @@
+{
+    "name": "Zauvium",
+    "colors": [
+        "9c4b65",
+        "9c4b65"
+    ],
+    "ingredient": {
+        "item": "thermal_extra:zauvium_ingot"
+    },
+    "inUltimateSingularity": true
+}

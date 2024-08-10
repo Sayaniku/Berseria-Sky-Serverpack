@@ -1,0 +1,19 @@
+{
+  "type": "lazierae2:aggregator",
+  "process_time": 120,
+  "energy_cost": 2000,
+  "output": {
+    "item": "lazierae2:resonating_gem"
+  },
+  "input": [
+    {
+      "item": "appliedenergistics2:smooth_sky_stone_block"
+    },
+    {
+      "item": "appliedenergistics2:purified_fluix_crystal"
+    },
+    {
+      "item": "appliedenergistics2:ender_dust"
+    }
+  ]
+}

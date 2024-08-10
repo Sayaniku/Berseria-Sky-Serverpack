@@ -1,0 +1,36 @@
+{
+  "input": [
+    {
+      "item": "kubejs:redstone_plate"
+    },
+    {
+      "item": "industrialforegoing:efficiency_addon_1"
+    },
+    {
+      "item": "kubejs:redstone_plate"
+    },
+    {
+      "item": "minecraft:blue_stained_glass_pane"
+    },
+    {
+      "item": "minecraft:blue_stained_glass_pane"
+    },
+    {
+      "tag": "forge:gears/platinum"
+    },
+    {
+      "item": "botania:blaze_block"
+    },
+    {
+      "tag": "forge:gears/platinum"
+    }
+  ],
+  "inputFluid": "{FluidName:\"industrialforegoing:latex\",Amount:1000}",
+  "processingTime": 700,
+  "output": {
+    "item": "industrialforegoing:efficiency_addon_2",
+    "count": 1,
+    "nbt": "{TitaniumAugment:{Efficiency:0.8f}}"
+  },
+  "type": "industrialforegoing:dissolution_chamber"
+}

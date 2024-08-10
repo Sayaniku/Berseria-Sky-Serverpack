@@ -1,0 +1,15 @@
+{
+	"type": "cagedmobs:environment_data",
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "cagedmobs"
+		}
+	],
+	"input": {
+		"item": "botania:golden_grass"
+	},
+	"render": "botania:golden_grass",
+	"growModifier": 4.0,
+	"categories": ["end"]
+}

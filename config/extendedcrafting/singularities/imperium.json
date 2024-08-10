@@ -1,0 +1,11 @@
+{
+    "name": "Imperium",
+    "colors": [
+      "00418f",
+      "0674c2"
+    ],
+    "ingredient": {
+      "item": "mysticalagriculture:imperium_ingot"
+    },
+    "inUltimateSingularity": true
+  }

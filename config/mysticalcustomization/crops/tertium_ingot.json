@@ -1,0 +1,14 @@
+{
+  "name": "§6Tertium Ingot",
+  "type": "resource",
+  "tier": "mysticalagriculture:3",
+  "ingredient": {
+    "item": "minecraft:air"
+  },
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_tertium",
+    "essence": "mysticalagriculture:item/tertium_ingot_essence",
+    "seeds": "mysticalagriculture:item/tertium_ingot_seeds"
+  }
+  
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aba",
+    "bcb",
+    "ddd"
+  ],
+  "key": {
+    "a": {
+      "item": "appliedenergistics2:quartz_glass"
+    },
+    "d": {
+      "tag": "forge:plates/uranium"
+    },
+    "c": {
+      "item": "appliedenergistics2:fluix_crystal"
+    },
+    "b": {
+      "tag": "forge:dusts/dragon_enderium"
+    }
+  },
+  "result": {
+    "item": "appliedenergistics2:blank_pattern"
+  }
+}

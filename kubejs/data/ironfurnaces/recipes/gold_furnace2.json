@@ -1,0 +1,14 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "YGY",
+    "GXG",
+    "YGY"
+  ],
+  "key": {
+    "Y": {"tag": "forge:storage_blocks/electrum"},
+    "X": {"tag": "forge:furnaces/silver"},
+    "G": {"item": "tconstruct:clear_glass"}
+  },
+  "result": {"item": "ironfurnaces:gold_furnace"}
+}

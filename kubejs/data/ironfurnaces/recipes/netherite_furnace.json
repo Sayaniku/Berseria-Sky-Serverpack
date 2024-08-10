@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "N#N",
+    "#X#",
+    "NSN"
+  ],
+  "key": {
+    "#": {"item": "minecraft:magma_block"},
+    "X": {"tag": "forge:furnaces/obsidian"},
+    "S": {"item": "excompressum:compressed_soul_sand"},
+    "N": {"item": "tconstruct:manyullyn_block"}
+  },
+  "result": {"item": "ironfurnaces:netherite_furnace"}
+}

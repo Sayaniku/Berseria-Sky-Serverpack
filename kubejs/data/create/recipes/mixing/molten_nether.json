@@ -1,0 +1,23 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "excompressum:compressed_nether_gravel"
+      },
+      {
+        "item": "tconstruct:blood_slime"
+      },
+      {
+        "fluid": "tconstruct:molten_manyullyn",
+        "nbt": {},
+        "amount": 576
+      }
+    ],
+    "results": [
+      {
+        "fluid": "kubejs:molten_nether",
+        "amount": 1000
+      }
+    ],
+    "heatRequirement": "superheated"
+  }

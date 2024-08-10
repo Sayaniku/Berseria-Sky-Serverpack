@@ -1,0 +1,36 @@
+{
+    "type": "extendedcrafting:combination",
+    "powerCost": 10000000,
+    "input": {
+      "item": "kubejs:supremium_seed"
+    },
+    "ingredients": [
+      {
+        "item": "mysticalagriculture:supremium_block"
+      },
+      {
+        "item": "mysticalagriculture:supremium_block"
+      },
+      {
+        "item": "mysticalagriculture:supremium_block"
+      },
+      {
+        "item": "mysticalagriculture:supremium_block"
+      },
+      {
+        "item": "lazierae2:logic_unit"
+      },
+      {
+        "item": "lazierae2:logic_unit"
+      },
+      {
+        "item": "lazierae2:logic_unit"
+      },
+      {
+        "item": "lazierae2:logic_unit"
+      }
+    ],
+    "result": {
+      "item": "mysticalagriculture:fluix_steel_ingot_seeds"
+    }
+  }

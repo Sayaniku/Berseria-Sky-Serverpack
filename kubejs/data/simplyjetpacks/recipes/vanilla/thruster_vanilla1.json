@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " I ",
+    "IFI",
+    "IBI"
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:plates/ardite"
+    },
+    "F": {
+      "item": "ironfurnaces:silver_furnace"
+    },
+    "B": {
+      "item": "botania:blaze_block"
+    }
+  },
+  "result": {
+    "item": "simplyjetpacks:thruster_vanilla1",
+    "count": 1
+  }
+}

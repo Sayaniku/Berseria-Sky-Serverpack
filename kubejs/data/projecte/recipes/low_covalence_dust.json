@@ -1,0 +1,27 @@
+{
+    "type": "create:mechanical_crafting",
+    "pattern": [
+        "    I    ",
+        "   III   ",
+        "  IIIII  ",
+        " IIIIIII ",
+        "IIIIRIIII",
+        " IIIIIII ",
+        "  IIIII  ",
+        "   III   ",
+        "    I    "
+    ],
+    "key": {
+        "I": {
+            "item": "mysticalagradditions:prudentium_coal"
+        },
+        "R": {
+            "tag": "forge:storage_blocks/charcoal"
+        }
+    },
+    "result": {
+        "item": "projecte:low_covalence_dust",
+        "count": 40
+    },
+    "acceptMirrored": false
+}

@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NNN",
+    "DID",
+    "N N"
+  ],
+  "key": {
+    "N": {
+      "tag": "forge:plates/manyerium"
+    },
+    "D": {
+      "item": "kubejs:diamond_ingot"
+    },
+    "I": {
+      "item": "simplyjetpacks:unit_cryotheum"
+    }
+  },
+  "result": {
+    "item": "simplyjetpacks:armorplating_te5",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "thermal"
+    },
+    {
+      "type": "forge:not",
+      "value": {
+        "type": "forge:mod_loaded",
+        "modid": "redstonearsenal"
+      }
+    }
+  ]
+}

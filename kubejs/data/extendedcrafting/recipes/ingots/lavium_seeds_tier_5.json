@@ -1,0 +1,36 @@
+{
+    "type": "extendedcrafting:combination",
+    "powerCost": 2000000,
+    "input": {
+      "item": "kubejs:supremium_seed"
+    },
+    "ingredients": [
+      {
+        "item": "mysticalagriculture:supremium_block"
+      },
+      {
+        "item": "mysticalagriculture:supremium_block"
+      },
+      {
+        "item": "mysticalagriculture:supremium_block"
+      },
+      {
+        "item": "mysticalagriculture:supremium_block"
+      },
+      {
+        "item": "tinkers_reforged:lavium_block"
+      },
+      {
+        "item": "tinkers_reforged:lavium_block"
+      },
+      {
+        "item": "tinkers_reforged:lavium_block"
+      },
+      {
+        "item": "tinkers_reforged:lavium_block"
+      }
+    ],
+    "result": {
+      "item": "mysticalagriculture:lavium_seeds"
+    }
+  }

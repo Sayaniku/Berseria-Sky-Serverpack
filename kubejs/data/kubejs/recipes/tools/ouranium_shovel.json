@@ -1,0 +1,23 @@
+{
+    "type": "cucumber:shaped_transfer_damage",
+    "pattern": [
+      " G ",
+      "IPI",
+      " G "
+    ],
+    "key": {
+      "G": {
+        "item": "kubejs:ouranium_gemstone"
+      },
+      "I": {
+        "item": "kubejs:ouranium_ingot"
+      },
+      "P": {
+        "item": "kubejs:tornium_shovel"
+      }
+    },
+    "result": {
+        "nbt": "{Enchantments:[{lvl:20s,id:\"minecraft:fortune\"}]}",
+        "item": "kubejs:ouranium_shovel",
+        "type": "minecraft:item_nbt"
+}}

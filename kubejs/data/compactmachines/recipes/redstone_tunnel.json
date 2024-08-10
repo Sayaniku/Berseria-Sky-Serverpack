@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "AAA",
+      "ABA",
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "item": "thermal:signalum_plate"
+      },
+      "B": {
+        "item": "extendedcrafting:redstone_ingot_block"
+      }
+    },
+    "result": {"type": "forge:nbt", "item": "compactmachines:tunnel", "count": 2, "nbt": "{definition:{id:\"compactmachines:redstone_in\"}}" }
+  }

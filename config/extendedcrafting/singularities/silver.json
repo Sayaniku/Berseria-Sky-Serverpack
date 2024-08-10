@@ -1,0 +1,11 @@
+{
+  "name": "Silver",
+  "colors": [
+    "83aab2",
+    "83aab2"
+  ],
+  "ingredient": {
+    "item": "thermal:silver_ingot"
+  },
+  "inUltimateSingularity": true
+}

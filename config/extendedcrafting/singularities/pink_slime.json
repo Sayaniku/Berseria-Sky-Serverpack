@@ -1,0 +1,11 @@
+{
+    "name": "Pink Slime",
+    "colors": [
+      "ce78bc",
+      "ce78bc"
+    ],
+    "ingredient": {
+      "item": "industrialforegoing:pink_slime_ingot"
+    },
+    "inUltimateSingularity": true
+  }

@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "result": {
+        "item": "mekanism:basic_universal_cable",
+        "count": 8
+    },
+    "pattern": [
+        "SSS",
+        "S#S",
+        "SSS"
+    ],
+    "key": {
+        "S": {
+            "item": "pipez:energy_pipe"
+        },
+        "#": {
+            "item": "berseria_sky:comerald_block"
+        }
+    }
+}

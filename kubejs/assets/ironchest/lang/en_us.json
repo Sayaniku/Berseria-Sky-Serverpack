@@ -1,0 +1,20 @@
+{
+  
+  "block.ironchest.iron_chest": "Ardite Chest",
+  "block.ironchest.silver_chest": "Steel Chest",
+  "block.ironchest.gold_chest": "Electrum Chest",
+  "block.ironchest.diamond_chest": "Invar Chest",
+  "block.ironchest.copper_chest": "Copper Chest",
+  "block.ironchest.obsidian_chest": "Hepatizon Chest",
+  
+
+  
+ 
+  "ironchest.container.iron_chest": "Ardite Chest",
+  "ironchest.container.gold_chest": "Electrum Chest",
+  "ironchest.container.diamond_chest": "Invar Chest",
+  "ironchest.container.copper_chest": "Copper Chest",
+  "ironchest.container.silver_chest": "Steek Chest",
+  "ironchest.container.obsidian_chest": "Hepatizon Chest"
+
+}

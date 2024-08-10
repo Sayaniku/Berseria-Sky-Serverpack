@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SXS",
+    "YCY",
+    "IPI"
+  ],
+  "key": {
+    "C": {
+      "item": "thermal:machine_frame"
+    },
+    "I": {
+      "tag": "forge:gears/rose_gold"
+    },
+    "P": {
+      "item": "thermal:rf_coil"
+    },
+    "X": {
+      "item": "minecraft:bucket"
+    },
+    "Y": {
+      "tag": "forge:glass"
+    },
+    "S": {
+      "item": "kubejs:queens_slime_gear"
+    }
+  },
+  "result": {
+    "item": "thermal:machine_bottler"
+  }
+}

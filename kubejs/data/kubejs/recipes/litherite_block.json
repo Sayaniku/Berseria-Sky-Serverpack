@@ -1,0 +1,16 @@
+{
+    "type": "thermal:chiller",
+    "ingredients": [
+        {
+            "fluid": "mysticalagradditions:molten_imperium",
+            "amount": 1296
+        }
+    ],
+    "result": [
+        {
+            "item": "envirocore:litherite",
+            "count": 1
+        }
+    ],
+    "energy": 100000
+}

@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"ULU",
+		"LCL",
+		"ULU"
+	],
+	"key": {
+		"L": {
+			"item": "powah:niotic_crystal_block"
+		},
+		"C": {
+			"item": "powah:capacitor_niotic"
+		},
+		"U": {
+			"item": "powah:reactor_blazing"
+		}
+	},
+	"result": {
+		"item": "powah:reactor_niotic",
+		"count": 4
+	}
+}

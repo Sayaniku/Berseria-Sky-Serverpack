@@ -1,0 +1,31 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "fluid": "exnihilosequentia:witchwater",
+      "amount": 1000
+    },
+    {"item": "kubejs:rainbow_wool"},
+    {"item": "kubejs:rainbow_wool"},
+    {"item": "kubejs:rainbow_wool"},
+    {"item": "kubejs:rainbow_wool"},
+
+    {"item": "minecraft:bone_block"},
+    {"item": "minecraft:bone_block"},
+    {"item": "minecraft:bone_block"},
+    {"item": "minecraft:bone_block"},
+
+    {"item": "tconstruct:rose_gold_ingot"},
+    {"item": "tconstruct:rose_gold_ingot"},
+    {"item": "tconstruct:rose_gold_ingot"},
+    {"item": "tconstruct:rose_gold_ingot"}
+  ],
+  "results": [
+    {
+      "item": "botania:fertilizer",
+      "count" : 2
+      
+    }
+  ]
+
+}

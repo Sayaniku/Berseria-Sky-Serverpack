@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "OOO",
+    "O O",
+    "OOO"
+  ],
+  "key": {
+    "O": {
+      "tag": "forge:storage_blocks/hepatizon"
+    }
+
+  },
+  "result": {
+    "item": "envirocore:obsidian_plate",
+    "count": 8
+  }
+}

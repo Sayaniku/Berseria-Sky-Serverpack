@@ -1,0 +1,47 @@
+{
+    "type": "extendedcrafting:shaped_table",
+    "tier": 4,
+    "pattern": [
+        "ABBBBBBBA",
+        "BCDDDDDCB",
+        "BDEFFFEDB",
+        "BDFGHGFDB",
+        "BDFHIHFDB",
+        "BDFGHGFDB",
+        "BDEFFFEDB",
+        "BCDDDDDCB",
+        "ABBBBBBBA"
+    ],
+    "key": {
+        "A": {
+            "item": "projecte:alchemical_chest"
+        },
+        "B": {
+            "item": "extendedcrafting:black_iron_block"
+        },
+        "C": {
+            "item": "projectex:energy_link"
+        },
+        "D": {
+            "item": "projectex:pink_matter"
+        },
+        "E": {
+            "item": "projecte:collector_mk3"
+        },
+        "F": {
+            "item": "projectex:magenta_matter"
+        },
+        "G": {
+            "item": "mekanism:block_antimatter"
+        },
+        "H": {
+            "item": "thermal_extra:zauvium_block"
+        },
+        "I": {
+            "item": "projecte:philosophers_stone"
+        }
+    },
+    "result": {
+        "item": "projecte:condenser_mk1"
+    }
+}

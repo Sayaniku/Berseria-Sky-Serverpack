@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "result": {
+        "item": "mekanism:energy_tablet"
+    },
+    "pattern": [
+        "RIR",
+        "AIA",
+        "RIR"
+    ],
+    "key": {
+        "R": {
+            "item": "kubejs:supremium_plate"
+        },
+        "I": {
+            "tag": "forge:ingots/elinvonze"
+        },
+        "A": {
+            "tag": "mekanism:alloys/infused"
+        }
+    }
+}

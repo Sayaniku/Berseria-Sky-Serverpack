@@ -1,0 +1,16 @@
+{
+    "active": {"minecraft:crafting": {
+        "solarflux:efficiency_upgrade": true,
+        "solarflux:block_charging_upgrade": true,
+        "solarflux:ae2/energy_upgrade": true,
+        "solarflux:solar_panel_2": true,
+        "solarflux:dispersive_upgrade": true,
+        "solarflux:blank_upgrade": true,
+        "solarflux:furnace_upgrade": true,
+        "solarflux:traversal_upgrade": true,
+        "solarflux:capacity_upgrade": true,
+        "solarflux:transfer_rate_upgrade": true
+    }},
+    "unregistered": {},
+    "version": 2
+}

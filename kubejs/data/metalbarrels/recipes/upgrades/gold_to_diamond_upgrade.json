@@ -1,0 +1,14 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "DDD",
+        "DID",
+        "DDD"
+    ],
+    "key":{
+        "D":{"tag":"forge:ingots/invar"},
+        "I":{"item":"metalbarrels:silver_to_gold"}  
+    },
+
+    "result":{"item":"metalbarrels:gold_to_diamond"}
+}

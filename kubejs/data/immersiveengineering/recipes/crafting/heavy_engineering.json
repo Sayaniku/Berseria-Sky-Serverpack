@@ -1,0 +1,15 @@
+{
+  "type":"minecraft:crafting_shaped",
+  
+  "pattern":[
+      "igi",
+      "geg",
+      "igi"
+      ],
+      "key":{
+        "i":{"tag":"forge:sheetmetals/steel"},
+        "e":{"tag":"forge:storage_blocks/electrum"},
+        "g":{"item":"immersiveengineering:component_steel"
+        }},
+        
+        "result":{"item":"immersiveengineering:heavy_engineering","count":1}}

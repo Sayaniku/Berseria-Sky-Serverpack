@@ -1,0 +1,14 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " P ",
+    "PXP",
+    " P "
+  ],
+  "key": {
+    "P": {"item": "mysticalagriculture:inferium_essence"},
+    "X": {"item": "minecraft:coal"}
+    
+  },
+  "result": {"item": "mysticalagradditions:inferium_coal"}
+}

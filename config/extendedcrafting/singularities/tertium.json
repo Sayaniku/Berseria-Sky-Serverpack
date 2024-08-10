@@ -1,0 +1,11 @@
+{
+    "name": "Tertium",
+    "colors": [
+      "7f0f00",
+      "ba4b10"
+    ],
+    "ingredient": {
+      "item": "mysticalagriculture:tertium_ingot"
+    },
+    "inUltimateSingularity": true
+  }

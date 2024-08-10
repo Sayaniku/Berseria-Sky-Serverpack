@@ -1,0 +1,11 @@
+{
+    "name": "Falsite",
+    "colors": [
+      "7662e5",
+      "761ed8"
+    ],
+    "ingredient": {
+      "item": "blue_skies:falsite_ingot"
+    },
+    "inUltimateSingularity": true
+}

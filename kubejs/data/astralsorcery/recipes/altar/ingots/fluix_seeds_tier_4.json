@@ -1,0 +1,43 @@
+{
+    "type": "astralsorcery:altar",
+    "altar_type": 3,
+    "duration": 600,
+    "starlight": 7000,
+    "pattern": [
+      "A___A",
+      "RECEN",
+      "DCSCD",
+      "_ECE_",
+      "A_I_A"
+    ],
+    "key": {
+      "A": {"item": "astralsorcery:resonating_gem"},
+      "E": {"item": "appliedenergistics2:fluix_block"},
+      "N": {"item": "mysticalagriculture:nether_quartz_seeds"},
+      "R": {"item": "mysticalagriculture:certus_quartz_seeds"},
+      "I": {"item": "mysticalagriculture:redstone_seeds"},
+      "C": {"item": "mysticalagriculture:imperium_block"},
+      "S": {"item": "kubejs:imperium_seed"},
+      "D": {"item": "astralsorcery:starmetal"}
+    },
+    "output": [
+      {"item": "mysticalagriculture:fluix_seeds","count": 1}
+    ],
+    "focus_constellation": "astralsorcery:horologium",
+    "relay_inputs": [
+      {"item": "astralsorcery:aquamarine"},
+      {"item": "astralsorcery:aquamarine"},
+      {"item": "astralsorcery:aquamarine"},
+      {"item": "astralsorcery:aquamarine"},
+      {"item": "astralsorcery:aquamarine"}
+    ],
+    "effects": [
+      "astralsorcery:built_in_effect_constellation_finish",
+      "astralsorcery:built_in_effect_trait_relay_highlight",
+      "astralsorcery:built_in_effect_discovery_central_beam",
+      "astralsorcery:built_in_effect_trait_focus_circle",
+      "astralsorcery:altar_default_sparkle",
+      "astralsorcery:built_in_effect_constellation_lines",
+      "astralsorcery:built_in_effect_attunement_sparkle"
+    ]
+  }

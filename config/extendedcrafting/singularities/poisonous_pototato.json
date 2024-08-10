@@ -1,0 +1,11 @@
+{
+    "name": "Poisonous Potato",
+    "colors": [
+      "49673f",
+      "d9aa51"
+    ],
+    "ingredient": {
+      "item": "minecraft:poisonous_potato"
+    },
+    "inUltimateSingularity": false
+}

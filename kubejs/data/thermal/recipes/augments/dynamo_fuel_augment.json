@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XGX",
+    "LHL",
+    "XGX"
+  ],
+  "key": {
+    "G": {
+      "tag": "forge:gears/lead"
+    },
+    "L": {
+      "tag": "forge:plates/lumium"
+    },
+    "H": {
+      "item": "thermal_extra:augment_base"
+    },
+    "X": {
+      "tag": "thermal:glass/hardened"
+    }
+  },
+  "result": {
+    "item": "thermal:dynamo_fuel_augment"
+  },
+  "conditions": [
+    {
+      "flag": "dynamo_augments",
+      "type": "thermal:flag"
+    }
+  ]
+}

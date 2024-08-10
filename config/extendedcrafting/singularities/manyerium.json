@@ -1,0 +1,11 @@
+{
+    "name": "Manyerium",
+    "colors": [
+      "885c73",
+      "885c73"
+    ],
+    "ingredient": {
+      "item": "berseria_sky:manyerium_ingot"
+    },
+    "inUltimateSingularity": true
+  }

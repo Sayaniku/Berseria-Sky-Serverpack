@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ICI",
+    "CDC",
+    "IRI"
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:plates/fayronium"
+    },
+    "C": {
+      "item": "thermal:rf_coil"
+    },
+    "D": {
+      "item": "berseria_sky:fayronium_core"
+    },
+    "R": {
+      "item": "simplyjetpacks:thruster_te3"
+    }
+  },
+  "result": {
+    "item": "simplyjetpacks:thruster_te4",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "thermal"
+    }
+  ]
+}

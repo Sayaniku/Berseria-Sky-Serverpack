@@ -1,0 +1,14 @@
+{
+    "name": "Moon",
+    "type": "resource",
+    "tier": "mysticalcustomization:7",
+    "ingredient": {
+        "item": "minecraft:air"
+    },
+    "textures": {
+        "flower": "mysticalagriculture:block/flower_moon",
+        "essence": "mysticalagriculture:item/moon_essence",
+        "seeds": "mysticalagriculture:item/moon_seeds"
+    },
+    "crux": "kubejs:moon_crux"
+}

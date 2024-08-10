@@ -1,0 +1,14 @@
+{
+    "name": "§5Manyerium",
+    "type": "resource",
+    "tier": "mysticalcustomization:8",
+    "ingredient": {
+      "item": "minecraft:air"
+    },
+    "textures": {
+      "flower": "mysticalagriculture:block/flower_manyerium",
+      "essence": "mysticalagriculture:item/manyerium_essence",
+      "seeds": "mysticalagriculture:item/manyerium_seeds"
+    }
+    
+  }

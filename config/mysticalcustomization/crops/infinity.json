@@ -1,0 +1,15 @@
+{
+    "name": "Infinity",
+    "type": "resource",
+    "tier": "mysticalcustomization:10",
+    "ingredient": {
+      "item": "minecraft:air"
+    },
+    "textures": {
+      "flower": "mysticalagriculture:block/infinity_flower",
+      "essence": "mysticalagriculture:item/infinity_essence",
+      "seeds": "mysticalagriculture:item/infinity_seeds"
+    },
+    "crux":"berseria_sky:infinity_crux"
+  }
+  

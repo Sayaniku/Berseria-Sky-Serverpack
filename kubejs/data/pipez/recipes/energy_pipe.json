@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "BRB",
+    "III"
+  ],
+  "key": {
+    "B": {
+      "item": "extendedcrafting:redstone_ingot_block"
+    },
+    "I": {
+      "item": "kubejs:hepatizon_plate"
+    },
+    "R": {
+      "item": "immersiveengineering:connector_hv_relay"
+    }
+  },
+  "result": {
+    "item": "pipez:energy_pipe",
+    "count": 8
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "type": "mysticalagriculture:infusion",
+  "input": {
+    "item": "kubejs:inferium_seed"
+  },
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:water_agglomeratio"
+    },
+    {
+      "item": "mysticalagriculture:inferium_block"
+    },
+    {
+      "item": "mysticalagriculture:water_agglomeratio"
+    },
+    {
+      "item": "mysticalagriculture:inferium_block"
+    },
+    {
+      "item": "mysticalagriculture:water_agglomeratio"
+    },
+    {
+      "item": "mysticalagriculture:inferium_block"
+    },
+    {
+      "item": "mysticalagriculture:water_agglomeratio"
+    },
+    {
+      "item": "mysticalagriculture:inferium_block"
+    }
+  ],
+  "result": {
+    "item": "mysticalagriculture:water_seeds"
+  }
+}

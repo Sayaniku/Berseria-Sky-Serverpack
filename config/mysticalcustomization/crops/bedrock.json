@@ -1,0 +1,15 @@
+{
+    "name": "Bedrock",
+    "type": "resource",
+    "tier": "mysticalcustomization:8",
+    "ingredient": {
+      "item": "minecraft:air"
+    },
+    "textures": {
+      "flower": "mysticalagriculture:block/flower_bedrock",
+      "essence": "mysticalagriculture:item/bedrock_essence",
+      "seeds": "mysticalagriculture:item/bedrock_seeds"
+    },
+    "crux":"kubejs:bedrock_crux"
+  }
+  

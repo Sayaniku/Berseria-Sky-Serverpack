@@ -1,0 +1,36 @@
+{
+    "type": "mysticalagriculture:infusion",
+    "input": {
+      "item": "kubejs:inferium_seed"
+    },
+    "ingredients": [
+      {
+        "item": "mysticalagriculture:inferium_ingot_block"
+      },
+      {
+        "item": "mysticalagriculture:inferium_block"
+      },
+      {
+        "item": "mysticalagriculture:inferium_ingot_block"
+      },
+      {
+        "item": "mysticalagriculture:inferium_block"
+      },
+      {
+        "item": "mysticalagriculture:inferium_ingot_block"
+      },
+      {
+        "item": "mysticalagriculture:inferium_block"
+      },
+      {
+        "item": "mysticalagriculture:inferium_ingot_block"
+      },
+      {
+        "item": "mysticalagriculture:inferium_block"
+      }
+    ],
+    "result": {
+      "item": "mysticalagriculture:inferium_ingot_seeds"
+    }
+  }
+  
