@@ -13,6 +13,7 @@ onEvent('block.tags', event => {
     event.remove('forge:ores', ['powah:uraninite_ore_dense', 'powah:uraninite_ore_poor','immersiveengineering:ore_uranium','tinkers_reforged:aluminum_ore'])
     event.remove('forge:ores/certus_quartz', ['appliedenergistics2:charged_quartz_ore'])
     event.remove('forge:chests', ['quark:oak_chest','quark:spruce_chest'])
+    
 
     //Add Tags//
     event.add('forge:ores/aquamarine', 'astralsorcery:aquamarine_sand_ore')

@@ -206,7 +206,11 @@
 			x: 0.5d
 			y: 0.0d
 			shape: "rsquare"
-			description: ["you can found Rare structure like the death egg!"]
+			subtitle: "you can found the chao garden structure in green hill!"
+			description: [
+				""
+				"{image:ftbquests:textures/quests/chao_garden.png width:200 height:100 align:1 fit:true}"
+			]
 			dependencies: ["0E54859BF8E02202"]
 			id: "3471361A198E597E"
 			tasks: [{

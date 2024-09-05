@@ -10,7 +10,7 @@
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			x: 1.5d
+			x: 2.0d
 			y: -0.5d
 			shape: "rsquare"
 			dependencies: ["2655349AEA307A2B"]
@@ -22,7 +22,7 @@
 			}]
 		}
 		{
-			x: 2.5d
+			x: 3.0d
 			y: 0.5d
 			shape: "rsquare"
 			dependencies: ["2655349AEA307A2B"]
@@ -34,7 +34,7 @@
 			}]
 		}
 		{
-			x: 2.5d
+			x: 3.0d
 			y: -0.5d
 			shape: "rsquare"
 			dependencies: ["2655349AEA307A2B"]
@@ -46,8 +46,8 @@
 			}]
 		}
 		{
-			x: 3.5d
-			y: 1.0d
+			x: 4.0d
+			y: 0.5d
 			shape: "rsquare"
 			dependencies: ["2655349AEA307A2B"]
 			id: "4BAD3D5E12111224"
@@ -217,7 +217,7 @@
 			}]
 		}
 		{
-			x: 0.0d
+			x: 1.0d
 			y: 2.5d
 			shape: "rsquare"
 			description: ["Infinite Blaze Cake!"]
@@ -239,6 +239,7 @@
 			x: -3.0d
 			y: -1.5d
 			shape: "rsquare"
+			subtitle: "Creative Motor"
 			description: ["Creative Motor you don't have need any RF for work!"]
 			dependencies: ["3A17135EDD1FF002"]
 			id: "204FC4FC31B05583"
@@ -259,6 +260,7 @@
 			x: -3.0d
 			y: -0.5d
 			shape: "rsquare"
+			subtitle: "Creative Capacitor Draconic"
 			dependencies: ["204FC4FC31B05583"]
 			id: "6EDB46B62BA6F150"
 			tasks: [{
@@ -314,6 +316,7 @@
 			x: -2.0d
 			y: 3.5d
 			shape: "rsquare"
+			subtitle: "Creative Tank"
 			description: ["Add Any Fluid for have the content infinite!"]
 			dependencies: ["1515BFC89913F463"]
 			id: "30EA1176B595FD77"
@@ -349,6 +352,7 @@
 			x: -3.0d
 			y: 1.5d
 			shape: "rsquare"
+			subtitle: "Creative Energy Cell (Powah)"
 			dependencies: ["05B1CB6D19A96245"]
 			id: "26D982570310A903"
 			tasks: [{
@@ -365,8 +369,8 @@
 			}]
 		}
 		{
-			x: 3.5d
-			y: 2.0d
+			x: 4.0d
+			y: 1.5d
 			shape: "rsquare"
 			dependencies: ["42BD9191DEF296D5"]
 			id: "2D14EDF930ECAA4F"
@@ -383,7 +387,7 @@
 			}]
 		}
 		{
-			x: 2.5d
+			x: 3.0d
 			y: 1.5d
 			shape: "rsquare"
 			dependencies: ["42BD9191DEF296D5"]
@@ -398,6 +402,7 @@
 			x: 0.0d
 			y: 3.5d
 			shape: "rsquare"
+			subtitle: "Creative Crate (Create)"
 			description: ["Place Any Item to the filter and use Pipez ( item) with chest for have any infinite item!"]
 			dependencies: ["44DEECCAFCAF373A"]
 			id: "0ED1969C39483E9C"
@@ -422,6 +427,7 @@
 			x: 1.0d
 			y: 3.5d
 			shape: "rsquare"
+			subtitle: "Creative Vending"
 			dependencies: ["0ED1969C39483E9C"]
 			id: "47BA4E31B10C9B04"
 			tasks: [{
@@ -431,7 +437,7 @@
 			}]
 		}
 		{
-			x: 1.5d
+			x: 2.0d
 			y: 0.5d
 			shape: "rsquare"
 			dependencies: ["42BD9191DEF296D5"]
@@ -488,7 +494,7 @@
 			}]
 		}
 		{
-			x: 2.5d
+			x: 3.0d
 			y: 2.5d
 			shape: "rsquare"
 			dependencies: ["42BD9191DEF296D5"]
@@ -507,8 +513,8 @@
 			}]
 		}
 		{
-			x: 3.5d
-			y: 0.0d
+			x: 4.0d
+			y: -0.5d
 			shape: "rsquare"
 			dependencies: ["42BD9191DEF296D5"]
 			id: "593779409D5170D5"
@@ -522,6 +528,7 @@
 			x: -3.0d
 			y: 3.5d
 			shape: "rsquare"
+			subtitle: "Creative Tank"
 			description: ["Add Any gas for have the content infinite!"]
 			dependencies: ["4D1ECDAE09C06DD2"]
 			id: "1515BFC89913F463"
@@ -542,6 +549,7 @@
 			x: -1.0d
 			y: 3.5d
 			shape: "rsquare"
+			subtitle: "Creative Power Source (Draconic)"
 			description: ["Right Click on the creative Power source for changed the OP/Tick!"]
 			dependencies: ["30EA1176B595FD77"]
 			id: "44DEECCAFCAF373A"
@@ -562,6 +570,7 @@
 			x: -3.0d
 			y: 2.5d
 			shape: "rsquare"
+			subtitle: "Create Creative Tank"
 			dependencies: ["26D982570310A903"]
 			id: "4D1ECDAE09C06DD2"
 			tasks: [{
@@ -576,7 +585,7 @@
 			}]
 		}
 		{
-			x: 1.0d
+			x: 2.0d
 			y: 2.5d
 			shape: "rsquare"
 			dependencies: ["42BD9191DEF296D5"]
@@ -600,7 +609,7 @@
 		}
 		{
 			x: 0.0d
-			y: 4.5d
+			y: 2.5d
 			shape: "rsquare"
 			subtitle: "Infinite Energy!"
 			dependencies: ["0ED1969C39483E9C"]
@@ -614,6 +623,25 @@
 				id: "6331D17594C8C558"
 				type: "item"
 				item: "kubejs:creative_ingot"
+				random_bonus: 3
+			}]
+		}
+		{
+			x: 2.0d
+			y: 1.5d
+			shape: "rsquare"
+			dependencies: ["42BD9191DEF296D5"]
+			id: "28FBE0205CEF3C20"
+			tasks: [{
+				id: "05C4A99210F7AE87"
+				type: "item"
+				item: "berseria_sky:creative_crystal_block"
+				count: 12L
+			}]
+			rewards: [{
+				id: "369C10619CC1EFCF"
+				type: "item"
+				item: "berseria_sky:crystal_creative"
 				random_bonus: 3
 			}]
 		}

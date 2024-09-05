@@ -1,4 +1,15 @@
 [
+
+    {
+        "type": "block",
+        "key": "kubejs:creative_block",
+        "rarity": "legendary",
+        "create": 500,
+        "maintain": 500,
+        "ticks": 800,
+        "worldgen": true,
+        "dimlet": true
+    },
     {
         "type": "block",
         "key": "berseria_sky:elinvonze_block",

@@ -1,5 +1,5 @@
 {
-    "name": "Advanced Induction Smelter",
+    "name": "§cAdvanced Induction Smelter",
     "appearance": {
       "block": "berseria_sky:machine/advanced_smelter_idle_model",
       "item": "berseria_sky:machine/advanced_smelter_idle_model",
@@ -63,7 +63,7 @@
       },
       { 
         "mode": "input",
-        "id": "upgrade",
+        "id": "augment",
         "type": "custommachinery:item",
         "variant": "custommachinery:upgrade",
         "filter": ["thermal:machine_speed_augment", "thermal_extra:advanced_machine_speed_augment"],
@@ -72,7 +72,7 @@
       },
       { 
         "mode": "input",
-        "id": "upgrade1",
+        "id": "component",
         "type": "custommachinery:item",
         "variant": "custommachinery:upgrade",
         "filter": ["thermal:upgrade_augment_1", "thermal:upgrade_augment_2","thermal:upgrade_augment_3","thermal_extra:dragon_integral_component"],
@@ -143,18 +143,24 @@
         "y": 43 
       },
       {
-        "type": "custommachinery:slot",
-        "id": "upgrade",
-        "texture": "berseria_sky:textures/gui/base_upgrade_slot.png",
-        "x": 28,
-        "y": 34
+        "texture": "berseria_sky:textures/gui/upgrade_slot.png",
+        "type": "custommachinery:texture",
+        "x": 175,
+        "y": 5  
       },
       {
         "type": "custommachinery:slot",
-        "id": "upgrade1",
-        "texture": "berseria_sky:textures/gui/base_upgrade_slot.png",
-        "x": 28,
-        "y": 52
+        "id": "augment",
+        "texture": "berseria_sky:textures/gui/speed_augment_slot.png",
+        "x": 178,
+        "y": 29
+      },
+      {
+        "type": "custommachinery:slot",
+        "id": "component",
+        "texture": "berseria_sky:textures/gui/component_slot.png",
+        "x": 178,
+        "y": 11
       },
       {
         "type": "custommachinery:progress",

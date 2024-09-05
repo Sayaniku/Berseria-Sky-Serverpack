@@ -8,6 +8,104 @@
 	subtitle: ["OP Mod!"]
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
+	images: [
+		{
+			x: 4.5d
+			y: -1.0d
+			width: 6.0d
+			height: 6.0d
+			rotation: 0.0d
+			image: "ftbquests:textures/quests/envi_void_miner_t1.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 10.0d
+			y: -1.0d
+			width: 6.0d
+			height: 6.0d
+			rotation: 0.0d
+			image: "ftbquests:textures/quests/envi_void_miner_t2.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 15.5d
+			y: -1.0d
+			width: 6.0d
+			height: 6.0d
+			rotation: 0.0d
+			image: "ftbquests:textures/quests/envi_void_miner_t3.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 21.0d
+			y: -1.0d
+			width: 6.0d
+			height: 6.0d
+			rotation: 0.0d
+			image: "ftbquests:textures/quests/envi_void_miner_t4.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 21.0d
+			y: 8.5d
+			width: 6.0d
+			height: 6.0d
+			rotation: 0.0d
+			image: "ftbquests:textures/quests/envi_void_miner_t5.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 15.5d
+			y: 8.5d
+			width: 6.0d
+			height: 6.0d
+			rotation: 0.0d
+			image: "ftbquests:textures/quests/envi_void_miner_t6.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 10.0d
+			y: 8.5d
+			width: 6.0d
+			height: 6.0d
+			rotation: 0.0d
+			image: "ftbquests:textures/quests/envi_void_miner_t7.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 4.5d
+			y: 8.5d
+			width: 6.0d
+			height: 6.0d
+			rotation: 0.0d
+			image: "ftbquests:textures/quests/envi_void_miner_t8.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+	]
 	quests: [
 		{
 			x: -1.0d
@@ -32,7 +130,7 @@
 		{
 			x: -1.0d
 			y: 0.5d
-			shape: "hexagon"
+			shape: "rsquare"
 			dependencies: ["312A9D50B21ABCA2"]
 			id: "303EAE1AD88F0971"
 			tasks: [{
@@ -66,8 +164,8 @@
 		}
 		{
 			x: 0.0d
-			y: 0.5d
-			shape: "hexagon"
+			y: 1.5d
+			shape: "rsquare"
 			dependencies: ["2E607C3B4D92B879"]
 			id: "79EA8605573C069D"
 			tasks: [{
@@ -83,9 +181,9 @@
 			}]
 		}
 		{
-			x: 0.0d
+			x: -2.0d
 			y: 1.5d
-			shape: "hexagon"
+			shape: "rsquare"
 			dependencies: ["2E607C3B4D92B879"]
 			id: "094E7A5E4F0F91DE"
 			tasks: [{
@@ -102,9 +200,9 @@
 			}]
 		}
 		{
-			x: -2.0d
+			x: 0.0d
 			y: 0.5d
-			shape: "hexagon"
+			shape: "rsquare"
 			dependencies: ["2E607C3B4D92B879"]
 			id: "105A9726696E9525"
 			tasks: [{
@@ -114,11 +212,13 @@
 			}]
 		}
 		{
-			x: -0.5d
-			y: 3.5d
-			shape: "hexagon"
+			x: 4.4d
+			y: -2.8d
+			shape: "rsquare"
 			description: ["Void Miner Tier 1!"]
-			dependencies: ["79028F395C4E26EF"]
+			hide_dependency_lines: true
+			dependencies: ["3AA2A56616F8836E"]
+			size: 0.8d
 			id: "596942528B9D484B"
 			tasks: [
 				{
@@ -175,11 +275,13 @@
 			}]
 		}
 		{
-			x: -0.5d
-			y: 4.5d
-			shape: "hexagon"
+			x: 10.0d
+			y: -2.8d
+			shape: "rsquare"
 			description: ["Void Miner Tier 2!"]
+			hide_dependency_lines: true
 			dependencies: ["596942528B9D484B"]
+			size: 0.8d
 			id: "6D1EC15FB3D138EB"
 			tasks: [
 				{
@@ -223,11 +325,13 @@
 			}]
 		}
 		{
-			x: -0.5d
-			y: 5.5d
-			shape: "hexagon"
+			x: 15.6d
+			y: -2.8d
+			shape: "rsquare"
 			description: ["Void Miner Tier 3!"]
+			hide_dependency_lines: true
 			dependencies: ["6D1EC15FB3D138EB"]
+			size: 0.8d
 			id: "683DE000D95C60B7"
 			tasks: [
 				{
@@ -271,11 +375,13 @@
 			}]
 		}
 		{
-			x: -0.5d
-			y: 6.5d
-			shape: "hexagon"
+			x: 21.0d
+			y: -2.75d
+			shape: "rsquare"
 			description: ["Void Miner Tier 4!"]
+			hide_dependency_lines: true
 			dependencies: ["683DE000D95C60B7"]
+			size: 0.8d
 			id: "5A303F002F7291D6"
 			tasks: [
 				{
@@ -322,13 +428,20 @@
 					count: 5L
 				}
 			]
+			rewards: [{
+				id: "217F6C0C90314720"
+				type: "item"
+				item: "envirocore:pladium"
+			}]
 		}
 		{
-			x: -0.5d
-			y: 7.5d
-			shape: "hexagon"
+			x: 21.0d
+			y: 6.75d
+			shape: "rsquare"
 			description: ["Void Miner Tier 5!"]
+			hide_dependency_lines: true
 			dependencies: ["5A303F002F7291D6"]
+			size: 0.8d
 			id: "7ADA6B2B555ACCD8"
 			tasks: [
 				{
@@ -382,11 +495,13 @@
 			}]
 		}
 		{
-			x: -0.5d
-			y: 8.5d
-			shape: "hexagon"
+			x: 15.6d
+			y: 6.8d
+			shape: "rsquare"
 			description: ["Void Miner Tier 6!"]
+			hide_dependency_lines: true
 			dependencies: ["7ADA6B2B555ACCD8"]
+			size: 0.8d
 			id: "0DE967FAA1DA764B"
 			tasks: [
 				{
@@ -430,11 +545,13 @@
 			}]
 		}
 		{
-			x: -0.5d
-			y: 9.5d
-			shape: "hexagon"
+			x: 10.0d
+			y: 6.8d
+			shape: "rsquare"
 			description: ["Void Miner Tier 7! (End Only)"]
+			hide_dependency_lines: true
 			dependencies: ["0DE967FAA1DA764B"]
+			size: 0.8d
 			id: "1CD93A53BADC1F40"
 			tasks: [
 				{
@@ -488,11 +605,13 @@
 			}]
 		}
 		{
-			x: -0.5d
-			y: 10.5d
-			shape: "hexagon"
+			x: 4.4d
+			y: 6.8d
+			shape: "rsquare"
 			description: ["Void Miner Tier 8! (End Dimension Only)"]
+			hide_dependency_lines: true
 			dependencies: ["1CD93A53BADC1F40"]
+			size: 0.8d
 			id: "60813843221A23D1"
 			tasks: [
 				{
@@ -546,9 +665,9 @@
 			}]
 		}
 		{
-			x: -1.5d
+			x: -0.5d
 			y: 3.5d
-			shape: "hexagon"
+			shape: "rsquare"
 			description: ["Solar Tier 1!"]
 			dependencies: ["79028F395C4E26EF"]
 			id: "591D4B76562049EF"
@@ -592,9 +711,9 @@
 			]
 		}
 		{
-			x: -1.5d
+			x: -0.5d
 			y: 4.5d
-			shape: "hexagon"
+			shape: "rsquare"
 			dependencies: ["591D4B76562049EF"]
 			id: "16CA3D72CBCF75B8"
 			tasks: [
@@ -634,8 +753,8 @@
 		}
 		{
 			x: -1.5d
-			y: 5.5d
-			shape: "hexagon"
+			y: 3.5d
+			shape: "rsquare"
 			dependencies: ["16CA3D72CBCF75B8"]
 			id: "39D4918FDD958951"
 			tasks: [
@@ -670,8 +789,8 @@
 		}
 		{
 			x: -1.5d
-			y: 6.5d
-			shape: "hexagon"
+			y: 4.5d
+			shape: "rsquare"
 			dependencies: ["39D4918FDD958951"]
 			id: "3484F9AA820F562F"
 			tasks: [
@@ -705,9 +824,9 @@
 			]
 		}
 		{
-			x: -1.5d
-			y: 7.5d
-			shape: "hexagon"
+			x: -0.5d
+			y: 5.5d
+			shape: "rsquare"
 			dependencies: ["3484F9AA820F562F"]
 			id: "038867E91D034FD5"
 			tasks: [
@@ -742,8 +861,8 @@
 		}
 		{
 			x: -1.5d
-			y: 8.5d
-			shape: "hexagon"
+			y: 5.5d
+			shape: "rsquare"
 			dependencies: ["038867E91D034FD5"]
 			id: "00F01DF821F0BA6B"
 			tasks: [
@@ -777,9 +896,9 @@
 			]
 		}
 		{
-			x: -1.5d
-			y: 9.5d
-			shape: "hexagon"
+			x: -0.5d
+			y: 6.5d
+			shape: "rsquare"
 			dependencies: ["00F01DF821F0BA6B"]
 			id: "6DC438F50A90B771"
 			tasks: [
@@ -813,9 +932,9 @@
 			]
 		}
 		{
-			x: -2.0d
-			y: 1.5d
-			shape: "hexagon"
+			x: -1.5d
+			y: 2.5d
+			shape: "rsquare"
 			dependencies: ["2E607C3B4D92B879"]
 			id: "7FF3604F69CE077E"
 			tasks: [{
@@ -832,8 +951,8 @@
 		}
 		{
 			x: -1.5d
-			y: 10.5d
-			shape: "hexagon"
+			y: 6.5d
+			shape: "rsquare"
 			dependencies: ["6DC438F50A90B771"]
 			id: "7139835B35EE67CF"
 			tasks: [
@@ -867,10 +986,13 @@
 			]
 		}
 		{
-			x: -1.0d
+			x: -0.5d
 			y: 2.5d
-			shape: "hexagon"
-			dependencies: ["2E607C3B4D92B879"]
+			shape: "rsquare"
+			dependencies: [
+				"2E607C3B4D92B879"
+				"3AA2A56616F8836E"
+			]
 			id: "79028F395C4E26EF"
 			tasks: [{
 				id: "69D994C1BBE1106B"
@@ -884,6 +1006,19 @@
 				item: "envirocore:litherite_wafer"
 				count: 10
 				random_bonus: 6
+			}]
+		}
+		{
+			x: -1.0d
+			y: -2.75d
+			shape: "octagon"
+			dependencies: ["312A9D50B21ABCA2"]
+			id: "3AA2A56616F8836E"
+			tasks: [{
+				id: "560C227544C10B78"
+				type: "item"
+				item: "envirocore:litherite"
+				count: 12L
 			}]
 		}
 	]

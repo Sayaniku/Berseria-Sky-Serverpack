@@ -5,8 +5,8 @@ onEvent('recipes', (event) => {
           {
               output: Item.of('createaddition:creative_energy'),
               itemInput: { ingredient: { item: 'create:creative_crate' } },
-              gasInput: { amount: 4000, gas: 'berseria_sky:creative' },
-              duration: 5000,
+              gasInput: { amount: 10000, gas: 'berseria_sky:creative' },
+              duration: 6000,
               id: `${id_prefix}creative_generator`
           }
         ]

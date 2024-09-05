@@ -43,9 +43,7 @@ onEvent('item.tooltip', tooltip => {
     tooltip.add('tconstruct:blood_slime_sapling', ['§4Use Bone Meal on Bloody Nylium'])
     tooltip.add('tconstruct:sky_slime_sapling', ['§4Spawn in Overworld (Dont Spawn In SkyBlock)'])
     tooltip.add('berseria_sky:heat_sand', ['§4Y:1-32'])
-    tooltip.addAdvanced(['berseria_sky:manronium_steel_augment'], (item, advanced, text) => {
-    text.add(1, Text.of('§6Improve base attributes. Other augments may be more effective as a result.'))
-    })
+    tooltip.add(['kubejs:insanium_crystal', 'kubejs:ornium_crystal', 'kubejs:lightium_crystal', 'kubejs:tornium_crystal'], ['§cDo not use in the Sequential Fabricator!'])
 
     //********************************Crystaux*****************************************/
     tooltip.addAdvanced(['kubejs:insanium_crystal'], (item, advanced, text) => {

@@ -8,6 +8,12 @@ onEvent('recipes', (event) => {
         output: 'berseria_sky:crystaltine_clump',
         id: `${id_prefix}crystaltine_clump`
       },
+      {
+        input: 'draconicevolution:small_chaos_frag',
+        extrainput: { gas: 'mekanism:oxygen', amount: 5 },
+        output: item.of('draconicevolution:small_chaos_frag',2),
+        id: `${id_prefix}small_chaos_frag_al`
+      }
     ];
 
     recipes.forEach((recipe) => {

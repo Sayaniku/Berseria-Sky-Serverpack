@@ -19,7 +19,7 @@
       }
     },
     "glutton": {
-      "spawn": true,
+      "spawn": false,
       "rate": 5,
       "biomes": [
         "#swamp",

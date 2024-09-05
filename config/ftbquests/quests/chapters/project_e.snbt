@@ -394,7 +394,7 @@
 			}]
 		}
 		{
-			x: 7.0d
+			x: 7.5d
 			y: -6.5d
 			shape: "hexagon"
 			dependencies: ["11D5BCDE5BBB8AE2"]
@@ -412,7 +412,7 @@
 			}]
 		}
 		{
-			x: 6.0d
+			x: 6.5d
 			y: -6.5d
 			shape: "hexagon"
 			dependencies: ["0CE521689794A6F2"]
@@ -430,7 +430,7 @@
 			}]
 		}
 		{
-			x: 7.0d
+			x: 7.5d
 			y: -5.5d
 			shape: "hexagon"
 			dependencies: ["13E17A8C08D22D18"]
@@ -448,7 +448,7 @@
 			}]
 		}
 		{
-			x: 6.0d
+			x: 6.5d
 			y: -5.5d
 			shape: "hexagon"
 			dependencies: ["6A621FE2499B30CB"]
@@ -466,7 +466,7 @@
 			}]
 		}
 		{
-			x: 7.0d
+			x: 7.5d
 			y: -4.5d
 			shape: "hexagon"
 			dependencies: ["7B59B0F7076DED50"]
@@ -484,7 +484,7 @@
 			}]
 		}
 		{
-			x: 6.0d
+			x: 6.5d
 			y: -4.5d
 			shape: "hexagon"
 			dependencies: ["63B188079507F029"]
@@ -502,7 +502,7 @@
 			}]
 		}
 		{
-			x: 7.0d
+			x: 7.5d
 			y: -3.5d
 			shape: "hexagon"
 			dependencies: ["3BC7DE4D74C65615"]
@@ -520,7 +520,7 @@
 			}]
 		}
 		{
-			x: 6.0d
+			x: 6.5d
 			y: -3.5d
 			shape: "hexagon"
 			dependencies: ["04964052973E3FCD"]
@@ -538,7 +538,7 @@
 			}]
 		}
 		{
-			x: 7.0d
+			x: 7.5d
 			y: -2.5d
 			shape: "hexagon"
 			dependencies: ["5012ED7AE0A16A1D"]
@@ -556,7 +556,7 @@
 			}]
 		}
 		{
-			x: 6.0d
+			x: 6.5d
 			y: -2.5d
 			shape: "hexagon"
 			dependencies: ["07DC7861F17BF6CB"]
@@ -574,7 +574,7 @@
 			}]
 		}
 		{
-			x: 7.0d
+			x: 7.5d
 			y: -1.5d
 			shape: "hexagon"
 			dependencies: ["6B2429771B851F0A"]
@@ -592,7 +592,7 @@
 			}]
 		}
 		{
-			x: 6.0d
+			x: 6.5d
 			y: -1.5d
 			shape: "hexagon"
 			dependencies: ["6CF5EC071B02BAD5"]
@@ -610,7 +610,7 @@
 			}]
 		}
 		{
-			x: 7.0d
+			x: 7.5d
 			y: -0.5d
 			shape: "hexagon"
 			dependencies: ["544B26F7929FFBC5"]
@@ -628,7 +628,7 @@
 			}]
 		}
 		{
-			x: 6.0d
+			x: 6.5d
 			y: -0.5d
 			shape: "hexagon"
 			dependencies: ["6B41DBA2FFA027E6"]
@@ -645,7 +645,7 @@
 			}]
 		}
 		{
-			x: 7.0d
+			x: 7.5d
 			y: 0.5d
 			shape: "hexagon"
 			dependencies: ["6237ABCB9687D7C9"]
@@ -658,8 +658,8 @@
 			}]
 		}
 		{
-			x: 8.0d
-			y: 0.5d
+			x: 8.5d
+			y: 0.0d
 			shape: "hexagon"
 			dependencies: ["1080B83F52A27EE3"]
 			id: "520CEA8B73D95544"
@@ -670,7 +670,7 @@
 			}]
 		}
 		{
-			x: 6.0d
+			x: 6.5d
 			y: 0.5d
 			shape: "octagon"
 			dependencies: ["66D8BEEFE09B600C"]

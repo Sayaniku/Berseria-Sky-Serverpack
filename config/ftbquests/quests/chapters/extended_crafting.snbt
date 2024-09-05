@@ -3091,9 +3091,9 @@
 				count: 64L
 			}]
 			rewards: [{
-				id: "2DF4F19EA5F8EB18"
+				id: "5CB7710504C637FF"
 				type: "item"
-				item: "extendedcrafting:the_ultimate_ingot"
+				item: "extendedcrafting:the_ultimate_block"
 			}]
 		}
 		{
@@ -3143,6 +3143,11 @@
 				type: "item"
 				item: "kubejs:ultimate_gear"
 				count: 64L
+			}]
+			rewards: [{
+				id: "0A5C6A7162CDA5D9"
+				type: "item"
+				item: "kubejs:ultimate_gear"
 			}]
 		}
 		{
@@ -3250,6 +3255,7 @@
 			x: 12.0d
 			y: 8.5d
 			shape: "rsquare"
+			description: ["Powerfull armor u are invincible!"]
 			dependencies: ["67B797D10E4E8D71"]
 			id: "1F61A7DAE503572B"
 			tasks: [
@@ -3306,6 +3312,8 @@
 				id: "38139FE1075DEF69"
 				type: "item"
 				item: "endless:infinity_block"
+				count: 12
+				random_bonus: 12
 			}]
 		}
 		{
@@ -3534,6 +3542,7 @@
 				id: "6516F33EB4984B8A"
 				type: "item"
 				item: "endless:infinity_block"
+				random_bonus: 3
 			}]
 		}
 		{
@@ -4454,8 +4463,8 @@
 			]
 		}
 		{
-			x: 5.5d
-			y: 2.5d
+			x: 6.5d
+			y: 1.5d
 			shape: "rsquare"
 			dependencies: ["36B4C777CB2E5FAC"]
 			id: "268703D919964384"
@@ -4507,6 +4516,167 @@
 				id: "2B5B0CA6522F27B9"
 				type: "item"
 				item: "extendedcrafting:black_iron_block"
+			}]
+		}
+		{
+			x: -6.0d
+			y: -1.5d
+			shape: "rsquare"
+			subtitle: "Beta Testeur"
+			hide_dependency_lines: false
+			dependencies: ["1575367374FAE8D3"]
+			hide: true
+			id: "1E9CA9BB64B5F872"
+			tasks: [{
+				id: "5809976198723E0D"
+				type: "item"
+				item: "berseria_sky:sayaniku_ingot"
+				count: 64L
+			}]
+		}
+		{
+			x: -5.0d
+			y: -1.5d
+			shape: "rsquare"
+			subtitle: "Beta Testeur"
+			dependencies: ["1575367374FAE8D3"]
+			hide: true
+			id: "1AF6E0AE6557CFD1"
+			tasks: [{
+				id: "21888B1410AA6B16"
+				type: "item"
+				item: "berseria_sky:drimoz_ingot"
+				count: 64L
+			}]
+		}
+		{
+			x: -4.0d
+			y: -1.5d
+			shape: "rsquare"
+			subtitle: "Beta Testeur"
+			dependencies: ["1575367374FAE8D3"]
+			hide: true
+			id: "28008B63589923D8"
+			tasks: [{
+				id: "172D685E058F7D25"
+				type: "item"
+				item: "berseria_sky:reps_ingot"
+				count: 64L
+			}]
+		}
+		{
+			x: -4.0d
+			y: -2.5d
+			shape: "rsquare"
+			subtitle: "Beta Testeur"
+			dependencies: ["1575367374FAE8D3"]
+			hide: true
+			id: "5ACCAADC6C986529"
+			tasks: [{
+				id: "502948F765E3A915"
+				type: "item"
+				item: "berseria_sky:myraft_ingot"
+				count: 64L
+			}]
+		}
+		{
+			x: -5.0d
+			y: -2.5d
+			shape: "rsquare"
+			subtitle: "Beta Testeur and Friend!"
+			dependencies: ["1575367374FAE8D3"]
+			hide: true
+			id: "108555F25B8B6E28"
+			tasks: [{
+				id: "098B98376214B6B0"
+				type: "item"
+				item: "berseria_sky:coks_ingot"
+				count: 64L
+			}]
+		}
+		{
+			x: -6.0d
+			y: -2.5d
+			shape: "rsquare"
+			subtitle: "Beta Testeur and Streameur!"
+			dependencies: ["1575367374FAE8D3"]
+			hide: true
+			id: "7332E0D360E19DA1"
+			tasks: [{
+				id: "791FFD3C8B944F7A"
+				type: "item"
+				item: "berseria_sky:mldeg_ingot"
+				count: 64L
+			}]
+		}
+		{
+			x: -5.5d
+			y: -3.5d
+			shape: "rsquare"
+			subtitle: "Beta Testeur and Good Friend!"
+			dependencies: ["1575367374FAE8D3"]
+			hide: true
+			id: "2091B082D5CA5988"
+			tasks: [{
+				id: "6AD53CA9171735E3"
+				type: "item"
+				item: "berseria_sky:clauclau_ingot"
+				count: 64L
+			}]
+		}
+		{
+			x: -4.5d
+			y: -3.5d
+			shape: "rsquare"
+			subtitle: "Beta Testeur"
+			dependencies: ["1575367374FAE8D3"]
+			hide: true
+			id: "56516277F76260BA"
+			tasks: [{
+				id: "2701F95B3F23FD90"
+				type: "item"
+				item: "berseria_sky:beyond_kev_ingot"
+				count: 64L
+			}]
+		}
+		{
+			x: -6.5d
+			y: 0.0d
+			shape: "octagon"
+			subtitle: "Creating the Modpack!"
+			dependencies: ["1575367374FAE8D3"]
+			hide: true
+			secret: true
+			id: "7146494255215D05"
+			tasks: [{
+				id: "00475E19252B021F"
+				type: "item"
+				item: "berseria_sky:velvetcrowe_ingot"
+				count: 64L
+			}]
+		}
+		{
+			x: 4.5d
+			y: 2.5d
+			shape: "rsquare"
+			dependencies: ["15BEF47132E394AC"]
+			id: "555DED8DC04CC345"
+			tasks: [{
+				id: "2F25406BA34D0961"
+				type: "item"
+				item: "berseria_sky:sun_speed_1"
+			}]
+		}
+		{
+			x: 3.5d
+			y: 2.5d
+			shape: "rsquare"
+			dependencies: ["555DED8DC04CC345"]
+			id: "507A70ADE4FC9A51"
+			tasks: [{
+				id: "179ACD620037D219"
+				type: "item"
+				item: "berseria_sky:sun_speed_2"
 			}]
 		}
 	]

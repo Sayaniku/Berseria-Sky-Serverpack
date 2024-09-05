@@ -20,16 +20,34 @@
       }    
    },
 "components": [ 
-    {
-    "type": "custommachinery:fluid",
-    "mode": "output",
-    "capacity": 10000,
-    "id": "sunny",
-    "maxInput": 1000,
-    "maxOutput":1000,
-    "filter": ["kubejs:molten_sunny"],
-    "whitelist" : true
-    }
+        {
+         "type": "custommachinery:fluid",
+         "mode": "output",
+         "capacity": 10000,
+         "id": "sunny",
+         "maxInput": 1000,
+         "maxOutput":1000,
+         "filter": ["kubejs:molten_sunny"],
+         "whitelist" : true
+        },
+        { 
+        "mode": "input",
+        "id": "speed1",
+        "type": "custommachinery:item",
+        "variant": "custommachinery:upgrade",
+        "filter": ["berseria_sky:sun_speed_1"],
+        "whitelist": true,
+        "capacity": 1
+       },
+       { 
+        "mode": "input",
+        "id": "speed2",
+        "type": "custommachinery:item",
+        "variant": "custommachinery:upgrade",
+        "filter": ["berseria_sky:sun_speed_2"],
+        "whitelist": true,
+        "capacity": 1
+       }
      ],
    "gui": [
        {
@@ -51,11 +69,34 @@
         "y": 30  
        },
        {
+        "texture": "berseria_sky:textures/gui/upgrade_slot.png",
+        "type": "custommachinery:texture",
+        "x": 175,
+        "y": 5  
+       },
+       {
+        "type": "custommachinery:slot",
+        "item": "berseria_sky:sun_speed_1",
+        "id": "speed1",
+        "texture": "berseria_sky:textures/gui/base_slot.png",
+        "x": 178,
+        "y": 11
+       },
+       {
+        "type": "custommachinery:slot",
+        "item": "berseria_sky:sun_speed_2",
+        "id": "speed2",
+        "texture": "berseria_sky:textures/gui/base_slot.png",
+        "x": 178,
+        "y": 29
+       },
+       {
          "type": "custommachinery:progress",
-         "emptyTexture": "berseria_sky:textures/gui/sc_progress_empty.png",
+         "direction": "bottom",
+         "emptyTexture": "berseria_sky:textures/gui/c_progress_empty.png",
          "filledTexture": "berseria_sky:textures/gui/sc_progress_full.png",
          "x": 70,
-         "y": 39 
+         "y": 22
        },
        {
          "type": "custommachinery:status",
@@ -77,14 +118,16 @@
           "type": "custommachinery:fluid",
           "id": "sunny",
           "x": 79,
-          "y": 38  
+          "y": 30  
         },
         {
           "type": "custommachinery:progress",
-          "emptyTexture": "berseria_sky:textures/gui/sc_progress_empty.png",
+          "direction": "bottom",
+          "emptyTexture": "berseria_sky:textures/gui/c_progress_empty.png",
           "filledTexture": "berseria_sky:textures/gui/sc_progress_full.png",
-          "x": 52,
-          "y": 39 
+          "height": 20,
+          "x": 70,
+          "y": 27
         }
      ]
 

@@ -9,34 +9,6 @@ onEvent('recipes', (e) => {
             id: `${id_prefix}from_brass_dust`
            },
            {
-            input: { ingredient: { tag: 'forge:storage_blocks/raw_ardite' }},
-            output:   'kubejs:ardite_block' ,
-            experience: 2, 
-            cookingtime: 600,
-            id: `${id_prefix}from_raw_ardite_ore`
-           },
-           {
-            input: { ingredient: { tag: 'forge:ores/ardite' }},
-            output:   'kubejs:ardite_ingot' ,
-            experience: 0.5, 
-            cookingtime: 200,
-            id: `${id_prefix}from_ardite_ore`
-           },
-           {
-            input: { ingredient: { tag: 'crushed:ore/ardite' }},
-            output:   'kubejs:ardite_ingot' ,
-            experience: 0.1, 
-            cookingtime: 200,
-            id: `${id_prefix}from_crushed_ardite_ore`
-           },
-           {
-            input: { ingredient: { tag: 'forge:dusts/ardite' }},
-            output:   'kubejs:ardite_ingot' ,
-            experience: 0, 
-            cookingtime: 200,
-            id: `${id_prefix}from_ardite_dust`
-           },
-           {
             input: { ingredient: { tag: 'forge:ores/cobalt' }},
             output:   'tconstruct:cobalt_ingot' ,
             experience: 0.5, 

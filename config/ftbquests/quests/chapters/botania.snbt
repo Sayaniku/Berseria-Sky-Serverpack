@@ -8,11 +8,37 @@
 	subtitle: ["Here We Go Again!"]
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
+	images: [
+		{
+			x: -0.5d
+			y: -2.0d
+			width: 22.0d
+			height: 2.5d
+			rotation: 0.0d
+			image: "ftbquests:textures/quests/botania_functioal.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -0.5d
+			y: 7.0d
+			width: 22.0d
+			height: 1.3d
+			rotation: 0.0d
+			image: "ftbquests:textures/quests/botania_generating.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+	]
 	quests: [
 		{
-			x: 0.0d
-			y: -1.0d
-			shape: "hexagon"
+			x: -8.5d
+			y: 2.0d
+			shape: "rsquare"
 			dependencies: ["29234D3841E4F84D"]
 			id: "0AC2C2C0D511F042"
 			tasks: [{
@@ -31,14 +57,10 @@
 			}]
 		}
 		{
-			x: 0.0d
-			y: 4.0d
+			x: -4.0d
+			y: 2.0d
 			shape: "hexagon"
-			dependencies: [
-				"4EE5F4ED3D0C3B3C"
-				"0AB137E32B5A190A"
-				"4D131DF947AC7605"
-			]
+			dependencies: ["0AB137E32B5A190A"]
 			id: "39AC7974C6311209"
 			tasks: [{
 				id: "0D00600EA080A68E"
@@ -52,8 +74,8 @@
 			}]
 		}
 		{
-			x: 0.0d
-			y: -2.0d
+			x: -7.5d
+			y: 2.0d
 			shape: "gear"
 			description: ["Craft 10 Flora Fertilizer!"]
 			dependencies: ["6551EE8DED3F72FC"]
@@ -71,8 +93,8 @@
 			}]
 		}
 		{
-			x: 0.0d
-			y: 5.0d
+			x: -4.0d
+			y: 3.5d
 			shape: "hexagon"
 			dependencies: ["39AC7974C6311209"]
 			id: "12032DF057F08869"
@@ -96,22 +118,10 @@
 			]
 		}
 		{
-			x: 0.0d
-			y: 2.5d
-			shape: "hexagon"
-			dependencies: ["7539C12C635F9E03"]
-			id: "4EE5F4ED3D0C3B3C"
-			tasks: [{
-				id: "18D493BEF8887CD4"
-				type: "item"
-				item: "botania:endoflame"
-			}]
-		}
-		{
-			x: 0.0d
-			y: 1.0d
-			shape: "hexagon"
-			dependencies: ["0AC2C2C0D511F042"]
+			x: -6.5d
+			y: 2.0d
+			shape: "rsquare"
+			dependencies: ["29234D3841E4F84D"]
 			id: "7539C12C635F9E03"
 			tasks: [{
 				id: "338085E7BF0D151E"
@@ -126,9 +136,9 @@
 			}]
 		}
 		{
-			x: 1.0d
-			y: 1.0d
-			shape: "hexagon"
+			x: -6.5d
+			y: 3.0d
+			shape: "rsquare"
 			dependencies: [
 				"7539C12C635F9E03"
 				"62729870DEBC48CC"
@@ -141,7 +151,7 @@
 			}]
 		}
 		{
-			x: 1.0d
+			x: -5.5d
 			y: 2.5d
 			shape: "hexagon"
 			dependencies: ["3B54349C0C219749"]
@@ -161,8 +171,8 @@
 			}]
 		}
 		{
-			x: 2.0d
-			y: 2.5d
+			x: -5.5d
+			y: 3.5d
 			shape: "hexagon"
 			dependencies: ["3B54349C0C219749"]
 			id: "3B73F70A7E8911F1"
@@ -174,8 +184,8 @@
 			}]
 		}
 		{
-			x: 2.0d
-			y: 3.5d
+			x: -3.0d
+			y: 2.5d
 			shape: "hexagon"
 			dependencies: ["3B73F70A7E8911F1"]
 			id: "4D131DF947AC7605"
@@ -186,9 +196,9 @@
 			}]
 		}
 		{
-			x: 0.0d
-			y: 7.0d
-			shape: "hexagon"
+			x: -3.0d
+			y: 4.5d
+			shape: "rsquare"
 			dependencies: ["12032DF057F08869"]
 			id: "40B85536123F1FEA"
 			tasks: [{
@@ -199,7 +209,7 @@
 		}
 		{
 			x: 0.0d
-			y: 9.0d
+			y: 4.5d
 			shape: "hexagon"
 			dependencies: ["3E062A4275DA0484"]
 			id: "263954F8BAB582EC"
@@ -215,8 +225,8 @@
 			}]
 		}
 		{
-			x: 0.0d
-			y: 8.0d
+			x: -1.5d
+			y: 4.5d
 			shape: "hexagon"
 			dependencies: ["40B85536123F1FEA"]
 			id: "3E062A4275DA0484"
@@ -241,9 +251,9 @@
 			]
 		}
 		{
-			x: 1.0d
-			y: -1.0d
-			shape: "hexagon"
+			x: -7.5d
+			y: 3.0d
+			shape: "rsquare"
 			dependencies: ["29234D3841E4F84D"]
 			id: "75B85A42D91B29AE"
 			tasks: [
@@ -290,9 +300,9 @@
 			]
 		}
 		{
-			x: 2.0d
-			y: -1.0d
-			shape: "hexagon"
+			x: -8.5d
+			y: 3.0d
+			shape: "rsquare"
 			dependencies: ["29234D3841E4F84D"]
 			id: "0B75B22C951A25F6"
 			tasks: [
@@ -339,8 +349,8 @@
 			]
 		}
 		{
-			x: 1.0d
-			y: 0.0d
+			x: -7.0d
+			y: 4.0d
 			shape: "octagon"
 			dependencies: ["75B85A42D91B29AE"]
 			id: "62729870DEBC48CC"
@@ -396,8 +406,8 @@
 			]
 		}
 		{
-			x: 2.0d
-			y: 0.0d
+			x: -8.0d
+			y: 4.0d
 			shape: "octagon"
 			dependencies: ["0B75B22C951A25F6"]
 			id: "00ACA4FCC2573D38"
@@ -453,54 +463,23 @@
 			]
 		}
 		{
-			x: 2.0d
-			y: 1.0d
-			shape: "hexagon"
-			dependencies: [
-				"62729870DEBC48CC"
-				"00ACA4FCC2573D38"
-				"7539C12C635F9E03"
-			]
-			id: "3230CC5E5B9D07C0"
-			tasks: [
-				{
-					id: "4C05B750FE6EAEAF"
-					type: "item"
-					item: "botania:hydroangeas"
-				}
-				{
-					id: "34C3105A3BB5D5BE"
-					type: "item"
-					item: "botania:kekimurus"
-				}
-				{
-					id: "604E192FEF662D29"
-					type: "item"
-					item: "botania:orechid"
-				}
-				{
-					id: "76057A7AA1DC21AA"
-					type: "item"
-					item: "botania:orechid_ignem"
-				}
-			]
-		}
-		{
-			x: -2.5d
-			y: 5.0d
-			shape: "hexagon"
+			x: 3.0d
+			y: 4.5d
+			shape: "rsquare"
+			hide_dependency_lines: true
 			dependencies: ["12032DF057F08869"]
 			id: "24BB2EB5E5D016D0"
 			tasks: [{
 				id: "4E8BE8EDDB610F63"
 				type: "item"
 				item: "botania:mana_pylon"
+				count: 4L
 			}]
 		}
 		{
-			x: -2.5d
-			y: 9.0d
-			shape: "hexagon"
+			x: 5.0d
+			y: 4.5d
+			shape: "rsquare"
 			dependencies: [
 				"263954F8BAB582EC"
 				"24BB2EB5E5D016D0"
@@ -513,9 +492,9 @@
 			}]
 		}
 		{
-			x: -1.0d
-			y: 5.0d
-			shape: "hexagon"
+			x: -5.0d
+			y: 4.5d
+			shape: "rsquare"
 			dependencies: ["12032DF057F08869"]
 			id: "1C76E888DC720A78"
 			tasks: [{
@@ -525,8 +504,8 @@
 			}]
 		}
 		{
-			x: -1.0d
-			y: 4.0d
+			x: -1.5d
+			y: 2.0d
 			shape: "hexagon"
 			dependencies: ["39AC7974C6311209"]
 			id: "7952F1E807C8CFCB"
@@ -543,8 +522,8 @@
 			}]
 		}
 		{
-			x: -2.5d
-			y: 4.0d
+			x: 0.0d
+			y: 2.0d
 			shape: "hexagon"
 			dependencies: ["7952F1E807C8CFCB"]
 			id: "0413D3832916FA0E"
@@ -556,9 +535,9 @@
 			}]
 		}
 		{
-			x: -2.5d
-			y: 3.0d
-			shape: "hexagon"
+			x: 0.0d
+			y: 1.0d
+			shape: "rsquare"
 			description: ["Give Sunflower for stop Rain!"]
 			dependencies: ["0413D3832916FA0E"]
 			id: "7C46210A1E078837"
@@ -574,9 +553,10 @@
 			}]
 		}
 		{
-			x: 3.0d
-			y: 2.5d
+			x: 4.0d
+			y: 1.0d
 			shape: "hexagon"
+			hide_dependency_lines: true
 			dependencies: ["3B73F70A7E8911F1"]
 			id: "26A092980EAFE657"
 			tasks: [
@@ -594,31 +574,23 @@
 			]
 		}
 		{
-			x: 3.5d
+			x: -3.0d
 			y: 3.5d
 			shape: "hexagon"
-			dependencies: ["26A092980EAFE657"]
+			dependencies: ["3B73F70A7E8911F1"]
 			id: "16CCF1469977EDE6"
-			tasks: [
-				{
-					id: "32546E33BD5C921A"
-					type: "item"
-					item: "botania:dreamwood"
-					count: 64L
-				}
-				{
-					id: "74B76BCC155142DB"
-					type: "item"
-					item: "botania:elementium_block"
-				}
-			]
+			tasks: [{
+				id: "32546E33BD5C921A"
+				type: "item"
+				item: "botania:dreamwood"
+				count: 64L
+			}]
 		}
 		{
-			x: -1.0d
-			y: 3.0d
-			shape: "hexagon"
-			hide_dependency_lines: true
-			dependencies: ["3E062A4275DA0484"]
+			x: -4.0d
+			y: 4.5d
+			shape: "rsquare"
+			dependencies: ["25AF52EEB9377E31"]
 			id: "2CC29E9C25A46902"
 			tasks: [{
 				id: "5E0FCAEF16D8BD72"
@@ -627,8 +599,8 @@
 			}]
 		}
 		{
-			x: 2.0d
-			y: 4.5d
+			x: -1.5d
+			y: 3.5d
 			shape: "hexagon"
 			dependencies: [
 				"16CCF1469977EDE6"
@@ -642,15 +614,11 @@
 			}]
 		}
 		{
-			x: 3.0d
-			y: 0.0d
-			shape: "hexagon"
+			x: -7.5d
+			y: 1.0d
+			shape: "rsquare"
 			description: ["upgrade Book!"]
-			hide_dependency_lines: true
-			dependencies: [
-				"26A092980EAFE657"
-				"0AC2C2C0D511F042"
-			]
+			dependencies: ["0AC2C2C0D511F042"]
 			id: "55C7EC73D2B84DF8"
 			tasks: [{
 				id: "524537083CFCE031"
@@ -665,9 +633,9 @@
 			}]
 		}
 		{
-			x: 0.0d
-			y: 11.0d
-			shape: "hexagon"
+			x: -1.5d
+			y: 5.5d
+			shape: "rsquare"
 			dependencies: ["3E062A4275DA0484"]
 			id: "3985A4E15EC7CC16"
 			tasks: [
@@ -697,9 +665,9 @@
 			}]
 		}
 		{
-			x: -4.5d
-			y: 9.0d
-			shape: "hexagon"
+			x: 6.0d
+			y: 4.5d
+			shape: "rsquare"
 			description: ["kill YourSelf!"]
 			dependencies: ["6A62995B7AADD6A4"]
 			id: "2F3340ABBAAE98D7"
@@ -718,9 +686,9 @@
 			}]
 		}
 		{
-			x: -4.5d
-			y: 11.0d
-			shape: "hexagon"
+			x: 5.0d
+			y: 5.5d
+			shape: "rsquare"
 			dependencies: ["7F0DA1103DD94ACE"]
 			id: "6A62995B7AADD6A4"
 			tasks: [{
@@ -730,9 +698,9 @@
 			}]
 		}
 		{
-			x: -1.0d
-			y: 11.0d
-			shape: "hexagon"
+			x: 1.5d
+			y: 5.5d
+			shape: "rsquare"
 			dependencies: ["3985A4E15EC7CC16"]
 			id: "209B2D3F3866C0CE"
 			tasks: [{
@@ -747,9 +715,9 @@
 			}]
 		}
 		{
-			x: -2.5d
-			y: 11.0d
-			shape: "hexagon"
+			x: 3.0d
+			y: 5.5d
+			shape: "rsquare"
 			dependencies: [
 				"209B2D3F3866C0CE"
 				"22D42E0EA0BE99F3"
@@ -762,9 +730,9 @@
 			}]
 		}
 		{
-			x: -4.5d
-			y: 7.0d
-			shape: "hexagon"
+			x: 7.0d
+			y: 4.5d
+			shape: "rsquare"
 			dependencies: ["2F3340ABBAAE98D7"]
 			id: "02E004DF9E82C731"
 			tasks: [{
@@ -778,13 +746,10 @@
 			}]
 		}
 		{
-			x: 3.5d
-			y: 5.5d
+			x: 0.0d
+			y: 3.5d
 			shape: "hexagon"
-			dependencies: [
-				"5CFB98AF24BB1B1F"
-				"51FA002E9AED0AD2"
-			]
+			dependencies: ["5CFB98AF24BB1B1F"]
 			id: "4E0125B2A8407FE6"
 			tasks: [{
 				id: "5AB33DD0EC40C813"
@@ -793,10 +758,10 @@
 			}]
 		}
 		{
-			x: 3.5d
-			y: 4.5d
+			x: -5.5d
+			y: 1.5d
 			shape: "hexagon"
-			dependencies: ["16CCF1469977EDE6"]
+			dependencies: ["0AB137E32B5A190A"]
 			id: "51FA002E9AED0AD2"
 			tasks: [{
 				id: "49A2A010CE86573C"
@@ -805,14 +770,10 @@
 			}]
 		}
 		{
-			x: 1.0d
-			y: 11.0d
+			x: -4.0d
+			y: 1.0d
 			shape: "hexagon"
-			hide_dependency_lines: true
-			dependencies: [
-				"39AC7974C6311209"
-				"51FA002E9AED0AD2"
-			]
+			dependencies: ["39AC7974C6311209"]
 			id: "6325E6410FE6684E"
 			tasks: [{
 				id: "1ADABDA1896AFB44"
@@ -821,9 +782,9 @@
 			}]
 		}
 		{
-			x: -3.5d
-			y: 7.0d
-			shape: "hexagon"
+			x: 6.5d
+			y: 5.5d
+			shape: "rsquare"
 			dependencies: ["02E004DF9E82C731"]
 			id: "6184A15558908BBC"
 			tasks: [
@@ -887,9 +848,9 @@
 			]
 		}
 		{
-			x: -1.0d
-			y: 7.0d
-			shape: "hexagon"
+			x: -4.0d
+			y: 5.5d
+			shape: "rsquare"
 			dependencies: ["40B85536123F1FEA"]
 			id: "25AF52EEB9377E31"
 			tasks: [
@@ -931,9 +892,9 @@
 			]
 		}
 		{
-			x: -1.0d
-			y: 8.0d
-			shape: "hexagon"
+			x: -3.0d
+			y: 5.5d
+			shape: "rsquare"
 			dependencies: ["25AF52EEB9377E31"]
 			id: "426059113031ACCF"
 			tasks: [
@@ -985,13 +946,10 @@
 			]
 		}
 		{
-			x: -1.0d
-			y: 0.0d
+			x: 2.5d
+			y: 2.5d
 			shape: "hexagon"
-			dependencies: [
-				"12032DF057F08869"
-				"51CD530517581DA4"
-			]
+			dependencies: ["51CD530517581DA4"]
 			id: "7AB11992B25C3879"
 			tasks: [
 				{
@@ -1041,8 +999,8 @@
 			]
 		}
 		{
-			x: -2.0d
-			y: 0.0d
+			x: 2.5d
+			y: 3.5d
 			shape: "hexagon"
 			hide_dependency_lines: true
 			dependencies: ["12032DF057F08869"]
@@ -1095,8 +1053,8 @@
 			]
 		}
 		{
-			x: -1.0d
-			y: 2.0d
+			x: 4.5d
+			y: 2.5d
 			shape: "hexagon"
 			hide_dependency_lines: true
 			dependencies: ["6798B16AF28D324F"]
@@ -1149,8 +1107,8 @@
 			]
 		}
 		{
-			x: -2.0d
-			y: 2.0d
+			x: 4.5d
+			y: 3.5d
 			shape: "hexagon"
 			hide_dependency_lines: true
 			dependencies: ["21378E92E5AFF54D"]
@@ -1193,9 +1151,9 @@
 			]
 		}
 		{
-			x: -3.5d
-			y: 9.0d
-			shape: "hexagon"
+			x: 6.5d
+			y: 3.5d
+			shape: "rsquare"
 			dependencies: ["2F3340ABBAAE98D7"]
 			id: "05DE67C9A48C88AF"
 			tasks: [{
@@ -1212,10 +1170,9 @@
 			}]
 		}
 		{
-			x: -1.0d
-			y: -1.0d
+			x: 1.5d
+			y: 2.5d
 			shape: "hexagon"
-			hide_dependency_lines: true
 			dependencies: ["0413D3832916FA0E"]
 			id: "51CD530517581DA4"
 			tasks: [
@@ -1272,10 +1229,9 @@
 			]
 		}
 		{
-			x: -1.0d
-			y: 1.0d
+			x: 3.5d
+			y: 2.5d
 			shape: "hexagon"
-			hide_dependency_lines: true
 			dependencies: [
 				"7AB11992B25C3879"
 				"22368AFEA648CC33"
@@ -1335,8 +1291,8 @@
 			]
 		}
 		{
-			x: -2.0d
-			y: 1.0d
+			x: 3.5d
+			y: 3.5d
 			shape: "hexagon"
 			hide_dependency_lines: true
 			dependencies: ["4E182828803A2B8D"]
@@ -1400,9 +1356,10 @@
 			]
 		}
 		{
-			x: 0.0d
-			y: 6.0d
-			dependencies: ["39AC7974C6311209"]
+			x: 3.0d
+			y: 1.0d
+			shape: "rsquare"
+			dependencies: ["26A092980EAFE657"]
 			id: "22368AFEA648CC33"
 			tasks: [
 				{
@@ -1424,8 +1381,8 @@
 			]
 		}
 		{
-			x: -1.0d
-			y: 10.0d
+			x: 0.0d
+			y: 5.5d
 			shape: "hexagon"
 			dependencies: ["209B2D3F3866C0CE"]
 			id: "53F2E13072137FC7"
@@ -1436,8 +1393,8 @@
 			}]
 		}
 		{
-			x: -3.0d
-			y: 2.0d
+			x: 5.5d
+			y: 3.5d
 			shape: "hexagon"
 			hide_dependency_lines: true
 			dependencies: [
@@ -1481,10 +1438,16 @@
 					}
 				}
 			]
+			rewards: [{
+				id: "30F01EE19ACCB4A6"
+				type: "item"
+				item: "mythicbotany:alfsteel_ingot"
+				random_bonus: 3
+			}]
 		}
 		{
-			x: -3.0d
-			y: 1.0d
+			x: 5.5d
+			y: 2.5d
 			shape: "hexagon"
 			hide_dependency_lines: true
 			dependencies: [
@@ -1544,10 +1507,15 @@
 					}
 				}
 			]
+			rewards: [{
+				id: "4BCE86AE27D9C4E6"
+				type: "item"
+				item: "mythicbotany:alfsteel_block"
+			}]
 		}
 		{
-			x: 4.5d
-			y: 3.5d
+			x: 5.0d
+			y: 1.0d
 			shape: "hexagon"
 			description: ["Craft Mead of Kvasir, for have acess to Alfheim dimension!"]
 			dependencies: ["6E4D19D0C6678FE9"]
@@ -1559,8 +1527,8 @@
 			}]
 		}
 		{
-			x: 5.5d
-			y: 3.5d
+			x: 6.0d
+			y: 0.0d
 			shape: "hexagon"
 			dependencies: ["1221C65AAF61BAD1"]
 			id: "70732AEC6250F720"
@@ -1571,8 +1539,8 @@
 			}]
 		}
 		{
-			x: 6.5d
-			y: 3.5d
+			x: 6.0d
+			y: 1.0d
 			shape: "hexagon"
 			dependencies: ["70732AEC6250F720"]
 			id: "5265CCF1F08F6B75"
@@ -1584,23 +1552,11 @@
 			}]
 		}
 		{
-			x: 6.5d
-			y: 2.5d
-			shape: "hexagon"
-			description: ["Can transform Stone to Metaphortic!"]
-			dependencies: ["5265CCF1F08F6B75"]
-			id: "3879106F14D020A3"
-			tasks: [{
-				id: "17382519559E1672"
-				type: "item"
-				item: "botania:marimorphosis"
-			}]
-		}
-		{
-			x: 6.5d
-			y: 1.5d
-			shape: "hexagon"
-			dependencies: ["3879106F14D020A3"]
+			x: 3.0d
+			y: 0.0d
+			shape: "rsquare"
+			hide_dependency_lines: true
+			dependencies: ["25C1023B44CD9452"]
 			id: "144FA697CB053008"
 			tasks: [
 				{
@@ -1654,8 +1610,8 @@
 			]
 		}
 		{
-			x: 7.5d
-			y: 3.5d
+			x: 7.0d
+			y: 0.5d
 			shape: "hexagon"
 			description: ["Craft Zeal Lighter!"]
 			dependencies: ["5265CCF1F08F6B75"]
@@ -1679,7 +1635,7 @@
 		}
 		{
 			x: 4.0d
-			y: 2.5d
+			y: 0.0d
 			shape: "hexagon"
 			dependencies: ["26A092980EAFE657"]
 			id: "66F58AC9F0B7E274"
@@ -1704,7 +1660,7 @@
 		}
 		{
 			x: 5.0d
-			y: 2.5d
+			y: 0.0d
 			shape: "hexagon"
 			dependencies: ["66F58AC9F0B7E274"]
 			id: "6E4D19D0C6678FE9"
@@ -1712,6 +1668,532 @@
 				id: "070239DB4D73CE03"
 				type: "item"
 				item: "mythicbotany:kvasir_blood"
+			}]
+		}
+		{
+			x: -4.0d
+			y: -2.5d
+			shape: "rsquare"
+			hide_dependency_lines: true
+			dependencies: ["7539C12C635F9E03"]
+			id: "4DFF5942E4378673"
+			tasks: [{
+				id: "2A4884783D8056CB"
+				type: "item"
+				item: "botania:bellethorn"
+			}]
+		}
+		{
+			x: -4.0d
+			y: -1.5d
+			shape: "rsquare"
+			hide_dependency_lines: true
+			dependencies: ["7539C12C635F9E03"]
+			id: "3A34FBBEC35CC728"
+			tasks: [{
+				id: "2DF7F2EF6A594905"
+				type: "item"
+				item: "botania:dreadthorn"
+			}]
+		}
+		{
+			x: -3.0d
+			y: -2.5d
+			shape: "rsquare"
+			hide_dependency_lines: true
+			dependencies: ["7539C12C635F9E03"]
+			id: "13A1D45B9A4A74D3"
+			tasks: [{
+				id: "32C34A012E7380AB"
+				type: "item"
+				item: "botania:heisei_dream"
+			}]
+		}
+		{
+			x: -3.0d
+			y: -1.5d
+			shape: "rsquare"
+			hide_dependency_lines: true
+			dependencies: ["7539C12C635F9E03"]
+			id: "24BF14B2A2760081"
+			tasks: [{
+				id: "76F633E0A29C4728"
+				type: "item"
+				item: "botania:tigerseye"
+			}]
+		}
+		{
+			x: -2.0d
+			y: -2.5d
+			shape: "rsquare"
+			hide_dependency_lines: true
+			dependencies: ["7539C12C635F9E03"]
+			id: "6645E13E8828E4C1"
+			tasks: [{
+				id: "03053B067D41C6A5"
+				type: "item"
+				item: "botania:jaded_amaranthus"
+			}]
+		}
+		{
+			x: -2.0d
+			y: -1.5d
+			shape: "rsquare"
+			hide_dependency_lines: true
+			dependencies: ["7539C12C635F9E03"]
+			id: "0F3A32BC95079057"
+			tasks: [{
+				id: "6C8B4AC8AFEEED84"
+				type: "item"
+				item: "botania:orechid"
+			}]
+		}
+		{
+			x: -1.0d
+			y: -1.5d
+			shape: "rsquare"
+			hide_dependency_lines: true
+			dependencies: ["7539C12C635F9E03"]
+			id: "0D0DCBEFB3254780"
+			tasks: [{
+				id: "1F90656CC47925C3"
+				type: "item"
+				item: "botania:orechid_ignem"
+			}]
+		}
+		{
+			x: -1.0d
+			y: -2.5d
+			shape: "rsquare"
+			hide_dependency_lines: true
+			dependencies: ["7539C12C635F9E03"]
+			id: "5A0B59871107786D"
+			tasks: [{
+				id: "12FD534EE28693F8"
+				type: "item"
+				item: "botania:fallen_kanade"
+			}]
+		}
+		{
+			x: 0.0d
+			y: -2.5d
+			shape: "rsquare"
+			hide_dependency_lines: true
+			dependencies: ["7539C12C635F9E03"]
+			id: "37A44BB2228F18C2"
+			tasks: [{
+				id: "4C3F93F7AE6FF7E1"
+				type: "item"
+				item: "botania:exoflame"
+			}]
+		}
+		{
+			x: 0.0d
+			y: -1.5d
+			shape: "rsquare"
+			hide_dependency_lines: true
+			dependencies: ["7539C12C635F9E03"]
+			id: "3E305341C73B0BC7"
+			tasks: [{
+				id: "1EE47F90EAA359B6"
+				type: "item"
+				item: "botania:agricarnation"
+			}]
+		}
+		{
+			x: 1.0d
+			y: -2.5d
+			shape: "rsquare"
+			hide_dependency_lines: true
+			dependencies: ["7539C12C635F9E03"]
+			id: "620E0AC71E2E8D47"
+			tasks: [{
+				id: "4DAC8D566093D6F3"
+				type: "item"
+				item: "botania:vinculotus"
+			}]
+		}
+		{
+			x: 2.0d
+			y: -2.5d
+			shape: "rsquare"
+			hide_dependency_lines: true
+			dependencies: ["7539C12C635F9E03"]
+			id: "2129136D0C15849A"
+			tasks: [{
+				id: "5C3DED3D3DA29AC0"
+				type: "item"
+				item: "botania:spectranthemum"
+			}]
+		}
+		{
+			x: 3.0d
+			y: -2.5d
+			shape: "rsquare"
+			hide_dependency_lines: true
+			dependencies: ["7539C12C635F9E03"]
+			id: "7E3FF32BD94B525B"
+			tasks: [{
+				id: "43FCCA20D601905D"
+				type: "item"
+				item: "botania:medumone"
+			}]
+		}
+		{
+			x: 1.0d
+			y: -1.5d
+			shape: "rsquare"
+			hide_dependency_lines: true
+			dependencies: ["7539C12C635F9E03"]
+			id: "25C1023B44CD9452"
+			tasks: [{
+				id: "77D2503FB13901C9"
+				type: "item"
+				item: "botania:marimorphosis"
+			}]
+		}
+		{
+			x: 2.0d
+			y: -1.5d
+			shape: "rsquare"
+			hide_dependency_lines: true
+			dependencies: ["7539C12C635F9E03"]
+			id: "4F0F517A7AB6DE54"
+			tasks: [{
+				id: "0C91F106F57CB587"
+				type: "item"
+				item: "botania:bubbell"
+			}]
+		}
+		{
+			x: 3.0d
+			y: -1.5d
+			shape: "rsquare"
+			hide_dependency_lines: true
+			dependencies: ["7539C12C635F9E03"]
+			id: "5B6F639038098970"
+			tasks: [{
+				id: "2C8CAC459397097D"
+				type: "item"
+				item: "botania:solegnolia"
+			}]
+		}
+		{
+			x: 4.0d
+			y: -2.5d
+			shape: "rsquare"
+			hide_dependency_lines: true
+			dependencies: ["7539C12C635F9E03"]
+			id: "71C658857B329716"
+			tasks: [{
+				id: "6617E8DEED2054A2"
+				type: "item"
+				item: "botania:labellia"
+			}]
+		}
+		{
+			x: 4.0d
+			y: -1.5d
+			shape: "rsquare"
+			hide_dependency_lines: true
+			dependencies: ["7539C12C635F9E03"]
+			id: "0FC4DBEF5F097D68"
+			tasks: [{
+				id: "75CD4C5D18F71135"
+				type: "item"
+				item: "botania:hopperhock"
+			}]
+		}
+		{
+			x: 5.0d
+			y: -2.5d
+			shape: "rsquare"
+			hide_dependency_lines: true
+			dependencies: ["7539C12C635F9E03"]
+			id: "2D93D321838E486F"
+			tasks: [{
+				id: "72C4C591CCFDD2E2"
+				type: "item"
+				item: "botania:tangleberrie"
+			}]
+		}
+		{
+			x: 5.0d
+			y: -1.5d
+			shape: "rsquare"
+			hide_dependency_lines: true
+			dependencies: ["7539C12C635F9E03"]
+			id: "2CB3F007BC8395AE"
+			tasks: [{
+				id: "481D2D32C58C2C54"
+				type: "item"
+				item: "botania:jiyuulia"
+			}]
+		}
+		{
+			x: 6.0d
+			y: -2.5d
+			shape: "rsquare"
+			hide_dependency_lines: true
+			dependencies: ["7539C12C635F9E03"]
+			id: "6E4D1FAD269D9AC1"
+			tasks: [{
+				id: "4AA7D4E6FBFD61A2"
+				type: "item"
+				item: "botania:rannuncarpus"
+			}]
+		}
+		{
+			x: 6.0d
+			y: -1.5d
+			shape: "rsquare"
+			hide_dependency_lines: true
+			dependencies: ["7539C12C635F9E03"]
+			id: "3C9E7D2EDF3E8881"
+			tasks: [{
+				id: "78BECCA2100C9880"
+				type: "item"
+				item: "botania:hyacidus"
+			}]
+		}
+		{
+			x: 7.0d
+			y: -2.5d
+			shape: "rsquare"
+			hide_dependency_lines: true
+			dependencies: ["7539C12C635F9E03"]
+			id: "51595D6C3F73F5A9"
+			tasks: [{
+				id: "14F35E3CC79BA0D8"
+				type: "item"
+				item: "botania:pollidisiac"
+			}]
+		}
+		{
+			x: 7.0d
+			y: -1.5d
+			shape: "rsquare"
+			hide_dependency_lines: true
+			dependencies: ["7539C12C635F9E03"]
+			id: "4657A9BC9F2DC5B0"
+			tasks: [{
+				id: "4E8B73ED63C83606"
+				type: "item"
+				item: "botania:clayconia"
+			}]
+		}
+		{
+			x: 8.0d
+			y: -2.5d
+			shape: "rsquare"
+			hide_dependency_lines: true
+			dependencies: ["7539C12C635F9E03"]
+			id: "678F42EDA15063E1"
+			tasks: [{
+				id: "7EFD04598B8277DA"
+				type: "item"
+				item: "botania:loonium"
+			}]
+		}
+		{
+			x: 8.0d
+			y: -1.5d
+			shape: "rsquare"
+			hide_dependency_lines: true
+			dependencies: ["7539C12C635F9E03"]
+			id: "1CEA8FE576BBAA24"
+			tasks: [{
+				id: "60AADEB10D043E5E"
+				type: "item"
+				item: "botania:daffomill"
+			}]
+		}
+		{
+			x: -4.0d
+			y: 7.0d
+			shape: "rsquare"
+			hide_dependency_lines: true
+			dependencies: ["7539C12C635F9E03"]
+			id: "425750A5D3C109F9"
+			tasks: [{
+				id: "17106E2B6685D93A"
+				type: "item"
+				item: "botania:hydroangeas"
+			}]
+		}
+		{
+			x: -3.0d
+			y: 7.0d
+			shape: "rsquare"
+			hide_dependency_lines: true
+			dependencies: ["7539C12C635F9E03"]
+			id: "3C8589549DAE0291"
+			tasks: [{
+				id: "04B4AA66F164BDAC"
+				type: "item"
+				item: "botania:endoflame"
+			}]
+		}
+		{
+			x: -2.0d
+			y: 7.0d
+			shape: "rsquare"
+			hide_dependency_lines: true
+			dependencies: ["7539C12C635F9E03"]
+			id: "1A2FFC6B9A2612C7"
+			tasks: [{
+				id: "0836D774B23BDF90"
+				type: "item"
+				item: "botania:thermalily"
+			}]
+		}
+		{
+			x: -1.0d
+			y: 7.0d
+			shape: "rsquare"
+			hide_dependency_lines: true
+			dependencies: ["7539C12C635F9E03"]
+			id: "043C22BA5B7FB8FB"
+			tasks: [{
+				id: "1D3FCA19188443C0"
+				type: "item"
+				item: "botania:rosa_arcana"
+			}]
+		}
+		{
+			x: 0.0d
+			y: 7.0d
+			shape: "rsquare"
+			hide_dependency_lines: true
+			dependencies: ["7539C12C635F9E03"]
+			id: "4A236A9E42E246D7"
+			tasks: [{
+				id: "50CE551785713EBD"
+				type: "item"
+				item: "botania:munchdew"
+			}]
+		}
+		{
+			x: 1.0d
+			y: 7.0d
+			shape: "rsquare"
+			hide_dependency_lines: true
+			dependencies: ["7539C12C635F9E03"]
+			id: "4FC3FF38EB32B22D"
+			tasks: [{
+				id: "4B3F0F1E957BE7E8"
+				type: "item"
+				item: "botania:entropinnyum"
+			}]
+		}
+		{
+			x: 2.0d
+			y: 7.0d
+			shape: "rsquare"
+			hide_dependency_lines: true
+			dependencies: ["7539C12C635F9E03"]
+			id: "08ECBCA4B0687A7C"
+			tasks: [{
+				id: "536FE0C3ACD71984"
+				type: "item"
+				item: "botania:kekimurus"
+			}]
+		}
+		{
+			x: 3.0d
+			y: 7.0d
+			shape: "rsquare"
+			hide_dependency_lines: true
+			dependencies: ["7539C12C635F9E03"]
+			id: "0465540B4A9024BF"
+			tasks: [{
+				id: "444D1B62C20E0E5C"
+				type: "item"
+				item: "botania:gourmaryllis"
+			}]
+		}
+		{
+			x: 4.0d
+			y: 7.0d
+			shape: "rsquare"
+			hide_dependency_lines: true
+			dependencies: ["7539C12C635F9E03"]
+			id: "559F3D0ECE16A8FD"
+			tasks: [{
+				id: "39EFB29A72CC3C13"
+				type: "item"
+				item: "botania:narslimmus"
+			}]
+		}
+		{
+			x: 5.0d
+			y: 7.0d
+			shape: "rsquare"
+			hide_dependency_lines: true
+			dependencies: ["7539C12C635F9E03"]
+			id: "65D4D72EFAEBDC4A"
+			tasks: [{
+				id: "3A24534171722924"
+				type: "item"
+				item: "botania:spectrolus"
+			}]
+		}
+		{
+			x: 6.0d
+			y: 7.0d
+			shape: "rsquare"
+			hide_dependency_lines: true
+			dependencies: ["7539C12C635F9E03"]
+			id: "6AFC3E621D3CC40E"
+			tasks: [{
+				id: "7CD05E060329A3A2"
+				type: "item"
+				item: "botania:dandelifeon"
+			}]
+		}
+		{
+			x: 7.0d
+			y: 7.0d
+			shape: "rsquare"
+			hide_dependency_lines: true
+			dependencies: ["7539C12C635F9E03"]
+			id: "4AE7B8383BEAD9C9"
+			tasks: [{
+				id: "7806FB810223A3A1"
+				type: "item"
+				item: "botania:rafflowsia"
+			}]
+		}
+		{
+			x: 8.0d
+			y: 7.0d
+			shape: "rsquare"
+			hide_dependency_lines: true
+			dependencies: ["7539C12C635F9E03"]
+			id: "2062663BDFCD90BE"
+			tasks: [{
+				id: "3688E38D6B870E53"
+				type: "item"
+				item: "botania:shulk_me_not"
+			}]
+		}
+		{
+			x: 6.5d
+			y: 2.5d
+			shape: "diamond"
+			subtitle: "Challenge Quest!"
+			dependencies: ["05DE67C9A48C88AF"]
+			id: "0C192788D854926D"
+			tasks: [{
+				id: "4175E021354F51FB"
+				type: "item"
+				item: "kubejs:gaia_spirit_block"
+				count: 64L
+			}]
+			rewards: [{
+				id: "25A416AD6BA849C5"
+				type: "item"
+				item: "kubejs:gaia_spirit_block"
 			}]
 		}
 	]

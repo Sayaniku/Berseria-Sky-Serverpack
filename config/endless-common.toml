@@ -171,6 +171,8 @@
 	"Mob Weigh" = 0
 	#Infinity mob hp info
 	"Mob HP Info" = false
+	#Infinity mob is it naturally generated
+	"Mob Spawn" = false
 
 #Mod Impact
 [modRatio]

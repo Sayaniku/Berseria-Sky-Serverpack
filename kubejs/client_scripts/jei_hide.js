@@ -367,7 +367,6 @@ onEvent('jei.hide.items', event => {
         'solarflux:twilightforest/twilight_cell_2',
         'immersiveengineering:wire_copper',
         'immersiveengineering:storage_copper',
-        'immersiveengineering:storage_steel',
         'immersiveengineering:nugget_lead',
         'immersiveengineering:ingot_lead',
         'immersiveengineering:dust_lead',

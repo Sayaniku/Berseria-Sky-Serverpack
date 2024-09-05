@@ -1,140 +1,241 @@
 {
-    "type": "extendedcrafting:shapeless_table",
-    "tier": 4,
-    "ingredients": [
-      {"item": "berseria_sky:velvetcrowe_ingot"},
-      {"item": "create:creative_blaze_cake"},
-      {"item": "kubejs:molten_elinvonze_bucket"},
-      {"item": "kubejs:molten_end_bucket"},
-      {"item": "kubejs:molten_fayronium_bucket"},
-      {"item": "kubejs:molten_insanium_bucket"},
-      {"item": "berseria_sky:molten_comerald_bucket"},
-      {"item": "create:creative_blaze_cake"},
-      {"item": "berseria_sky:velvetcrowe_ingot"},
-      {"item": "thermal:fluid_tank_creative_augment"},
-      {"item": "projecte:evertide_amulet"},
-      {"item": "industrialforegoing:supreme_black_hole_tank"},
-      {"item": "berseria_sky:infinite_control_circuit"},
-      {"item": "industrialforegoing:supreme_black_hole_tank"},
-      {"item": "berseria_sky:infinite_control_circuit"},
-      {"item": "industrialforegoing:supreme_black_hole_tank"},
-      {"item": "projecte:evertide_amulet"},
-      {"item": "thermal:fluid_tank_creative_augment"},
-      {"item": "immersivepetroleum:lubricant_bucket"},
-      {"item": "create:fluid_tank"},
-      {"item": "draconicevolution:creative_capacitor"},
-      {"item": "mekanism:elite_fluid_tank"},
-      {"item": "mekanism:elite_fluid_tank"},
-      {"item": "mekanism:elite_fluid_tank"},
-      {"item": "create:creative_motor"},
-      {"item": "create:fluid_tank"},
-      {"item": "kubejs:molten_manronium_steel_bucket"},
-      {"item": "immersiveengineering:herbicide_bucket"},
-      {"item": "create:fluid_tank"},
-      {"item": "mekanism:advanced_fluid_tank"},
-      {"item": "kubejs:molten_tornium_bucket"},
-      {"item": "mekanism:ultimate_fluid_tank"
-      },
-      {"item": "kubejs:molten_lightium_bucket"
-      },
-      {"item": "mekanism:basic_fluid_tank"
-      },
-      {"item": "create:fluid_tank"
-      },
-      {"item": "kubejs:molten_manyerium_bucket"
-      },
-      {"item": "immersiveengineering:ethanol_bucket"
-      },
-      {"item": "create:fluid_tank"
-      },
-      {"item": "immersiveengineering:capacitor_creative"
-      },
-      {"item": "mekanism:ultimate_fluid_tank"
-      },
-      {"item": "mekanism:creative_chemical_tank"
-      },
-      {"item": "mekanism:ultimate_fluid_tank"
-      },
-      {"item": "immersiveengineering:capacitor_creative"
-      },
-      {"item": "create:fluid_tank"
-      },
-      {"item": "kubejs:molten_moon_bucket"
-      },
-      {"item": "immersiveengineering:plantoil_bucket"
-      },
-      {"item": "create:fluid_tank"
-      },
-      {"item": "mekanism:advanced_fluid_tank"
-      },
-      {"item": "kubejs:molten_ornium_bucket"
-      },
-      {"item": "mekanism:ultimate_fluid_tank"
-      },
-      {"item": "kubejs:molten_ouranium_bucket"
-      },
-      {"item": "mekanism:basic_fluid_tank"
-      },
-      {"item": "create:fluid_tank"
-      },
-      {"item": "kubejs:molten_nether_bucket"
-      },
-      { "item": "immersiveengineering:creosote_bucket"
-      },
-      {"item": "create:fluid_tank"
-      },
-      {"item": "powah:energy_cell_creative"
-      },
-      {"item": "mekanism:elite_fluid_tank"
-      },
-      {"item": "mekanism:elite_fluid_tank"
-      },
-      {"item": "mekanism:elite_fluid_tank"
-      },
-      {"item": "appliedenergistics2:creative_energy_cell"
-      },
-      {"item": "create:fluid_tank"
-      },
-      {"item": "kubejs:molten_ardite_bucket"
-      },
-      {"item": "thermal:rf_coil_creative_augment"
-      },
-      {"item": "projecte:evertide_amulet"
-      },
-      {"item": "industrialforegoing:supreme_black_hole_tank"
-      },
-      {"item": "berseria_sky:infinite_control_circuit"
-      },
-      {"item": "industrialforegoing:supreme_black_hole_tank"
-      },
-      {"item": "berseria_sky:infinite_control_circuit"
-      },
-      {"item": "industrialforegoing:supreme_black_hole_tank"
-      },
-      {"item": "projecte:evertide_amulet"
-      },
-      {"item": "thermal:rf_coil_creative_augment"
-      },
-      {"item": "berseria_sky:velvetcrowe_ingot"
-      },
-      {"item": "cagedmobs:creative_upgrade"
-      },
-      {"item": "berseria_sky:ball_of_hakai"
-      },
-      {"item": "materialis:molten_alfsteel_bucket"
-      },
-      {"item": "materialis:molten_draconium_bucket"
-      },
-      {"item": "materialis:molten_draconium_awakened_bucket"
-      },
-      {"item": "berseria_sky:ball_of_hakai"
-      },
-      {"item": "cagedmobs:creative_upgrade"
-      },
-      {"item": "berseria_sky:velvetcrowe_ingot"
-      }
-    ],
-    "result": {
-      "item": "mekanism:creative_fluid_tank"
+  "type": "extendedcrafting:shapeless_table",
+  "ingredients": [
+    {"item": "berseria_sky:velvetcrowe_ingot"},
+    {"item": "create:creative_blaze_cake"},
+    {"item": "kubejs:molten_elinvonze_bucket"},
+    {"item": "kubejs:molten_end_bucket"},
+    {
+      "item": "kubejs:molten_fayronium_bucket"
+    },
+    {
+      "item": "kubejs:molten_insanium_bucket"
+    },
+    {
+      "item": "berseria_sky:molten_comerald_bucket"
+    },
+    {
+      "item": "create:creative_blaze_cake"
+    },
+    {
+      "item": "berseria_sky:velvetcrowe_ingot"
+    },
+    {
+      "item": "thermal:fluid_tank_creative_augment"
+    },
+    {
+      "item": "projectex:fading_collector"
+    },
+    {
+      "item": "industrialforegoing:supreme_black_hole_tank"
+    },
+    {
+      "item": "berseria_sky:infinite_control_circuit"
+    },
+    {
+      "item": "industrialforegoing:supreme_black_hole_tank"
+    },
+    {
+      "item": "berseria_sky:infinite_control_circuit"
+    },
+    {
+      "item": "industrialforegoing:supreme_black_hole_tank"
+    },
+    {
+      "item": "projectex:fading_collector"
+    },
+    {
+      "item": "thermal:fluid_tank_creative_augment"
+    },
+    {
+      "item": "immersivepetroleum:lubricant_bucket"
+    },
+    {
+      "item": "create:creative_fluid_tank"
+    },
+    {
+      "item": "draconicevolution:creative_capacitor"
+    },
+    {
+      "item": "mekanism:elite_fluid_tank"
+    },
+    {
+      "item": "mekanism:elite_fluid_tank"
+    },
+    {
+      "item": "mekanism:elite_fluid_tank"
+    },
+    {
+      "item": "create:creative_motor"
+    },
+    {
+      "item": "create:creative_fluid_tank"
+    },
+    {
+      "item": "kubejs:molten_manronium_steel_bucket"
+    },
+    {
+      "item": "immersiveengineering:herbicide_bucket"
+    },
+    {
+      "item": "miniutilities:unstable_drum"
+    },
+    {
+      "item": "mekanism:advanced_fluid_tank"
+    },
+    {
+      "item": "kubejs:molten_tornium_bucket"
+    },
+    {
+      "item": "mekanism:ultimate_fluid_tank"
+    },
+    {
+      "item": "kubejs:molten_lightium_bucket"
+    },
+    {
+      "item": "mekanism:basic_fluid_tank"
+    },
+    {
+      "item": "miniutilities:unstable_drum"
+    },
+    {
+      "item": "kubejs:molten_manyerium_bucket"
+    },
+    {
+      "item": "immersiveengineering:ethanol_bucket"
+    },
+    {
+      "item": "fluiddrawerslegacy:fluiddrawer"
+    },
+    {
+      "item": "immersiveengineering:capacitor_creative"
+    },
+    {
+      "item": "mekanism:ultimate_fluid_tank"
+    },
+    {
+      "item": "mekanism:creative_chemical_tank"
+    },
+    {
+      "item": "mekanism:ultimate_fluid_tank"
+    },
+    {
+      "item": "immersiveengineering:capacitor_creative"
+    },
+    {
+      "item": "fluiddrawerslegacy:fluiddrawer"
+    },
+    {
+      "item": "kubejs:molten_moon_bucket"
+    },
+    {
+      "item": "immersiveengineering:plantoil_bucket"
+    },
+    {
+      "item": "miniutilities:unstable_drum"
+    },
+    {
+      "item": "mekanism:advanced_fluid_tank"
+    },
+    {
+      "item": "kubejs:molten_ornium_bucket"
+    },
+    {
+      "item": "mekanism:ultimate_fluid_tank"
+    },
+    {
+      "item": "kubejs:molten_ouranium_bucket"
+    },
+    {
+      "item": "mekanism:basic_fluid_tank"
+    },
+    {
+      "item": "miniutilities:unstable_drum"
+    },
+    {
+      "item": "kubejs:molten_nether_bucket"
+    },
+    {
+      "item": "immersiveengineering:creosote_bucket"
+    },
+    {
+      "item": "create:creative_fluid_tank"
+    },
+    {
+      "item": "powah:energy_cell_creative"
+    },
+    {
+      "item": "mekanism:elite_fluid_tank"
+    },
+    {
+      "item": "mekanism:elite_fluid_tank"
+    },
+    {
+      "item": "mekanism:elite_fluid_tank"
+    },
+    {
+      "item": "appliedenergistics2:creative_energy_cell"
+    },
+    {
+      "item": "create:creative_fluid_tank"
+    },
+    {
+      "item": "kubejs:molten_ardite_bucket"
+    },
+    {
+      "item": "thermal:rf_coil_creative_augment"
+    },
+    {
+      "item": "projectex:fading_collector"
+    },
+    {
+      "item": "industrialforegoing:supreme_black_hole_tank"
+    },
+    {
+      "item": "berseria_sky:infinite_control_circuit"
+    },
+    {
+      "item": "industrialforegoing:supreme_black_hole_tank"
+    },
+    {
+      "item": "berseria_sky:infinite_control_circuit"
+    },
+    {
+      "item": "industrialforegoing:supreme_black_hole_tank"
+    },
+    {
+      "item": "projectex:fading_collector"
+    },
+    {
+      "item": "thermal:rf_coil_creative_augment"
+    },
+    {
+      "item": "berseria_sky:velvetcrowe_ingot"
+    },
+    {
+      "item": "cagedmobs:creative_upgrade"
+    },
+    {
+      "item": "berseria_sky:ball_of_hakai"
+    },
+    {
+      "item": "materialis:molten_alfsteel_bucket"
+    },
+    {
+      "item": "materialis:molten_draconium_bucket"
+    },
+    {
+      "item": "materialis:molten_draconium_awakened_bucket"
+    },
+    {
+      "item": "berseria_sky:ball_of_hakai"
+    },
+    {
+      "item": "cagedmobs:creative_upgrade"
+    },
+    {
+      "item": "berseria_sky:velvetcrowe_ingot"
     }
-  }
+  ],
+  "result": { "item": "mekanism:creative_fluid_tank"}
+}

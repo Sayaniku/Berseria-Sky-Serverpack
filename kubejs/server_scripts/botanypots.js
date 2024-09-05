@@ -67,48 +67,43 @@ onEvent('recipes', function (e) {
     F: 'botanypotstiers:creative_' + color + 'botany_pot'
   })
 
+             //Creative Crux//
+             e.custom({
+              "type": "extendedcrafting:shaped_table",
+              "tier": 4,
+              "pattern": [
+                "ABBBBBBBA",
+                "BCDDDDDCB",
+                "BEFGGGFHB",
+                "BEIJJJKHB",
+                "BEIJAJKHB",
+                "BEIJJJKHB",
+                "BEFLLLFHB",
+                "BCMMMMMCB",
+                "ABBBBBBBA"
+              ],
+              "key": {
+                "A": {"item": 'botanypotstiers:creative_hopper_' + color + 'botany_pot'},
+                "B": {"item": "kubejs:creative_plate"},
+                "C": {"item": "storagenetwork:stack_upgrade"},
+                "D": {"item": "quark:yellow_crystal"},
+                "E": {"item": "quark:black_crystal"},
+                "F": {"item": "draconicevolution:chaotic_speed_module"},
+                "G": {"item": "quark:red_crystal"},
+                "H": {"item": "quark:violet_crystal"},
+                "I": {"item": "quark:white_crystal"},
+                "J": {"item": "mekanism:upgrade_speed"},
+                "K": {"item": "quark:blue_crystal"},
+                "L": {"item": "quark:green_crystal"},
+                "M": {"item": "quark:indigo_crystal"}
+              },
+              "result": {"item": "kubejs:creative_crux"}
+            })
 
-      //Creative Crux//
-      e.custom({ 
-        "type": "extendedcrafting:shaped_table",
-        "tier": 4,
-        "pattern": [
-          "ABBBBBBBA",
-          "BCDDDDDCB",
-          "BDEFFFEDB",
-          "BDGHHHIDB",
-          "BDGHAHIDB",
-          "BDGHHHIDB",
-          "BDEJJJEDB",
-          "BCDDDDDCB",
-          "ABBBBBBBA"
-        ],
-        "key": {
-          "A": {"item": 'botanypotstiers:creative_hopper_' + color + 'botany_pot'},
-          "B": {"item": 'kubejs:creative_plate'},
-          "C": {"item": 'storagenetwork:stack_upgrade'},
-          "D": {"item": 'mekanism:ingot_antimatter'},
-          "E": {"item": 'draconicevolution:chaotic_speed_module'},
-          "F": {"item": 'quark:red_crystal'},
-          "G": {"item": 'quark:white_crystal'},
-          "H": {"item": 'mekanism:upgrade_speed'},
-          "I": {"item": 'quark:blue_crystal'},
-          "J": {"item": 'quark:green_crystal'}
-        },
-        "result": {"item": 'kubejs:creative_crux', 'count': 1 }
-      })
   }
 
   let color = ["", "red_", "orange_", "yellow_", "lime_", "green_", "blue_", "cyan_", "light_blue_", "pink_", "magenta_", "purple_", "brown_", "black_", "gray_", "light_gray_", "white_"]
   color.forEach(C => { hopperPots(C) })
-
-
-
-
-
-
-
-
 
 
 })

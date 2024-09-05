@@ -58,7 +58,7 @@ onEvent('recipes', (event) => {
         {
             inputs: [item.of('thermal:bronze_ingot',8), Item.of('thermal:invar_ingot',8), item.of('thermal:electrum_ingot',8)],
             outputs: item.of('berseria_sky:elinvonze_ingot',4),
-            energy: 20000,
+            energy: 30000,
             id: `${id_prefix}elinvonze_ingot`
         },
         {
@@ -92,7 +92,7 @@ onEvent('recipes', (event) => {
             id: `${id_prefix}redstone_ingot`
         },
         {
-            inputs: ['immersiveengineering:storage_aluminum','thermal:copper_ingot'],
+            inputs: ['immersiveengineering:storage_aluminum',item.of('thermal:bronze_ingot',4)],
             outputs: item.of('tinkers_reforged:duralumin_ingot',5),
             energy: 15000,
             id: `${id_prefix}duralium_ingot`
@@ -116,7 +116,7 @@ onEvent('recipes', (event) => {
             id: `${id_prefix}lavium_ingot`
         },
         {
-            inputs: ['minecraft:magma_cream',item.of('tconstruct:cobalt_ingot',4)],
+            inputs: ['tconstruct:queens_slime_ingot',item.of('tconstruct:cobalt_ingot',4)],
             outputs: item.of('tinkers_reforged:qivium_ingot',4),
             energy: 15000,
             id: `${id_prefix}qivium_ingot`
@@ -192,6 +192,12 @@ onEvent('recipes', (event) => {
             outputs: ['simplyjetpacks:jetpack_mek4',item.of('simplyjetpacks:armorplating_mek4',8)],
             energy: 100000,
             id: `${id_prefix}jetpack_mek4_uncraft`
+        },
+        {
+            inputs: ['minecraft:blaze_powder','minecraft:gunpowder','#minecraft:coals'],
+            outputs: item.of('minecraft:fire_charge',3),
+            energy: 5000,
+            id: 'minecraft:fire_charge'
         },
     ];
 

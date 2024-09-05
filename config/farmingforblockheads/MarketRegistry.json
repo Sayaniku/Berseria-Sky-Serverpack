@@ -538,8 +538,8 @@
           "item": "minecraft:evoker_spawn_egg"
         },
         "payment": {
-          "item": "mob_grinding_utils:rotten_egg",
-          "count": 1
+          "item": "pamhc2foodextended:deviledeggitem",
+          "count": 4
         },
         "category": "spawn_egg"
       },

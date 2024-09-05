@@ -851,14 +851,14 @@ onEvent('recipes', (event) => {
         {
           input: item.of('kubejs:ardite_plate',4),
           output: '#forge:gears/ardite',
-          mold : 'immersiveengineering:mold_plate',
+          mold : 'immersiveengineering:mold_gear',
           energy : 2400,
           id: 'immersiveengineering:metalpress/gear_ardite'
         },
         {
           input: item.of('#forge:plates/aluminum',4),
           output: '#forge:gears/aluminum',
-          mold : 'immersiveengineering:mold_plate',
+          mold : 'immersiveengineering:mold_gear',
           energy : 2400,
           id: 'immersiveengineering:metalpress/gear_aluminum'
         },

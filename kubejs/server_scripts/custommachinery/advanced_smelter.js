@@ -88,6 +88,14 @@ e.recipes.custommachinery.custom_machine("berseria_sky:advanced_machine_smelter"
   .requireEnergy(30000)
   .produceItem(Item.of('berseria_sky:comerald_ingot',4))
 
+  //Comerald Ingot//
+  e.recipes.custommachinery.custom_machine("berseria_sky:advanced_machine_smelter", 2000)
+  .requireItem(Item.of('thermal:invar_ingot',8))
+  .requireItem(Item.of('thermal:bronze_ingot',8))
+  .requireItem(Item.of('thermal:electrum_ingot',8))
+  .requireEnergy(25000)
+  .produceItem(Item.of('berseria_sky:elinvonze_ingot',4))
+
 
 
 

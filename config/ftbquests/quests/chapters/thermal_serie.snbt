@@ -23,6 +23,7 @@
 				id: "07169CFAA44664D6"
 				type: "item"
 				item: "thermal:tin_ingot"
+				count: 2
 			}]
 		}
 		{
@@ -49,11 +50,18 @@
 			shape: "rsquare"
 			dependencies: ["136A2873851E8437"]
 			id: "429371F1A0D9C8B3"
-			tasks: [{
-				id: "75FB8AA2720AF842"
-				type: "item"
-				item: "thermal:machine_refinery"
-			}]
+			tasks: [
+				{
+					id: "75FB8AA2720AF842"
+					type: "item"
+					item: "thermal:machine_refinery"
+				}
+				{
+					id: "4A8118AD4E680782"
+					type: "item"
+					item: "thermal:tar_block"
+				}
+			]
 		}
 		{
 			x: -2.0d
@@ -280,6 +288,12 @@
 				type: "item"
 				item: "thermal:press_gear_die"
 			}]
+			rewards: [{
+				id: "574EECD7A7CA2B23"
+				type: "item"
+				item: "tconstruct:manyullyn_ingot"
+				random_bonus: 3
+			}]
 		}
 		{
 			x: 4.0d
@@ -309,6 +323,12 @@
 				type: "item"
 				item: "thermal:fluid_tank_augment"
 			}]
+			rewards: [{
+				id: "4360C2CE400CA697"
+				type: "item"
+				item: "thermal:cured_rubber"
+				random_bonus: 3
+			}]
 		}
 		{
 			x: 3.0d
@@ -320,6 +340,12 @@
 				id: "3E0C137F5A9A473B"
 				type: "item"
 				item: "thermal:item_filter_augment"
+			}]
+			rewards: [{
+				id: "303AD9790AF4D8EA"
+				type: "item"
+				item: "tconstruct:cobalt_ingot"
+				random_bonus: 3
 			}]
 		}
 		{
@@ -333,6 +359,11 @@
 				type: "item"
 				item: "thermal:machine_output_augment"
 			}]
+			rewards: [{
+				id: "271B2372F53E2A63"
+				type: "item"
+				item: "thermal:invar_ingot"
+			}]
 		}
 		{
 			x: 4.0d
@@ -345,6 +376,12 @@
 				type: "item"
 				item: "thermal:machine_catalyst_augment"
 			}]
+			rewards: [{
+				id: "313AF8DC421C967D"
+				type: "item"
+				item: "thermal:constantan_ingot"
+				random_bonus: 3
+			}]
 		}
 		{
 			x: 3.0d
@@ -356,6 +393,12 @@
 				id: "7DB025C35BF6BD90"
 				type: "item"
 				item: "thermal:dynamo_output_augment"
+			}]
+			rewards: [{
+				id: "4E72E23AB52EBB02"
+				type: "item"
+				item: "thermal:obsidian_glass"
+				count: 2
 			}]
 		}
 		{
@@ -371,7 +414,7 @@
 			}]
 		}
 		{
-			x: 3.0d
+			x: 3.5d
 			y: 5.0d
 			shape: "rsquare"
 			dependencies: ["04458106E8DF2DB0"]
@@ -381,17 +424,11 @@
 				type: "item"
 				item: "thermal:area_radius_augment"
 			}]
-		}
-		{
-			x: 4.0d
-			y: 5.0d
-			shape: "rsquare"
-			dependencies: ["04458106E8DF2DB0"]
-			id: "163D6A1E7CBA86AD"
-			tasks: [{
-				id: "6CEEF751A2AF1B00"
+			rewards: [{
+				id: "50BCACA48D9C0941"
 				type: "item"
-				item: "thermal:xp_storage_augment"
+				item: "kubejs:ardite_ingot"
+				random_bonus: 3
 			}]
 		}
 		{
@@ -405,6 +442,11 @@
 				type: "item"
 				item: "thermal:rf_coil_augment"
 			}]
+			rewards: [{
+				id: "5EBCF8227C5515D9"
+				type: "item"
+				item: "thermal:rf_coil"
+			}]
 		}
 		{
 			x: 4.0d
@@ -417,6 +459,11 @@
 				type: "item"
 				item: "thermal:rf_coil_storage_augment"
 			}]
+			rewards: [{
+				id: "1AA0035FF9286658"
+				type: "item"
+				item: "minecraft:gold_ingot"
+			}]
 		}
 		{
 			x: 5.0d
@@ -428,6 +475,11 @@
 				id: "166FE248C53994A7"
 				type: "item"
 				item: "thermal:rf_coil_xfer_augment"
+			}]
+			rewards: [{
+				id: "1B417A7E084F0081"
+				type: "item"
+				item: "thermal:silver_ingot"
 			}]
 		}
 		{
@@ -465,9 +517,15 @@
 				type: "item"
 				item: "thermal:machine_cycle_augment"
 			}]
+			rewards: [{
+				id: "054FC95C5D08AE49"
+				type: "item"
+				item: "thermal:signalum_ingot"
+				random_bonus: 3
+			}]
 		}
 		{
-			x: 5.0d
+			x: 4.5d
 			y: 5.0d
 			shape: "rsquare"
 			dependencies: ["04458106E8DF2DB0"]
@@ -477,6 +535,11 @@
 				id: "72F3D2743551DF2C"
 				type: "item"
 				item: "thermal:machine_null_augment"
+			}]
+			rewards: [{
+				id: "76ABC9068AE842EA"
+				type: "item"
+				item: "minecraft:cactus"
 			}]
 		}
 		{
@@ -559,6 +622,11 @@
 				type: "item"
 				item: "thermal_extra:advanced_machine_speed_augment"
 			}]
+			rewards: [{
+				id: "2F2C2F580B502068"
+				type: "item"
+				item: "thermal_extra:dragon_enderium_ingot"
+			}]
 		}
 		{
 			x: 7.0d
@@ -574,6 +642,12 @@
 				type: "item"
 				item: "thermal_extra:advanced_fluid_tank_augment"
 			}]
+			rewards: [{
+				id: "2748672EBB24CDAF"
+				type: "item"
+				item: "thermal_extra:polarium_ingot"
+				random_bonus: 3
+			}]
 		}
 		{
 			x: 6.5d
@@ -585,6 +659,12 @@
 				id: "6DC5C67CDFF3BFEC"
 				type: "item"
 				item: "thermal_extra:bigger_fluid_tank_augment"
+			}]
+			rewards: [{
+				id: "31A8AC587AD9E568"
+				type: "item"
+				item: "thermal_extra:drownium_ingot"
+				random_bonus: 3
 			}]
 		}
 		{

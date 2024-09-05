@@ -37,6 +37,11 @@ onEvent('recipes', (event) => {
         id: `${id_prefix}manronium_steel_from_ingot`
       },
       {
+        input: { ingredient: { item: 'berseria_sky:enriched_manronium_steel' }},
+        output: { amount: 80, infuse_type: 'berseria_sky:manronium_steel' },
+        id: `${id_prefix}manronium_steel_from_enriched`
+      },
+      {
         input: { ingredient: { item: 'endless:infinity_ingot' }},
         output: { amount: 10, infuse_type: 'berseria_sky:infinity' },
         id: `${id_prefix}infinity_from_ingot`

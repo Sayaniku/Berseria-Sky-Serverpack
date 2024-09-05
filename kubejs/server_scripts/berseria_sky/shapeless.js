@@ -22,6 +22,26 @@ onEvent('recipes', (event) => {
             inputs: ['9x berseria_sky:manyerium_ingot'],
             id: 'berseria_sky:manyerium_block'
         },
+        {
+            output: '9x berseria_sky:crystal_creative',
+            inputs: ['berseria_sky:creative_crystal_block'],
+            id: 'berseria_sky:crystal_creative'
+        },
+        {
+            output: 'berseria_sky:creative_crystal_block',
+            inputs: ['9x berseria_sky:crystal_creative'],
+            id: 'berseria_sky:crystal_creative_block'
+        },
+        {
+            output: '9x botania:gaia_ingot',
+            inputs: ['kubejs:gaia_spirit_block'],
+            id: `${id_prefix}gaia_spirit_ingot_from_gaia_spirit_block`
+        },
+        {
+            output: 'kubejs:gaia_spirit_block',
+            inputs: ['9x botania:gaia_ingot'],
+            id: `${id_prefix}gaia_spirit_block`
+        },
     ];
 
     recipes.forEach((recipe) => {

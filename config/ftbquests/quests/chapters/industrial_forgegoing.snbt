@@ -106,6 +106,11 @@
 					item: "industrialforegoing:fluid_placer"
 				}
 			]
+			rewards: [{
+				id: "41058E5A46C4A81B"
+				type: "item"
+				item: "minecraft:iron_block"
+			}]
 		}
 		{
 			x: 1.0d
@@ -135,11 +140,6 @@
 					id: "696434B269123FC4"
 					type: "item"
 					item: "industrialforegoing:plant_sower"
-				}
-				{
-					id: "204CA32EDC29DA47"
-					type: "item"
-					item: "industrialforegoing:plant_fertilizer"
 				}
 			]
 		}
@@ -243,10 +243,9 @@
 		}
 		{
 			x: -1.0d
-			y: 3.5d
+			y: 3.0d
 			shape: "hexagon"
 			dependencies: ["5C07F09C0718838A"]
-			size: 1.5d
 			id: "3F19BE7FBB4C05C2"
 			tasks: [{
 				id: "1A796C6F99A4154F"
@@ -368,6 +367,12 @@
 				type: "item"
 				item: "industrialforegoing:machine_frame_simple"
 			}]
+			rewards: [{
+				id: "449B2FFC4A82ACE1"
+				type: "item"
+				item: "mekanism:ingot_steel"
+				random_bonus: 1
+			}]
 		}
 		{
 			x: 6.0d
@@ -380,6 +385,11 @@
 				id: "1C1C8B4C2D8FACBE"
 				type: "item"
 				item: "industrialforegoing:machine_frame_supreme"
+			}]
+			rewards: [{
+				id: "1778A31A7F5AE55B"
+				type: "item"
+				item: "thermal_extra:zauvium_ingot"
 			}]
 		}
 		{
@@ -407,6 +417,11 @@
 				type: "item"
 				item: "industrialforegoing:laser_drill"
 			}]
+			rewards: [{
+				id: "0E33F4163BB72D96"
+				type: "item"
+				item: "mysticalagriculture:tertium_ingot"
+			}]
 		}
 		{
 			x: -3.0d
@@ -431,6 +446,11 @@
 				type: "item"
 				item: "industrialforegoing:mob_detector"
 			}]
+			rewards: [{
+				id: "15F4C88ACA66261E"
+				type: "item"
+				item: "minecraft:observer"
+			}]
 		}
 		{
 			x: 1.0d
@@ -442,6 +462,11 @@
 				id: "151C808BD56A1CA1"
 				type: "item"
 				item: "industrialforegoing:fermentation_station"
+			}]
+			rewards: [{
+				id: "48A5F4A89576BFC7"
+				type: "item"
+				item: "minecraft:gold_ingot"
 			}]
 		}
 		{
@@ -455,6 +480,11 @@
 				type: "item"
 				item: "industrialforegoing:mycelial_pink"
 			}]
+			rewards: [{
+				id: "20267FDDF5CC73CA"
+				type: "item"
+				item: "minecraft:pink_wool"
+			}]
 		}
 		{
 			x: 1.0d
@@ -467,6 +497,11 @@
 				type: "item"
 				item: "industrialforegoing:plant_fertilizer"
 			}]
+			rewards: [{
+				id: "367E8741ACAA0855"
+				type: "item"
+				item: "minecraft:iron_block"
+			}]
 		}
 		{
 			x: 0.0d
@@ -478,6 +513,12 @@
 				id: "0D824BE43AEB5F59"
 				type: "item"
 				item: "industrialforegoing:mycelial_furnace"
+			}]
+			rewards: [{
+				id: "7FCA8958111DBC93"
+				type: "item"
+				item: "minecraft:coal_block"
+				random_bonus: 3
 			}]
 		}
 		{
@@ -503,6 +544,11 @@
 				type: "item"
 				item: "industrialforegoing:mycelial_frosty"
 			}]
+			rewards: [{
+				id: "06FF30225747556E"
+				type: "item"
+				item: "minecraft:snow_block"
+			}]
 		}
 		{
 			x: 7.0d
@@ -514,6 +560,11 @@
 				id: "5A37DA20A915501D"
 				type: "item"
 				item: "industrialforegoing:enchantment_sorter"
+			}]
+			rewards: [{
+				id: "45EB5D73B2A08CA5"
+				type: "item"
+				item: "kubejs:diamond_ingot"
 			}]
 		}
 		{
@@ -527,6 +578,11 @@
 				type: "item"
 				item: "industrialforegoing:mycelial_explosive"
 			}]
+			rewards: [{
+				id: "053AF2E05198D202"
+				type: "item"
+				item: "minecraft:tnt"
+			}]
 		}
 		{
 			x: 8.0d
@@ -538,6 +594,12 @@
 				id: "459BAA8E66ABB710"
 				type: "item"
 				item: "industrialforegoing:mycelial_crimed"
+			}]
+			rewards: [{
+				id: "3B7CA3A97595CAB7"
+				type: "item"
+				item: "minecraft:nether_wart_block"
+				random_bonus: 3
 			}]
 		}
 		{
@@ -551,6 +613,11 @@
 				type: "item"
 				item: "industrialforegoing:fluid_sieving_machine"
 			}]
+			rewards: [{
+				id: "65488843A8722EA9"
+				type: "item"
+				item: "minecraft:gold_block"
+			}]
 		}
 		{
 			x: 8.0d
@@ -563,6 +630,12 @@
 				type: "item"
 				item: "industrialforegoing:infinity_charger"
 			}]
+			rewards: [{
+				id: "5F7B685DE31F300C"
+				type: "item"
+				item: "minecraft:redstone_block"
+				random_bonus: 1
+			}]
 		}
 		{
 			x: 4.0d
@@ -574,6 +647,11 @@
 				id: "7D848CA9E00E47FE"
 				type: "item"
 				item: "industrialforegoing:potion_brewer"
+			}]
+			rewards: [{
+				id: "0D2CF63E2A2C03EC"
+				type: "item"
+				item: "minecraft:gold_block"
 			}]
 		}
 		{
@@ -594,6 +672,11 @@
 					item: "industrialforegoing:ore_laser_base"
 				}
 			]
+			rewards: [{
+				id: "1E24292A61EEC8B6"
+				type: "item"
+				item: "tconstruct:manyullyn_block"
+			}]
 		}
 		{
 			x: 4.0d
@@ -605,6 +688,12 @@
 				id: "5FF15C9C51F3A090"
 				type: "item"
 				item: "industrialforegoing:mycelial_magma"
+			}]
+			rewards: [{
+				id: "07A38B26AC4302EA"
+				type: "item"
+				item: "extendedcrafting:redstone_ingot_block"
+				random_bonus: 3
 			}]
 		}
 		{
@@ -618,6 +707,12 @@
 				type: "item"
 				item: "industrialforegoing:stasis_chamber"
 			}]
+			rewards: [{
+				id: "207BF2544C9B9B09"
+				type: "item"
+				item: "minecraft:gold_ingot"
+				random_bonus: 3
+			}]
 		}
 		{
 			x: 6.0d
@@ -629,6 +724,12 @@
 				id: "48CBC9A82DE84FB2"
 				type: "item"
 				item: "industrialforegoing:enchantment_factory"
+			}]
+			rewards: [{
+				id: "35D3FB4646A61668"
+				type: "item"
+				item: "minecraft:obsidian"
+				random_bonus: 3
 			}]
 		}
 		{
@@ -642,6 +743,11 @@
 				type: "item"
 				item: "industrialforegoing:mycelial_potion"
 			}]
+			rewards: [{
+				id: "4856CD2298F2374E"
+				type: "item"
+				item: "minecraft:nether_wart_block"
+			}]
 		}
 		{
 			x: 8.0d
@@ -653,6 +759,11 @@
 				id: "020DA6FF8FECB0E8"
 				type: "item"
 				item: "industrialforegoing:material_stonework_factory"
+			}]
+			rewards: [{
+				id: "53E6979184BDA25A"
+				type: "item"
+				item: "berseria_sky:manronium_steel_block"
 			}]
 		}
 		{
@@ -666,6 +777,12 @@
 				type: "item"
 				item: "industrialforegoing:mycelial_disenchantment"
 			}]
+			rewards: [{
+				id: "5B2124BEEB4CAD80"
+				type: "item"
+				item: "minecraft:book"
+				random_bonus: 3
+			}]
 		}
 		{
 			x: 9.0d
@@ -677,6 +794,11 @@
 				id: "065B8F1CE66F0FAA"
 				type: "item"
 				item: "industrialforegoing:mycelial_rocket"
+			}]
+			rewards: [{
+				id: "2215C2C5F8D888EC"
+				type: "item"
+				item: "quark:gunpowder_sack"
 			}]
 		}
 		{
@@ -697,6 +819,11 @@
 					item: "industrialforegoing:mob_imprisonment_tool"
 				}
 			]
+			rewards: [{
+				id: "0DA9F8A7E8EB9EA1"
+				type: "item"
+				item: "compressium:redstone_2"
+			}]
 		}
 		{
 			x: 9.0d
@@ -709,6 +836,18 @@
 				type: "item"
 				item: "industrialforegoing:mob_crusher"
 			}]
+			rewards: [
+				{
+					id: "01FCD1D07C291A0B"
+					type: "item"
+					item: "compressium:gold_2"
+				}
+				{
+					id: "6FB8BD66ADC74F04"
+					type: "item"
+					item: "compressium:redstone_1"
+				}
+			]
 		}
 		{
 			x: 6.5d
@@ -720,6 +859,12 @@
 				id: "5E036479B811D58B"
 				type: "item"
 				item: "industrialforegoing:mycelial_slimey"
+			}]
+			rewards: [{
+				id: "1069B86219C242EF"
+				type: "item"
+				item: "minecraft:slime_block"
+				random_bonus: 3
 			}]
 		}
 		{
@@ -733,6 +878,12 @@
 				type: "item"
 				item: "industrialforegoing:washing_factory"
 			}]
+			rewards: [{
+				id: "562E02E74188E6F5"
+				type: "item"
+				item: "industrialforegoing:pink_slime_ingot"
+				random_bonus: 1
+			}]
 		}
 		{
 			x: 9.0d
@@ -744,6 +895,12 @@
 				id: "1FA207FE0C2CC6D8"
 				type: "item"
 				item: "industrialforegoing:mycelial_ender"
+			}]
+			rewards: [{
+				id: "6DDED066DCA053C2"
+				type: "item"
+				item: "minecraft:ender_pearl"
+				random_bonus: 3
 			}]
 		}
 		{
@@ -757,6 +914,12 @@
 				type: "item"
 				item: "industrialforegoing:enchantment_extractor"
 			}]
+			rewards: [{
+				id: "3E16A8DED76EDA10"
+				type: "item"
+				item: "minecraft:diamond"
+				random_bonus: 1
+			}]
 		}
 		{
 			x: 4.0d
@@ -768,6 +931,11 @@
 				id: "65FCA12F4F051CEA"
 				type: "item"
 				item: "industrialforegoing:mycelial_death"
+			}]
+			rewards: [{
+				id: "3306016E2BCD3989"
+				type: "item"
+				item: "minecraft:redstone"
 			}]
 		}
 		{
@@ -781,6 +949,11 @@
 				type: "item"
 				item: "industrialforegoing:wither_builder"
 			}]
+			rewards: [{
+				id: "1EF1E8C7041880BF"
+				type: "item"
+				item: "excompressum:compressed_soul_sand"
+			}]
 		}
 		{
 			x: 8.0d
@@ -792,6 +965,12 @@
 				id: "458292FFC3722C67"
 				type: "item"
 				item: "industrialforegoing:mycelial_meatallurgic"
+			}]
+			rewards: [{
+				id: "2C380C2F2819AF6C"
+				type: "item"
+				item: "thermal:lead_ingot"
+				random_bonus: 3
 			}]
 		}
 		{
@@ -805,6 +984,11 @@
 				type: "item"
 				item: "industrialforegoing:mycelial_halitosis"
 			}]
+			rewards: [{
+				id: "642C02F308F3F4D1"
+				type: "item"
+				item: "minecraft:purpur_block"
+			}]
 		}
 		{
 			x: 4.0d
@@ -816,6 +1000,11 @@
 				id: "008F48864C0E6E10"
 				type: "item"
 				item: "industrialforegoing:mycelial_netherstar"
+			}]
+			rewards: [{
+				id: "05E51376DCFDB91F"
+				type: "item"
+				item: "cagedmobs:star_infused_netherite_block"
 			}]
 		}
 		{
@@ -829,11 +1018,16 @@
 				type: "item"
 				item: "industrialforegoing:black_hole_controller"
 			}]
+			rewards: [{
+				id: "44290304E1833989"
+				type: "item"
+				item: "minecraft:ender_chest"
+			}]
 		}
 		{
-			x: 0.0d
-			y: 2.5d
-			shape: "hexagon"
+			x: 1.0d
+			y: 3.5d
+			shape: "rsquare"
 			dependencies: ["211AE520741C4BC3"]
 			id: "65A3EE83AA1AF2B1"
 			tasks: [
@@ -864,12 +1058,17 @@
 					}
 				}
 			]
+			rewards: [{
+				id: "632406A27DBED981"
+				type: "item"
+				item: "tconstruct:manyullyn_ingot"
+			}]
 		}
 		{
 			x: 1.0d
 			y: 2.5d
-			shape: "hexagon"
-			dependencies: ["65A3EE83AA1AF2B1"]
+			shape: "rsquare"
+			dependencies: ["211AE520741C4BC3"]
 			id: "2BECE1380C330D07"
 			tasks: [
 				{
@@ -899,11 +1098,16 @@
 					}
 				}
 			]
+			rewards: [{
+				id: "789FE50D43304AAB"
+				type: "item"
+				item: "kubejs:diamond_block"
+			}]
 		}
 		{
-			x: -3.0d
+			x: -2.0d
 			y: 3.5d
-			shape: "hexagon"
+			shape: "rsquare"
 			dependencies: ["211AE520741C4BC3"]
 			id: "386166C028348E01"
 			tasks: [{
@@ -926,9 +1130,9 @@
 			}]
 		}
 		{
-			x: -3.0d
+			x: -2.0d
 			y: 2.5d
-			shape: "hexagon"
+			shape: "rsquare"
 			dependencies: ["386166C028348E01"]
 			id: "778218D3C06AAA46"
 			tasks: [{
@@ -951,9 +1155,9 @@
 			}]
 		}
 		{
-			x: -4.0d
+			x: -3.0d
 			y: 3.5d
-			shape: "hexagon"
+			shape: "rsquare"
 			dependencies: ["778218D3C06AAA46"]
 			id: "1E423C837A127E46"
 			tasks: [{
@@ -976,9 +1180,9 @@
 			}]
 		}
 		{
-			x: -4.0d
+			x: -3.0d
 			y: 2.5d
-			shape: "hexagon"
+			shape: "rsquare"
 			dependencies: ["1E423C837A127E46"]
 			id: "54695A5E2A0229A2"
 			tasks: [{
@@ -1001,9 +1205,9 @@
 			}]
 		}
 		{
-			x: -5.0d
+			x: -4.0d
 			y: 3.5d
-			shape: "hexagon"
+			shape: "rsquare"
 			dependencies: ["54695A5E2A0229A2"]
 			id: "5FC5B5E47FD90D71"
 			tasks: [{
@@ -1026,9 +1230,9 @@
 			}]
 		}
 		{
-			x: -5.0d
+			x: -4.0d
 			y: 2.5d
-			shape: "hexagon"
+			shape: "rsquare"
 			dependencies: ["5FC5B5E47FD90D71"]
 			id: "0B7740A7DDB50E0C"
 			tasks: [{
@@ -1051,9 +1255,9 @@
 			}]
 		}
 		{
-			x: -6.0d
+			x: -5.0d
 			y: 3.5d
-			shape: "hexagon"
+			shape: "rsquare"
 			dependencies: ["0B7740A7DDB50E0C"]
 			id: "7386412FF3787A29"
 			tasks: [{
@@ -1076,9 +1280,9 @@
 			}]
 		}
 		{
-			x: -6.0d
+			x: -5.0d
 			y: 2.5d
-			shape: "hexagon"
+			shape: "rsquare"
 			dependencies: ["7386412FF3787A29"]
 			id: "1D030420029ECF28"
 			tasks: [{
@@ -1101,9 +1305,9 @@
 			}]
 		}
 		{
-			x: -7.0d
+			x: -6.0d
 			y: 3.5d
-			shape: "hexagon"
+			shape: "rsquare"
 			dependencies: ["1D030420029ECF28"]
 			id: "7EF30467E1571153"
 			tasks: [{
@@ -1126,9 +1330,9 @@
 			}]
 		}
 		{
-			x: -7.0d
+			x: -6.0d
 			y: 2.5d
-			shape: "hexagon"
+			shape: "rsquare"
 			dependencies: ["7EF30467E1571153"]
 			id: "31DE0F2762616692"
 			tasks: [{
@@ -1151,9 +1355,9 @@
 			}]
 		}
 		{
-			x: -8.0d
+			x: -7.0d
 			y: 3.5d
-			shape: "hexagon"
+			shape: "rsquare"
 			dependencies: ["31DE0F2762616692"]
 			id: "1A03D3D1BA53BCB3"
 			tasks: [{
@@ -1176,9 +1380,9 @@
 			}]
 		}
 		{
-			x: -8.0d
+			x: -7.0d
 			y: 2.5d
-			shape: "hexagon"
+			shape: "rsquare"
 			dependencies: ["1A03D3D1BA53BCB3"]
 			id: "7EAF48F75A3E6B58"
 			tasks: [{
@@ -1201,10 +1405,10 @@
 			}]
 		}
 		{
-			x: 0.5d
-			y: 3.5d
-			shape: "hexagon"
-			dependencies: ["2BECE1380C330D07"]
+			x: 2.0d
+			y: 3.0d
+			shape: "rsquare"
+			dependencies: ["211AE520741C4BC3"]
 			id: "442D1C6B10862CF0"
 			tasks: [
 				{
@@ -1234,6 +1438,12 @@
 					}
 				}
 			]
+			rewards: [{
+				id: "44AE513759F57E7C"
+				type: "item"
+				item: "kubejs:platinum_ingot"
+				random_bonus: 3
+			}]
 		}
 		{
 			x: 5.5d
@@ -1250,11 +1460,12 @@
 				id: "4D4F7E62ED290769"
 				type: "item"
 				item: "berseria_sky:manronium_steel_block"
+				random_bonus: 3
 			}]
 		}
 		{
-			x: -2.0d
-			y: 2.5d
+			x: 0.0d
+			y: 3.0d
 			shape: "gear"
 			description: ["Craft Custom Empty Addons!"]
 			dependencies: ["3F19BE7FBB4C05C2"]
@@ -1268,6 +1479,7 @@
 				id: "44E87BFBAF727178"
 				type: "item"
 				item: "minecraft:iron_ingot"
+				random_bonus: 3
 			}]
 		}
 		{
@@ -1280,6 +1492,29 @@
 				id: "17A72AF51651328A"
 				type: "item"
 				item: "industrialforegoing:sewage_composter"
+			}]
+			rewards: [{
+				id: "4336072FC4A0D420"
+				type: "item"
+				item: "minecraft:bricks"
+			}]
+		}
+		{
+			x: 1.0d
+			y: 5.0d
+			shape: "hexagon"
+			dependencies: ["4AE8677756367E35"]
+			id: "559F6D711EE78CEA"
+			tasks: [{
+				id: "75D5C3D6FFBABB63"
+				type: "item"
+				item: "industrialforegoing:plant_fertilizer"
+			}]
+			rewards: [{
+				id: "6337C2950FF223BA"
+				type: "item"
+				item: "minecraft:iron_ingot"
+				random_bonus: 3
 			}]
 		}
 	]

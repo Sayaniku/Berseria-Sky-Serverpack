@@ -15,13 +15,6 @@ onEvent('jei.add.items', event => {
       item.of('mekanism:basic_logistical_transporter'), ('mekanism:advanced_logistical_transporter'), ('mekanism:elite_logistical_transporter'), ('mekanism:ultimate_logistical_transporter'), ('mekanism:basic_universal_cable'), ('mekanism:advanced_universal_cable'), ('mekanism:elite_universal_cable'), ('mekanism:ultimate_universal_cable'),('mekanism:basic_mechanical_pipe'), ('mekanism:advanced_mechanical_pipe'), ('mekanism:elite_mechanical_pipe'), ('mekanism:ultimate_mechanical_pipe')
       
    ])
-
-
-})
-//ajouter une description//
-events.listen('jei.information', function (e) {
-   e.add('mekanism:creative_fluid_tank', ['Can add every fluid to have the content infinite'])
-   e.add('mekanism:creative_chemical_tank', ['Can add every gas to have the content infinite'])
 })
 
 //caché les fluid sur JEI//

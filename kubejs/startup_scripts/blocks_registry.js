@@ -284,14 +284,20 @@ events.listen('block.registry', function (e) {
 
     //Diamond Block//
     e.create('diamond_block').material('metal').hardness(10.0)
-    .displayName('Diamond Block')
+    .displayName('Diamond Ingot Block')
     .harvestTool('pickaxe', 5)
     .requiresTool(true)
 
     //Simple Storage Casing//
-    e.create('berseria_sky:simple_storage_casing').material('stone').hardness(8.0)
+    e.create('berseria_sky:simple_storage_casing').material('stone').hardness(10.0)
     .displayName('Simple Storage Casing')
     .harvestTool('pickaxe', 2)
+    .requiresTool(true)
+
+    //Gaia Spirit Block//
+    e.create('gaia_spirit_block').material('metal').hardness(15.0)
+    .displayName('Gaia Spirit Block')
+    .harvestTool('pickaxe', 3)
     .requiresTool(true)
 
     //Comerald Block//
@@ -340,8 +346,8 @@ events.listen('block.registry', function (e) {
 
     //Fertilized Block//
     e.create('fertilized_block').material('stone').hardness(1.0)
-        .displayName('Fertilized Block')
-        .harvestTool('pickaxe', 1)
+    .displayName('Fertilized Block')
+    .harvestTool('pickaxe', 1)
 
     //Chaotic Crux//
     e.create('berseria_sky:chaotic_crux').material('stone').hardness(3.0)
@@ -597,28 +603,30 @@ events.listen('block.registry', function (e) {
     e.create('creative_crux').material('metal').hardness(50.0)
     .displayName('Creative Crux')
     .harvestTool('pickaxe', 4)
-    .type('crop')
+    .requiresTool(true)
+
+    //Creative Crystal//
+     e.create('berseria_sky:creative_crystal_block').material('metal').hardness(50.0)
+    .displayName('Block Of Creative Crystal')
+    .harvestTool('pickaxe', 4)
     .requiresTool(true)
 
     //Neutronium Crux//
     e.create('neutronium_crux').material('metal').hardness(35.0)
     .displayName('Neutronium Crux')
     .harvestTool('pickaxe', 4)
-    .type('crop')
     .requiresTool(true)
 
     //Infinity Crux//
     e.create('berseria_sky:infinity_crux').material('metal').hardness(100.0)
     .displayName('§cInfinity Crux')
     .harvestTool('pickaxe', 4)
-    .type('crop')
     .requiresTool(true)
 
     //Gaia Spirit Crux//
     e.create('gaia_spirit_crux').material('metal').hardness(15.0)
     .displayName('Gaia Spirit Crux')
     .harvestTool('pickaxe', 2)
-    .type('crop')
     .requiresTool(true)
 
 

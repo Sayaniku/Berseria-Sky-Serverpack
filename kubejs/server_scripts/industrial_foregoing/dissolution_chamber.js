@@ -19,7 +19,48 @@ events.listen('recipes', function (e) {
       Core('berseria_sky:manyerium_plate','botania:blaze_block','berseria_sky:fayronium_core','berseria_sky:manyerium_core')
       Core('berseria_sky:manronium_steel_plate','botania:blaze_block','berseria_sky:manyerium_core','berseria_sky:manronium_steel_core')
 
-
-
-
 })
+onEvent('recipes', (event) => {
+  const id_prefix = 'berseria_sky:industrialforegoing/dissolution_chamber/';
+
+  const recipes = [
+          {
+              inputs: [
+                  'thermal:machine_speed_augment',
+                  'berseria_sky:creative_augment_base',
+                  'thermal_extra:advanced_machine_speed_augment',
+                  'fluxnetworks:gargantuan_flux_storage',
+                  'fluxnetworks:gargantuan_flux_storage',
+                  'thermal:machine_efficiency_augment',
+                  'kubejs:bedrock',
+                  'thermal:machine_efficiency_augment'
+              ],
+              inputFluid: 'materialis:molten_starmetal',
+              inputFluidAmount: 20000,
+              processingTime: 800,
+              outputItem: { item: 'thermal:machine_efficiency_creative_augment', count: 1 },
+              outputFluid: '',
+              outputFluidAmount: 0,
+              id: `${id_prefix}creative_efficiency_augment`
+        },
+
+];
+
+recipes.forEach((recipe) => {
+    let ingredients = [];
+
+    recipe.inputs.forEach((input) => {
+        ingredients.push(Ingredient.of(input));
+    });
+
+    event.custom({
+            type: 'industrialforegoing:dissolution_chamber',
+            input: ingredients,
+            inputFluid: `{FluidName:"${recipe.inputFluid}",Amount:${recipe.inputFluidAmount}}`,
+            processingTime: recipe.processingTime,
+            output: recipe.outputItem,
+            outputFluid: `{FluidName:"${recipe.outputFluid}",Amount:${recipe.outputFluidAmount}}`
+        })
+        .id(recipe.id);
+});
+});

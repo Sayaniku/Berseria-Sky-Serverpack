@@ -1,8 +1,8 @@
 {
     "name": "Sun",
     "colors": [
-      "916e00",
-      "f9f581"
+      "f7e04e",
+      "f7e04e"
     ],
     "ingredient": {
       "item": "kubejs:sun_ingot"

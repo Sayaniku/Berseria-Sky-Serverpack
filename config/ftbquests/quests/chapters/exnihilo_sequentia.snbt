@@ -11,7 +11,7 @@
 	quests: [
 		{
 			x: -15.75d
-			y: 2.25d
+			y: 3.0d
 			shape: "rsquare"
 			description: ["Start with tree"]
 			dependencies: ["26E6F4A78214AB88"]
@@ -221,7 +221,7 @@
 			y: -2.0d
 			shape: "rsquare"
 			description: ["Got 64 Gravel"]
-			dependencies: ["7A9702F5872E94AC"]
+			dependencies: ["3047BDCA8034529B"]
 			id: "3E9A84A2BED33924"
 			tasks: [{
 				id: "36AE1A9566C9065D"
@@ -443,7 +443,7 @@
 			}]
 		}
 		{
-			x: -13.0d
+			x: -12.5d
 			y: 2.0d
 			shape: "square"
 			description: ["Craft  Any Barrel"]
@@ -472,7 +472,7 @@
 			}]
 		}
 		{
-			x: -15.5d
+			x: -14.5d
 			y: 4.0d
 			shape: "rsquare"
 			description: ["Collect Seed!"]
@@ -601,7 +601,7 @@
 		{
 			x: -13.5d
 			y: 1.0d
-			shape: "square"
+			shape: "rsquare"
 			dependencies: ["288AB4ACEFDDA577"]
 			id: "3CD254C6F5B4CCEA"
 			tasks: [
@@ -1092,7 +1092,7 @@
 			]
 		}
 		{
-			x: -12.5d
+			x: -11.5d
 			y: 4.0d
 			shape: "square"
 			description: ["Collect 10 Clay Block!"]
@@ -1185,7 +1185,7 @@
 			]
 		}
 		{
-			x: -12.0d
+			x: -11.5d
 			y: 2.0d
 			shape: "square"
 			description: ["For have your water!"]
@@ -1925,7 +1925,7 @@
 			}]
 		}
 		{
-			x: -6.0d
+			x: -5.5d
 			y: -6.0d
 			shape: "rsquare"
 			dependencies: ["2036A534762F87CA"]
@@ -1942,7 +1942,7 @@
 			}]
 		}
 		{
-			x: -9.0d
+			x: -8.5d
 			y: -6.0d
 			shape: "rsquare"
 			dependencies: ["7754A031F9101809"]
@@ -1960,7 +1960,7 @@
 			}]
 		}
 		{
-			x: -8.0d
+			x: -7.5d
 			y: -6.0d
 			shape: "rsquare"
 			dependencies: ["7754A031F9101809"]
@@ -2014,7 +2014,7 @@
 			}]
 		}
 		{
-			x: -11.0d
+			x: -10.5d
 			y: -6.0d
 			shape: "rsquare"
 			description: ["Kill 10 Zombie!"]
@@ -2034,7 +2034,7 @@
 			}]
 		}
 		{
-			x: -10.0d
+			x: -9.5d
 			y: -6.0d
 			shape: "rsquare"
 			description: ["Kill 10 Skeleton!"]
@@ -2096,7 +2096,7 @@
 			}]
 		}
 		{
-			x: -7.0d
+			x: -6.5d
 			y: -6.0d
 			shape: "rsquare"
 			description: ["Can Store XP!"]
@@ -2324,7 +2324,7 @@
 			}]
 		}
 		{
-			x: -13.5d
+			x: -12.5d
 			y: 4.0d
 			shape: "rsquare"
 			description: ["Collect all peeble!"]
@@ -2404,7 +2404,7 @@
 			}]
 		}
 		{
-			x: -14.5d
+			x: -13.5d
 			y: 4.0d
 			shape: "rsquare"
 			description: ["Craft 64 Compressed Dirt"]
@@ -2546,7 +2546,7 @@
 		{
 			x: -13.5d
 			y: 0.0d
-			shape: "square"
+			shape: "rsquare"
 			dependencies: ["5C3B65DA637E6BBC"]
 			id: "5C229C26B8B7111E"
 			tasks: [{
@@ -2937,11 +2937,7 @@
 			y: -1.0d
 			shape: "rsquare"
 			description: ["Automated Heavy Sieve!"]
-			hide_dependency_lines: true
-			dependencies: [
-				"5D965274E1754444"
-				"5C229C26B8B7111E"
-			]
+			dependencies: ["5D965274E1754444"]
 			id: "134370D01634C238"
 			tasks: [{
 				id: "6E54A3D3868BFBBD"
@@ -3291,7 +3287,7 @@
 			]
 		}
 		{
-			x: -11.5d
+			x: -12.5d
 			y: 1.0d
 			shape: "rsquare"
 			description: ["Craft Smithing Table! you can have netherite hammer and other , check JEI for more information!"]
@@ -3382,6 +3378,34 @@
 				id: "1215D5C722A33692"
 				type: "item"
 				item: "minecraft:gold_block"
+			}]
+		}
+		{
+			x: -11.5d
+			y: -7.0d
+			shape: "rsquare"
+			description: ["Drop from Wither Skeleton!"]
+			dependencies: ["1BF9246EF42B88FE"]
+			id: "7CC43B8C96B9C927"
+			tasks: [{
+				id: "1A3C2911D53B5775"
+				type: "item"
+				item: "bhc:red_heart"
+			}]
+		}
+		{
+			icon: "minecraft:wither_skeleton_skull"
+			x: -11.5d
+			y: -6.0d
+			shape: "rsquare"
+			description: ["Kill 10 Wither Skeleton!"]
+			dependencies: ["41F4A63B67CCFF1D"]
+			id: "1BF9246EF42B88FE"
+			tasks: [{
+				id: "1541B91DEF90B926"
+				type: "kill"
+				entity: "minecraft:wither_skeleton"
+				value: 10L
 			}]
 		}
 	]

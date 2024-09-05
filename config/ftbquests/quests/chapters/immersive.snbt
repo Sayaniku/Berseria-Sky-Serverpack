@@ -21,180 +21,180 @@
 			corner: false
 		}
 		{
-			x: -12.0d
-			y: -1.5d
-			width: 5.0d
-			height: 5.0d
-			rotation: 0.0d
-			image: "kubejs:textures/ftbquests/crusher.png"
-			hover: [ ]
-			click: ""
-			dev: false
-			corner: false
-		}
-		{
-			x: -18.5d
-			y: -1.5d
-			width: 5.0d
-			height: 5.0d
-			rotation: 0.0d
-			image: "kubejs:textures/ftbquests/sawmill.png"
-			hover: [ ]
-			click: ""
-			dev: false
-			corner: false
-		}
-		{
-			x: -18.5d
-			y: -7.5d
-			width: 5.0d
-			height: 5.0d
-			rotation: 0.0d
-			image: "kubejs:textures/ftbquests/assembler.png"
-			hover: [ ]
-			click: ""
-			dev: false
-			corner: false
-		}
-		{
-			x: -6.5d
-			y: -1.5d
-			width: 5.0d
-			height: 5.0d
-			rotation: 0.0d
-			image: "kubejs:textures/ftbquests/metal_press.png"
-			hover: [ ]
-			click: ""
-			dev: false
-			corner: false
-		}
-		{
-			x: -12.0d
-			y: -7.5d
-			width: 5.0d
-			height: 5.0d
-			rotation: 0.0d
-			image: "kubejs:textures/ftbquests/fermenter.png"
-			hover: [ ]
-			click: ""
-			dev: false
-			corner: false
-		}
-		{
-			x: -6.5d
-			y: -7.5d
-			width: 5.0d
-			height: 5.0d
-			rotation: 0.0d
-			image: "kubejs:textures/ftbquests/squeezer.png"
-			hover: [ ]
-			click: ""
-			dev: false
-			corner: false
-		}
-		{
-			x: 20.0d
-			y: -1.5d
-			width: 5.0d
-			height: 5.0d
-			rotation: 0.0d
-			image: "kubejs:textures/ftbquests/refinery.png"
-			hover: [ ]
-			click: ""
-			dev: false
-			corner: false
-		}
-		{
-			x: 13.5d
-			y: -1.5d
-			width: 5.0d
-			height: 5.0d
-			rotation: 0.0d
-			image: "kubejs:textures/ftbquests/mixer.png"
-			hover: [ ]
-			click: ""
-			dev: false
-			corner: false
-		}
-		{
-			x: 7.0d
-			y: -1.5d
-			width: 5.0d
-			height: 5.0d
-			rotation: 0.0d
-			image: "kubejs:textures/ftbquests/automated_workbench.png"
-			hover: [ ]
-			click: ""
-			dev: false
-			corner: false
-		}
-		{
-			x: 7.0d
+			x: 23.5d
 			y: -7.0d
 			width: 5.0d
 			height: 5.0d
 			rotation: 0.0d
-			image: "kubejs:textures/ftbquests/excavator.png"
+			image: "ftbquests:textures/quests/ie_crusher.png"
 			hover: [ ]
 			click: ""
 			dev: false
 			corner: false
 		}
 		{
-			x: 13.5d
+			x: -6.0d
+			y: 1.0d
+			width: 5.0d
+			height: 5.0d
+			rotation: 0.0d
+			image: "ftbquests:textures/quests/ie_sawmill.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -6.0d
 			y: -7.0d
 			width: 5.0d
 			height: 5.0d
 			rotation: 0.0d
-			image: "kubejs:textures/ftbquests/pumpjack.png"
+			image: "ftbquests:textures/quests/ie_assembler.png"
 			hover: [ ]
 			click: ""
 			dev: false
 			corner: false
 		}
 		{
-			x: 20.0d
+			x: 28.0d
 			y: -7.0d
 			width: 5.0d
 			height: 5.0d
 			rotation: 0.0d
-			image: "kubejs:textures/ftbquests/distillation_tower.png"
+			image: "ftbquests:textures/quests/ie_metal_press.png"
 			hover: [ ]
 			click: ""
 			dev: false
 			corner: false
 		}
 		{
-			x: 26.0d
+			x: 19.0d
+			y: 1.0d
+			width: 5.0d
+			height: 5.0d
+			rotation: 0.0d
+			image: "ftbquests:textures/quests/ie_fermenter.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 14.5d
+			y: 1.0d
+			width: 5.0d
+			height: 5.0d
+			rotation: 0.0d
+			image: "ftbquests:textures/quests/ie_squeezer.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 23.5d
+			y: 1.0d
+			width: 5.0d
+			height: 5.0d
+			rotation: 0.0d
+			image: "ftbquests:textures/quests/ie_refinery.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 10.0d
+			y: 1.0d
+			width: 5.0d
+			height: 5.0d
+			rotation: 0.0d
+			image: "ftbquests:textures/quests/ie_mixer.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 5.5d
+			y: 1.0d
+			width: 5.0d
+			height: 5.0d
+			rotation: 0.0d
+			image: "ftbquests:textures/quests/ie_automated_workbench.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 5.5d
 			y: -7.0d
 			width: 5.0d
 			height: 5.0d
 			rotation: 0.0d
-			image: "kubejs:textures/ftbquests/cooker.png"
+			image: "ftbquests:textures/quests/ie_excarvation.png"
 			hover: [ ]
 			click: ""
 			dev: false
 			corner: false
 		}
 		{
-			x: 26.0d
-			y: -1.5d
+			x: 10.0d
+			y: -7.0d
 			width: 5.0d
 			height: 5.0d
 			rotation: 0.0d
-			image: "kubejs:textures/ftbquests/diesel_generator.png"
+			image: "ftbquests:textures/quests/ie_jumpjack.png"
 			hover: [ ]
 			click: ""
 			dev: false
 			corner: false
 		}
 		{
-			x: -24.0d
-			y: -4.5d
+			x: 14.5d
+			y: -7.0d
 			width: 5.0d
 			height: 5.0d
 			rotation: 0.0d
-			image: "kubejs:textures/ftbquests/arc_furnace.png"
+			image: "ftbquests:textures/quests/ie_distillation_tower.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 19.0d
+			y: -7.0d
+			width: 5.0d
+			height: 5.0d
+			rotation: 0.0d
+			image: "ftbquests:textures/quests/ie_coker.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 28.0d
+			y: 1.0d
+			width: 5.0d
+			height: 5.0d
+			rotation: 0.0d
+			image: "ftbquests:textures/quests/ie_diesel_generator.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -10.5d
+			y: -3.0d
+			width: 5.0d
+			height: 5.0d
+			rotation: 0.0d
+			image: "ftbquests:textures/quests/ie_arc_furnace.png"
 			hover: [ ]
 			click: ""
 			dev: false
@@ -204,7 +204,7 @@
 	quests: [
 		{
 			x: -1.5d
-			y: -3.0d
+			y: -2.5d
 			shape: "gear"
 			dependencies: ["26E6F4A78214AB88"]
 			size: 2.0d
@@ -216,9 +216,9 @@
 			}]
 		}
 		{
-			x: -3.0d
-			y: -3.0d
-			shape: "hexagon"
+			x: 0.5d
+			y: -3.5d
+			shape: "rsquare"
 			dependencies: ["6D1AEF3BD5958793"]
 			id: "794624D9CF73F03B"
 			tasks: [{
@@ -233,9 +233,9 @@
 			}]
 		}
 		{
-			x: -3.0d
-			y: -4.0d
-			shape: "hexagon"
+			x: 0.5d
+			y: -1.5d
+			shape: "rsquare"
 			dependencies: ["6D1AEF3BD5958793"]
 			id: "30397343DBFDAB6A"
 			tasks: [{
@@ -257,8 +257,8 @@
 		}
 		{
 			x: -1.5d
-			y: -5.0d
-			shape: "hexagon"
+			y: -6.5d
+			shape: "rsquare"
 			dependencies: ["6D1AEF3BD5958793"]
 			id: "7234CEE253778570"
 			tasks: [{
@@ -273,9 +273,9 @@
 			}]
 		}
 		{
-			x: 0.0d
-			y: -5.0d
-			shape: "hexagon"
+			x: -1.5d
+			y: -4.5d
+			shape: "rsquare"
 			dependencies: ["7234CEE253778570"]
 			id: "360CDE1D0B60FE4F"
 			tasks: [{
@@ -284,11 +284,17 @@
 				item: "immersiveengineering:wirecoil_copper"
 				count: 4L
 			}]
+			rewards: [{
+				id: "3959FBB6C5BC52EE"
+				type: "item"
+				item: "createaddition:copper_wire"
+				random_bonus: 3
+			}]
 		}
 		{
-			x: -3.0d
-			y: -5.0d
-			shape: "hexagon"
+			x: -2.5d
+			y: -4.5d
+			shape: "rsquare"
 			dependencies: ["7234CEE253778570"]
 			id: "1A3E7F85EE266857"
 			tasks: [{
@@ -305,9 +311,9 @@
 			}]
 		}
 		{
-			x: -1.5d
-			y: -6.0d
-			shape: "hexagon"
+			x: -0.5d
+			y: -7.0d
+			shape: "rsquare"
 			dependencies: ["7234CEE253778570"]
 			id: "32423159B6409DE8"
 			tasks: [{
@@ -323,9 +329,9 @@
 			}]
 		}
 		{
-			x: -3.0d
-			y: -6.0d
-			shape: "hexagon"
+			x: -2.5d
+			y: -5.5d
+			shape: "rsquare"
 			dependencies: ["1A3E7F85EE266857"]
 			id: "206FB8D5C88B7376"
 			tasks: [{
@@ -342,9 +348,9 @@
 			}]
 		}
 		{
-			x: 0.0d
-			y: -6.0d
-			shape: "hexagon"
+			x: -1.5d
+			y: -5.5d
+			shape: "rsquare"
 			dependencies: ["360CDE1D0B60FE4F"]
 			id: "7A6D5355AAF186B9"
 			tasks: [{
@@ -355,9 +361,9 @@
 			}]
 		}
 		{
-			x: -3.0d
-			y: -7.0d
-			shape: "hexagon"
+			x: -2.5d
+			y: -6.5d
+			shape: "rsquare"
 			dependencies: ["206FB8D5C88B7376"]
 			id: "27F22C49E0BF6674"
 			tasks: [{
@@ -376,8 +382,8 @@
 		}
 		{
 			x: -1.5d
-			y: -7.0d
-			shape: "hexagon"
+			y: -7.5d
+			shape: "rsquare"
 			dependencies: ["32423159B6409DE8"]
 			id: "2B2A7684950F337C"
 			tasks: [{
@@ -393,9 +399,9 @@
 			}]
 		}
 		{
-			x: 0.0d
-			y: -7.0d
-			shape: "hexagon"
+			x: -0.5d
+			y: -6.0d
+			shape: "rsquare"
 			dependencies: ["7A6D5355AAF186B9"]
 			id: "329F0BDFA9797774"
 			tasks: [{
@@ -406,9 +412,9 @@
 			}]
 		}
 		{
-			x: -3.0d
-			y: -8.0d
-			shape: "hexagon"
+			x: -2.5d
+			y: -7.5d
+			shape: "rsquare"
 			dependencies: ["27F22C49E0BF6674"]
 			id: "7E5A87B14C35F5D5"
 			tasks: [{
@@ -425,7 +431,7 @@
 		}
 		{
 			x: -0.5d
-			y: -0.5d
+			y: 0.5d
 			shape: "hexagon"
 			dependencies: ["78A5CEA26BC0CECD"]
 			id: "43B741DEDEEB2729"
@@ -437,7 +443,7 @@
 		}
 		{
 			x: 0.5d
-			y: -0.5d
+			y: 0.5d
 			shape: "hexagon"
 			dependencies: ["43B741DEDEEB2729"]
 			id: "59F2BC249EB5F679"
@@ -448,8 +454,9 @@
 			}]
 		}
 		{
+			icon: "immersiveengineering:coke_oven"
 			x: -1.5d
-			y: -1.5d
+			y: -0.5d
 			shape: "hexagon"
 			subtitle: "Coke Oven"
 			description: ["{image:immersiveengineering:textures/block/multiblocks/coke_oven_off.png width:100 height:100 align:1}"]
@@ -464,7 +471,7 @@
 		}
 		{
 			x: -0.5d
-			y: -1.5d
+			y: -0.5d
 			shape: "hexagon"
 			dependencies: ["46D8708351F5099D"]
 			id: "58BFB9572922CC3F"
@@ -484,7 +491,7 @@
 		}
 		{
 			x: -1.5d
-			y: -0.5d
+			y: 0.5d
 			shape: "hexagon"
 			dependencies: ["58BFB9572922CC3F"]
 			id: "78A5CEA26BC0CECD"
@@ -504,7 +511,7 @@
 		}
 		{
 			x: -2.5d
-			y: -0.5d
+			y: 0.5d
 			shape: "hexagon"
 			dependencies: ["78A5CEA26BC0CECD"]
 			id: "1586638036E7D213"
@@ -522,7 +529,7 @@
 		}
 		{
 			x: -2.5d
-			y: -1.5d
+			y: -0.5d
 			shape: "hexagon"
 			dependencies: ["1586638036E7D213"]
 			id: "48F2AEB7083463BA"
@@ -539,7 +546,7 @@
 		}
 		{
 			x: -2.5d
-			y: 0.5d
+			y: 1.5d
 			shape: "hexagon"
 			dependencies: ["78A5CEA26BC0CECD"]
 			id: "7B7FFE2D4809E750"
@@ -551,26 +558,50 @@
 		}
 		{
 			x: 0.5d
-			y: 0.5d
+			y: 1.5d
 			shape: "hexagon"
 			dependencies: ["59F2BC249EB5F679"]
 			id: "56F28B22E5FBC05F"
-			tasks: [{
-				id: "7A5F9D4C52544AC0"
-				type: "item"
-				item: {
-					id: "immersiveengineering:blueprint"
-					Count: 1b
-					tag: {
-						blueprint: "molds"
+			tasks: [
+				{
+					id: "7A5F9D4C52544AC0"
+					type: "item"
+					item: {
+						id: "immersiveengineering:blueprint"
+						Count: 1b
+						tag: {
+							blueprint: "molds"
+						}
 					}
 				}
-			}]
+				{
+					id: "2D820A50814ECCDE"
+					type: "item"
+					item: {
+						id: "immersiveengineering:blueprint"
+						Count: 1b
+						tag: {
+							blueprint: "components"
+						}
+					}
+				}
+				{
+					id: "6B20B0CFD6251AC4"
+					type: "item"
+					item: {
+						id: "immersiveengineering:blueprint"
+						Count: 1b
+						tag: {
+							blueprint: "electrode"
+						}
+					}
+				}
+			]
 		}
 		{
-			x: -6.5d
-			y: -3.0d
-			shape: "octagon"
+			x: 28.0d
+			y: -9.5d
+			shape: "rsquare"
 			hide_dependency_lines: true
 			dependencies: ["794624D9CF73F03B"]
 			id: "01A220CF3174B88F"
@@ -582,10 +613,10 @@
 			}]
 		}
 		{
-			x: -6.5d
-			y: 0.0d
+			icon: "immersiveengineering:metal_press"
+			x: 28.0d
+			y: -5.5d
 			shape: "hexagon"
-			subtitle: "Metal Press"
 			hide_dependency_lines: true
 			dependencies: ["01A220CF3174B88F"]
 			id: "1D8D330572701EFA"
@@ -627,11 +658,11 @@
 			}]
 		}
 		{
-			x: -7.5d
-			y: 0.0d
-			shape: "hexagon"
+			x: 0.5d
+			y: 2.5d
+			shape: "rsquare"
 			subtitle: "Mold ( Plate / Gear)"
-			dependencies: ["1D8D330572701EFA"]
+			dependencies: ["56F28B22E5FBC05F"]
 			id: "002781842E4A0565"
 			tasks: [
 				{
@@ -647,8 +678,9 @@
 			]
 		}
 		{
+			icon: "immersiveengineering:alloy_smelter"
 			x: 0.5d
-			y: -3.0d
+			y: -2.5d
 			shape: "rsquare"
 			description: ["Small Alloy smelter!"]
 			dependencies: ["6D1AEF3BD5958793"]
@@ -659,10 +691,16 @@
 				item: "immersiveengineering:alloybrick"
 				count: 8L
 			}]
+			rewards: [{
+				id: "196B44094EE0D024"
+				type: "item"
+				item: "minecraft:brick"
+				random_bonus: 7
+			}]
 		}
 		{
 			x: 1.5d
-			y: -3.0d
+			y: -2.5d
 			shape: "rsquare"
 			description: ["Craft 64 Electrum Ingot!"]
 			dependencies: ["4D28B95DD897E750"]
@@ -683,7 +721,7 @@
 		}
 		{
 			x: 1.5d
-			y: -4.0d
+			y: -3.5d
 			shape: "rsquare"
 			description: ["Craft 64 Rose Gold!"]
 			dependencies: ["4D28B95DD897E750"]
@@ -704,7 +742,7 @@
 		}
 		{
 			x: 2.5d
-			y: -3.5d
+			y: -3.0d
 			shape: "rsquare"
 			description: ["Craft 64 Constantan Ingot!"]
 			dependencies: ["4D28B95DD897E750"]
@@ -725,7 +763,7 @@
 		}
 		{
 			x: 1.5d
-			y: -2.0d
+			y: -1.5d
 			shape: "rsquare"
 			description: ["Craft 64 Invar Ingot!"]
 			dependencies: ["4D28B95DD897E750"]
@@ -746,7 +784,7 @@
 		}
 		{
 			x: 2.5d
-			y: -2.5d
+			y: -2.0d
 			shape: "rsquare"
 			description: ["Craft 64 Bronze Ingot!"]
 			dependencies: ["4D28B95DD897E750"]
@@ -766,10 +804,10 @@
 			}]
 		}
 		{
-			x: -5.5d
-			y: 0.0d
-			shape: "hexagon"
-			dependencies: ["1D8D330572701EFA"]
+			x: 1.5d
+			y: 2.5d
+			shape: "rsquare"
+			dependencies: ["56F28B22E5FBC05F"]
 			id: "61CF664F526CBE70"
 			tasks: [
 				{
@@ -785,9 +823,9 @@
 			]
 		}
 		{
-			x: -12.0d
-			y: -3.0d
-			shape: "octagon"
+			x: 23.5d
+			y: -9.5d
+			shape: "rsquare"
 			hide_dependency_lines: true
 			dependencies: ["01A220CF3174B88F"]
 			id: "548D8ACD5CEEEFA8"
@@ -799,8 +837,9 @@
 			}]
 		}
 		{
-			x: -12.0d
-			y: 0.0d
+			icon: "immersiveengineering:crusher"
+			x: 23.5d
+			y: -5.5d
 			shape: "hexagon"
 			hide_dependency_lines: true
 			dependencies: ["548D8ACD5CEEEFA8"]
@@ -838,9 +877,10 @@
 			]
 		}
 		{
-			x: -18.5d
-			y: -3.0d
-			shape: "octagon"
+			title: "Sawmill Quest"
+			x: -6.0d
+			y: -1.5d
+			shape: "rsquare"
 			hide_dependency_lines: true
 			dependencies: ["548D8ACD5CEEEFA8"]
 			id: "2E79FE6A87F94A2D"
@@ -852,9 +892,10 @@
 			}]
 		}
 		{
-			x: -18.5d
-			y: 0.0d
-			shape: "hexagon"
+			icon: "immersiveengineering:sawmill"
+			x: -6.0d
+			y: 2.5d
+			shape: "rsquare"
 			hide_dependency_lines: true
 			dependencies: ["2E79FE6A87F94A2D"]
 			id: "260337F206EEB756"
@@ -895,11 +936,17 @@
 					count: 4L
 				}
 			]
+			rewards: [{
+				id: "1BDC1EB109A0D6DA"
+				type: "item"
+				item: "mekanism:block_steel"
+			}]
 		}
 		{
-			x: -18.5d
-			y: -9.0d
-			shape: "octagon"
+			title: "Assembler Quest!"
+			x: -6.0d
+			y: -9.5d
+			shape: "rsquare"
 			hide_dependency_lines: true
 			dependencies: ["2E79FE6A87F94A2D"]
 			id: "50CA96C5BBE28217"
@@ -911,9 +958,10 @@
 			}]
 		}
 		{
-			x: -18.5d
-			y: -6.0d
-			shape: "hexagon"
+			icon: "immersiveengineering:assembler"
+			x: -6.0d
+			y: -5.5d
+			shape: "rsquare"
 			hide_dependency_lines: true
 			dependencies: ["50CA96C5BBE28217"]
 			id: "5D1EF5BAF4C31E90"
@@ -945,7 +993,7 @@
 				{
 					id: "549DBB56240C8179"
 					type: "item"
-					item: "immersiveengineering:heavy_engineering"
+					item: { id: "immersiveengineering:light_engineering", Count: 2b }
 					count: 2L
 				}
 				{
@@ -955,11 +1003,16 @@
 					count: 9L
 				}
 			]
+			rewards: [{
+				id: "3A56209330381F9C"
+				type: "item"
+				item: "mekanism:block_steel"
+			}]
 		}
 		{
-			x: -12.0d
-			y: -9.0d
-			shape: "octagon"
+			x: 19.0d
+			y: -1.5d
+			shape: "rsquare"
 			hide_dependency_lines: true
 			dependencies: ["50CA96C5BBE28217"]
 			id: "0BCA45C554C85235"
@@ -971,8 +1024,9 @@
 			}]
 		}
 		{
-			x: -12.0d
-			y: -6.0d
+			icon: "immersiveengineering:fermenter"
+			x: 19.0d
+			y: 2.5d
 			shape: "hexagon"
 			hide_dependency_lines: true
 			dependencies: ["0BCA45C554C85235"]
@@ -1016,8 +1070,8 @@
 			]
 		}
 		{
-			x: -6.5d
-			y: -9.0d
+			x: 14.5d
+			y: -1.5d
 			shape: "octagon"
 			hide_dependency_lines: true
 			dependencies: ["0BCA45C554C85235"]
@@ -1030,8 +1084,9 @@
 			}]
 		}
 		{
-			x: -6.5d
-			y: -6.0d
+			icon: "immersiveengineering:squeezer"
+			x: 14.5d
+			y: 2.5d
 			shape: "hexagon"
 			hide_dependency_lines: true
 			dependencies: ["48EF4FC7943153C4"]
@@ -1080,9 +1135,10 @@
 			]
 		}
 		{
-			x: 20.0d
-			y: -3.0d
-			shape: "octagon"
+			title: "Refinery"
+			x: 23.5d
+			y: -1.5d
+			shape: "rsquare"
 			hide_dependency_lines: true
 			dependencies: ["01A220CF3174B88F"]
 			id: "715B9A24B89E5DFF"
@@ -1094,9 +1150,10 @@
 			}]
 		}
 		{
-			x: 20.0d
-			y: 0.0d
-			shape: "hexagon"
+			icon: "immersiveengineering:refinery"
+			x: 23.5d
+			y: 2.5d
+			shape: "rsquare"
 			hide_dependency_lines: true
 			dependencies: ["715B9A24B89E5DFF"]
 			id: "110D5D6C91669901"
@@ -1139,9 +1196,9 @@
 			]
 		}
 		{
-			x: 13.5d
-			y: -3.0d
-			shape: "octagon"
+			x: 10.0d
+			y: -1.5d
+			shape: "hexagon"
 			hide_dependency_lines: true
 			dependencies: ["715B9A24B89E5DFF"]
 			id: "2CC015ABD6197D5A"
@@ -1153,8 +1210,9 @@
 			}]
 		}
 		{
-			x: 13.5d
-			y: 0.0d
+			icon: "immersiveengineering:mixer"
+			x: 10.0d
+			y: 2.5d
 			shape: "hexagon"
 			hide_dependency_lines: true
 			dependencies: ["2CC015ABD6197D5A"]
@@ -1197,8 +1255,9 @@
 			]
 		}
 		{
-			x: 7.0d
-			y: 0.0d
+			icon: "immersiveengineering:auto_workbench"
+			x: 5.5d
+			y: 2.5d
 			shape: "hexagon"
 			hide_dependency_lines: true
 			dependencies: ["69AE7D5FD47E8FE4"]
@@ -1246,11 +1305,16 @@
 					count: 4L
 				}
 			]
+			rewards: [{
+				id: "3DBA50798C85EB77"
+				type: "item"
+				item: "mekanism:block_steel"
+			}]
 		}
 		{
-			x: 7.0d
-			y: -3.0d
-			shape: "octagon"
+			x: 5.5d
+			y: -1.5d
+			shape: "rsquare"
 			hide_dependency_lines: true
 			dependencies: ["2CC015ABD6197D5A"]
 			id: "69AE7D5FD47E8FE4"
@@ -1262,9 +1326,9 @@
 			}]
 		}
 		{
-			x: 7.0d
-			y: -8.5d
-			shape: "octagon"
+			x: 5.5d
+			y: -9.5d
+			shape: "rsquare"
 			hide_dependency_lines: true
 			dependencies: ["6D1AEF3BD5958793"]
 			id: "4308520EE6D34E73"
@@ -1276,7 +1340,8 @@
 			}]
 		}
 		{
-			x: 7.0d
+			icon: "immersiveengineering:excavator"
+			x: 5.5d
 			y: -5.5d
 			shape: "hexagon"
 			hide_dependency_lines: true
@@ -1321,9 +1386,9 @@
 			]
 		}
 		{
-			x: 13.5d
-			y: -8.5d
-			shape: "octagon"
+			x: 10.0d
+			y: -9.5d
+			shape: "rsquare"
 			hide_dependency_lines: true
 			dependencies: ["4308520EE6D34E73"]
 			id: "21D806324C3FE455"
@@ -1335,9 +1400,9 @@
 			}]
 		}
 		{
-			x: 20.0d
-			y: -8.5d
-			shape: "octagon"
+			x: 14.5d
+			y: -9.5d
+			shape: "rsquare"
 			hide_dependency_lines: true
 			dependencies: ["21D806324C3FE455"]
 			id: "7E195435CEB1FFBB"
@@ -1349,8 +1414,9 @@
 			}]
 		}
 		{
-			x: 20.0d
-			y: -5.5d
+			icon: "immersivepetroleum:distillationtower"
+			x: 16.0d
+			y: -6.5d
 			shape: "hexagon"
 			hide_dependency_lines: true
 			dependencies: [
@@ -1397,7 +1463,8 @@
 			]
 		}
 		{
-			x: 13.5d
+			icon: "immersivepetroleum:pumpjack"
+			x: 10.0d
 			y: -5.5d
 			shape: "hexagon"
 			hide_dependency_lines: true
@@ -1442,7 +1509,7 @@
 				{
 					id: "0F97229A2857174F"
 					type: "item"
-					item: "mekanism:block_steel"
+					item: "immersiveengineering:storage_steel"
 					count: 2L
 				}
 				{
@@ -1454,7 +1521,7 @@
 			]
 		}
 		{
-			x: 14.5d
+			x: 9.0d
 			y: -5.5d
 			shape: "hexagon"
 			dependencies: ["0A07E11740D4B2B7"]
@@ -1464,22 +1531,37 @@
 				type: "item"
 				item: "immersivepetroleum:oil_bucket"
 			}]
+			rewards: [{
+				id: "356D6424742F88CC"
+				type: "item"
+				item: "immersivepetroleum:oil_bucket"
+			}]
 		}
 		{
-			x: 21.0d
+			x: 16.0d
 			y: -5.5d
 			shape: "hexagon"
+			subtitle: "Challenge Quest!"
+			description: ["Collect 256 Block of Bitumen!"]
 			dependencies: ["0CA2009C1035E23E"]
 			id: "79F0FD440D5CC6E7"
 			tasks: [{
 				id: "3BA4334A6E0DE68A"
 				type: "item"
 				item: "thermal:bitumen_block"
+				count: 256L
+			}]
+			rewards: [{
+				id: "297CFD8D46F1E14E"
+				type: "item"
+				item: "thermal:bitumen_block"
+				count: 32
+				random_bonus: 32
 			}]
 		}
 		{
-			x: 19.0d
-			y: -5.5d
+			x: 16.0d
+			y: -7.5d
 			shape: "hexagon"
 			dependencies: ["0CA2009C1035E23E"]
 			id: "1C028068E776066E"
@@ -1502,9 +1584,9 @@
 			]
 		}
 		{
-			x: 26.0d
-			y: -8.5d
-			shape: "octagon"
+			x: 19.0d
+			y: -9.5d
+			shape: "rsquare"
 			hide_dependency_lines: true
 			dependencies: ["7E195435CEB1FFBB"]
 			id: "1CEE6E9750615C54"
@@ -1516,19 +1598,23 @@
 			}]
 		}
 		{
-			x: 24.5d
+			x: 20.5d
 			y: -6.5d
 			shape: "hexagon"
+			subtitle: "Challenge Quest!"
+			description: ["Collect 256 Block of Petcoke"]
 			dependencies: ["69B748476B3A8353"]
 			id: "56ACCED7223CD4C9"
 			tasks: [{
 				id: "3D6A9FE313977659"
 				type: "item"
 				item: "immersivepetroleum:petcoke_block"
+				count: 256L
 			}]
 		}
 		{
-			x: 24.5d
+			icon: "immersivepetroleum:cokerunit"
+			x: 20.5d
 			y: -5.5d
 			shape: "hexagon"
 			hide_dependency_lines: true
@@ -1608,15 +1694,16 @@
 				}
 			]
 			rewards: [{
-				id: "741BCACDFC4188C6"
+				id: "0B05A15E4EB7D213"
 				type: "item"
-				item: "immersiveengineering:dust_hop_graphite"
+				item: "mekanism:block_steel"
+				random_bonus: 11
 			}]
 		}
 		{
-			x: -11.0d
-			y: 0.0d
-			shape: "hexagon"
+			x: 22.5d
+			y: -5.5d
+			shape: "rsquare"
 			dependencies: ["7D8F79460A73847E"]
 			id: "0B5AA03FFB684EE4"
 			tasks: [{
@@ -1625,37 +1712,17 @@
 				item: "immersivepetroleum:petcoke_dust"
 				count: 64L
 			}]
-		}
-		{
-			x: -7.5d
-			y: -6.0d
-			shape: "hexagon"
-			hide_dependency_lines: true
-			dependencies: ["78861D6810E52174"]
-			id: "184031F149002D16"
-			tasks: [{
-				id: "15C9D4EE65C4197F"
+			rewards: [{
+				id: "231ACB9E0A5C92D5"
 				type: "item"
-				item: "immersivepetroleum:petcoke_dust"
-				count: 64L
-			}]
-		}
-		{
-			x: -8.0d
-			y: -7.0d
-			shape: "hexagon"
-			hide_dependency_lines: true
-			dependencies: ["184031F149002D16"]
-			id: "61361500447A740D"
-			tasks: [{
-				id: "503B402D7AE486EA"
-				type: "item"
-				item: "kubejs:hop_graphite_block"
+				item: "immersivepetroleum:petcoke"
+				count: 12
+				random_bonus: 20
 			}]
 		}
 		{
 			x: -0.5d
-			y: 0.5d
+			y: 1.5d
 			shape: "hexagon"
 			dependencies: ["56F28B22E5FBC05F"]
 			id: "07665B93C408D138"
@@ -1687,8 +1754,9 @@
 			]
 		}
 		{
+			icon: "immersiveengineering:blast_furnace"
 			x: -1.5d
-			y: 0.5d
+			y: 1.5d
 			shape: "hexagon"
 			subtitle: "Crude Blast Furnace"
 			description: ["{image:immersiveengineering:textures/block/multiblocks/blast_furnace_off.png width:100 height:100 align:1}"]
@@ -1707,10 +1775,10 @@
 			}]
 		}
 		{
-			x: -8.0d
-			y: -1.0d
+			x: 27.0d
+			y: -5.5d
 			shape: "gear"
-			dependencies: ["002781842E4A0565"]
+			dependencies: ["1D8D330572701EFA"]
 			id: "2A6D59044F953F98"
 			tasks: [
 				{
@@ -1731,10 +1799,10 @@
 			]
 		}
 		{
-			x: -5.0d
-			y: -1.0d
-			shape: "gear"
-			dependencies: ["61CF664F526CBE70"]
+			x: 29.0d
+			y: -5.5d
+			shape: "hexagon"
+			dependencies: ["1D8D330572701EFA"]
 			id: "62150B85B700B909"
 			tasks: [
 				{
@@ -1759,26 +1827,42 @@
 		}
 		{
 			x: -1.5d
-			y: 1.5d
+			y: 2.5d
+			shape: "rsquare"
 			dependencies: ["4B77D9585485E003"]
 			id: "219C68E4807585FD"
-			tasks: [{
-				id: "441F60DF046380A9"
-				type: "item"
-				item: "thermal:slag"
-				count: 64L
-			}]
-			rewards: [{
-				id: "70C8543F0B6D4CEA"
-				type: "item"
-				item: "thermal:slag_block"
-				random_bonus: 3
-			}]
+			tasks: [
+				{
+					id: "441F60DF046380A9"
+					type: "item"
+					item: "thermal:slag"
+					count: 64L
+				}
+				{
+					id: "5A3C673058D45C79"
+					type: "item"
+					item: "mekanism:ingot_steel"
+					count: 12L
+				}
+			]
+			rewards: [
+				{
+					id: "70C8543F0B6D4CEA"
+					type: "item"
+					item: "thermal:slag_block"
+					random_bonus: 3
+				}
+				{
+					id: "6F4B78C14B8052A5"
+					type: "item"
+					item: "mekanism:block_steel"
+				}
+			]
 		}
 		{
-			x: 26.0d
-			y: -3.0d
-			shape: "octagon"
+			x: 28.0d
+			y: -1.5d
+			shape: "rsquare"
 			hide_dependency_lines: true
 			dependencies: ["715B9A24B89E5DFF"]
 			id: "05853A86E6F671B5"
@@ -1790,10 +1874,10 @@
 			}]
 		}
 		{
-			x: 26.0d
-			y: 0.0d
+			icon: "immersiveengineering:diesel_generator"
+			x: 28.0d
+			y: 2.5d
 			shape: "hexagon"
-			subtitle: "Diesel Generator"
 			description: ["Produced 4096rf/tick"]
 			hide_dependency_lines: true
 			dependencies: ["05853A86E6F671B5"]
@@ -1835,12 +1919,16 @@
 					count: 5L
 				}
 			]
+			rewards: [{
+				id: "4489B49A056E9982"
+				type: "item"
+				item: "immersiveengineering:biodiesel_bucket"
+			}]
 		}
 		{
-			x: -5.5d
-			y: -6.0d
+			x: 15.5d
+			y: 2.5d
 			shape: "hexagon"
-			hide_dependency_lines: true
 			dependencies: ["78861D6810E52174"]
 			id: "6B48D61B372AC4E9"
 			tasks: [{
@@ -1850,20 +1938,8 @@
 			}]
 		}
 		{
-			x: 27.0d
-			y: 0.0d
-			shape: "hexagon"
-			dependencies: ["3A69D48494F10CE5"]
-			id: "5F5B73056A1E8EAB"
-			tasks: [{
-				id: "0DF1C89219E5A795"
-				type: "item"
-				item: "immersiveengineering:biodiesel_bucket"
-			}]
-		}
-		{
-			x: -11.0d
-			y: -6.0d
+			x: 20.0d
+			y: 2.5d
 			shape: "hexagon"
 			dependencies: ["738C21BA5106464B"]
 			id: "627F3A96E3390201"
@@ -1874,9 +1950,10 @@
 			}]
 		}
 		{
-			x: -24.0d
-			y: -6.0d
-			shape: "octagon"
+			title: "Arc Furnace Quest!"
+			x: -10.5d
+			y: -5.5d
+			shape: "rsquare"
 			hide_dependency_lines: true
 			dependencies: [
 				"2E79FE6A87F94A2D"
@@ -1891,9 +1968,10 @@
 			}]
 		}
 		{
-			x: -24.0d
-			y: -3.0d
-			shape: "hexagon"
+			icon: "immersiveengineering:arc_furnace"
+			x: -10.5d
+			y: -1.5d
+			shape: "rsquare"
 			hide_dependency_lines: true
 			dependencies: ["7E0D4F8C645CBA3D"]
 			id: "59F80B24FE2B0E00"
@@ -1913,8 +1991,9 @@
 				{
 					id: "44D326FF07407288"
 					type: "item"
-					item: "mekanism:block_steel"
-					count: 8L
+					secret: true
+					item: "immersiveengineering:storage_steel"
+					count: 6L
 				}
 				{
 					id: "70EA823837522288"
@@ -1954,35 +2033,41 @@
 		}
 		{
 			x: -2.5d
-			y: 1.5d
-			shape: "hexagon"
+			y: 2.5d
+			shape: "gear"
 			description: ["Craft 64 Black Concrete"]
 			dependencies: ["219C68E4807585FD"]
 			id: "36CA91390B15DC77"
-			tasks: [{
-				id: "6EEED196C2EC1AD6"
-				type: "item"
-				item: "minecraft:black_concrete"
-				count: 64L
-			}]
-		}
-		{
-			x: -0.5d
-			y: 1.5d
-			shape: "hexagon"
-			description: ["Craft 64 White Concrete"]
-			dependencies: ["219C68E4807585FD"]
-			id: "507AD2678BBCCB41"
-			tasks: [{
-				id: "07321454C62B83D1"
-				type: "item"
-				item: "minecraft:white_concrete"
-				count: 64L
-			}]
+			tasks: [
+				{
+					id: "6EEED196C2EC1AD6"
+					type: "item"
+					item: "minecraft:black_concrete"
+					count: 8L
+				}
+				{
+					id: "58AF3DCFCD39A780"
+					type: "item"
+					item: "minecraft:white_concrete"
+					count: 8L
+				}
+			]
+			rewards: [
+				{
+					id: "0CDD0FB453462991"
+					type: "item"
+					item: "minecraft:black_concrete"
+				}
+				{
+					id: "154099B7F12B27FF"
+					type: "item"
+					item: "minecraft:white_concrete"
+				}
+			]
 		}
 		{
 			x: 1.5d
-			y: -0.5d
+			y: 0.5d
 			shape: "hexagon"
 			dependencies: ["59F2BC249EB5F679"]
 			id: "657645F34F522F4A"
@@ -1993,21 +2078,109 @@
 			}]
 		}
 		{
-			x: 1.5d
-			y: 0.5d
-			shape: "hexagon"
-			dependencies: ["59F2BC249EB5F679"]
-			id: "19BBA392CC28CE09"
+			x: 24.5d
+			y: 2.5d
+			shape: "rsquare"
+			dependencies: ["110D5D6C91669901"]
+			id: "5BA547F132455AE9"
 			tasks: [{
-				id: "3F569C9877757CBE"
+				id: "04B176FE9AB25AF8"
+				type: "item"
+				item: "immersiveengineering:biodiesel_bucket"
+			}]
+		}
+		{
+			x: -5.0d
+			y: 2.5d
+			shape: "octagon"
+			dependencies: ["260337F206EEB756"]
+			id: "3DF4856CC0325976"
+			tasks: [{
+				id: "02EA49C22280AB52"
+				type: "item"
+				item: "thermal:sawdust"
+				count: 64L
+			}]
+		}
+		{
+			x: 11.0d
+			y: 2.5d
+			shape: "hexagon"
+			dependencies: ["2375024AEAC9D156"]
+			id: "6995F629D2E89C52"
+			tasks: [{
+				id: "683ABA57F1063D05"
+				type: "item"
+				item: "immersiveengineering:herbicide_bucket"
+			}]
+		}
+		{
+			x: 1.5d
+			y: 1.5d
+			shape: "rsquare"
+			dependencies: ["56F28B22E5FBC05F"]
+			id: "0CC2035D1AB453D8"
+			tasks: [{
+				id: "6D71212E86C7A738"
 				type: "item"
 				item: {
-					id: "immersiveengineering:blueprint"
+					id: "immersiveengineering:graphite_electrode"
 					Count: 1b
 					tag: {
-						blueprint: "components"
+						graphDmg: 0
 					}
 				}
+				count: 3L
+			}]
+		}
+		{
+			icon: "immersiveengineering:advanced_blast_furnace"
+			x: -0.5d
+			y: 2.5d
+			shape: "rsquare"
+			description: ["Upgrade to Improved Blast Furnace!"]
+			dependencies: ["219C68E4807585FD"]
+			id: "6747352F040D1697"
+			tasks: [
+				{
+					id: "6FAB85F957296164"
+					type: "item"
+					item: "immersiveengineering:blastbrick_reinforced"
+					count: 27L
+				}
+				{
+					id: "221084264C0418C6"
+					type: "item"
+					item: "minecraft:hopper"
+				}
+			]
+		}
+		{
+			x: 24.5d
+			y: -5.5d
+			shape: "rsquare"
+			subtitle: "Challenge Quest"
+			description: ["Collect 256 HOP Graphite Block"]
+			dependencies: ["0B5AA03FFB684EE4"]
+			id: "6252582E11BE21E7"
+			tasks: [{
+				id: "21812854F5C5A3C7"
+				type: "item"
+				item: "kubejs:hop_graphite_block"
+				count: 256L
+			}]
+		}
+		{
+			x: -9.5d
+			y: -1.5d
+			shape: "rsquare"
+			dependencies: ["59F80B24FE2B0E00"]
+			id: "61872F9B23F162C0"
+			tasks: [{
+				id: "23E0A7192D163E9F"
+				type: "item"
+				item: "thermal:enderium_ingot"
+				count: 64L
 			}]
 		}
 	]

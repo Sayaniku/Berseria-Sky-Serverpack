@@ -1,37 +1,6 @@
 events.listen('recipes', function (e) { 
 
-   //Enderium//
-    e.custom({ 
-        "type": "create:mixing",
-        "ingredients": [
-          {"item": "kubejs:diamond_ingot"},
-          {"item": "thermal:lead_ingot"},
-          {"item": "thermal:lead_ingot"},
-          {"item": "thermal:lead_ingot"},
-          {"item": "extendedcrafting:ender_ingot"},
-          {"item": "extendedcrafting:ender_ingot"}
-        ],"results": [
-          {"item": "thermal:enderium_ingot",
-            "count": 2}
-        ],
-        "heatRequirement": "heated"})
-
-     //Lumium//   
-    e.custom({ 
-        "type": "create:mixing",
-        "ingredients": [
-          {"item": "thermal:silver_ingot"},
-          {"item": "thermal:tin_ingot"},
-          {"item": "thermal:tin_ingot"},
-          {"item": "thermal:tin_ingot"},
-          {"item": "minecraft:glowstone_dust"},
-          {"item": "minecraft:glowstone_dust"}
-        ],"results": [
-          {"item": "thermal:lumium_ingot",
-            "count": 4}
-        ],
-        "heatRequirement": "heated"
-    }) 
+ 
     //Invar//   
     e.custom({ 
         "type": "create:mixing",
@@ -45,24 +14,7 @@ events.listen('recipes', function (e) {
         ],
         "heatRequirement": "heated"
     }) 
-    //signalum//   
-    e.custom({ 
-        "type": "create:mixing",
-        "ingredients": [
-          {"item": "thermal:silver_ingot"},
-          {"item": "thermal:copper_ingot"},
-          {"item": "thermal:copper_ingot"},
-          {"item": "thermal:copper_ingot"},
-          {"item": "extendedcrafting:redstone_ingot"},
-          {"item": "extendedcrafting:redstone_ingot"},
-          {"item": "extendedcrafting:redstone_ingot"},
-          {"item": "extendedcrafting:redstone_ingot"}
-        ],"results": [
-          {"item": "thermal:signalum_ingot",
-            "count": 4}
-        ],
-        "heatRequirement": "heated"
-    }) 
+
     //netherite//   
     e.custom({ 
         "type": "create:mixing",

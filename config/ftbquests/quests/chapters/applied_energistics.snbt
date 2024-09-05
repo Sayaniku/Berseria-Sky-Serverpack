@@ -11,10 +11,9 @@
 	quests: [
 		{
 			x: 0.5d
-			y: -1.0d
-			shape: "gear"
+			y: -0.5d
+			shape: "rsquare"
 			dependencies: ["5F78D23897D3D203"]
-			size: 1.2d
 			id: "5B5A837DA731E909"
 			tasks: [{
 				id: "446E1C0EBD0894AB"
@@ -47,7 +46,7 @@
 		}
 		{
 			x: -2.0d
-			y: -2.0d
+			y: -2.5d
 			shape: "hexagon"
 			dependencies: ["516210559EDF46FE"]
 			id: "45A0B51D158FB50C"
@@ -66,7 +65,7 @@
 		}
 		{
 			x: 0.5d
-			y: -3.5d
+			y: -3.0d
 			shape: "hexagon"
 			description: ["Craft 1 Stack Printed!"]
 			dependencies: ["11E084B3C54527CF"]
@@ -130,7 +129,7 @@
 		}
 		{
 			x: 0.5d
-			y: -4.5d
+			y: -4.0d
 			shape: "hexagon"
 			dependencies: ["71A4C28AA7541B09"]
 			id: "66C2519CCD5DE9EC"
@@ -180,7 +179,7 @@
 		}
 		{
 			x: -1.0d
-			y: -2.0d
+			y: -2.5d
 			shape: "hexagon"
 			dependencies: ["5B5A837DA731E909"]
 			id: "516210559EDF46FE"
@@ -208,7 +207,7 @@
 		}
 		{
 			x: -0.5d
-			y: -4.0d
+			y: -4.5d
 			shape: "hexagon"
 			dependencies: ["66C2519CCD5DE9EC"]
 			id: "469D4C884268A6E6"
@@ -241,7 +240,7 @@
 		}
 		{
 			x: -1.5d
-			y: -4.0d
+			y: -4.5d
 			shape: "hexagon"
 			dependencies: ["469D4C884268A6E6"]
 			id: "176FA48DC93D2888"
@@ -261,7 +260,7 @@
 			}]
 		}
 		{
-			x: 2.5d
+			x: 3.0d
 			y: -4.0d
 			shape: "hexagon"
 			dependencies: ["0F9BC0288B2EBF8C"]
@@ -278,7 +277,7 @@
 			}]
 		}
 		{
-			x: 3.5d
+			x: 4.0d
 			y: -4.0d
 			shape: "hexagon"
 			dependencies: ["7559F349F4EB4565"]
@@ -295,7 +294,7 @@
 			}]
 		}
 		{
-			x: 4.5d
+			x: 5.0d
 			y: -4.0d
 			shape: "hexagon"
 			dependencies: ["192FDB061AE506CD"]
@@ -312,7 +311,7 @@
 			}]
 		}
 		{
-			x: 5.5d
+			x: 6.0d
 			y: -4.0d
 			shape: "hexagon"
 			dependencies: ["7B60FDC359C3F6F4"]
@@ -329,7 +328,7 @@
 			}]
 		}
 		{
-			x: 6.5d
+			x: 7.0d
 			y: -4.0d
 			shape: "hexagon"
 			dependencies: ["220B746C025B6CE6"]
@@ -346,7 +345,7 @@
 			}]
 		}
 		{
-			x: 7.5d
+			x: 8.0d
 			y: -4.0d
 			shape: "hexagon"
 			dependencies: ["682B463D12F9FC24"]
@@ -363,7 +362,7 @@
 			}]
 		}
 		{
-			x: 8.5d
+			x: 9.0d
 			y: -4.0d
 			shape: "hexagon"
 			dependencies: ["31ACFA70B01FF1D6"]
@@ -380,7 +379,7 @@
 			}]
 		}
 		{
-			x: 9.5d
+			x: 10.0d
 			y: -4.0d
 			shape: "hexagon"
 			dependencies: ["6AECA9DB57BA338C"]
@@ -397,7 +396,7 @@
 			}]
 		}
 		{
-			x: 1.5d
+			x: 2.0d
 			y: -5.0d
 			shape: "hexagon"
 			dependencies: ["2B0CA84CB8222729"]
@@ -409,7 +408,7 @@
 			}]
 		}
 		{
-			x: 2.5d
+			x: 3.0d
 			y: -5.0d
 			shape: "hexagon"
 			dependencies: [
@@ -424,7 +423,7 @@
 			}]
 		}
 		{
-			x: 3.5d
+			x: 4.0d
 			y: -5.0d
 			shape: "hexagon"
 			dependencies: [
@@ -439,7 +438,7 @@
 			}]
 		}
 		{
-			x: 4.5d
+			x: 5.0d
 			y: -5.0d
 			shape: "hexagon"
 			dependencies: [
@@ -454,7 +453,7 @@
 			}]
 		}
 		{
-			x: 5.5d
+			x: 6.0d
 			y: -5.0d
 			shape: "hexagon"
 			dependencies: [
@@ -469,7 +468,7 @@
 			}]
 		}
 		{
-			x: 6.5d
+			x: 7.0d
 			y: -5.0d
 			shape: "hexagon"
 			dependencies: [
@@ -484,7 +483,7 @@
 			}]
 		}
 		{
-			x: 7.5d
+			x: 8.0d
 			y: -5.0d
 			shape: "hexagon"
 			dependencies: [
@@ -499,7 +498,7 @@
 			}]
 		}
 		{
-			x: 8.5d
+			x: 9.0d
 			y: -5.0d
 			shape: "hexagon"
 			dependencies: [
@@ -514,7 +513,7 @@
 			}]
 		}
 		{
-			x: 9.5d
+			x: 10.0d
 			y: -5.0d
 			shape: "hexagon"
 			dependencies: [
@@ -529,7 +528,7 @@
 			}]
 		}
 		{
-			x: 2.5d
+			x: 3.0d
 			y: -1.0d
 			shape: "hexagon"
 			dependencies: [
@@ -549,7 +548,7 @@
 			}]
 		}
 		{
-			x: 3.5d
+			x: 4.0d
 			y: -1.0d
 			shape: "hexagon"
 			dependencies: ["40E8EB71BE11D6A1"]
@@ -566,7 +565,7 @@
 			}]
 		}
 		{
-			x: 4.5d
+			x: 5.0d
 			y: -1.0d
 			shape: "hexagon"
 			dependencies: ["3A96A1251A6855C6"]
@@ -583,7 +582,7 @@
 			}]
 		}
 		{
-			x: 5.5d
+			x: 6.0d
 			y: -1.0d
 			shape: "hexagon"
 			dependencies: ["28B717C6DFD573AC"]
@@ -600,7 +599,7 @@
 			}]
 		}
 		{
-			x: 6.5d
+			x: 7.0d
 			y: -1.0d
 			shape: "hexagon"
 			dependencies: ["25FDC8BD01558E17"]
@@ -617,7 +616,7 @@
 			}]
 		}
 		{
-			x: 7.5d
+			x: 8.0d
 			y: -1.0d
 			shape: "hexagon"
 			dependencies: ["519B987D7CBEAEE1"]
@@ -634,7 +633,7 @@
 			}]
 		}
 		{
-			x: 8.5d
+			x: 9.0d
 			y: -1.0d
 			shape: "hexagon"
 			dependencies: ["0E98FAE9455EBF47"]
@@ -651,7 +650,7 @@
 			}]
 		}
 		{
-			x: 9.5d
+			x: 10.0d
 			y: -1.0d
 			shape: "hexagon"
 			dependencies: ["3C4CE649B53F652F"]
@@ -668,8 +667,8 @@
 			}]
 		}
 		{
-			x: 1.5d
-			y: -2.0d
+			x: 2.0d
+			y: -2.5d
 			shape: "hexagon"
 			hide_dependency_lines: true
 			dependencies: ["5B5A837DA731E909"]
@@ -681,7 +680,7 @@
 			}]
 		}
 		{
-			x: 2.5d
+			x: 3.0d
 			y: -2.0d
 			shape: "hexagon"
 			dependencies: [
@@ -700,7 +699,7 @@
 			}]
 		}
 		{
-			x: 3.5d
+			x: 4.0d
 			y: -2.0d
 			shape: "hexagon"
 			dependencies: [
@@ -719,7 +718,7 @@
 			}]
 		}
 		{
-			x: 4.5d
+			x: 5.0d
 			y: -2.0d
 			shape: "hexagon"
 			dependencies: [
@@ -738,7 +737,7 @@
 			}]
 		}
 		{
-			x: 5.5d
+			x: 6.0d
 			y: -2.0d
 			shape: "hexagon"
 			dependencies: [
@@ -757,7 +756,7 @@
 			}]
 		}
 		{
-			x: 6.5d
+			x: 7.0d
 			y: -2.0d
 			shape: "hexagon"
 			dependencies: [
@@ -776,7 +775,7 @@
 			}]
 		}
 		{
-			x: 7.5d
+			x: 8.0d
 			y: -2.0d
 			shape: "hexagon"
 			dependencies: [
@@ -795,7 +794,7 @@
 			}]
 		}
 		{
-			x: 8.5d
+			x: 9.0d
 			y: -2.0d
 			shape: "hexagon"
 			dependencies: [
@@ -814,7 +813,7 @@
 			}]
 		}
 		{
-			x: 9.5d
+			x: 10.0d
 			y: -2.0d
 			shape: "hexagon"
 			dependencies: [
@@ -833,7 +832,7 @@
 			}]
 		}
 		{
-			x: 6.5d
+			x: 7.0d
 			y: -3.0d
 			shape: "hexagon"
 			dependencies: [
@@ -852,7 +851,7 @@
 			}]
 		}
 		{
-			x: 7.5d
+			x: 8.0d
 			y: -3.0d
 			shape: "hexagon"
 			dependencies: [
@@ -871,7 +870,7 @@
 			}]
 		}
 		{
-			x: 8.5d
+			x: 9.0d
 			y: -3.0d
 			shape: "hexagon"
 			dependencies: [
@@ -890,7 +889,7 @@
 			}]
 		}
 		{
-			x: 9.5d
+			x: 10.0d
 			y: -3.0d
 			shape: "hexagon"
 			dependencies: [
@@ -909,7 +908,7 @@
 			}]
 		}
 		{
-			x: 2.5d
+			x: 3.0d
 			y: -3.0d
 			shape: "hexagon"
 			dependencies: [
@@ -928,7 +927,7 @@
 			}]
 		}
 		{
-			x: 3.5d
+			x: 4.0d
 			y: -3.0d
 			shape: "hexagon"
 			dependencies: [
@@ -947,7 +946,7 @@
 			}]
 		}
 		{
-			x: 4.5d
+			x: 5.0d
 			y: -3.0d
 			shape: "hexagon"
 			dependencies: [
@@ -966,7 +965,7 @@
 			}]
 		}
 		{
-			x: 5.5d
+			x: 6.0d
 			y: -3.0d
 			shape: "hexagon"
 			dependencies: [
@@ -985,7 +984,7 @@
 			}]
 		}
 		{
-			x: 1.5d
+			x: 2.0d
 			y: -4.0d
 			shape: "hexagon"
 			dependencies: ["66C2519CCD5DE9EC"]
@@ -998,7 +997,7 @@
 		}
 		{
 			x: -1.0d
-			y: 0.0d
+			y: -0.5d
 			shape: "hexagon"
 			dependencies: ["5B5A837DA731E909"]
 			id: "0050B832ADC2C14E"
@@ -1010,7 +1009,7 @@
 		}
 		{
 			x: -3.0d
-			y: 1.0d
+			y: 0.5d
 			shape: "hexagon"
 			dependencies: ["28EF1B0A959C152E"]
 			id: "692B0A48E73C4D3A"
@@ -1022,7 +1021,7 @@
 		}
 		{
 			x: -2.0d
-			y: 0.0d
+			y: -0.5d
 			shape: "hexagon"
 			dependencies: ["0050B832ADC2C14E"]
 			id: "28EF1B0A959C152E"
@@ -1034,7 +1033,7 @@
 		}
 		{
 			x: -3.0d
-			y: -2.0d
+			y: -2.5d
 			shape: "hexagon"
 			dependencies: ["45A0B51D158FB50C"]
 			id: "53A70BC75901D231"
@@ -1052,7 +1051,7 @@
 		}
 		{
 			x: -3.0d
-			y: 0.0d
+			y: -0.5d
 			shape: "hexagon"
 			dependencies: [
 				"692B0A48E73C4D3A"
@@ -1066,8 +1065,8 @@
 			}]
 		}
 		{
-			x: 1.5d
-			y: -3.0d
+			x: 2.0d
+			y: -1.0d
 			shape: "hexagon"
 			dependencies: ["0F9BC0288B2EBF8C"]
 			id: "525177E8D76CEE1E"
@@ -1079,7 +1078,7 @@
 		}
 		{
 			x: -1.0d
-			y: -3.0d
+			y: -3.5d
 			shape: "hexagon"
 			dependencies: ["5B5A837DA731E909"]
 			id: "164256C3E666491B"
@@ -1099,7 +1098,7 @@
 		}
 		{
 			x: -2.0d
-			y: -3.0d
+			y: -3.5d
 			shape: "hexagon"
 			dependencies: ["164256C3E666491B"]
 			id: "435F773BAC0464B8"
@@ -1112,7 +1111,7 @@
 		}
 		{
 			x: -3.0d
-			y: -3.0d
+			y: -3.5d
 			shape: "hexagon"
 			dependencies: ["435F773BAC0464B8"]
 			id: "056B0C6483E9DEB8"
@@ -1125,7 +1124,7 @@
 		}
 		{
 			x: -4.0d
-			y: -3.0d
+			y: -3.5d
 			shape: "hexagon"
 			dependencies: ["056B0C6483E9DEB8"]
 			id: "42A6519F5A6AE455"
@@ -1138,7 +1137,7 @@
 		}
 		{
 			x: -3.0d
-			y: 2.0d
+			y: 1.5d
 			shape: "hexagon"
 			dependencies: ["692B0A48E73C4D3A"]
 			id: "5233F642C5F6CAEE"
@@ -1150,7 +1149,7 @@
 		}
 		{
 			x: -4.0d
-			y: -2.0d
+			y: -2.5d
 			shape: "hexagon"
 			dependencies: ["53A70BC75901D231"]
 			id: "59FEE5379A66B46E"
@@ -1162,7 +1161,7 @@
 		}
 		{
 			x: -1.0d
-			y: -1.0d
+			y: -1.5d
 			shape: "hexagon"
 			dependencies: ["516210559EDF46FE"]
 			id: "2565AB7BB74C9095"
@@ -1181,7 +1180,7 @@
 		}
 		{
 			x: -2.0d
-			y: -1.0d
+			y: -1.5d
 			shape: "hexagon"
 			dependencies: ["2565AB7BB74C9095"]
 			id: "62470801B65B8DEA"
@@ -1200,7 +1199,7 @@
 		}
 		{
 			x: -3.0d
-			y: -1.0d
+			y: -1.5d
 			shape: "hexagon"
 			dependencies: ["62470801B65B8DEA"]
 			id: "3613443412D9326A"
@@ -1212,7 +1211,7 @@
 		}
 		{
 			x: -0.5d
-			y: -5.0d
+			y: -5.5d
 			shape: "hexagon"
 			dependencies: ["66C2519CCD5DE9EC"]
 			id: "4EFFC8A7810E62F4"
@@ -1231,7 +1230,7 @@
 		}
 		{
 			x: -0.5d
-			y: -6.0d
+			y: -6.5d
 			shape: "hexagon"
 			dependencies: ["4EFFC8A7810E62F4"]
 			id: "18B6B9C004D0A4CD"
@@ -1249,7 +1248,7 @@
 		}
 		{
 			x: -1.5d
-			y: -6.0d
+			y: -6.5d
 			shape: "hexagon"
 			description: ["for Speed up the craft!"]
 			dependencies: ["18B6B9C004D0A4CD"]
@@ -1267,7 +1266,7 @@
 		}
 		{
 			x: -1.5d
-			y: -5.0d
+			y: -5.5d
 			shape: "hexagon"
 			dependencies: ["4EFFC8A7810E62F4"]
 			id: "00FB5C9857908209"
@@ -1284,7 +1283,7 @@
 		}
 		{
 			x: -2.5d
-			y: -5.0d
+			y: -5.5d
 			shape: "hexagon"
 			dependencies: ["4EFFC8A7810E62F4"]
 			id: "3B89E05FC5D50B5A"
@@ -1301,7 +1300,7 @@
 		}
 		{
 			x: -2.5d
-			y: -6.0d
+			y: -6.5d
 			shape: "hexagon"
 			dependencies: ["18B6B9C004D0A4CD"]
 			id: "0DBC7CD5019EBDF8"
@@ -1318,7 +1317,7 @@
 		}
 		{
 			x: -3.5d
-			y: -5.0d
+			y: -6.0d
 			shape: "hexagon"
 			dependencies: ["4EFFC8A7810E62F4"]
 			id: "09257497E917AFAD"
@@ -1346,8 +1345,8 @@
 			}]
 		}
 		{
-			x: 0.5d
-			y: -7.5d
+			x: 1.5d
+			y: -6.5d
 			shape: "hexagon"
 			dependencies: ["76B740CAFF736BFC"]
 			id: "60407F5CFF62AA8D"
@@ -1359,7 +1358,7 @@
 		}
 		{
 			x: -2.0d
-			y: 2.0d
+			y: 1.5d
 			shape: "rsquare"
 			dependencies: ["5233F642C5F6CAEE"]
 			id: "2780B08AF690A484"
@@ -1377,7 +1376,7 @@
 		}
 		{
 			x: 0.5d
-			y: -2.5d
+			y: -2.0d
 			shape: "gear"
 			dependencies: ["5B5A837DA731E909"]
 			id: "11E084B3C54527CF"
@@ -1425,7 +1424,7 @@
 		}
 		{
 			x: -1.0d
-			y: 1.0d
+			y: 0.5d
 			shape: "hexagon"
 			dependencies: ["28EF1B0A959C152E"]
 			id: "7CC2B82FEBC6DC0B"
@@ -1441,7 +1440,7 @@
 		}
 		{
 			x: -1.0d
-			y: 2.0d
+			y: 1.5d
 			shape: "hexagon"
 			dependencies: ["7CC2B82FEBC6DC0B"]
 			id: "0DE825A579F2A691"
@@ -1457,7 +1456,7 @@
 		}
 		{
 			x: -2.0d
-			y: 1.0d
+			y: 0.5d
 			shape: "hexagon"
 			dependencies: [
 				"692B0A48E73C4D3A"
@@ -1476,7 +1475,7 @@
 		}
 		{
 			x: -4.0d
-			y: 0.0d
+			y: -0.5d
 			shape: "rsquare"
 			dependencies: ["7ACAEF28785FB319"]
 			id: "5D9F7A8D5C93FA00"
@@ -1491,8 +1490,8 @@
 			}]
 		}
 		{
-			x: 1.5d
-			y: -6.0d
+			x: 2.0d
+			y: 0.0d
 			shape: "hexagon"
 			hide_dependency_lines: true
 			dependencies: ["5F78D23897D3D203"]
@@ -1511,8 +1510,8 @@
 			}]
 		}
 		{
-			x: 2.5d
-			y: -6.0d
+			x: 4.0d
+			y: 0.0d
 			shape: "hexagon"
 			dependencies: [
 				"108344AC9920A76B"
@@ -1532,8 +1531,8 @@
 			}]
 		}
 		{
-			x: 1.5d
-			y: -7.0d
+			x: 5.0d
+			y: 0.0d
 			shape: "hexagon"
 			hide_dependency_lines: true
 			dependencies: ["11E084B3C54527CF"]
@@ -1551,8 +1550,8 @@
 			}]
 		}
 		{
-			x: 2.5d
-			y: -7.0d
+			x: 3.0d
+			y: 0.0d
 			shape: "hexagon"
 			dependencies: [
 				"6DC2A0B66D7CE40C"

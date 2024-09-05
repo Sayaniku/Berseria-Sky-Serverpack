@@ -83,7 +83,7 @@
         }
     ],
     "catalyst": {
-        "id": "minecraft:ender_pearl","Count": 1},
+        "id": "minecraft:netherite_pickaxe","Count": 1},
     "components": {
         "H": {
             "type": "compactcrafting:block",

@@ -279,7 +279,6 @@ onEvent('item.registry', e => {
   e.create('bedrock').displayName('Bedrock')
   e.create('wither_skeleton_fragment').displayName('§eWither Skeleton Fragment')
   e.create('simplyjetpacks:thruster_te6').displayName('Fluxed Thruster (Manronium Steel)')
-  e.create('berseria_sky:manronium_steel_augment').displayName('Manronium Steel Component')
   e.create('minecraft:amethyst_shard').displayName('Amethyst Shard')
   e.create('berseria_sky:black_amethyst_shard').displayName('Black Amethyst Shard')
 
@@ -293,20 +292,32 @@ onEvent('item.registry', e => {
   e.create('berseria_sky:crystaltine_clump').displayName('Crystaltine Clump')
   e.create('berseria_sky:crystaltine_crystal').displayName('Crystaltine Crystal')
   e.create('berseria_sky:crystaltine_shard').displayName('Crystaltine Shard')
+
+  //Upgrade//
+  e.create('berseria_sky:moon_speed_1').displayName('Addon: Moon Speed Tier 1')
+  e.create('berseria_sky:moon_speed_2').displayName('Addon: Moon Speed Tier 2')
+  e.create('berseria_sky:sun_speed_1').displayName('Addon: Sun Speed Tier 1')
+  e.create('berseria_sky:sun_speed_2').displayName('Addon: Sun Speed Tier 2')
+  
   
 
   //Crystal//
   e.create('berseria_sky:prosperity_crystal').displayName('Empty Prosperity Crystal').unstackable()
-  e.create('insanium_crystal').displayName('§5Insanium Infusion Crystal').unstackable()
-  e.create('ornium_crystal').displayName('§dOrnium Infusion Crystal').unstackable()
-  e.create('lightium_crystal').displayName('§3Lightium Infusion Crystal').unstackable()
-  e.create('tornium_crystal').displayName('§7Tornium Infusion Crystal').unstackable()
+  e.create('insanium_crystal').displayName('§5Insanium Infusion Crystal').maxDamage(-1).unstackable()
+  e.create('ornium_crystal').displayName('§dOrnium Infusion Crystal').maxDamage(-1).unstackable()
+  e.create('lightium_crystal').displayName('§3Lightium Infusion Crystal').maxDamage(-1).unstackable()
+  e.create('tornium_crystal').displayName('§7Tornium Infusion Crystal').maxDamage(-1).unstackable()
 
 
   //Creative//
+  e.create('berseria_sky:crystal_creative').displayName('§5Crystal Creative').glow(true)
+  e.create('berseria_sky:capacitor_creative').displayName('§5Creative Capacitor').glow(true)
   e.create('creative_ingot').displayName('§5Creative Ingot').glow(true)
   e.create('creative_plate').displayName('§5Creative Plate').glow(true)
-  e.create('berseria_sky:creative_augment_base').displayName('§5Creative Augment Base')
+  e.create('berseria_sky:creative_core').displayName('§5Creative Core').glow(true)
+  e.create('berseria_sky:component_creative').displayName('§5Creative Mechanical Component').glow(true)
+  e.create('berseria_sky:creative_energy_core').displayName('§5Creative Energy Core').glow(true)
+  e.create('berseria_sky:creative_augment_base').displayName('§5Creative Augment Base').glow(true)
   e.create('berseria_sky:infinite_control_circuit').displayName('§cInfinite Control Circuit')
   e.create('berseria_sky:alloy_infinity').displayName('§cInfinity Alloy')
   e.create('berseria_sky:enriched_infinity').displayName('§cEnriched Infinity')

@@ -10,8 +10,8 @@
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			x: 0.0d
-			y: 0.0d
+			x: -3.5d
+			y: 6.5d
 			shape: "gear"
 			dependencies: ["68DED492F02B3B02"]
 			size: 2.0d
@@ -29,9 +29,9 @@
 			}]
 		}
 		{
-			x: -1.5d
-			y: 0.0d
-			shape: "hexagon"
+			x: -3.5d
+			y: 5.0d
+			shape: "rsquare"
 			dependencies: ["44C07E2E8FBC48A4"]
 			id: "39BD978080EAEE62"
 			tasks: [{
@@ -39,11 +39,17 @@
 				type: "item"
 				item: "draconicevolution:draconium_core"
 			}]
+			rewards: [{
+				id: "26DF3D4EE11B8BB5"
+				type: "item"
+				item: "draconicevolution:draconium_ingot"
+				random_bonus: 3
+			}]
 		}
 		{
-			x: -2.5d
-			y: 0.0d
-			shape: "hexagon"
+			x: -3.5d
+			y: 3.5d
+			shape: "pentagon"
 			dependencies: ["39BD978080EAEE62"]
 			id: "354EE3CD9856D687"
 			tasks: [
@@ -106,8 +112,8 @@
 		}
 		{
 			x: -3.5d
-			y: 0.0d
-			shape: "hexagon"
+			y: 2.0d
+			shape: "octagon"
 			dependencies: ["354EE3CD9856D687"]
 			id: "74357BEDDC42B306"
 			tasks: [{
@@ -119,8 +125,8 @@
 		}
 		{
 			x: -1.5d
-			y: 1.0d
-			shape: "hexagon"
+			y: 2.0d
+			shape: "rsquare"
 			dependencies: ["39BD978080EAEE62"]
 			id: "749C2F717146DA37"
 			tasks: [{
@@ -128,10 +134,15 @@
 				type: "item"
 				item: "draconicevolution:wyvern_core"
 			}]
+			rewards: [{
+				id: "09F19FA059568D8F"
+				type: "item"
+				item: "draconicevolution:draconium_core"
+			}]
 		}
 		{
-			x: -1.5d
-			y: -1.0d
+			x: -2.5d
+			y: 2.0d
 			shape: "hexagon"
 			dependencies: ["74357BEDDC42B306"]
 			id: "6866691BDC106A5C"
@@ -143,22 +154,31 @@
 			}]
 		}
 		{
-			x: -2.5d
-			y: -1.0d
-			shape: "hexagon"
-			dependencies: ["6866691BDC106A5C"]
+			x: -0.5d
+			y: 0.5d
+			shape: "rsquare"
+			dependencies: ["0E264E6C088C1168"]
 			id: "0296FDAB1975FC2B"
 			tasks: [{
 				id: "3D368A0CFA242785"
 				type: "item"
 				item: "draconicevolution:draconic_energy_core"
 			}]
+			rewards: [{
+				id: "23FED40DC5AACCFB"
+				type: "item"
+				item: "draconicevolution:wyvern_energy_core"
+				random_bonus: 3
+			}]
 		}
 		{
-			x: -3.5d
-			y: -1.0d
-			shape: "hexagon"
-			dependencies: ["6866691BDC106A5C"]
+			x: -1.5d
+			y: 0.5d
+			shape: "rsquare"
+			dependencies: [
+				"6866691BDC106A5C"
+				"749C2F717146DA37"
+			]
 			id: "0E264E6C088C1168"
 			tasks: [{
 				id: "12DB4079F1A8CFB0"
@@ -257,10 +277,9 @@
 			]
 		}
 		{
-			x: -3.5d
-			y: 1.0d
-			shape: "hexagon"
-			hide_dependency_lines: true
+			x: -6.5d
+			y: 2.0d
+			shape: "rsquare"
 			dependencies: ["74357BEDDC42B306"]
 			id: "5ED46751653FBC6C"
 			tasks: [
@@ -352,10 +371,9 @@
 			]
 		}
 		{
-			x: -2.5d
-			y: 1.0d
-			shape: "hexagon"
-			hide_dependency_lines: true
+			x: -5.5d
+			y: 2.0d
+			shape: "rsquare"
 			dependencies: ["74357BEDDC42B306"]
 			id: "0B19CA603974C50C"
 			tasks: [
@@ -443,9 +461,8 @@
 		}
 		{
 			x: -4.5d
-			y: 1.0d
-			shape: "hexagon"
-			hide_dependency_lines: true
+			y: 2.0d
+			shape: "rsquare"
 			dependencies: ["74357BEDDC42B306"]
 			id: "198D65AE51784945"
 			tasks: [{
@@ -475,9 +492,9 @@
 			}]
 		}
 		{
-			x: -3.5d
-			y: 2.0d
-			shape: "hexagon"
+			x: -6.5d
+			y: 0.5d
+			shape: "rsquare"
 			hide_dependency_lines: true
 			dependencies: [
 				"5ED46751653FBC6C"
@@ -573,9 +590,9 @@
 			]
 		}
 		{
-			x: -2.5d
-			y: 2.0d
-			shape: "hexagon"
+			x: -5.5d
+			y: 0.5d
+			shape: "rsquare"
 			hide_dependency_lines: true
 			dependencies: [
 				"0B19CA603974C50C"
@@ -666,9 +683,9 @@
 			]
 		}
 		{
-			x: -4.5d
-			y: 0.0d
-			shape: "hexagon"
+			x: -3.5d
+			y: 0.5d
+			shape: "octagon"
 			dependencies: ["74357BEDDC42B306"]
 			id: "12EAD9DDAA882643"
 			tasks: [{
@@ -679,9 +696,9 @@
 			}]
 		}
 		{
-			x: -5.5d
-			y: 0.0d
-			shape: "hexagon"
+			x: -3.5d
+			y: -1.0d
+			shape: "octagon"
 			dependencies: ["12EAD9DDAA882643"]
 			id: "4AC7CF335C4DB32F"
 			tasks: [{
@@ -699,8 +716,8 @@
 		}
 		{
 			x: -4.5d
-			y: 2.0d
-			shape: "hexagon"
+			y: 0.5d
+			shape: "rsquare"
 			dependencies: [
 				"198D65AE51784945"
 				"12EAD9DDAA882643"
@@ -733,9 +750,9 @@
 			}]
 		}
 		{
-			x: -5.5d
-			y: 1.0d
-			shape: "hexagon"
+			x: -4.5d
+			y: -1.0d
+			shape: "rsquare"
 			dependencies: [
 				"34F512CA462C8BBD"
 				"4AC7CF335C4DB32F"
@@ -766,11 +783,16 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "147D9A4C504DE167"
+				type: "item"
+				item: "draconicevolution:chaos_shard"
+			}]
 		}
 		{
-			x: -4.5d
+			x: -1.5d
 			y: -1.0d
-			shape: "hexagon"
+			shape: "rsquare"
 			dependencies: [
 				"0E264E6C088C1168"
 				"4AC7CF335C4DB32F"
@@ -788,21 +810,26 @@
 			}]
 		}
 		{
-			x: -1.5d
+			x: -0.5d
 			y: 2.0d
-			shape: "hexagon"
-			dependencies: ["39BD978080EAEE62"]
+			shape: "rsquare"
+			dependencies: ["749C2F717146DA37"]
 			id: "581E44E9892B144E"
 			tasks: [{
 				id: "058AA4630C43500F"
 				type: "item"
 				item: "draconicevolution:wyvern_energy_core"
 			}]
+			rewards: [{
+				id: "4CD10DA3E19B1A48"
+				type: "item"
+				item: "draconicevolution:draconium_core"
+			}]
 		}
 		{
-			x: -1.5d
+			x: -0.5d
 			y: 3.0d
-			shape: "hexagon"
+			shape: "rsquare"
 			dependencies: ["581E44E9892B144E"]
 			id: "43CA5695C7D23BD3"
 			tasks: [
@@ -821,21 +848,27 @@
 			]
 		}
 		{
-			x: -5.5d
+			x: -0.5d
 			y: -1.0d
-			shape: "hexagon"
-			dependencies: ["0E264E6C088C1168"]
+			shape: "rsquare"
+			dependencies: ["2E53DAB613204057"]
 			id: "7DDBE22EC54EE1F4"
 			tasks: [{
 				id: "7B7E9D4F275EE32E"
 				type: "item"
 				item: "draconicevolution:chaotic_energy_core"
 			}]
+			rewards: [{
+				id: "773FD558037B0928"
+				type: "item"
+				item: "draconicevolution:draconic_energy_core"
+				random_bonus: 3
+			}]
 		}
 		{
-			x: 1.5d
-			y: 0.0d
-			shape: "hexagon"
+			x: -4.5d
+			y: 5.0d
+			shape: "rsquare"
 			dependencies: ["44C07E2E8FBC48A4"]
 			id: "0F11BEE431432291"
 			tasks: [
@@ -858,9 +891,9 @@
 			]
 		}
 		{
-			x: 2.5d
-			y: 0.0d
-			shape: "hexagon"
+			x: -4.5d
+			y: 3.5d
+			shape: "rsquare"
 			dependencies: ["0F11BEE431432291"]
 			id: "6DB16A13D6AA603F"
 			tasks: [{
@@ -874,10 +907,10 @@
 			}]
 		}
 		{
-			x: -3.5d
-			y: 3.0d
-			shape: "hexagon"
-			dependencies: ["6DED52A12FF209D6"]
+			x: -6.5d
+			y: -1.0d
+			shape: "rsquare"
+			dependencies: ["4AC7CF335C4DB32F"]
 			id: "3BE7917D2F5D3C4E"
 			tasks: [
 				{
@@ -966,11 +999,16 @@
 					}
 				}
 			]
+			rewards: [{
+				id: "0F577EABB100296D"
+				type: "item"
+				item: "draconicevolution:chaos_shard"
+			}]
 		}
 		{
-			x: -4.5d
-			y: 3.0d
-			shape: "hexagon"
+			x: -2.5d
+			y: 0.5d
+			shape: "rsquare"
 			dependencies: [
 				"6AFE99B58EB4036A"
 				"6DED52A12FF209D6"
@@ -1008,10 +1046,10 @@
 			}]
 		}
 		{
-			x: -5.5d
-			y: 3.0d
-			shape: "hexagon"
-			dependencies: ["2E73D3BFEABE57C0"]
+			x: -2.5d
+			y: -1.0d
+			shape: "rsquare"
+			dependencies: ["4AC7CF335C4DB32F"]
 			id: "10308421A3602250"
 			tasks: [{
 				id: "39682C404B8216A5"
@@ -1043,12 +1081,18 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "2631E9D8ED5C8AE9"
+				type: "item"
+				item: "draconicevolution:medium_chaos_frag"
+				random_bonus: 3
+			}]
 		}
 		{
-			x: -2.5d
-			y: 3.0d
-			shape: "hexagon"
-			dependencies: ["6AFE99B58EB4036A"]
+			x: -5.5d
+			y: -1.0d
+			shape: "rsquare"
+			dependencies: ["4AC7CF335C4DB32F"]
 			id: "7A19097012A58076"
 			tasks: [
 				{
@@ -1132,11 +1176,17 @@
 					}
 				}
 			]
+			rewards: [{
+				id: "72A011E14C53B13A"
+				type: "item"
+				item: "draconicevolution:chaos_shard"
+				random_bonus: 3
+			}]
 		}
 		{
-			x: -0.5d
+			x: -1.5d
 			y: 3.0d
-			shape: "hexagon"
+			shape: "rsquare"
 			dependencies: ["43CA5695C7D23BD3"]
 			id: "1EDF5D43F350A6E8"
 			tasks: [
@@ -1155,9 +1205,9 @@
 			]
 		}
 		{
-			x: 0.5d
-			y: 2.0d
-			shape: "hexagon"
+			x: -1.0d
+			y: 4.0d
+			shape: "rsquare"
 			dependencies: ["1EDF5D43F350A6E8"]
 			id: "06BF6C2BB7A5B425"
 			tasks: [
@@ -1172,138 +1222,6 @@
 					type: "item"
 					item: "draconicevolution:draconic_io_crystal"
 					count: 2L
-				}
-			]
-		}
-		{
-			x: -0.5d
-			y: 2.0d
-			shape: "hexagon"
-			dependencies: ["749C2F717146DA37"]
-			id: "54EB53BD2626B809"
-			tasks: [
-				{
-					id: "017966A038D1E5D2"
-					type: "item"
-					item: {
-						id: "draconicevolution:wyvern_capacitor"
-						Count: 1b
-						ForgeCaps: {
-							Parent: {
-								module_host: {
-									provider_id: [I;
-										1506013839
-										2089370918
-										-1122894161
-										1482522080
-									]
-									modules: [ ]
-									properties: {
-										charge_main: {
-											hud: 1b
-										}
-										charge_curios: {
-											hud: 1b
-										}
-										charge_hot_bar: {
-											hud: 1b
-										}
-										charge_armor: {
-											hud: 1b
-										}
-										charge_held_item: {
-											hud: 1b
-										}
-									}
-								}
-								energy: {
-									energy: 0L
-								}
-							}
-						}
-					}
-				}
-				{
-					id: "7C5B0B83F370D2F8"
-					type: "item"
-					item: {
-						id: "draconicevolution:draconic_capacitor"
-						Count: 1b
-						ForgeCaps: {
-							Parent: {
-								module_host: {
-									provider_id: [I;
-										-989956668
-										-1059107986
-										-1768176929
-										1457598974
-									]
-									modules: [ ]
-									properties: {
-										charge_main: {
-											hud: 1b
-										}
-										charge_curios: {
-											hud: 1b
-										}
-										charge_hot_bar: {
-											hud: 1b
-										}
-										charge_armor: {
-											hud: 1b
-										}
-										charge_held_item: {
-											hud: 1b
-										}
-									}
-								}
-								energy: {
-									energy: 0L
-								}
-							}
-						}
-					}
-				}
-				{
-					id: "1752429579DD5DFB"
-					type: "item"
-					item: {
-						id: "draconicevolution:chaotic_capacitor"
-						Count: 1b
-						ForgeCaps: {
-							Parent: {
-								module_host: {
-									provider_id: [I;
-										-349022617
-										154880617
-										-1422681910
-										1484347102
-									]
-									modules: [ ]
-									properties: {
-										charge_main: {
-											hud: 1b
-										}
-										charge_curios: {
-											hud: 1b
-										}
-										charge_hot_bar: {
-											hud: 1b
-										}
-										charge_armor: {
-											hud: 1b
-										}
-										charge_held_item: {
-											hud: 1b
-										}
-									}
-								}
-								energy: {
-									energy: 0L
-								}
-							}
-						}
-					}
 				}
 			]
 		}
@@ -1677,6 +1595,39 @@
 				id: "5EB2721C4FBB1647"
 				type: "item"
 				item: "draconicevolution:wyvern_auto_fire_module"
+			}]
+		}
+		{
+			x: -1.5d
+			y: -2.5d
+			shape: "rsquare"
+			description: ["Only for creative!"]
+			dependencies: ["2E53DAB613204057"]
+			hide: true
+			id: "29D2EBD213136DA9"
+			tasks: [{
+				id: "6910CA1941867906"
+				type: "item"
+				item: "berseria_sky:creative_core"
+			}]
+			rewards: [{
+				id: "59877209926BA6DE"
+				type: "item"
+				item: "draconicevolution:chaotic_core"
+				random_bonus: 3
+			}]
+		}
+		{
+			x: -0.5d
+			y: -2.5d
+			shape: "rsquare"
+			dependencies: ["29D2EBD213136DA9"]
+			hide: true
+			id: "49FA5F934C0458BD"
+			tasks: [{
+				id: "0D5D8173DD5005E1"
+				type: "item"
+				item: "berseria_sky:creative_energy_core"
 			}]
 		}
 	]

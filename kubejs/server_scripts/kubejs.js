@@ -422,31 +422,7 @@ events.listen('recipes', function (e) {
             D: 'thermal:dust_aerotheum',
             E: 'mythicbotany:alfsteel_ingot'})
 
-      //Time in Bottle//
-      e.custom({
-            "type": "extendedcrafting:shaped_table",
-            "tier": 2,
-            "pattern":[
-            "ABBBA",
-            "CDEFC",
-            "BEGEB",
-            "CHEIC",
-            "ABBBA"
-            ],
-            "key": {
-                  "A": {"item":"kubejs:imperium_plate"},
-                  "B": {"item":"powah:charged_snowball"},
-                  "C": {"item":"storagenetwork:stack_upgrade"},
-                  "D": {"item":"botania:rune_envy"},
-                  "E": {"item":"miniutilities:the_final_opinium_core"},
-                  "F": {"item":"botania:rune_pride"},
-                  "G": {"item":"astralsorcery:shifting_star_aevitas"},
-                  "H": {"item":"botania:rune_sloth"},
-                  "I": {"item":"botania:rune_wrath"}
-                  },
-                  "result": {"item": "tiab:timeinabottle"}
-                  
-      })
+      
 
       //Creative Tank//
       e.shapeless('mekanism:creative_fluid_tank', 'mekanism:creative_fluid_tank')
@@ -521,14 +497,6 @@ events.listen('recipes', function (e) {
       e.shapeless('thermal:blizz_block', '9x thermal:blizz_rod')
       e.shapeless('9x thermal:blizz_rod', 'thermal:blizz_block')
 
-
-      //Manronium Steel Component//
-      e.shaped(Item.of('berseria_sky:manronium_steel_augment', '{AugmentData:{BaseMod:64.0f,Type:"Upgrade"}}',),
-      ["IGI","RXR","IGI"],{
-      G:"minecraft:bedrock",
-      I:"#forge:storage_blocks/manronium_steel",
-      R:"#forge:gears/vukaium",
-      X:"thermal:upgrade_augment_3"})
 
       //*********************************Tree**************************//
       //Sakura Log//

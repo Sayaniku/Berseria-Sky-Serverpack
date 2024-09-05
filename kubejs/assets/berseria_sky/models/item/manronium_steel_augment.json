@@ -1,8 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "berseria_sky:item/augments/manronium_steel_component",
-    "layer1": "berseria_sky:item/augments/manronium_steel_component_lights",
-    "layer2": "thermal:item/augments/upgrade_augment_anim"
-  }
-}
